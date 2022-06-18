@@ -1,0 +1,19 @@
+This simple garment negates movement beneath you, enabling you to cast spells on a mount or a while on a moving boat.
+
+Description: A steadying robe is made of a thick blue-gray cloth, with silver lining around the hem, the cuffs, and the hood. It is clearly of fine manufacture, and though plain, would not seem out of place at a courtly function. Although the robe is perfectly comfortable to wear, anyone running a hand over it notices an unusual stiffness, as though the cloth were somehow held erect by an interior framework.
+
+Prerequisite: A steadying robe functions only for spellcasters.
+
+Activation: A steadying robe is active as long as it is worn; it requires no special action to activate.
+
+Effect: A steadying robe negates the unsteadying effect of vigorous, violent, or extremely violent motion on your spellcasting (see the Concentration skill, PH 70). You need not make a Concentration check to successfully cast a spell in such a situation.
+
+A steadying robe's benefit doesn't apply in any other situations, such as when you take damage or are entangled, grappling, or distracted by weather.
+
+The robe also grants you a +2 competence bonus on Balance checks.
+
+Aura/Caster Level: Faint transmutation. CL 1st.
+Construction: Craft Wondrous Item, feather fall, 500 gp,
+40 XP, 1 day.
+Weight: 1 lb.
+Price: 1,000 gp.

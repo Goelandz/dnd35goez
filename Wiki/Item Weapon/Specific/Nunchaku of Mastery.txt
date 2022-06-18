@@ -1,0 +1,6 @@
+Joined by a wrought-iron chain, the jet-black handles of this +2 nunchaku reflect almost no light. By spending a full-round action twirling the nunchaku of mastery around his head and body, the wielder gains a +20 bonus on his next attack roll with the nunchaku, provided that the attack occurs on the following round. In all other respects, this effect functions exactly like the true strike spell from a 7th-level caster.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, true strike; 
+Market Price: 22,302 gp; 
+Cost to Create: 11,302 gp + 880 XP.

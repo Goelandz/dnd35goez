@@ -1,0 +1,6 @@
+This +2 mighty (+3) composite longbow imbues each arrow shot from it with magical force. Arrows shot from the bow of force become force attacks that have no miss chance against incorporeal targets and bypass damage reduction, but they don’t damage creatures immune to force effects.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, magic missile; 
+Market Price: 32,700 gp; 
+Cost to Create: 16,700 gp + 1,280 XP.

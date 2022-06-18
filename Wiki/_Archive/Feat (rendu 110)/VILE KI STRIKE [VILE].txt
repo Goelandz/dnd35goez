@@ -1,0 +1,5 @@
+The character can focus evil power into his unarmed strike.
+
+Prerequisite: Cha 15, Improved Unarmed Strike.
+
+Benefit: Each time the character deals damage with his unarmed strike, he deals 1 additional point of vile damage.

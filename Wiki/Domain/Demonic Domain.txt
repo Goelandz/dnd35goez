@@ -1,0 +1,14 @@
+Deities: Demogorgon, Graz’zt, Yeenoghu.
+
+Granted Power: Character gains +1 divine bonus on attack and damage rolls for unarmed strikes and attacks with natural weapons.
+
+Demonic Domain Spells
+1 	Demonflesh. Caster gains +1 natural armor/5 caster levels.
+2 	Demoncall. Caster gains +10 on one Knowledge (the planes), Knowledge (arcana), or Knowledge (religion) check.
+3 	Demon Wings. Caster flies at his land speed.
+4 	Dimensional Anchor. Bars extradimensional movement.
+5 	Lesser Planar Binding. Traps outsider until it performs a task.
+6 	Planar Binding. As lesser planar binding, but up to 16 HD.
+7 	Fiendish Clarity. Caster sees in even magical darkness, sees invisible up to 60 feet, and can detect good.
+8 	Utterdark. 100-ft./level radius of darkness that evil creatures can see through.
+9 	Gate. Connects two planes for travel or summoning.

@@ -1,0 +1,4 @@
+The thick gray liquid in this capsule allows the user to make more powerful jumps for a short time. The user gains a +4 alchemical bonus on Jump checks. The benefit of a leap capsule lasts for only 1 round, ending immediately upon the conclusion of the user’s actions for the round.
+
+DC To Create	25
+Cost		15 gp

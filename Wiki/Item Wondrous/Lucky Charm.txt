@@ -1,0 +1,17 @@
+A lucky charm makes you more fortunate than you already are.
+
+Description: A thick gold bracelet bearing various decorative solid gold figurines forms a set of lucky charms. Each figurine on the bracelet is made in the form of a different item or creature, usually something considered lucky (such as cats, horseshoes, four-leaf clovers, and the like). A new set of lucky charms has seven such figurines.
+
+When you activate a lucky charm, the bracelet glows briefly with a mild white radiance, and the figurine you chose to activate disappears. Once all its charms are used up, the gold bracelet becomes a nonmagical item worth 100 gp.
+
+Prerequisite: You must have at least one luck feat (page 72) or some other source of luck rerolls, such as the granted power of the Luck domain, to activate a lucky charm.
+
+Activation: Whenever you would otherwise use a luck reroll, you can instead activate a lucky charm. As a standard action, while holding the bracelet you vigorously rub one of the charms with your thumb while concentrating.
+
+Effect: When you activate this item, you use one of the charms on the bracelet to gain the benefit of a successful luck reroll without expending one of your daily luck rerolls. You can expend only one charm per round. You can use this ability only with luck effects that require one luck reroll to activate. Effects that require more than one luck reroll cannot be partially paid for by expending a charm.
+
+Aura/Caster Level: Moderate transmutation; CL 11th.
+
+Construction: Craft Wondrous Item, any three luck feats, 3,500 gp, 280 XP, 7 days.
+Weight: —.
+Price: 7,000 gp.

@@ -1,0 +1,5 @@
+When first found, this armor often appears sized for dwarves. From a distance, this armor appears to be made from the hide of a blue dragon. In reality, it is masterwork scale mail that has been enameled to look like blue dragon scales. It provides a +3 enhancement bonus to Armor Class (in addition to its +4 armor bonus, for a total of +7) and provides its wearer with electricity resistance 15.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, endure elements; 
+Market Price: 20,960 gp

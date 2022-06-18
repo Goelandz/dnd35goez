@@ -1,0 +1,6 @@
+The rubbery gray strands of this +1 net are tightly woven and give off a tangy, acidic scent. Although the gray snare lacks the hooks of other combat nets, its sticky strands are just as hard to escape. Once per day on command, the net transforms into a gray ooze. If the net transforms while it entangles a target, the ooze is considered to have grappled the target. The transformation takes a full round, and once complete the ooze acts on the wielder’s initiative. The wielder has no special ability to control the ooze but can transform it back into a net with a command word. See the Ooze entry in the Monster Manual for more information on the gray ooze. If killed while in ooze form, the net is destroyed.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, summon monster IV; 
+Market Price: 74,320 gp; 
+Cost to Create: 37,320 gp + 2,960 XP. 

@@ -1,0 +1,5 @@
+You can rely on your acrobatic talent to stand up from prone safely.
+
+Prerequisite: Tumble 8 ranks.
+
+Benefit: You can stand up from prone without provoking attacks of opportunity.

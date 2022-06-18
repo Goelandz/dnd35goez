@@ -1,0 +1,5 @@
+A shadowstrike weapon can reach through the wielder’s own shadows to catch foes off guard. Once per day, the wielder can make such an attack. The weapon reaches 5 feet farther than normal, and the target is denied its Dexterity bonus to AC for this attack. To make a shadowstrike attack, the weapon must be illuminated by a light source or be outside on a day bright enough to cast shadows.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, shadow walk, shadow conjuration; 
+Market Price: +2 bonus.

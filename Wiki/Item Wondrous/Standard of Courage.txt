@@ -1,0 +1,6 @@
+For a standard of courage to be effective, it must be affi xed to a two-handed hafted weapon such as a halberd or a lance. The bearer of the standard and any allies within 30 feet of the item gain a +4 morale bonus against fear effects.
+
+ Faint abjuration; 
+CL 5th; 
+Craft Wondrous Item, remove fear;
+Price 15,000 gp; Weight 1 lb.

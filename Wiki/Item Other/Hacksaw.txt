@@ -1,0 +1,1 @@
+This blade is designed to cut through thin metal. It ignores the hardness of any normal metal objects (excluding exotic metals like mithral or adamantine) that it is cutting, but deals only 1 point of damage per 2 rounds of sawing. A common blade lasts for 20 rounds, while a superior blade lasts for 40 rounds.

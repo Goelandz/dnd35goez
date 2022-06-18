@@ -1,0 +1,8 @@
+Many dwarves love the solid feel of a war rhinoceros beneath them. A rhino’s willingness to charge enemies only endears it further to them. A rhinoceros has a nearly prehensile upper lip, which it mainly uses for feeding.
+
+With training, though, a rhino can hold and carry delicate items such as a potion vial with its lip.
+
+Carrying Capacity: Light 918 lb., medium 1,839 lb., heavy 2,760 lb.; 
+DC Young/Adult: 21/28; 
+Young Price: 200 gp;
+Training Cost: 50 gp.

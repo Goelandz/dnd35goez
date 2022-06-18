@@ -1,0 +1,5 @@
+Upon command, a corrosive weapon becomes slick with a thick layer of acidic fluid. The acid does not harm the hands that hold the weapon. Corrosive weapons deal +1d6 points of bonus acid damage on a successful hit. Bows, crossbows, and slings with this ability bestow the acid energy upon their ammunition.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, acid fog, Melf ’s acid arrow, or storm of vengeance; 
+Market Price: +1 bonus.

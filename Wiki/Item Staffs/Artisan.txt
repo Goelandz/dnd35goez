@@ -1,0 +1,9 @@
+This staff is extremely well crafted, covered with gold leaf and images of artisans at work. The staff of the artisan allows use of the following spells:
+• Minor creation (1 charge)
+• Major creation (1 charge)
+• Fabricate (1 charge)
+• Mending (1 charge)
+
+Caster Level: 12th; 
+Prerequisites: Craft Staff, fabricate, mending. minor creation, major creation; 
+Market Price: 69,800 gp

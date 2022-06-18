@@ -1,0 +1,6 @@
+A vanishing blade is a +3 rapier that allows its wielder to travel short distances instantaneously. Once per day, after a successful melee attack, the wielder of the vanishing blade may transfer himself instantaneously to any spot within 800 feet. This effect functions exactly as the dimension door spell from a 10th-level caster.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, dimension door; 
+Market Price: 47,120 gp; 
+Cost to Create: 23,720 gp + 1,872 XP.

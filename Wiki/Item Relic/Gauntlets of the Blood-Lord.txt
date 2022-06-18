@@ -1,0 +1,12 @@
+These slick metal gauntlets slowly drip blood, seemingly from nowhere. They grant their wearer 
+a +4 luck bonus on melee touch attacks. 
+
+Furthermore, any touch spell the wearer casts is maximized as though using the Maximize Spell feat, although the spell doesn’t use a higher-level spell slot.
+
+To use this relic, you must worship Hextor and either sacrifice a 6th-level divine spell slot or have the True Believer feat and at least 11 HD.
+
+Strong universal; 
+CL 17th; 
+Sanctify Relic, Craft Wondrous Item, Maximize Spell, creator must worship Hextor; 
+Price 33,600 gp; 
+Weight 2 lb.

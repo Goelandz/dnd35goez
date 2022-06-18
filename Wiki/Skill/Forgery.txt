@@ -1,0 +1,42 @@
+FORGERY (INT)
+Use this skill to fake a written order from the duchess instructing a jailer to release prisoners, to create an authentic-looking treasure map, or to detect forgeries that others try to pass off. 
+
+Check: Forgery requires writing materials appropriate to the document being forged, enough light or sufficient visual acuity to see the details of what you’re writing, wax for seals (if appropriate), and some time. To forge a document on which the handwriting is not specific to a person (military orders, a government decree, a business ledger, or the like), you need only to have seen a similar document before, and you gain a +8 bonus on your check. To forge a signature, you need an autograph of that person to copy, and you gain a +4 bonus on the check. To forge a longer document written in the hand of some particular person, a large sample of that person’s handwriting is needed. 
+
+Your DM makes your Forgery check secretly, so that you’re not sure how good your forgery is. As with Disguise, you don’t even need to make a check until someone examines the work. Your Forgery check is opposed by the Forgery check of the person who examines the document to check its authenticity. The examiner gains modifiers on his or her check if any of the conditions on the table below exist. 
+
+Condition 					Forgery Check Modifier 
+Type of document unknown to reader 		–2 
+Type of document somewhat known to reader 	+0 
+Type of document well known to reader 		+2 
+Handwriting not known to reader 		–2 
+Handwriting somewhat known to reader 		+0 
+Handwriting intimately known to reader 		+2 
+Reader only casually reviews the document 	–2
+
+A document that contradicts procedure, orders, or previous knowledge, or one that requires sacrifice on the part of the person checking the document can increase that character’s suspicion (and thus create favorable circumstances for the checker’s opposing Forgery check). 
+
+Bill of Sale: If you are in possession of valuable property you didn’t pay for, you can forge a bill of sale to make it appear that you bought and paid for the property legally.
+
+False Chart: You can falsify a chart in order to lead someone using it into dangerous waters or to hide the location of something you don’t want that person to find. The navigator making use of your phony chart is entitled to a Knowledge (geography) check (DC equal to your Forgery result) to detect the chart’s false nature; if the navigator’s check fails, she accepts your chart as genuine (and takes a significant penalty on any course setting she attempts based on your false chart; see page 86).
+
+ Letter of Marque: A letter of marque is a document issued by a government that gives a private citizen the right to attack that government’s enemies at sea and confiscate their property. It’s often a thin veneer legalizing piracy against the ships of a particular kingdom or realm. Your fake letter of marque testifies that you have been given the right to attack certain ships.
+
+ Manifest: A manifest lists the cargo and passengers for your current voyage. If you have something you really don’t want to declare to the customs officers, a fake manifest could be helpful (although it’s more common to just omit to list all your cargo on your real manifest).
+
+ Owner’s Papers: Most civilized kingdoms require a ship to carry papers naming its owner, home port, or licenses for special trades, if any. You might find it convenient to draw up convincing facsimilies of these documents as you need them, instead of dealing with time-consuming and costly paperwork.
+
+Action: Forging a very short and simple document takes about 1 minute. A longer or more complex document takes 1d4 minutes per page. 
+
+Try Again: Usually, no. A retry is never possible after a particular reader detects a particular forgery. But the document created by the forger might still fool someone else. The result of a Forgery check for a particular document must be used for every instance of a 
+different reader examining the document. No reader can attempt to detect a particular forgery more than once; if that one opposed check goes in favor of the forger, then the reader can’t try using his own skill again, even if he’s suspicious about the document. 
+
+Special: If you have the Deceitful feat, you get a +2 bonus on Forgery checks. 
+
+Restriction: Forgery is language-dependent; thus, to forge documents and detect forgeries, you must be able to read and write the language in question. A barbarian can’t learn the Forgery skill unless he has learned to read and write. 
+
+=====Expanded Skill=====
+
+Official documents can provide an excellent means of proving yourself and reinforcing your point. With properly forged documents—created with a normal use of the Forgery skill and opposed by the viewer’s Forgery check (or an Intelligence check for those without ranks in Forgery)—you can gain special bonuses to certain skills due to synergy.
+
+ At the DM’s discretion, you can forge documents that grant a +2 circumstance bonus on a specific Bluff, Diplomacy, or Intimidate check. These false credentials become, in effect, the perfect tool for the job and provide a bonus much like the bonuses provided to other skills by masterwork tools. Unlike other bonuses, these apply only when you present the documents and the creature you are interacting with does not detect the forgery. If you present forged documents and they are detected as a forgery, the check you were attempting to use the documents for automatically fails. The DM is also free to rule that there are other repercussions in such situations.

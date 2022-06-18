@@ -1,0 +1,6 @@
+This +3 unholy greatsword forces any celestial it damages to succeed at a Fortitude save (DC 20) or be destroyed.
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, unholy blight, creator must be evil; 
+Market Price: 110,350 gp; 
+Weight: 15 lb.

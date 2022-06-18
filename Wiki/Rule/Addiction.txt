@@ -1,0 +1,18 @@
+Table 3–4: Addictions
+Addiction Rating 	Fort DC 	Satiation 	Damage
+Negligible 		4 		1 day 		1d3–2 Dex (can be 0)
+Low 			6 		10 days 	1d3 Dex
+Medium 			10 		5 days 		1d4 Dex, 1d4 Wis
+High 			14 		2 days 		1d6 Dex, 1d6 Wis, 1d2 Con
+Extreme 		25 		1 day 		1d6 Dex, 1d6 Wis, 1d6 Con
+Vicious 		36 		1 day 		1d8 Dex. 1d8 Wis, 1d6 Con, 1d6 Str
+
+Addiction Rating: Drugs are rated according to their addictive potential. For example, many popular stimulant drinks have a negligible addiction rating, but have addictive qualities all the same. Sometimes, an individual’s long-term addiction increases a drug’s addiction rating for that individual. Drugs with a negligible rating are not subject to this change. Stronger drugs increase their rating by one step for every two full months a character remains addicted to the drug. A character who recovers from an addiction and later becomes addicted again does so at the addiction rating the drug had just prior to his recovery.
+
+Satiation: Each time a user takes a drug to which he is addicted, he is satiated and staves off withdrawal symptoms for the given period of time. After the satiation period wears off, the DC of the Fortitude save to resist the effects of addiction increases by +5. The dose in which a character becomes addicted counts for satiation. For example, a character unfortunate enough to become addicted to devilweed (low addiction) on his first use of the drug must succeed at a Fortitude save every day or take 1d2 points of Wisdom damage. As long as he continues to smoke devilweed every 10 days, his saving throw DC is only 6. If he stops smoking devilweed for more than 10 days, the DC of the addiction saving throw increases to 11. If he starts using it again, the DC drops back to 6.
+
+Damage: Addiction deals the listed damage each day unless the character succeeds at a Fortitude saving throw or is satiated. Ability score damage is temporary, and characters naturally heal 1 point in each ability score per day. 
+
+Recovery: If a character makes two successful saving throws in a row, he has fought off his addiction and recovers, taking no more damage. Of course, he can always become addicted again later by taking another dose of the drug and failing his Fortitude save to resist addiction. 
+
+A lesser restoration or restoration spell may negate some or all of the ability score damage caused by an addiction, but on the next day the victim may accrue more ability score damage if he continues to fail his Fortitude saves. Remove disease immediately causes the user to recover from the addiction, but it does not restore lost ability score points. Greater restoration or heal causes recovery and restores all ability score damage from the addiction

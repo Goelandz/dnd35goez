@@ -1,0 +1,7 @@
+You can improve the saving throws of your allies by sharing
+some of your divine grace.
+Prerequisites: Divine grace class ability. 
+
+Benefit: You can give up some of your saving throw bonus granted by divine grace and share it with one or more other characters. You can sacrifice any amount of your own divine grace, up to your full Charisma bonus. You can divide that bonus among allies that you touch, to a maximum of one ally per character level you possess. For example, if you are a 5th-level paladin with a +3 Charisma bonus, you can give three characters each a +1 bonus on their saving throws, one character a +3 bonus, two characters a +1 bonus (keeping a +1 bonus for yourself ), or any similar division of your +3 bonus.
+
+This shared divine grace lasts for one day or until you revoke it (as a free action).

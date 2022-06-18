@@ -1,0 +1,9 @@
+A creeping vine cultivated by many traveling druids and clerics of nature-loving deities, this fast-growing plant sprouts clusters of swampy green berries even in the harshest weather and most inhospitable climes. Hardier than many plants, green air bramble requires very little water or soil, allowing it to be uprooted and transported for long stretches with ease, as long as it has a plentiful supply of fresh air. However, it is particularly susceptible to poisons of all types. If exposed to such toxins, its berries swiftly wrinkle, turning a bright yellow in the process, and its normally healthy, small green leaves and tendrils turn brown and contract. This sensitivity makes the creeper a valuable first warning to travelers fearing toxins, and many green-thumbed adventurers carry staffs twined with green air bramble, or dangle lengths of it from their belts.
+
+As long as you are carrying a length of green air bramble in a visible location, such as coiled around a staff or on your person, you gain a +2 bonus on Fortitude saves made to resist inhaled poisons and airborne sickening or nauseating effects, such as those created by a troglodyte’s stench or a stinking cloud spell. Green air bramble grants no benefit against sickening or nauseating effects that don’t travel through the air, such as a cloaker’s nauseating moan or the distraction caused by a swarm. A 3-foot length of green air bramble is required to gain a benefit from the plant. A length of the vine can be wrapped around a quarterstaff, polearm, longbow, or any similarly longhafted weapon without reducing its effectiveness.
+
+Long-lived as well as hardy, a green air bramble lasts indefinitely if planted in moist soil for 6 hours per week.
+
+Once it is exposed to poison, however, the vine dies.
+
+Cost, 80 gp

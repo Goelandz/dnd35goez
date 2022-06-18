@@ -1,0 +1,13 @@
+Deities: Fharlanghn, Olidammara.
+Granted Power: +2 enhancement bonus to Dexterity, speed increased +10 ft. when in light armor, +2 enhancement bonus on initiative. These are supernatural abilities.
+
+Celerity Domain Spells
+1 Blur. Attacks miss subject 20% of the time.
+2 Cat's Grace. Subject gains 1d4+1 Dex for 1 hr./level.
+3 Air Walk. Subject treads on air as if solid (climb at 45-degree angle).
+4 Haste. Extra partial action and +4 AC.
+5 Tree Stride. Step from one tree to another far away.
+6 Wind Walk. You and your allies turn vaporous and travel fast.
+7 Mass Haste. As haste, affects 1/level subjects.
+8 Blink. You randomly vanish and reappear for 1 round/level.
+9 Time Stop. You act freely for 1d4+l rounds.

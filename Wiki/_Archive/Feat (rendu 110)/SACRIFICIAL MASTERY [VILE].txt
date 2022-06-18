@@ -1,0 +1,7 @@
+The character is skilled at offering living sacrifices to evil gods or fiends.
+
+Prerequisite: Wis 15.
+
+Benefit: The character gains a +4 profane bonus on Knowledge (religion) checks made when performing a sacrifice.
+
+Normal: Without this feat, a character who performs a sacrifice makes a normal Knowledge (religion) check modified as described in Chapter 2.

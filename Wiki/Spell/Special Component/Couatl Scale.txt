@@ -1,0 +1,1 @@
+A spell to which this component is applied has a 30% chance to have its saving throw DC increased by +1.

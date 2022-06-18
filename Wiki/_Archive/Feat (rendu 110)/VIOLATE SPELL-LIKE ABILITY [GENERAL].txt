@@ -1,0 +1,7 @@
+The creature’s spell-like abilities are particularly tainted with evil.
+
+Benefit: This feat adds the evil descriptor to a spell-like ability. Furthermore, if the spell-like ability deals damage, half of that damage (rounded down) is vile damage. For example, if a violated lightning bolt from a cornugon deals a total of 35 points of damage, half of that amount (18 points) is electricity damage and the other half (17 points) is vile damage. Creatures immune to electricity take no damage from a violated lightning bolt.
+
+Each of a creature’s spell-like abilities can be violated twice per day, though the feat does not allow the creature to exceed its normal usage limit for any ability. Thus, if a cornugon chooses to violate its lightning bolt ability, it can use a violated lightning bolt up to two times that day. Thereafter, it could use its lightning bolt ability again normally once (since it can use lightning bolt three times per day), or it could violate another of its spell-like abilities, such as fireball.
+
+Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to each of its spell-like abilities two additional times per day

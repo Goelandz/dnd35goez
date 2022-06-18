@@ -1,0 +1,9 @@
+Powdered stalks of plants that grow only in the Abyss, luhix is normally sprinkled onto a bleeding, selfinflicted wound. Then the wound is sealed either with magical healing or tightly wound bandages.
+
+Initial Effect: 1 point of ability score damage to all ability scores.
+
+Secondary Effect: The imbiber gains a +2 alchemical bonus to all ability scores for 1d2 hours.
+
+Side Effects: For the first minute of application, the user feels intense pain. During the time that the secondary effect is in effect, the user is immune to pain (including the effects of spells such as symbol of pain). The character takes damage as normal, but may not react normally to that damage.
+
+Overdose: Those who take this drug more than once in 24 hours must make a separate save (Fort DC 25 negates) or die in terrible pain.

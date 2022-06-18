@@ -1,0 +1,6 @@
+This plain but sturdy-looking cloak provides excellent protection against wind, cold, sun, and rain. On command, the cloak turns itself into a 4-person tent. This tent includes an alarm spell (as if cast by a 7th-level sorcerer) but is otherwise normal. Once per day, the cloak can turn into a small lodge, as Leomund’s secure shelter.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, alarm, Leomund’s secure shelter; 
+Market Price: 12,080 gp;
+Weight: 1 lb.

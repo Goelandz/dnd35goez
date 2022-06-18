@@ -1,0 +1,6 @@
+This versatile +2 short sword is most often employed as an off-hand weapon. As a moveequivalent action, the wielder can transform the shield blade into a large steel shield. The shield provides an armor bonus but no enhancement bonus to the wielder’s Armor Class. It does retain a +2 enhancement bonus on attack and damage rolls when used in shield bash attacks.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, animate objects, shield; 
+Market Price: 10,630 gp; 
+Cost to Create: 5,630 gp + 400 XP.

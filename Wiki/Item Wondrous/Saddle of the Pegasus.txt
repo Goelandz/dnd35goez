@@ -1,0 +1,8 @@
+This exquisitely crafted saddle is heavily adorned with the feathers from pegasi wings. The saddle adjusts to fit any normalsized horse, donkey, or mule. When securely placed, it allows the steed and rider to fly (as the fly spell from a 5th-level caster, except maneuverability is clumsy) three times per day upon command. The saddle acts as an exotic military saddle for the rider.
+
+The first time someone uses this saddle on a steed untrained in flying, the rider must make a DC 15 Ride check to keep the steed from panicking.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, fly; 
+Market Price: 16,875 gp; 
+Weight: 25 lb.

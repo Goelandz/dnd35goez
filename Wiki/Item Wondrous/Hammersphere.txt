@@ -1,0 +1,6 @@
+This magic sphere is 4 inches in diameter, made of silver, and covered in small rubies. Etched into it in four places is the hammer-and-anvil symbol of the deity Moradin. When held aloft and activated with a command word, the sphere conjures forth a giant hammer. This hammer functions as a spiritual weapon except that it deals 3d6 points of damage per hit. The user of the hammersphere does not have to concentrate on the hammer or keep the sphere aloft while the hammer attacks. The hammersphere is usable once per day.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, spiritual weapon, greater magic weapon; 
+Market Price: 2,500 gp; 
+Weight: —.

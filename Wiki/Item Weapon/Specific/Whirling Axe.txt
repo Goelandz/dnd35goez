@@ -1,0 +1,6 @@
+This +2 greataxe gives its wielder the ability to make tremendous, whirling attacks. Once per day, the wielder of a whirling axe can make an attack that has a chance of striking all opponents within 5 feet. This functions like the Whirlwind Attack feat and requires a full action. Instead of making his regular attacks, the wielder instead makes one melee attack at his full base attack bonus against each adjacent opponent.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, haste; 
+Market Price: 18,320 gp; 
+Cost to Create: 9,320 gp + 720 XP

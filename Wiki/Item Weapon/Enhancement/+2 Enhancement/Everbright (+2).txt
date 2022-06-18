@@ -1,0 +1,5 @@
+ These weapons are as bright and shiny as polished silver. They never tarnish and are immune to corrosive attacks. The weapon flashes with a brilliant light up to twice per day upon the wielder’s command. All within 20 feet except the wielder must succeed on a Reflex saving throw (DC 14) or be blinded for 1d4 rounds.
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, blindness/deafness, searing light; 
+Market Price: +2 bonus.

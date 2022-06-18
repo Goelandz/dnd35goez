@@ -1,0 +1,4 @@
+You have an unusual capacity to trust in divine providence working all things for the good.
+Prerequisites: Wis 13.
+
+Benefit: You gain a +2 bonus on saving throws to resist any fear effect, despair effect (such as the crushing despair spell), or similar mind-affecting condition, but not charms or compulsions (such as the charm person and dominate person pells).

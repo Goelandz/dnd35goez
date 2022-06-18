@@ -1,0 +1,9 @@
+ Once in a great while, Gruumsh flings a spear at a cleric he’s annoyed with. If that cleric then atones for the transgression and keeps the spear, it becomes a spear of retribution. This +2 spear of returning becomes a +4 spear of returning whenever its wielder attacks someone who dealt damage to the wielder in the previous round. If the wielder received a critical hit in the last round from the target, the spear of retribution becomes a +5 keen spear of returning against that foe.
+
+To use this relic, you must worship Gruumsh and either sacrifi ce a 5th-level divine spell slot or have the True Believer feat and at least 9 HD.
+
+Strong transmutation; 
+CL 12th; 
+Sanctify Relic, Craft Magic Arms and Armor, telekinesis, creator must worship Gruumsh; 
+Price 14,000 gp; 
+Cost 7,151 gp + 548 XP.

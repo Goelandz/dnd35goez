@@ -1,0 +1,9 @@
+Formed of glass and crowned with a golden sunburst, a staff of glory is awe-inspiring, though dreaded by creatures of darkness. It allows use of the following spells:
+• Daylight (1 charge)
+• Searing light (1 charge, DC 14)
+• Holy smite (1 charge, DC 16)
+• Sunbeam (2 charges, DC 20)
+
+Caster Level: 13th; 
+Prerequisites: Craft Staff, daylight, holy smite, searing light, sunbeam; 
+Market Price: 80,000 gp. 

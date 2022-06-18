@@ -1,0 +1,6 @@
+This +2 mighty cleaving scythe can cut through foes three at a time. During extra attacks granted by the Cleave feat or the scythe’s mighty cleaving ability, its threat range is doubled. Foe reaper is treated as a keen weapon for purposes of spells interacting with it, meaning it cannot be the target of keen edge or bless weapon, nor can it receive the vicious ability.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, divine power, keen edge; 
+Market Price: 32,318 gp; 
+Cost to Create: 16,318 gp + 1,280 XP.

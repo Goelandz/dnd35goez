@@ -1,0 +1,1 @@
+If a creature is capable of making disarm attacks, it attempts to do so until commanded to stop.

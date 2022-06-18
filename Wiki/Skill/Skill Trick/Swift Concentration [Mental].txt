@@ -1,0 +1,5 @@
+You can maintain your mental focus while attending to another task.
+
+Prerequisite: Concentration 12 ranks.
+
+Benefit: You can maintain concentration on a spell or similar effect as a swift action.

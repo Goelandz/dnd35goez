@@ -1,0 +1,4 @@
+Grabbing Items 
+You can use a disarm action to snatch an item worn by the target (such as a necklace or a pair of goggles). If you want to have the item in your hand, the disarm must be made as an unarmed attack. If the item is poorly secured or otherwise easy to snatch or cut away (such as a loose cloak or a brooch pinned to the front of a tunic), the attacker gets a +4 bonus. Unlike on a normal disarm attempt, failing the attempt doesn’t allow the defender to attempt to disarm you. This otherwise functions identically to a disarm attempt, as noted above. 
+
+You can’t snatch an item that is well secured, such as a ring or bracelet, unless you have pinned the wearer (see Grapple). Even then, the defender gains a +4 bonus on his roll to resist the attempt. 

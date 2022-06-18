@@ -1,0 +1,6 @@
+Elephants are mobile war platforms. Smart, patient, and stronger than some giants, an elephant is often the best conventional weapon on the battlefield. An elephant equipped with a howdah (see above) can hold up to four Medium-size passengers as well as the rider. A common complement is three fighters with polearms and a cleric whose main job is to keep the elephant healthy. In lands where wild elephants abound, these animals are captured in yearly roundups and trained en masse for the next season.
+
+Carrying Capacity: Light 3,192 lb., medium 6,384 lb., heavy 9,600 lb.; 
+DC Young/Adult: 23/31; 
+Young Price: 500 gp; 
+Training Cost: 40 gp.

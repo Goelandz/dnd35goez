@@ -1,0 +1,4 @@
+You can focus holy power into your weapon.
+Prerequisites: Able to cast align weapon.
+
+Benefit: When you cast align weapon, the affected weapon also becomes sanctified. A sanctified weapon deals 1 extra point of holy damage to evil creatures or 1d4 points of damage to evil outsiders and evil undead. In addition, creatures with the corrupted template (described in the Book of Vile Darkness) cannot recover hit point damage dealt by a sanctified weapon by means of normal healing, including fast healing.

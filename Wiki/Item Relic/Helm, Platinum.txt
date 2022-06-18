@@ -1,0 +1,10 @@
+This smooth helm covers threequarters of the face and is decorated with a dragon-wing motif. 
+
+The original platinum helms were given to seven gold dragons that acted as Bahamut’s consorts, but they have since passed to his servants on the Material Plane. Anyone who wears a platinum helm has the frightful presence of a dragon, potentially affecting everyone with fewer Hit Dice within a 150-foot radius. Whenever the wearer of the platinum helm attacks, foes must succeed on a Will save (DC 10 +1/2 wearer’s HD + wearer’s Cha modifier) or be panicked (foes of 4 or less HD) or shaken (foes of 5 or more HD) for 4d6 rounds. The wearer also gains blindsense with a 60-foot range.
+
+To use this relic, you must worship Bahamut and either sacrifice an 8thlevel divine spell slot or have the True Believer feat and at least 15 HD.
+
+Strong transmutation; CL 15th; 
+Sanctify Relic, Craft Wondrous Item, shapechange, creator must worship Bahamut;
+Price 64,000 gp; 
+Weight 3 lb.

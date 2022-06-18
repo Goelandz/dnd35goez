@@ -1,0 +1,6 @@
+This metal helmet appears useless from the outside, since it completely covers the eyes. Anyone who dons the helmet discovers he can see perfectly. The helm provides the wearer with the effects of the spell true seeing and gives the wearer a +1 insight bonus to Armor Class.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, true seeing, 
+Market Price: 91,600 gp; 
+Weight: 3 lb.

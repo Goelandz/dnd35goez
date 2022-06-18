@@ -1,0 +1,11 @@
+ This golden +3 holy longsword, one of four commissioned from celestial dwarves by the great paladin Tardalius the Headstrong, grants its wearer a measure of respite from charms and compulsions. 
+
+If the wielder of a sword of virtue beyond reproach fails a save against a charm or compulsion, she is free from the effects of the charm or compulsion for 1d4 rounds (DM rolls secretly). The charm or compulsion is not negated during this time, only suppressed. When the 1d4 rounds are over, the character who failed the Will save begins to act on any commands received during previous rounds.
+
+To use this relic, you must worship Heironeous and either sacrifi ce an 8th-level divine spell slot or have the True Believer feat and at least 15 HD.
+
+Strong abjuration; 
+CL 20th; 
+Sanctify Relic, Craft Magic Arms and Armor, mind blank, creator must worship Heironeous; 
+Price 50,000 gp; 
+Cost 25,157 gp + 1,988 XP

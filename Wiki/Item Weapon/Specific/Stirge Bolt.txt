@@ -1,0 +1,6 @@
+These +3 bolts are hollow tubes designed to draw out the blood of the target. Each has a metal tip, hollow like the rest of the bolt, with thin flanges molded to look like the double wings of a stirge. The round after a successful hit, the bolt begins to drain the target’s blood, dealing 1d4 points of temporary Constitution damage each round until destroyed. As a Tiny wooden weapon, each stirge bolt has a hardness of 5 and 1 hit point. While draining blood from a target, the bolt has an AC of 12 (+2 size). Stirge bolts that miss their targets are consumed.
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, poison; 
+Market Price: 1,007 gp; 
+Cost to Create: 507 gp + 40 XP

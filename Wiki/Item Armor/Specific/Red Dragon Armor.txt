@@ -1,0 +1,5 @@
+Despite its appearance, this armor is not made from the hide of a red dragon. It is masterwork scale mail with the individual scales covered in red enamel. It provides a +3 enhancement bonus to Armor Class (in addition to its +4 armor bonus, for a total bonus of +7) and provides its wearer with fire resistance 15.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, endure elements; 
+Market Price: 35,200 gp.

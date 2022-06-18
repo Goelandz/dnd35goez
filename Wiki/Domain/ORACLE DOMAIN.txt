@@ -1,0 +1,15 @@
+Core Deities: Boccob.
+Other Deities: Celestian, Cyndor, Istus.
+
+Granted Power: You cast divination spells at +2 caster levels.
+
+Oracle Domain Spells
+1 IdentifyM: Determines single feature of magic item.
+2 AuguryM, F: Learns whether an action will be good or bad.
+3 DivinationM: Provides useful advice for specifi c, proposed action.
+4 ScryingF: Spies on subject from a distance.
+5 CommuneX: Deity answers one yes-or-no question/level.
+6 Legend LoreM, F: Learn tales about a person, place, or thing.
+7 Scrying, Greater: As scrying, but faster and longer.
+8 Discern Location: Exact location of creature or object.
+9 Foresight: “Sixth sense” warns of impending danger.

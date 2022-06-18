@@ -1,0 +1,6 @@
+When a command word is uttered, this saddle causes a horse, mule, or donkey to increase by one size category. For example, a horse, which is normally Large (long), would increase to Huge (long) while wearing the saddle. Another command word causes the steed to shrink back to its normal size. This effect can be done three times a day.
+
+Caster Level: 9th; 
+Prerequisites: Craft Wondrous Item, animal growth; 
+Market Price: 48,600 gp; 
+Weight: 25 lb. 

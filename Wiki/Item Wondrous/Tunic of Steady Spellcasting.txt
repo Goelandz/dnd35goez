@@ -1,0 +1,6 @@
+The wearer of this tunic gains a +5 competence bonus on Concentration checks. Despite the item’s name, its bonus applies on all Concentration checks, not just those made to cast spells.
+
+ Faint transmutation; 
+CL 3rd; 
+Craft Wondrous Item, bear’s endurance; 
+Price 2,500 gp.

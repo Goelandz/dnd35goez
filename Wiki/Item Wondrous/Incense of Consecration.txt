@@ -1,0 +1,7 @@
+When burned in a censer or thurible, the smoke from this incense creates a consecrate effect in a 20-foot emanation. For the duration of the effect, the censer or thurible can be moved, moving the area of the consecrate as well. The incense burns for 6 hours, after which it loses all magical properties.
+
+Faint evocation; 
+CL 3rd; 
+Craft Wondrous Item, consecrate; 
+Price 300 gp; 
+Weight 1 lb

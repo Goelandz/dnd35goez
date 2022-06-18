@@ -1,0 +1,9 @@
+You can deliver a vicious strike without your target feeling a thing.
+
+Prerequisite: Sleight of Hand 12 ranks.
+
+Benefit: If you use a light weapon to hit a flat-footed opponent, you can choose to have the opponent not realize that it has been hit until the start of your next turn. Instead, that opponent reacts as if you had attacked and missed.
+
+Using this skill trick doesn’t require an action on your part.
+
+This trick doesn’t allow the opponent to ignore any of the other effects of your attack, such as ability damage from poison on your blade or falling unconscious when reduced to fewer than 0 hit points.

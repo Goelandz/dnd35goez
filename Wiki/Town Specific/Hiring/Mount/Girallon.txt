@@ -1,0 +1,5 @@
+Though these creatures are savage in the wild, girallons captured young can make hearty mounts for primitive tribespeople. However, riders must keep a tight rein on them, since it is impossible to train away a girallon’s aggression and territoriality. Although they are not as unrelentingly mean as owlbears, girallons require many of the same training strategies.
+
+Carrying Capacity: Light 612 lb., medium 1,226 lb., heavy 1,840 lb.; 
+DC Young/Adult: 25/32; 
+Young Price: 4,000 gp; Training Cost: 3,000 gp.

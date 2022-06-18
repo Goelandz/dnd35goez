@@ -1,0 +1,6 @@
+Said to have been created by an evil lamia wizard, this concoction makes magic items more powerful. When applied to a magic item that produces an effect requiring a foe to make a saving throw, the oil increases the DC of the saving throw by +2 if the foe is of good alignment. The oil lasts for 1 hour. The oil is held in a small flask and will coat one item, no matter the size.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, dispel evil; 
+Market Price: 2,000 gp; 
+Weight: 1 lb

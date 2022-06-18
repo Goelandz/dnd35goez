@@ -1,0 +1,16 @@
+Adamantine +5 holy spiked chain; 
+AL LG; 
+Int 17, Wis 10, Cha 17; 
+Speech, telepathy, 120 ft. darkvision and hearing; 
+Ego score 19.
+
+Languages: Celestial, Common, Draconic, Infernal.
+Lesser Powers: Ease pain 3/day, refreshment 3/day, 10 ranks of Intimidate (total modifier +13).
+Greater Powers: Detect chaotic evil at will.
+
+Personality: Fashioned by a planetar weaponsmith named Jebylon, Zaethwar exists to slay chaotic evil creatures and demons in particular. It refuses to settle for half-measures in the war against chaos and evil and mentally asserts itself over any wielder who tries to withdraw from a battle in which chaotic evil opponents are present, endeavoring to stay and fight. If its wielder is subjected to a pain effect or nonlethal damage, Zaethwar casts ease pain or refreshment to counter any such debilitation. 
+
+Strong evocation [good]; 
+CL 18th; 
+Craft Magic Arms and Armor, ease pain, holy smite, refreshment, creator must be good; 
+Price 134,025 gp.

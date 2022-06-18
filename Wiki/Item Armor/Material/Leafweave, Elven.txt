@@ -1,0 +1,5 @@
+Elven artisans weave suits of armor from forest leaves, which are then treated by a special alchemical process that makes them as tough and flexible as leather, with considerably less weight and encumbrance. Such suits are made in both “springtime” and “autumn” styles: Springtime leafweave armor is vivid green, while the autumn style is made up of red, orange, and yellow leaves.
+
+The spell failure chance for elven leafweave armor is reduced by 5% due to its increased flexibility, the maximum Dexterity bonus is increased by +1, and armor check penalties are reduced by 2. Armors that are generally constructed of metal cannot be duplicated with elven leafweave. 
+
+Creating elven leafweave armor requires a successful Alchemy check (DC 25) in addition to the normal Craft (armorsmithing) checks.

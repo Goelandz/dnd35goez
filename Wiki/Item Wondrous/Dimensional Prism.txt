@@ -1,0 +1,6 @@
+This translucent and oddly shaped prism seems to fade in and out of existence when seen in daylight. The prism grants see invisibility when looked through. When shattered (requiring a DC 15 Strength check), the crystal releases a greenish burst of energy. Any creatures within 30 feet that are on nearby transitive planes such as the Astral Plane, Ethereal Plane, or Plane of Shadow (including those using spells such as blink, maze, or shadow walk), must succeed on a Will save (DC 30) or be forced onto the Material Plane. Creatures that are made tangible in this way cannot leave the Material Plane for 1d6 rounds.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, dimensional anchor, see invisibility; 
+Market Price: 17,600 gp; 
+Weight: —.

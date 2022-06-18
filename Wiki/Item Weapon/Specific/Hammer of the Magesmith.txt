@@ -1,0 +1,6 @@
+This +1 warhammer is useful when creating other magic weapons. When used in the forging of another magical weapon, the hammer of the magesmith reduces the cost of the raw materials that must be supplied by 5%. This reduction applies only to the gold piece cost of materials, not the XP requirement. In addition, once per day the hammer of the magesmith can imbue another weapon with temporary magic power. This works exactly like the magic weapon spell from a 10th-level caster, including the requirement that the hammer of the magesmith touch its target.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, magic weapon; 
+Market Price: 45,912 gp; 
+Cost to Create: 23,112 gp + 1,824 XP

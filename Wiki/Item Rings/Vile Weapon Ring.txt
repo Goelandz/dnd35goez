@@ -1,0 +1,5 @@
+This is a black metal band with a small ruby. When worn, each melee attack made by the wearer deals 1 extra point of vile damage.
+
+Caster Level: 5th; 
+Prerequisites: Forge Ring, vile lance;
+Market Price: 20,000 gp

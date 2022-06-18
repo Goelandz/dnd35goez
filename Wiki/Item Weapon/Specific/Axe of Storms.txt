@@ -1,0 +1,5 @@
+This powerful orc double axe has two intricately carved heads joined by a shaft made of a strange blue-tinted wood. Each head bears an ability that gives the weapon part of its name. One head is thundering, and the other is shock. Furthermore, the axe is imbued with a flexible enhancement bonus. At the beginning of each round, the wielder of an axe of storms may allocate the weapon’s +4 enhancement bonus between its two heads (minimum +0). The allocation lasts until the beginning of the wielder’s next round. For example, on one round the wielder could allocate +2 to each head of the weapon, then change the allocation to +3 shock in the primary hand and +1 thundering in the off hand on the following round.
+
+Caster Level: 17th; 
+Prerequisites: Craft Magic Arms and Armor, blindness/deafness, call lightning or lightning bolt; 
+Market Price: 98,660 gp; Cost to Create: 49,660 gp + 3,920 XP.

@@ -1,0 +1,1 @@
+A spell to which this component is applied has a 25% chance to have any damage the spell deals increased by +10%

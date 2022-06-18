@@ -1,0 +1,5 @@
+This plain silver band is nondescript and unadorned. The wearer is under a continuous misdirection effect, redirecting Divination spells that reveal auras cast upon him. Such spells automatically target their caster rather than the ring’s wearer.
+
+Caster Level: 3rd; 
+Prerequisites: Forge Ring, misdirection; 
+Market Price: 7,000 gp.

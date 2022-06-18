@@ -1,0 +1,6 @@
+Your mightiest attacks cause your foes to tremble before you.
+Prerequisites: Str 13, Power Attack, Intimidate 7 ranks.
+
+Benefit: Whenever you deal a critical hit using a melee weapon with which you are proficient, your opponent must succeed on a Will save (DC 10 + 1/2 your character level + your Cha modifier) or cower for 1 round. A monk’s unarmed strike is considered a melee weapon for purposes of this feat.
+
+Special: A fighter may select Resounding Blow as one of her fighter bonus feats.

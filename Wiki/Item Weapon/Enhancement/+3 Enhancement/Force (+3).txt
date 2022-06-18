@@ -1,0 +1,5 @@
+On a successful hit, a force weapon emits a powerful jolt of magical force. The magical force does not harm the weapon’s wielder. Force weapons deal +1d6 points of force damage on a successful hit. If the weapon successfully hits a target protected by a force effect, such as a shield spell or bracers of armor, it might dispel the force effect in addition to damaging the target. Make a dispel check (1d20+10) against the effect (DC 11 + caster level). If the check succeeds, the force effect is dispelled (if a spell) or suppressed (if a magic item). Ranged weapons bestow this property on their ammunition. Incorporeal creatures get no miss chance against force weapons.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, wall of force; 
+Market Price: +3 bonus.

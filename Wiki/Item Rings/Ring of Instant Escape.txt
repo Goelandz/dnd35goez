@@ -1,0 +1,16 @@
+This potent item allows the wearer to avoid major destructive magic, as well as fooling the enemy into believing they have wounded or slain him.
+
+Description: This ring is constructed of thin wires—gold and black iron— wound around each other over and over into a nearly solid band. When activated, and for 1d4 rounds thereafter, the ring feels as though it is writhing against the skin, as if the wires were constantly sliding over and through each other.
+
+Activation: A ring of instant escape requires an immediate action to activate. 
+
+The ring functions only once per day and resets at midnight.
+
+Effect: When you are subject to a harmful effect that allows a Reflex save to reduce or negate it (such as a fireball or a dragon's breath), you can activate a ring of instant escape to be instantly transported elsewhere, as per dimension door (PH 221), although the range is limited to 40 feet. This occurs just before the effect resolves, so you are unaffected by it (assuming your destination is outside the area of the effect).
+
+Aura/Caster Level: Moderate conjuration. CL 7th. (A ring of elusive escape, described below, also radiates moderate illusion.)
+
+Construction: Forge Ring, dimension door, 9,000 gp, 720 XP, 18 days.
+
+Variants: The rare ring of elusive escape also turns you invisible (as the invisibility spell) and leaves behind a major image (PH 254) of yourself. Both of these effects last for 1 round. The image looks as though it has taken damage from the harmful effect and reacts appropriately to further attacks as well, as though you were concentrating on it for the length of its duration. (Requires invisibility and major image, +7,000 gp, +560 XP, + 14 days.)
+Price: 18,000 gp (instant escape), 32,000 gp (elusive escape)

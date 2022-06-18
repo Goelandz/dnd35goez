@@ -1,0 +1,5 @@
+Worshipers of Pelor believe they can feel the sun's warmth through their golden, sun-shaped talismans. One surface of each sun disk of Pelor is emblazoned with a stern but somehow comforting face, and the holy disks do shine in both sun and torchlight. 
+
+When used to cast Sun domain or conjuration (healing) spells, a sun disk of Pelor grants a +1 bonus on healing (or damage) rolls made for the spells. However, this bonus cannot increase a spell's healing or damage beyond its normal limit. 
+
+So if used with cure moderate wounds, which normally heals damage equal to 2d8 points +1 point/caster level, a sun disk of Pelor grants a +1 bonus on the roll. However, that bonus cannot bring the healing above 19 points (2d8+3 maximum) for a 3rd-level caster, or above 21 points (2d8+5 maximum) for a 5th-level caster.

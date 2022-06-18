@@ -1,0 +1,6 @@
+The stock and rest of this +1 light crossbow are covered in carvings, each resembling a slightly different eye. If a bolt from an inevitable crossbow misses, the wielder’s next shot, if aimed at the same target, gains an additional +1 insight bonus on the attack roll. If the second shot misses, the insight bonus increases to +2. As long as the wielder continues to fire at the same target and continues to miss, subsequent shots gain bigger insight bonuses, increasing by +1 each time, up to a maximum of +5. This sequence of shots must occur on consecutive rounds; if a round passes without the wielder shooting at the same target, the crossbow’s insight bonus reverts to +0.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, true strike; 
+Market Price: 18,335 gp; 
+Cost to Create: 9,335 gp + 720 XP

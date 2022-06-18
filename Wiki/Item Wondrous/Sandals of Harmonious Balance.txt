@@ -1,0 +1,8 @@
+These plainlooking wood and leather sandals make it possible to undertake incredible feats of balance. While wearing sandals of harmonious balance, a character gains a +10 insight bonus on Balance checks and can balance on vertical surfaces. The normal DC modifi ers (such as for a slippery surface) apply, except for the modifi er for a sloped or angled surface. If balanced on a vertical surface, the wearer can move up or down as if she were climbing. However, she is not actually climbing, so she can make attacks normally, retains her Dexterity bonus to Armor Class, and generally follows the rules of the Balance skill rather than the Climb skill.
+
+ If the wearer has 10 or more ranks in Balance, she can balance on liquids, semisolid surfaces such as mud or snow, or similar surfaces that normally couldn’t support her weight. For each consecutive round that she begins balanced on a particular surface of this sort, the DC of her Balance check increases by 5. As with all uses of the Balance skill, the wearer moves at half speed unless she decides to use the accelerated movement option (thereby increasing the DC of the Balance check by 5). For more information on the Balance skill, see page 67 of the Player’s Handbook.
+
+ Moderate transmutation; 
+CL 8th; 
+Craft Wondrous Item, balancing lorecall†; 
+Price 14,000 gp.

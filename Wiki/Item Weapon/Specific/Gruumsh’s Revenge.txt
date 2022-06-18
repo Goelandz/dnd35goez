@@ -1,0 +1,6 @@
+This +3 longspear is greatly prized by clerics of Gruumsh. The wielder of Gruumsh’s revenge can take a standard action and expend a rebuke undead attempt to imbue the spear with divine power. If the next successful attack with the longspear hits an elf, the spear deals an additional 1d6 points of divine damage per point of the wielder’s Charisma bonus (minimum 1d6).
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be an evil humanoid with the ability to rebuke undead, unholy blight; 
+Market Price: 50,305 gp; 
+Cost to Create: 25,305 gp + 2,000 XP.

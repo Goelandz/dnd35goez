@@ -1,0 +1,8 @@
+ A painting of a stylized red spider pierced by a spike adorns this +2 small steel shield. The spike continually oozes spider poison (injury; DC 11, 1d3 Str/1d3 Str). Once per day, the shield can be commanded to turn into a Small monstrous spider that fights on behalf of its owner. The spider is a normal creature in all respects.
+
+If the spider is killed, it immediately reverts into shield form and cannot be activated again for 24 hours. If the spider is killed using disintegrate, it is completely destroyed and does not turn back into a shield.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, poison, polymorph any object; 
+Market Price: 40,809 gp; 
+Cost to Create: 20,489 gp + 1,626 XP.

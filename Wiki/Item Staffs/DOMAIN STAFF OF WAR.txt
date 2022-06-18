@@ -1,0 +1,23 @@
+Price (Item Level): 36, 000 gp (17th) 
+Body Slot: —(held) 
+Caster Level: 17th 
+Aura: Strong (DC 23); enchantment 
+Activation: As spell used 
+Weight: 5 lb. 
+
+This fire-hardened staff of oak bears symbols at its head that represent the War domain. 
+
+A domain staff of war allows you to cast any of the following spells (each once per day) by expending a prepared divine spell or divine spell slot of the same level or higher.
+• magic weapon (1st) 
+• spiritual weapon (2nd) 
+• magic vestment (3rd) 
+• divine power (4th) 
+• flame strike (5th) 
+• blade barrier (6th) 
+• power word blind (7th) 
+• power word stun (8th) 
+• power word kill (9th) 
+
+Cost to Create: 18, 000 gp, 1, 440 XP, 36 days. 
+
+Prerequisites: Craft Staff, blade barrier, divine power, flame strike, magic weapon, magic vestment, power word blind, power word kill, power word stun, spiritual weapon. 

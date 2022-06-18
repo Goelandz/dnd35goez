@@ -1,0 +1,17 @@
+Yondalla wove these conical baskets herself, and then gave them to her high priesthood. Each morning at dawn, there are 2d4 fruits in each cornucopia of the needful. When consumed (a full-round action), each fruit has the following effect 
+
+d% 	Fruit Effect
+01–15 	Apple Eater healed (as the heal spell).
+16–30 	Grape cluster If split into 12 portions, functions as a heroes’ feast spell for those 	that consume it.
+31–45 	Tangerine Break enchantment on eater.
+46–60 	Strawberry Spell resistance 24 for 12 minutes.
+61–74 	Cherry Death ward for 12 minutes.
+75–89 	Peach Divine power for 12 rounds.
+90–100 	Lemon Neutralize poison on eater for 2 hours.
+
+To use this relic, you must worship Yondalla and either sacrifi ce a 6th-level divine spell slot or have the True Believer feat and at least 11 HD.
+
+Strong conjuration; 
+CL 12th; Sanctify Relic, Craft Wondrous Item, break enchantment, death ward, divine power, heal, heroes’ feast, neutralize poison, spell resistance, creator must worship Yondalla; 
+Price 44,600 gp; 
+Weight 8 lb.

@@ -1,0 +1,9 @@
+You have gone beyond the bounds of your monastic training to incorporate new modes of stealthy combat. Although your fellow monks may frown on your methods, none can doubt that your diverse training has improved your ability to strike precisely and bring down your foes quickly.
+
+Prerequisites: Improved Unarmed Strike, sneak attack.
+
+Benefit: When you use an unarmed strike with a sneak attack to deliver a stunning attack, you add 2 to the DC of your stunning attempt.
+
+ If you have levels in rogue and monk, those levels stack for the purpose of determining your unarmed strike damage. For example, a human 5th-level rogue/1st-level monk would deal 1d8 points of damage with her unarmed strike.
+
+ In addition, you can multiclass freely between the monk and rogue classes. You must still remain lawful in order to retain your monk abilities and take monk levels. You still face the normal XP penalties for having multiple classes more than one level apart.

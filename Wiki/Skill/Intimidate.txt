@@ -1,0 +1,32 @@
+INTIMIDATE (CHA)
+Use this skill to get a bully to back down, to frighten an opponent, or to make a prisoner give you the information you want. Intimidation includes verbal threats and body language. 
+
+Check: You can change another’s behavior with a successful check. Your Intimidate check is opposed by the target’s modified level check (1d20 + character level or Hit Dice + target’s Wisdom bonus [if any] + target’s modifiers on saves against fear). If you beat your target’s check result, you may treat the target as friendly, but only for the purpose of actions taken while it remains intimidated. (That is, the target retains its normal attitude, but will chat, advise, offer limited help, or advocate on your behalf while intimidated. See the Diplomacy skill, above, for additional details.) The effect lasts as long as the target remains in your presence, and for 1d6×10 minutes afterward. After this time, the target’s default attitude toward you shifts to unfriendly (or, if normally unfriendly, to hostile). 
+
+If you fail the check by 5 or more, the target provides you with incorrect or useless information, or otherwise frustrates your efforts. 
+
+Demoralize Opponent: You can also use Intimidate to weaken an opponent’s resolve in combat. To do so, make an Intimidate check opposed by the target’s modified level check (see above). If you win, the target becomes shaken for 1 round. A shaken character takes a –2 penalty on attack rolls, ability checks, and saving throws. You can intimidate only an opponent that you threaten in melee combat and that can see you. 
+
+Action: Varies. Changing another’s behavior requires 1 minute of interaction. Intimidating an opponent in combat is a standard action. 
+
+Try Again: Optional, but not recommended because retries usually do not work. Even if the initial check succeeds, the other character can be intimidated only so far, and a retry doesn’t help. If the initial check fails, the other character has probably become more firmly resolved to resist the intimidator, and a retry is futile. 
+
+You can use this skill to participate in a duel of wills before a fight begins.
+
+Duel of Wills: You can confront a potential enemy in the moments before a fight breaks out and attempt to crush his will, while he does the same to you. 
+
+Immediately before initiative is rolled for either side, you can instigate a duel of wills by selecting a single enemy you are aware of within 30 feet. Only characters with Intelligence scores of 3 or higher can engage in a duel of wills, and the participants must be able to see one another. 
+You can’t attempt to instigate more than one duel of wills per encounter.
+
+When you instigate the duel (usually by fixing a cold, steely stare on your opponent), your adversary can respond in one of three ways.
+
+Submit: The opponent takes a –2 penalty on its initiative check and a –1 penalty on attack rolls against you on the first round of combat.
+
+Ignore the Challenge: If your opponent ignores your challenge to engage in a contest of wills, make a DC 15 Intimidate check. If you succeed, you gain a +1 morale bonus on attack rolls against that opponent for 1 round.
+
+Participate: Both you and your chosen foe must make an Intimidate check. The character with the higher result gains a +1 morale bonus on attack rolls and damage rolls against the loser, and the loser takes a –1 penalty on attack rolls and damage rolls against the winner. If the result is a tie, neither character gains any benefit. These bonuses and penalties last for the duration of the encounter.
+
+Action: None. Instigating a duel of wills requires no action and occurs before initiative is rolled.
+
+Try Again: No, but you can instigate a second duel of wills 
+with the same target after 24 hours have passed

@@ -1,0 +1,13 @@
+Crucifixion Cross: This device consists of two lengths of wood or other strong material, plus several nails. The executioner affixes the condemned to the structure by driving nails through the wrists and the arch of each foot. When affixed, the condemned is considered crucified. On a successful Profession (executioner) check, excruciating pain slowly kills the condemned over the next several hours: She loses a number of hit points equal to 10% of her full normal total hit points each hour. If the executioner botches the crucifixion, the condemned is not securely fashioned to the cross and gains a +10 bonus on Escape Artist checks. She still loses 10% of her total hit points each hour she remains on the cross.
+
+============================================
+
+Draw and Quarter: First, the executioner forcefully affixes a specially prepared cord to some vital internal organs of the client, usually the intestines; this procedure deals 3d4 points of damage. Once the cord is affixed, the executioner either draws the cord himself, or attaches the other end to a horse that subsequently gallops away. The cord draws taut, pulling the intestines from the torso of the condemned. On a successful Profession (executioner) check, the condemned dies instantly. On a botched attempt, the cord comes loose prior to disembowelment, but the condemned still takes 5d6 points of additional damage.
+
+============================================
+
+Hanging Rope: A rope used for this purpose has usually been boiled and stretched beforehand to eliminate further stretching and coiling. The knot is lubricated with wax to ensure a smooth slide as it tightens around the neck of the condemned. The noose is placed so that the knot is behind the left ear of the condemned; then a trapdoor opens below or a stool is knocked away and the condemned plummets. On a successful Profession (executioner) check, the condemned dies instantly. If the execution is botched, the condemned is not killed by the fall but instead slowly strangles, taking 1d3 points of damage per round.
+
+============================================
+
+Headsman’s Axe: When specially sharpened and held with the proper technique, a greataxe (or a greatsword) can serve the executioner as the instrument of execution. The condemned is restrained, with the neck vulnerable to the strike readied by the executioner. On a successful Profession (executioner) check, the condemned dies instantly. If the executioner fails the attempt, the headsman’s axe delivers a coup de grace against the condemned (automatic critical hit, and the condemned must succeed on a Fortitude save or die). The coup de grace simply completes the executioner’s task more messily.

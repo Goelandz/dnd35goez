@@ -1,0 +1,9 @@
+Difficult to work and dangerous to obtain, the exoskeletons of massive insects are still used to construct weapons and armor, especially in areas where metal is scarce. Weapons and armor made from chitin weigh half as much as similar metal items. Although chitin can replace metal in most items, chain weapons such as the spiked chain cannot be made from chitin, nor can chainmail armor or chain shirts.
+
+Giant insects and similar creatures are the only sources of chitin plates big enough for crafting armor. To provide workable chitin, the creature must have a +5 natural armor bonus or better. Much as they can work choice bits of dragonhide into armor, armorsmiths can make one suit of banded mail for a creature up to two sizes smaller than the source creature, one suit of half-plate for a creature three sizes smaller, or one breastplate or suit of full plate for a creature four sizes smaller. In each case, there is enough material left over to create a large or small shield, one Large or Medium-size weapon, two Small weapons, or 50 arrow or bolt heads, provided that the source creature is Large or bigger. 
+
+Chitin has a hardness of 5 and 10 hit points per inch of thickness
+
+Item 		Market Price Modifier
+Heavy armor 	+10,000 gp
+Shield 	+2,000 gp

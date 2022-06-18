@@ -1,0 +1,3 @@
+This cleverly designed ratchet wraps around ropes and assists climbing and descending. By clicking a small switch, the ratchet prevents movement either up or down the rope. This grants a +1 circumstance bonus on Climb checks using a single rope. You can also slide down a rope with this device, which allows rapid movement—basically a controlled fall. It requires a successful Strength Check (DC 15) to hold on when performing this maneuver.
+
+A failure means you fall.

@@ -1,0 +1,4 @@
+This clear oil has a slight tint of gray, and strange, wispy forms seem to swirl through it. When applied to a weapon, ghostoil allows it to affect incorporeal creatures normally for the next 2 rounds. One flask of ghostoil contains enough liquid to coat one weapon of Large size or smaller. Applying ghostoil to a weapon of any size is a full-round action.
+
+DC To Create	25
+Cost		50 gp

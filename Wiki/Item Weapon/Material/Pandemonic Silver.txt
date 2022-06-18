@@ -1,0 +1,24 @@
+Mined from thin veins of ore on the plane of Pandemonium, pandemonic silver has all the properties of alchemical silver (see page 284 of the Dungeon Master’s Guide). In addition, a thin, unearthly scream issues forth from a bladed weapon made of pandemonic silver whenever it’s unsheathed in at least a light breeze. This scream is a sonic, mind-affecting compulsion that is a fear effect. Other than the wielder, those within 30 feet who hear the scream must succeed on a Will save or cower for 1d4 rounds. The DC of the Will save depends on the strength of the wind, as indicated on the table below.
+
+Wind Force 		Save DC
+Light (0–10 mph) 	10
+Moderate (11–20 mph) 	13
+Strong (21–30 mph) 	16
+Severe (31–50 mph) 	19
+Windstorm (51–74 mph) 	22
+Hurricane (75–154 mph) 	25
+Tornado (175–300 mph) 	28
+
+Pandemonic silver can be used to coat the striking surface of 
+any slashing or piercing weapon made of steel. The cost of the 
+weapon increases as shown below.
+
+Type of Pandemonic Silver Item 					Item Cost Modifier
+---------------------------------------------------------------------------
+Light slashing or piercing weapon 				+9,000 gp
+---------------------------------------------------------------------------
+One-handed slashing or piercing weapon, 			+11,000 gp
+or one head of a slashing or piercing double weapon 
+---------------------------------------------------------------------------
+Two-handed slashing or piercing weapon, 			+13,000 gp
+or both heads of a sladhing or piercing double weapon

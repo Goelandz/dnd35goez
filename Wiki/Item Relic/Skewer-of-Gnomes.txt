@@ -1,0 +1,9 @@
+This Small +3 unholy gnomebane spear is quasi-sentient and can ready itself against a charge, attacking (and dealing double damage) automatically whenever a foe charges the wielder. The attack uses the wielder’s highest base attack bonus and all relevant modifi ers, just as if the wielder were making an attack of opportunity.
+
+To use this relic, you must worship Kurtulmak and either sacrifi ce a 7th-level divine spell slot or have the True Believer feat and at least 13 HD.
+
+Strong evocation; 
+CL 20th; 
+Sanctify Relic, Craft Magic Arms and Armor, unholy blight, creator must worship Kurtulmak; 
+Price 61,900 gp; 
+Cost 31,101 gp + 2,464 XP

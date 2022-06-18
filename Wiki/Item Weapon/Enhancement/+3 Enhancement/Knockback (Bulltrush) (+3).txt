@@ -1,0 +1,6 @@
+ Knockback weapons often emit a low, almost inaudible hum when drawn. Whenever a knockbackweapon hits its target, it initiates a bull rush attack in addition to dealing normal damage. To resolve the bull rush attempt, treat the projectile as a Medium creature with a +8 Strength bonus. The projectile doesn’t provoke an attack of opportunity, and it always tries to push the target as far back as possible. Only ranged weapons can have the knockback ability, and they bestow it on their ammunition.
+
+ Moderate evocation; 
+CL 11th; 
+Craft Magic Arms and Armor, Bigby’s forceful hand; 
+Price +3 bonus.

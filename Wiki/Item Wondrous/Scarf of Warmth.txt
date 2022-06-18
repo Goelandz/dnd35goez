@@ -1,0 +1,8 @@
+This woolen scarf provides the wearer with a +4 bonus on Fortitude saves made to resist the effects of cold weather (see Cold Dangers, page 302 of the Dungeon Master’s Guide).
+
+ A scarf occupies the same space on the body as an amulet, necklace, or other item worn around the neck.
+
+ Faint abjuration; 
+CL 3rd; 
+Craft Wondrous Item, endure elements; 
+Price 250 gp.

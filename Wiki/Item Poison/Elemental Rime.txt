@@ -1,0 +1,3 @@
+This frosty blue liquid is concocted from ice found in frozen regions of the Elemental Plane of Air or Water. No amount of heat can totally dispel the coldness that emanates from elemental rime, which partially freezes those exposed to it. If the subject of the poison fails the initial saving throw, in addition to taking 1d4 points of initial and secondary Dexterity damage, it gains vulnerability to fire for 10 rounds.
+
+In addition to a Craft (poison­making) check, creating a dose of elemental rime requires a successful DC 15 Knowledge (the planes) check

@@ -1,0 +1,6 @@
+This +2 warhammer is favored by dwarven clerics of Moradin. If a skullshaker hammer is ever discovered in enemy hands, followers of Moradin go to great lengths to recover it. The hammer delivers painful, ringing blows that are said to echo with the sounds of Moradin’s forge. Three times per day, a skullshaker hammer deals an additional 1d6 points of temporary Wisdom damage on a successful hit. 
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be a dwarf, spiritual weapon; 
+Market Price: 18,312 gp; 
+Cost to Create: 9,312 gp + 720 XP

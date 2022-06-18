@@ -1,0 +1,4 @@
+These simple items are normal torches treated with a variety of alchemical substances to color the flames. Signal torches each burn with a differently colored flame. They are available in a variety of colors, the most common being green, blue, and yellow.
+
+DC To Create	15
+Cost		1 gp

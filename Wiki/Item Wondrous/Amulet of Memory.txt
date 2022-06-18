@@ -1,0 +1,6 @@
+Once per day the bearer of this amulet may recall up six levels of divine spells already cast. The bearer can recall only spells prepared and cast that day.
+
+Caster Level: 6th; 
+Prerequisites: Craft Wondrous Item;
+Market Price: 36,000 gp; 
+Weight: —.

@@ -1,0 +1,12 @@
+Centuries ago, Kurtulmak gave his high priesthood a half-dozen copies of a portable pit trap: the enveloping pit.
+
+This functions like a portable hole, except that it is 50feet deep. The enveloping pit covers a 10-foot square when opened fully and shrinks down to a 1-foot hole. It can be picked up and moved when it’sat its smallest, and its owner can open or close it with a command word from anywhere within 60 feet. An enveloping pit opens fully only if it has enough flat space to do so; it halts when an edge hits a wall or other obstruction.
+
+A common tactic is to lie in wait until foes are standing nearby a shrunk enveloping pit, and then open it fully, dropping enemies into a pit that wasn’t there a moment earlier. Those who fi nd an enveloping pit underneath them must succeed on a Refl ex save (DC 22) or fall into the pit.
+
+To use this relic, you must worship Kurtulmak and either sacrifi ce a 6th-level divine spell slot or have the True Believer feat and at least 11 HD.
+
+Strong conjuration; 
+CL 16th; 
+Sanctify Relic, Craft Wondrous Item, plane shift, creator must worship Kurtulmak; 
+Price 33,600 gp

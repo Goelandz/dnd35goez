@@ -1,0 +1,15 @@
+This small item acts as a repository of magic, allowing the wearer to “hold” a touch spell while casting other spells, or even to touch other individuals without triggering the spell.
+
+Description: A rod of spellholding is unusually small for a rod; it is only about 1 foot in length and a little over 1 inch in circumference. A series of tiny symbols that spiral up the length of the rod is revealed, on close inspection, to be a chain of linked hands.
+
+Activation: A rod of spellholding requires a swift action to activate. This action must be taken in the same round when you cast the touch spell you wish the rod to “hold.” The rod can hold only a single spell at a time.
+
+Effect: You can hold a touch spell in the rod, allowing you to cast other spells or to touch other creatures, without triggering the spell. (Normally, you cannot cast other spells while holding a touch spell, and any creature you touch suffers the effect.) You can use the held spell by using a standard action and making a melee touch attack; the held spell is expended if you succeed on your attack roll, and it has the normal effect.
+
+The rod cannot hold a spell indefinitely, however; the spell fades in 6 minutes if you have not already used it. The spell is also lost if the rod of spellholding ever leaves your hands.
+
+Aura/Caster Level: Moderate, no school. CL 6th.
+
+Construction: Craft Rod, 4,500 gp, 360 XP, 9 days.
+Weight: 1 lb.
+Price: 9,000 gp.

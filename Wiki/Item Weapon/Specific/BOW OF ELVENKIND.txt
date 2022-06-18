@@ -1,0 +1,15 @@
+Price (Item Level): 14, 700 gp (14th) 
+Body Slot: —(held) 
+Caster Level: 12th 
+Aura: Moderate (DC 21); transmutation 
+Activation: — 
+Weight: 3 lb. 
+
+Gleaming white wood and horn have been lovingly shaped into a massive, recurved longbow. The string shimmers like silver, and the bow hums when drawn, as if the wood had been tuned for musical purposes. 
+
+This +1 composite longbow (+0 Str bonus) automatically adjusts its pull to match the Strength of any elf who wields it. In the hands of a cleric of Corellon Larethian, a bow of elvenkind gains the seeking weapon property (DMG 225), and any critical hit with an arrow fired from the bow renders the target shaken for 5 rounds (a mind-affecting fear effect; Will DC 14 negates). 
+
+Furthermore, any elf or cleric of Corellon Larethian who uses the bow with arrows from the quiver of elvenkind (page 144) gains the benefit of the Far Shot feat. 
+
+Cost to Create: 7, 000 gp (plus 700 gp for masterwork composite longbow), 560 XP, 14 days. 
+Prerequisites: Craft Magic Arms and Armor, doom, true seeing, doom, elf.

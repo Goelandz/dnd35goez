@@ -1,0 +1,6 @@
+The wearer of this pristine armor, if good, takes only half of the extra damage dealt by an unholy weapon (+1d6 instead of +2d6) and gains the benefits of a constant protection from evil spell. Furthermore, the armor negates the vile damage dealt by a vile melee, ranged, or natural weapon (described in the Book of Vile Darkness).
+
+Moderate abjuration; 
+CL 9th; 
+Craft Magic Arms and Armor, protection from evil, creator must be good; 
+Price +3 bonus

@@ -1,0 +1,1 @@
+These wooden goggles have a thin horizontal slit in the middle. They grant a +2 circumstance bonus on saves to resist blinding effects, including snow blindness, extremely bright light, or spells that target vision indirectly (such as sunburst but not blindness). While wearing snow goggles, you incur a –4 circumstance penalty on Spot and Search checks.

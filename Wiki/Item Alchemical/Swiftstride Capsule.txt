@@ -1,0 +1,4 @@
+This small capsule holds a dose of a thin blue liquid. When swallowed, the liquid quickens the imbiber’s stride for a short time, providing a temporary boost of speed at the cost of leaving the user fatigued. A swiftstride capsule increases the user’s base land speed by 5 feet. This benefi t lasts for 2 rounds, at the end of which time the user becomes fatigued. If a character who uses a swiftstride capsule is already fatigued when the benefit of the capsule ends, he becomes exhausted.
+
+DC To Create	35
+Cost		15 gp

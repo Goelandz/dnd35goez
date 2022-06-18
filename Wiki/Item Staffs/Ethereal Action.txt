@@ -1,0 +1,9 @@
+A staff of smooth wood adorned with three silver bands, this staff is a +1 ghost touch quarterstaff and allows the use of the following spells:
+• Blink (1 charge)
+• Ethereal jaunt (1 charge)
+ When all its charges are used up, the staff remains a +1 ghost touch quarterstaff.
+
+ Moderate transmutation; 
+CL 9th; 
+Craft Staff, Craft Magic Arms and Armor, blink, ethereal jaunt, plane shift;
+Price 57,300 gp.

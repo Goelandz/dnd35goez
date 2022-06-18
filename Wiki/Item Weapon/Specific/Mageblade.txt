@@ -1,0 +1,6 @@
+This +2 longsword of spell storing is covered in arcane symbols. While holding a mageblade, the wielder can sacrifice a prepared arcane spell from memory as a move-equivalent action that does not provoke an attack of opportunity. Doing so removes the nonproficiency penalty (if any) for using the mageblade for a number of rounds equal to the sacrificed spell’s level. Furthermore, if the sacrificed spell dealt damage of a particular energy type, the mageblade deals an additional 1d6 points of damage of that energy type with each successful hit. The energy damage lasts 1 round per level of the sacrificed spell. If the sacrificed spell has more than one energy type associated with it, the mageblade wielder may choose the energy type.
+
+Caster Level: 17th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be at least 15th level; 
+Market Price: 50,315 gp; 
+Cost to Create: 25,315 gp + 2,000 XP

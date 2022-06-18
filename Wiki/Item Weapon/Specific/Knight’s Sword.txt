@@ -1,0 +1,6 @@
+This +2 bastard sword is extremely effective from horseback. When riding a mount and performing the charge action, the wielder can double the damage dealt with the knight’s sword during the attack.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, phantom steed; 
+Market Price: 18,335 gp; 
+Cost to Create: 9,335 gp + 720 XP.

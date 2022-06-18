@@ -1,0 +1,42 @@
+Criterion Affiliation Score Modifier 
+One-Time 
+Character level +1/2 levels 
+Knowledge (nature) 5-9 ranks +1 
+Knowledge (nature) 10 or more ranks +2 
+Has visited an untouched area 
+of plant life at least once +4 
+Spends 1-11 months protecting 
+a natural area from exploitation or destruction" +2 
+Spends one year protecting 
+a natural area from exploitation or destruction* +6 
+Can cast 3rd- or 4th-level divine spells +1 
+Can cast 5th-level or higher divine spells +2 
+Can cast speak with plants +1 
+Lacks ranks in Knowledge (nature) -2 
+* Overlaps for same area. 
+Multiple Use 
+Protects a natural area from destruction +2 
+Protects a sacred grove or other 
+untouched natural area from destruction +4 
+Discovers a new type of plant 
+or creature of the plant type +1 
+Converts a new member +1 
+Sets up a natural preserve 
+where plants cannot be harvested +2 
+Organizes a celebration of the planting or harvest +2 
+Participates in a community's 
+annual planting or harvest +1 
+Destroys knowledge pertaining to plants -4 
+Fails to prevent the destruction of a natural area -4 
+Fails to prevent the destruction 
+of a sacred grove or untouched natural area -15 
+
+Affiliation 
+Rank 	Score 		Title: Benefits and Duties 
+0 	3 or lower 	None. 
+1 	4-13 		Seed: Cain a+2 bonus on Knowledge (nature) checks relating to plants. 
+2 	14-19 		Sapling: Cain a+2 bonus on saves against poison. 
+3 	20-24 		Mature Growth: Gain a +2 bonus on saves against mind-affecting spells 
+			and abilities. 
+4 	25-29 		Old-Growth Adept: You no longer need to eat or drink to live as long as you spend 10 minutes each 			day with your bare feet or hands in contact with the earth or a plant. 
+5 	30 or higher 	Ancient Heart of the Forest: Once per day as an immediate action, gain immunity to critical hits 				for 1 minute. This ability can be activated in response to a critical hit against you. 

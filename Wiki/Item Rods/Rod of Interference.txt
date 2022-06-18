@@ -1,0 +1,8 @@
+This potent device prevents the operation of other magic items. On command up to three times per day, a rod of interference shoots forth a brilliant sapphire beam that unerringly strikes a single target creature within 60 feet. 
+
+The targeted creature must succeed on a DC 19 Will save, or the functions of all magic items currently in its possession are suppressed for 1 minute, as if they were under the effect of a targeted dispel magic.
+
+ Moderate abjuration; 
+CL 11th; 
+Craft Rod, greater dispel magic; 
+Price 72,000 gp.

@@ -1,0 +1,35 @@
+Criterion Affiliation 				Score Modifier 
+One-Time 
+Character level 					+1/2 levels 
+Knowledge (nature) 5 or more ranks 			+1 
+Handle Animal 5 or more ranks 				+1 
+Has an animal companion 				+2 
+Can cast summon nature's ally spells 			+1 
+Lacks at least 1 rank in Handle Animal 			-2 
+Lacks at least 1 rank in Knowledge (nature) 		-2
+
+Multiple Use 
+Destroys a sign of civilization encroaching 
+on an animal habitat (such as a lumber camp) 		+4 
+Protects own resources and those of the pack 
+(adventuring party) 					+1 
+
+Converts a new member 					+1 
+Creates a shelter for animals in an urban area 		+4 
+Donates money for the protection 
+
+of less fortunate animals 				+1/1,000 gp 
+Frees animals that are used as forced labor 		+1 
+Frees animals that are abused or mistreated 		+2 
+Contributes to the mistreatment of animals 		-10 
+Lives in urban environment for more than half a year 	-2 
+Sells one or more animals 				-4 
+
+Affiliation 
+Rank 	Score 		Title: Benefits and Duties 
+0 	3 or lower 	None. 
+1 	4-13 Beast 	Adept: Cain a+2 bonus on Handle Animal checks. 
+2 	14-19 		Beast Friend: Once per day, grant an animal companion, an animal summoned with a summon nature's 			ally spell, or a dominated animal temporary hit points equal to your character level for 1 minute. 
+3 	20-24 		Beast Heart: Cain a +4 bonus on checks made to resist bull rush, trip, or overrun attacks. 
+4 	25-29 		Beast Soul: Once per day as a swift action, use summon nature's ally, as the spell, of a level 			normally available to you, provided that you use it to summon an animal. 
+5 3	0 or higher 	Beast Master: Once per day, use bull's strength, bear's endurance, or cat's grace, as the spell 			(your choice each day; caster level equals your character level)

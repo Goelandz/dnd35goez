@@ -1,0 +1,5 @@
+Your special mount is a true creature of the heavens.
+Prerequisites: Paladin level 4th.
+
+Benefit: Your special mount gains the celestial creature template. It gains the ability to smite evil once per day, darkvision
+out to 60 feet, resistances (acid, cold, and electricity) based on its total Hit Dice, and damage reduction and spell resistance that increase as its Hit Dice increase. See the celestial creature template in the Monster Manual for details

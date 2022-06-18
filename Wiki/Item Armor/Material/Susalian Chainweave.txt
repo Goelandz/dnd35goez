@@ -1,0 +1,6 @@
+Made by a technique known only to the greatest elven armorsmiths, susalian chainweave is an elaborate system of chainmail links knitted together to provide additional protection against some blows. When an attack with a slashing or bludgeoning weapon hits a character wearing susalian chainweave, the armor stiffens at the point of contact and disperses the force of the attack. This quality gives the wearer damage reduction 3/piercing as long as the susalian chainweave armor is worn.
+
+Type of Susalian Chainweave Item 	Item Cost Modifier
+Light armor 				+28,000 gp
+Medium armor 				+35,000 gp
+Heavy armor 				+42,000 gp

@@ -1,0 +1,3 @@
+A long mount that is at least two size categories larger than its rider can carry sidecar saddles. This type of exotic saddle hangs off a creature’s side, allowing it to carry passengers without crowding the rider. If a mount is only two size categories larger than the rider (such as a horse carrying a halfling), sidecar saddles must be worn and weighted in pairs to keep the mount from becoming unbalanced. If the mount is three or more size categories larger than the rider (such as a half-orc on an ancient bronze dragon), then the added weight is negligible for the mount and not unbalancing. Riders in a sidecar saddle automatically get one-half cover from attacks coming from the opposite side of the mount. 
+
+Cost: 60 gp; Weight: 40 lb.

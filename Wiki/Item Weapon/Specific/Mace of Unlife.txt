@@ -1,0 +1,6 @@
+This +3 heavy mace can bring the dead back as undead servants of its wielder. Whenever the mace of unlife is used to deliver the killing blow to a creature, its wielder can cause that creature to rise as a zombie. Using this ability is a full-round action. Zombies raised in this manner are under the control of the mace’s wielder. Up to 20 Hit Dice of zombies may be controlled at any one time. Any condition that would normally prevent a creature from being animated as a zombie prevents the mace of unlife from working as well.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, animate dead, control undead; 
+Market Price: 138,312 gp; 
+Cost to Create: 69,312 gp + 5,520 XP

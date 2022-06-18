@@ -1,0 +1,5 @@
+You can run across treacherous surfaces with ease.
+
+Prerequisite: Balance 5 ranks.
+
+Benefit: You can run or charge across a difficult surface without needing to make a Balance check (PH 67).

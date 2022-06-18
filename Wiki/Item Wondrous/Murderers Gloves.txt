@@ -1,0 +1,14 @@
+These thin gloves allow a killer to escape undetected, causing him to disappear upon making a successful attack.
+
+Description: These gloves, always found in pairs, appear to be made of very thin deer- or lambskin leather. They are dyed black and seem well worn, feeling soft and supple to the touch.
+
+Prerequisite: Murderer's gloves function only for wearers who have the sneak attack, skirmish, or sudden strike ability.
+
+Activation: Activating murderer's gloves is a swift action. They can only be activated upon making a successful sneak attack, skirmish attack, or sudden strike. The gloves function three times per day.
+
+Effect: The instant the wearer has delivered his sneak attack, skirmish attack, or sudden strike, he turns invisible for 1 round (as the invisibility spell, PH 245).
+
+Aura/Caster Level: Moderate illusion. CL 7th.
+Construction: Craft Wondrous Item, unseen strike (page 122), 8,000 gp, 640 XP, 16 days.
+Weight: 1 lb.
+Price: 16,000 gp

@@ -1,0 +1,6 @@
+You swear allegiance to one of the Tome Archons who rule the
+Seven Heavens, and in exchange gain power to act on their behalf.
+
+Benefit: Once per day, while performing an act of good, you may call upon your archon patron to gain a +1 luck bonus on any one roll or check.
+
+Special: Once you take this feat, you may not take it again, nor can you take either the Knight of Stars feat or the Favored of the Companions feat. Your allegiance is only yours to give once.

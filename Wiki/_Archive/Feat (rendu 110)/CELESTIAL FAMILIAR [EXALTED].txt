@@ -1,0 +1,20 @@
+As long as you are able to acquire a new familiar, you may receive a celestial as a familiar.
+
+Prerequisites: Able to acquire a new familiar, minimum level requirement (see below).
+
+Benefit: When choosing a familiar, the following creatures are also available to you. You must choose a familiar whose alignment is the same as yours.
+
+Familiar 		Alignment 	Level
+Celestial animal 	Any good 	3rd
+Coure eladrin 		Chaotic good 	7th
+Lantern archon 		Lawful good 	7th
+Musteval guardinal 	eutral good 	7th
+
+The celestial familiar is magically linked to its master like a normal familiar. The familiar uses the basic statistics for a creature of its kind, as given in the Monster Manual or this volume, except as noted below.
+
+Hit Dice: 	For effects related to Hit Dice, use the master’s level or the familiar’s normal total, whichever is higher.
+Hit Points: 	One-half the master’s total or the familiar’s normal total, whichever is higher.
+Attacks: 	Use the master’s base attack bonus or the familiar’s, whichever is better.
+Saving Throws: 	Use the master’s base save bonuses if they are better than the familiar’s.
+
+Familiar Special Abilities: Use the information in the Familiars sidebar on pages 52–53 of the Player’s Handbook to determine additional abilities as you would for a normal familiar. With the exception of celestial animals, celestial familiars do not grant their masters any of the benefits that appear in that sidebar.

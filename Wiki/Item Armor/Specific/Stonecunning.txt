@@ -1,0 +1,6 @@
+This dwarf-sized +1 full plate is beautifully engraved with images of dwarven stonemasons practicing their craft. Humans who wear the armor gain the stonecunning ability. Dwarves who wear the armor gain a +4 circumstance bonus on any stonecunning checks, which stacks with their racial bonus. In addition, the dwarf can use stone shape and stone tell once per day.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, stone shape, stone tell; 
+Market Price: 32,130 gp; 
+Cost to Create: 16,890 gp + 1,220 XP

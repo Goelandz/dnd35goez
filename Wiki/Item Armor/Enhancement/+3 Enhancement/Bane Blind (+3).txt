@@ -1,0 +1,28 @@
+A favorite of rangers and bounty hunters, bane blind armor grants improved invisibility to the wearer against a specific creature type chosen when the armor is created. Creatures who are subject to the bane blind find that their scent ability is likewise unable to detect the wearer, although hearing, tremorsense, and other sensing methods still work. Any category of creature on the ranger’s favored enemy list can be chosen for the bane blind effect. 
+
+The following table determines what type of creature a random suit of bane blind armor affects.
+
+d% Creature Type
+01–10 		Aberrations
+11–15 		Animals
+16–30 		Beasts
+31–32 		Constructs
+33–34 		Elementals
+35–37 		Fey
+38–47 		Giants
+48–57 		Humanoid type (DM chooses specific race)
+58–67 		Magical beasts
+68–77 		Monstrous humanoids (DM chooses specific race)
+78–79 		Oozes
+80–81 		Outsider, chaotic (DM chooses specific race)
+82–83 		Outsider, lawful (DM chooses specific race)
+84–86 		Outsider, evil (DM chooses specific race)
+87–89 		Outsider, good (DM chooses specific race) — Plants 1
+90–94 		Shapechangers
+95–97 		Undead
+98–100 		Vermin
+
+1 There are no examples of bane blind armor designed for use against plants.
+
+Caster Level: 7th; Prerequisites: Craft Magic Arms and Armor, improved invisibility; 
+Market Price: +3 bonus.

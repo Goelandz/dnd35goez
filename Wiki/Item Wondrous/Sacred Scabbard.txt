@@ -1,0 +1,7 @@
+This item has a variable appearance. When first found, there is a 25% chance it looks like a dagger sheath, a 25% chance it looks like an axe case, and a 50% chance it looks like some sort of sword sheath. A user quickly discovers, however, that a sacred scabbard can change shape to fit whatever dagger, sword, or axe is touched to it, even making allowances for double weapons. This scabbard keeps any weapon carried in it clean and sharp. In addition, up to three times per day, the user may place a weapon in the scabbard, utter a command word, and invoke bless weapon on the weapon inside.
+
+Faint transmutation; 
+CL 4th; 
+Craft Wondrous Item, bless weapon; 
+Price 4,400 gp; (Defenders of Faith say 6,400)
+Weight 1 lb.

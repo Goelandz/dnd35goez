@@ -1,0 +1,1 @@
+The animal follows a designated target, doing its best to remain undetected, until the target is wounded or resting, and then attacks. An animal must know the attack trick (Player’s Handbook, page 74) before it can learn this trick.

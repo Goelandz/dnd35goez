@@ -1,0 +1,4 @@
+You can increase the intensity of the light surrounding you to damage undead creatures.
+Prerequisites: Cha 15, Nimbus of Light.
+
+Benefit: At will, as a free action, you can empower the radiance surrounding you into a blazing glow that sheds bright light in a 10-foot radius (and shadowy illumination out to 20 feet). Undead within 10 feet of you take 1d4 points of damage per round they remain within your halo.

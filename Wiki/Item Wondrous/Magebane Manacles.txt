@@ -1,0 +1,6 @@
+These sturdy masterwork manacles have an antimagic field that extends around anyone locked in them, including any magic items the captive might be carrying. Although expensive, they are commonly found in the prisons of metropolitan cities that are used to dealing with highlevel troublemakers.
+
+Caster Level: 11th; 
+Prerequisites: Craft Wondrous Item, antimagic field; 
+Market Price: 132,000 gp;
+Weight: 2 lb.

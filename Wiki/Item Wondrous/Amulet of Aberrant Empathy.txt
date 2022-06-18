@@ -1,0 +1,8 @@
+This strange, twisted amulet allows the wearer to use the Handle Animal skill in place of the Diplomacy skill when dealing with some aberrations.
+
+ While wearing an amulet of aberrant empathy, a character can make Handle Animal checks rather than Diplomacy checks to influence the attitude of aberrations with an Intelligence of 9 or lower.
+
+Moderate enchantment; 
+CL 11th; 
+Craft Wondrous Item, charm monster;
+Price 1,400 gp.

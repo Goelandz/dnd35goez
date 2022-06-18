@@ -1,0 +1,7 @@
+One of the creature’s spell-like abilities is harder to resist than it otherwise would be. 
+
+Benefit:The saving throw Difficulty Class (DC) of a boosted spell-like ability is increased by +2. Each of a creature’s spell-like abilities can be boosted three times per day, though the feat does not allow the creature to exceed its normal usage limit for any ability. Thus, if a succubus chooses to boost its suggestion ability, it can use a boosted suggestion up to three times that day.
+
+Thereafter, it could use its suggestion ability again normally (since it can use suggestion at will), or it could boost another of its spell-like abilities, such as charm monster. 
+
+Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to each of its spelllike abilities three additional times per day

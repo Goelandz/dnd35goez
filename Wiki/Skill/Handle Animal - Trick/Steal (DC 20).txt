@@ -1,0 +1,1 @@
+The animal grabs an object in the possession of a target creature, wrests it away, and brings it to you. If multiple objects are available, the animal attempts to steal a random one. An animal must know the fetch trick (Player’s Handbook, page 75) before it can learn this trick.

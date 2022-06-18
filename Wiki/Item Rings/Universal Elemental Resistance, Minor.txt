@@ -1,0 +1,7 @@
+This ring functions as a ring of minor elemental resistance for all types of energy: fire, cold, electricity, acid, and sonic. Whenever the wearer would normally take such damage, subtract 15 points of damage per round from the amount before applying. 
+
+The major version of this ring is an epic magic item described in the Epic Level Handbook.
+
+Caster Level: 15th; 
+Prerequisites: Forge Ring, protection from elements; 
+Market Price: 144,000 gp.

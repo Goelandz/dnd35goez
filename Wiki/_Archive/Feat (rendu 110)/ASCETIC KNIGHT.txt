@@ -1,0 +1,9 @@
+You belong to a special order of religious monks that teaches its adherents that self-enlightenment and honorable service grow from the same well of purity. As a student of this philosophy, you have blended your training as a paladin and as a monk into one seamless whole.
+
+Prerequisite: Improved Unarmed Strike, ability to smite evil.
+
+Benefit: Your paladin and monk levels stack for the purpose of determining your unarmed strike damage. For example, a human 3rd-level paladin/1st-level monk would deal 1d8 points of damage with her unarmed strike.
+
+ Your paladin and monk levels also stack when determining the extra damage dealt by your smite evil ability.
+
+ In addition, you can multiclass freely between the paladin and monk classes. You must still remain lawful good in order to retain your paladin abilities and take paladin levels, and you must remain lawful in order to continue advancing as a monk. You still face the normal XP penalties for having multiple classes more than one level apart.

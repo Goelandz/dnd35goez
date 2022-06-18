@@ -1,0 +1,1 @@
+A spell that this component is applied to has a 30% chance to have its saving throw DC increased by +1. The heart must be from a dragon of at least 15 HD, and it must be dried and hardened into a gemlike object.

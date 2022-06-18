@@ -1,0 +1,18 @@
+This milky rain falls on the Upper Planes and usually heralds the death of a powerful champion of good or the birth of a stillborn child. These milky tears can be collected. A single vial of storm tears duplicates the effects of a heart’s ease spell (see Chapter 6: Magic for details). 
+
+Storm tears are nonmagical in nature, and each vial has a market price of 750 gp.
+
+Heart's Ease
+(Book of Exalted Deeds, p. 100)
+
+Enchantment (Compulsion) [Mind-Affecting]
+Level: 			Beloved of Valarian 3, Cleric 3, Pleasure (BoED) 3,
+Components: 		V, S, DF,
+Casting Time: 		1 standard action
+Range: 			Close (25 ft. + 5 ft./2 levels)
+Target: 		One creature/level
+Duration: 		Permanent
+Saving Throw: 		Will negates (harmless)
+Spell Resistance: 	Yes (harmless)
+
+Heart's ease cures emotional wounds in the same way that heal wipes away physical ones. The subjects are cured of any fear effect, despair effect (such as the crushing despair spell), or similar mindaffecting condition, excluding charms and compulsions (such as charm person, dominate person, and similar spells). It removes any lingering psychological effects of torture (including the increased effectiveness of torture devices, as described in the Book of Vile Darkness). It cures confusion and insanity, restores 2d4 points of Wisdom damage (but not permanent Wisdom drain), and leaves the targets feeling refreshed and at peace.

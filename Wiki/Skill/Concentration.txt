@@ -1,0 +1,31 @@
+CONCENTRATION (CON)
+You are particularly good at focusing your mind. 
+
+Check: You must make a Concentration check whenever you might potentially be distracted (by taking damage, by harsh weather, and so on) while engaged in some action that requires your full attention. Such actions include casting a spell, concentrating on an active spell (such as detect magic), directing a spell (such as spiritual weapon), using a spell-like ability (such as a paladin’s remove disease ability), or using a skill that would provoke an attack of opportunity (such as Disable Device, Heal, Open Lock, and Use Rope, among others). In general, if an action wouldn’t normally provoke an attack of opportunity, you need not make a Concentration check to avoid being distracted. 
+
+If the Concentration check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of casting a spell, the spell is lost (see Cast a Spell, page 140). If you were concentrating on an active spell, the spell ends as if you had ceased concentrating on it. If you were directing a spell, the direction fails but the spell remains active. If you were using a spell-like ability, that use of the ability is lost. A skill use also fails, and in some cases a failed skill check may have other ramifications as well. 
+
+The table below summarizes various types of distractions that cause you to make a Concentration check. If the distraction occurs while you are trying to cast a spell, you must add the level of the spell you are trying to cast to the appropriate Concentration DC (See Concentration, page 170, for more information). If more than one type of distraction is present, make a check for each one; any failed Concentration check indicates that the task is not completed. 
+
+Concentration DC	 	Distraction 
+10 + damage dealt 		Damaged during the action.
+10 + half of continuous 	Taking continuous damage during the damage last dealt action.
+Distracting spell’s save DC	Distracted by nondamaging spell.
+10 				Vigorous motion (on a moving mount,  taking a bouncy wagon ride,
+				in a small boat  in rough water, belowdecks in a stormtossed 
+				ship). 
+15 				Violent motion (on a galloping horse, taking  a very rough wagon 
+				ride, in a small boat in  rapids, on the deck of a storm-tossed
+				 ship). 
+20 				Extraordinarily violent motion (earthquake). 
+15 				Entangled. 
+20 				Grappling or pinned. (You can cast only  spells without somatic
+				components for  which you have any required material component in
+				hand.) 
+5				Weather is a high wind carrying blinding  rain or sleet. 
+10 				Weather is wind-driven hail, dust, or debris. 
+Distracting spell’s save DC	Weather caused by a spell, such as storm of vengeance.
+
+Action: None. Making a Concentration check doesn’t take an action; it is either a free action (when attempted reactively) or part of another action (when attempted actively). 
+
+Try Again: Yes, though a success doesn’t cancel the effect of a previous failure, such as the loss of a spell you were casting or the disruption of a spell you were concentrating on. 

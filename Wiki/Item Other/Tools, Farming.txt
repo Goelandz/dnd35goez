@@ -1,0 +1,1 @@
+Typical farming and gardening tools often found in the hands of commoners. They have wooden shafts or handles and iron heads (typically hardness 5, 5 hp). If used as weapons, they impose a –4 nonproficiency penalty on attack rolls.

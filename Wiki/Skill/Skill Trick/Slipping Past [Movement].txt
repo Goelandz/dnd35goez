@@ -1,0 +1,6 @@
+You can slip through a tight space without breaking stride.
+
+Prerequisite: Escape Artist 5 ranks, Tumble 5 ranks.
+
+Benefit: As a swift action, you can ignore the additional move ment cost and penalty on attack rolls and to AC when 
+squeezing through a narrow space (PH 148). The benefit lasts until the start of your next turn.

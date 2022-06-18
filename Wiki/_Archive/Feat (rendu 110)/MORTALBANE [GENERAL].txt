@@ -1,0 +1,11 @@
+The creature can make a spell-like ability particularly deadly to mortals.
+
+Benefit: A mortalbane ability is a damaging spell-like ability that deals 2d6 points of additional damage when used against living nonoutsiders, but only half damage (rounded down) against outsiders, undead, and constructs. For example, if a mortalbane cone of cold from a gelugon would normally deal 45 points of damage, it actually deals 45 + 2d6 points of damage to a humanoid, but only 22 points of damage to a night hag.
+
+Creatures immune to cold—regardless of their type—still take no damage from a mortalbane cone of cold.
+
+Mortalbane can be applied to each of a creature’s spell-like abilities five times per day, though the feat does not allow the creature to exceed its normal usage limit for any ability.
+
+Thus, if a gelugon chooses to apply Mortalbane to its cone of cold ability, it can use a mortalbane cone of cold up to five times that day. Thereafter, it could use its cone of cold ability again normally (since it can use cone of cold at will).
+
+Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to each of its spell-like abilities five additional times per day

@@ -1,0 +1,5 @@
+You swear allegiance to Talisid or one of the Five Companions, the paragons of the guardinals, and in exchange gain power to act on their behalf.
+
+Benefit: Once per day, while performing an act of good, you may call upon your guardinal patron to gain a +1 luck bonus on any one roll or check.
+
+Special: Once you take this feat, you may not take it again, nor can you take either the Servant of the Heavens feat or the Knight of Stars feat. Your allegiance is only yours to give once.

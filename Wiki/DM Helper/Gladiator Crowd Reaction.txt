@@ -1,0 +1,13 @@
+Situation 					Check 				Consequence
+Gladiator rolls natural 1 on attack roll 	— 				Attitude toward gladiator worsens
+Gladiator confi rms critical hit 		— 				Attitude toward gladiator improves
+Successful feint in combat 			Bluff vs. Sense 		Motive Attitude toward opponent worsens
+Successful demoralize opponent 			Intimidate vs. level check 	Attitude toward opponent worsens
+Successful tumble through enemy square 		DC 25 Tumble 			Attitude toward you improves
+Successful Perform (weapon drill) check 	DC 20 Perform 			Attitude toward you improves
+Destroy opponent’s weapon 			See sunder rules 		Attitude toward you improves
+Trip opponent 					See trip rules 			Attitude toward you improves
+Disarm opponent 				See disarm rules 		Attitude toward you improves
+Pin an opponent 				See grapple rules 		Attitude toward you improves, attitude toward opponent worsens
+Bull rush opponent 10 feet 			See bull rush rules 		Attitude toward you improves
+Gladiator caught cheating 			— 				Attitude toward gladiator worsens by two steps

@@ -1,0 +1,42 @@
+Cha
+
+Check: Bluff vs Sense Motive. 
+	Modifier:
+	-5	Target want to believe you	
+	+0	Doesn't affect the target	
+	+5	Might affect the target		
+	+10	Will affect the target		
+	+20	Too much			
+
+If succeed, he believe you. No mind control.
+
+Duration 1 rounds
+Retry? Maybe
+
+-------------------------------------------
+Feint in combat: Bluff vs (Sense Motive + BAB) = No dex AC for 1 attack, this turn.
+		-4 vs nonhumanoid
+		-8 vs moron (1-2 Intel)
+		
+Impossible vs no intel
+
+Action: Move Action
+Duration 1 attack
+Retry? Yes
+
+-------------------------------------------
+Diversion: Same as normal. You can hide with -10 penalty.
+
+-------------------------------------------
+Secret Message: Talk but in code.
+
+	Simple message	DC15
+	Complex message	DC 20
+
+Failure <5 = Can't be understand
+Failure >4 = Opponent can do a Sense Motive check
+
+
+-------------------------------------------
+Seduction : Sexual oriented only, small or temporary favor.
+

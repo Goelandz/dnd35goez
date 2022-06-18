@@ -1,0 +1,6 @@
+This +2 returning throwing axe of distance can be thrown normally, or it can be thrown in a special sweeping attack that can trip foes. When making a ranged trip attempt with the axe of falls, the wielder makes a touch attack, and if successful, makes an opposed Strength check against the target. This opposed check works exactly like a normal trip attempt, but if the wielder loses there is no return trip attempt possible. The axe of falls provides no bonus on normal trip attacks. Feats that affect normal trip attempts, such as Improved Trip, do not apply to the ranged trip attack.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, clairaudience/clairvoyance, grease, telekinesis; 
+Market Price: 50,308 gp; 
+Cost to Create: 25,308 gp + 2,000 XP

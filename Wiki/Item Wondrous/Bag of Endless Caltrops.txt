@@ -1,0 +1,7 @@
+This nondescript leather pouch creates an endless supply of caltrops. The owner can reach into the pouch and pull out handful after handful. It takes one standard action to fill a 5-foot square by hand. If the pouch is dumped out (as a partial action), it produces the equivalent of a 2-pound unit, but does not produce any more caltrops at all for 2 whole rounds.
+
+The caltrops produced are not magical and follow all the rules for normal caltrops (see Chapter 7 of the Player’s Handbook).
+
+Caster Level: 9th; Prerequisites: Craft Wondrous Item, Leomund’s secret chest; 
+Market Price: 2,300 gp;
+Weight: —.

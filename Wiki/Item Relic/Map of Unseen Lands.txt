@@ -1,0 +1,19 @@
+This rolled-up sheet of vellum, often kept in a darkwood tube, is a boon to caravans of halfl ing pilgrims, who use it to avoid danger and make their way through the wilderness.
+
+ Once per day, the map of unseen lands can be commanded to spend two minutes redrawing itself, mapping the terrain within a 16-mile radius with total accuracy but only middling detail.
+
+ The DM should spend two minutes of real time sketching out such a map, working down the following list in terms of priority:
+• General terrain features (mountains, rivers, and so forth) labeled if their names are widely known.
+• Structures of more than 5,000 square feet (castles, temples, ruins) named either specifi cally (Fortress of the Undying) or generally (bardic college).
+• Structures important for travel (bridges, dungeon entrances, magic portals), labeled only if they’re unusual in some respect.
+• Lairs of creatures with more than 15 Hit Dice, labeled by creature type only.
+
+ The map of unseen lands doesn’t function underground.
+
+To use this relic, you must worship Yondalla and either sacrifi ce a 5th-level divine spell slot or have the True Believer feat and at least 9 HD.
+
+ Strong divination; 
+CL 15th; 
+Sanctify Relic, Craft Wondrous Item, discern location, creator must worship Yondalla;
+Price 25,200 gp; 
+Weight 2 lb.

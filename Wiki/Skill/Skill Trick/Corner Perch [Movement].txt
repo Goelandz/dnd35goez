@@ -1,0 +1,9 @@
+You can brace yourself against walls to leave your hands free.
+
+Prerequisite: Climb 8 ranks.
+
+Benefit: If you succeed on a Climb check to ascend or descend either a “chimney,” where you can brace against opposite walls, or a corner where you can brace against perpendicular walls (PH 69), you can suspend yourself momentarily. Until the end of your next turn, you can use your hands freely for any other purpose (including attacking) without risk of falling. At the end of your next turn, you fall from the wall unless you succeed on a Climb check against the normal DC + 5 (made as a move action) or you have succeeded on another Climb check to move up or down the wall as normal.
+
+Example: Ember the monk succeeds on a DC 15 Climb check to scramble up 10 feet (one-quarter of her speed) into a corner formed by two typical dungeon walls. Using Corner Perch, she then braces her legs against the walls and uses her remaining standard action to draw and throw a shuriken at a bugbear on the ground below her.
+
+On her next turn, still braced in the corner, she draws her quarterstaff and attacks an ogre that has moved next to her, gaining a +1 bonus on the attack roll for higher ground. At the end of that turn, she drops from the wall rather than attempting to hold her position. Since she has the slow fall class feature, Ember takes no damage from the drop.

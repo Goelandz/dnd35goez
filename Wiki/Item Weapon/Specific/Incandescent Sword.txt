@@ -1,0 +1,6 @@
+This +4 holy greatsword glows with a bright light (a 30-foot radius equivalent to a sunrod) when it is held by a character of chaotic good alignment. It is the preferred weapon of ghaele eladrins.
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, holy smite, light, creator must be chaotic good; 
+Market Price: 72,400 gp; 
+Cost to Create: 36,375 gp + 2,882 XP.

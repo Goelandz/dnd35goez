@@ -1,0 +1,6 @@
+This elegant but sturdy metal stylus grants +5 competence bonus on Forgery checks. On command, the stylus can also “remember” up to three different types of handwriting, which allows another Forgery attempt without having to make a roll—the DC of that handwriting is “fixed” at whatever was rolled during the attempt.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Wondrous Item, Scribe Scroll, read magic; 
+Market Price: 3,000 gp;
+Weight: —.

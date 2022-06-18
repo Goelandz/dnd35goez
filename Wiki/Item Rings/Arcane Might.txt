@@ -1,0 +1,6 @@
+Usually made of bronze, a ring of arcane might is forged in the shape of a serpent devouring its own tail. When worn by any arcane spellcaster, the ring provides a +1 bonus to arcane caster level for the purpose of spell penetration checks, caster level checks, and all level-based variables of any arcane spell the wearer casts.
+
+ Moderate abjuration; 
+CL 8th; 
+Forge Ring, limited wish, greater magic weapon; 
+Price 20,000 gp.

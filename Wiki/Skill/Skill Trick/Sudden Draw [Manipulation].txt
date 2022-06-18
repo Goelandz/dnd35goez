@@ -1,0 +1,5 @@
+You can quickly draw a hidden weapon to make a deadly strike.
+
+Prerequisite: Sleight of Hand 8 ranks, Quick Draw.
+
+Benefit: If an opponent provokes an attack of opportunity from you, you can draw a weapon that you have successfully concealed using Sleight of Hand (PH 81) as an immediate action to deliver the attack of opportunity with that weapon. That opponent is treated as flat-footed against the attack with the concealed weapon.

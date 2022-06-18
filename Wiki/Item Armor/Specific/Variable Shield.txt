@@ -1,0 +1,6 @@
+ A variable shield, normally a +1 small steel shield, can change its size on mental command. As a standard action, the shield can shrink or grow from a buckler to a tower shield. All the rules for carrying items with shields apply to the new shield size (see Armor Descriptions in Chapter 7 of the Player’s Handbook). You cannot use a weapon in your hand if it also carries a small shield, and you must drop an item in that hand if you’re carrying a large or tower shield. Characters not proficient in shields take an additional –2 armor check penalty during the following round if the variable shield’s size changes during combat.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, enlarge; 
+Market Price: 6,560 gp; 
+Cost to Create: 3,360 gp + 257 XP.

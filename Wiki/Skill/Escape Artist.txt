@@ -1,0 +1,32 @@
+ESCAPE ARTIST (DEX; ARMOR CHECK PENALTY)
+Use this skill to slip out of bonds or manacles, wriggle through tight spaces, or escape the grip of a monster that grapples you. 
+
+Check: The table below gives the DCs to escape various forms of restraints. 
+
+Ropes: Your Escape Artist check is opposed by the binder’s Use Rope check. Since it’s easier to tie someone up than to escape from being tied up, the binder gets a +10 bonus on his or her check. 
+
+Manacles and Masterwork Manacles: The DC for manacles is set by their construction. 
+
+Tight Space: The DC noted on the table is for getting through a space where your head fits but your shoulders don’t. If the space is long, such as a chimney, the DM may call for multiple checks. You can’t get through a space that your head does not fit through. 
+
+Grappler: You can make an Escape Artist check opposed by your enemy’s grapple check to get out of a grapple or out of a pinned condition (so that you’re only grappling). See Escape from Grapple under If You’re Grappling, page 156. 
+
+Restraint 											Escape Artist DC 
+Ropes Binder’s Use Rope check at 								+10 
+Net, animate rope spell, command plants spell, control plants spell, or entangle spell		20 
+Snare spell 											23 
+Manacles 											30 
+Tight space 											30 
+Masterwork manacles 										35 
+Grappler 											Grappler’s grapple check result
+
+Action: Making an Escape Artist check to escape from rope bindings, manacles, or other restraints (except a grappler) requires 1 minute of work. Escaping from a net or an animate rope, command plants, control plants, or entangle spell is a full-round action. Escaping 
+from a grapple or pin is a standard action. Squeezing through a tight space takes at least 1 minute, maybe longer, depending on how long the space is. 
+
+Try Again: Varies. You can make another check after a failed check if you’re squeezing your way through a tight space, making multiple checks. If the situation permits, you can make additional checks, or even take 20, as long as you’re not being actively opposed.
+
+=====Expanded Skill=====
+
+You can slip out of confi ning spell effects, bonds, or grapples much more quickly than normal, but you must voluntarily accept a penalty on your skill check.
+
+Quick Escape: Making a quick Escape Artist check increases the required DC by 10. Escaping from rope bindings, manacles, or other restraints (except a grappler) takes only 5 rounds of work. Escaping from a net or an animate rope,command plants, control plants, or entangle spell with the quick escape option is a standard action. Escaping from a grapple or pin with the quick escape option is a move action. Squeezing through a tight space takes half the time that it normally would (DM’s discretion, at least 5 rounds).

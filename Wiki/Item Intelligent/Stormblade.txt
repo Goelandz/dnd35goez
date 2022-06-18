@@ -1,0 +1,13 @@
+Stormblade is a +1 shocking burst bastard sword with lightning bolts engraved along the blade. Besides its shocking burst property, it grants its wielder the Combat Reflexes feat and allows the wielder to use jump for 20 minutes once per day. Finally, the sword can produce a lightning bolt (8th-level caster, 8d6 damage, Reflex half DC 17) once per day.
+
+Though its powers suggest the terror and chaos of a storm, Stormblade is a noble and virtuous weapon. It fights with grim determination, regretting every lost life, but resigned to the necessity of violence in a world so full of evil. It speaks and reads Common, Celestial, Dwarf, Elf, and Giant.
+
+AL CG; 
+SV Fort +7, Ref +7, Will +8; 
+Str —, Dex —, Con —, Int 19, Wis 12, Cha 13, 
+Ego 14.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, jump, lightning bolt, creator must have access to Combat Reflexes feat; 
+Market Price: 49,575 gp; 
+Cost to Create: 24,955 gp + 1,969 XP

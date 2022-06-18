@@ -1,0 +1,16 @@
+Price (Item Level): 4, 000 gp (8th) 
+Body Slot: Throat 
+Caster Level: 7th 
+Aura: Moderate (DC 18); enchantment 
+Activation: — 
+Weight: — 
+
+Hanging on a thin mithral chain is a tiny charm, on which is carved an odd combination of the holy symbols of Heironeous and Kord. 
+
+While wearing a periapt of valor, you gain a +2 morale bonus on AC and saving throws while your current hit point total is equal to or less than one-half of your full normal hit points. 
+
+The periapt of valor is part of a set known collectively as the raiment of valor. When you wear it along with a crest of valor (page 139) and a tabard of valor (page 142), you gain additional abilities as given in the description of the crest of valor. 
+
+Cost to Create: 2, 000 gp, 160 XP, 4 days. 
+
+Prerequisites: Craft Wondrous Item, good hope or prayer, lesser restoration. 

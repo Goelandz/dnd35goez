@@ -1,0 +1,6 @@
+Heavier than other weapons of its type, this +2 warhammer weighs 16 pounds and is made entirely from a single piece of black iron ore. At the beginning of each round, the wielder of the hammer of sacrifice can sacrifice up to 5 hit points. Hit points sacrificed in this manner are then added to the damage of each successful attack made with the hammer until the beginning of the following round. Hit points sacrificed to the hammer are treated as normal damage to the wielder.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, vampiric touch; 
+Market Price: 32,312 gp; 
+Cost to Create: 16,312 gp + 1,280 XP

@@ -1,0 +1,20 @@
+Instead of an animal companion, you have a magical beast of good alignment.
+
+Prerequisites: Able to acquire a new animal companion, minimum level requirement (see below).
+
+Benefit: When choosing an animal companion, you may choose a magical beast as shown on the table below. You must choose a companion whose alignment is the same as yours, so only a ranger can have a blink dog, pegasus, or unicorn as a companion. Even though your companion is a magical beast, you can cast spells on it as though it were an animal. The exalted companion has all the normal abilities of a typical creature of its kind, as well as the characteristics of an animal companion determined by the druid or ranger’s level.
+
+Companion 		Alignment 	Druid Level1, 2
+Celestial animal3 	Any good 	4
+Blink dog 		Lawful good 	4th (–3)
+Asperi5 		Neutral good 	7th (–6)
+Giant eagle 		Neutral good 	7th (–6)
+Giant owl 		Neutral good 	7th (–6)
+Pegasus 		Chaotic good 	7th (–6)
+Unicorn 		Chaotic good 	7th (–6)
+
+1 A ranger’s effective druid level, for purposes of this feat, is half his ranger level.
+2 Subtract the number in parentheses from the druid’s level (or the ranger’s effective druid level) for purposes of determining the companion’s characteristics and special abilities as shown on page 36 of the Player’s Handbook.
+3 Apply the celestial creature template to a potential animal companion listed in the Player’s Handbook.
+4 Subtract an extra –1 from the druid’s level (or the ranger’s effective druid level) for purposes of determining the companion’s characteristics and special abilities.
+5 Monster detailed in the Monster Manual II.

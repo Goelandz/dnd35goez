@@ -1,0 +1,6 @@
+PSYCHIC POISONS
+Psychic poisons are a particular sort of intentional curse bestowed upon a creature, object, or area, almost always the result of the psychic poison spell. Psychic poisons are used as traps in the same way that a contact poison might be used on a chest full of valuables. A psychic poison is a magical toxin that affects those who cast certain types of spells on the creature, object, or area.
+
+If a spellcaster casts a mind-affecting or divination spell at an object or area affected by psychic poison, or at a creature within a poisoned area, the caster must make an immediate Will saving throw (DC determined by the psychic poison spell). Casters who fail their saves are affected by the psychic poison, taking the initial damage given on Table 3–7. Whether the saving throw was successful or not, the caster must succeed at another saving throw 1 minute later to avoid secondary damage (much like a mundane poison).
+
+Each psychic poison has a minimum level associated with it. A caster or item creator must be at least that level to utilize that particular psychic poison when making an item or casting the psychic poison spell.

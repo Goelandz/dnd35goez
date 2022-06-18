@@ -1,0 +1,7 @@
+Your keen eyes allow you to place attacks where they’ll do the most good.
+
+Prerequisite: Spot 12 ranks.
+
+Benefit: As a standard action, you can attempt a Spot check to find a weakness in your opponent’s defenses. The DC of this check equals the opponent’s AC. If the check succeeds, your next attack against that opponent (which must be made no later than your next turn) is treated as a touch attack.
+
+If you use a ranged weapon to deliver the attack, your opponent must be within 30 feet of you in order for you to benefit from the trick.

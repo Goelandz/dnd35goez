@@ -1,0 +1,13 @@
+Wave is a +3 trident with an amazing array of special abilities and significant intelligence. In addition to its +3 enhancement bonus, it has the special abilities of both a trident of fish command and a trident of warning. A character holding Wave can breathe underwater (as if a water breathing spell had been cast upon her) and can see underwater five times farther than water and light conditions would normally allow (as if wearing a helm of underwater action). Wave can communicate telepathically, and it speaks Common, Aquan, Aboleth, Draconic, KuoToan, and Sylvan. It can also read all languages and read magic.
+
+Wave has a special purpose: to spread the worship of a sea deity (Poseidon in a campaign using the Olympian pantheon from Deities and Demigods, or some other deity as appropriate). It has no qualms about bringing death or disfigurement to any who refuse to honor its patron deity. When it scores a successful critical hit against such a creature, Wave affects that target (only) with a horrid wilting spell (10d8 damage; Fortitude half DC 22).
+
+AL N; 
+SV Fort +7, Ref +7, Will +8; 
+Str —, Dex —, Con —, Int 19, Wis 12, Cha 15, 
+Ego 26.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, Craft Wondrous Item, detect magic, freedom of movement, horrid wilting, speak with animals, wall of force, water breathing; 
+Market Price: 166,115 gp; 
+Cost to Create: 83,215 gp + 6,632 XP.

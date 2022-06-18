@@ -1,0 +1,7 @@
+Your ability to determine an item’s worth and your knowledge of magic allow you to determine the exact properties of a magic item without the use of the identify spell or similar magic.
+
+Prerequisites: Appraise 5 ranks, Knowledge (arcana) 5 ranks, Spellcraft 5 ranks.
+
+Benefit: If you know that an item is magical, you can use the Appraise skill to identify the item’s properties. 
+
+This use of the Appraise skill requires 8 hours of uninterrupted work and consumes 25 gp worth of special materials. The DC of the Appraise check is 10 + the caster level of the item.

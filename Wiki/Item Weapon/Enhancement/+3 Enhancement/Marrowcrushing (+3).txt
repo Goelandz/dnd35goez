@@ -1,0 +1,5 @@
+Every time this weapon deals damage, it also deals 1 point of Constitution damage.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, boneblast; 
+Market Price: +3 bonus.

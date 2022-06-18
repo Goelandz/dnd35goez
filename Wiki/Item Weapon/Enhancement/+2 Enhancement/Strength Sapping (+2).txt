@@ -1,0 +1,5 @@
+Every time this weapon deals damage, the target must succeed at a Fortitude save (DC 15) or become exhausted.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Magic Arms and Armor, sap strength; 
+Market Price: +2 bonus.

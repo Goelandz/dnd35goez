@@ -1,0 +1,4 @@
+ This flask contains a clear liquid filled with faintly glowing sparks of light. You can throw a flask of motelight as a grenadelike weapon. When it strikes a hard surface, a flask of motelight creates a small area filled with rapidly moving sparks. The sparks are distracting, but they cause no damage. Creatures within a 5-foot radius attempting to cast a spell must succeed on a Concentration check (DC 5 + spell level) or lose the spell. If the caster must make a Concentration check for another reason, the motelight applies no additional penalty.
+
+DC To Create	20
+Cost		20 gp

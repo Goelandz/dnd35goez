@@ -1,0 +1,6 @@
+This black, slightly twisted metal rod sprays a cone of acid up to 30 feet. Anyone in the area takes 9d6 points of acid damage (Reflex DC 17 half ). The harrow rod can be used three times per day.
+
+Caster Level: 7th; 
+Prerequisites: Craft Rod, cone of cold, Melf ’s acid arrow; 
+Market Price: 54,000 gp; 
+Weight: 3 lb.

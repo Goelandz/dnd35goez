@@ -1,0 +1,28 @@
+Lizard, Riding
+These carnivorous lizards are almost exclusively
+Underdark mounts, rarely seen on the surface and
+jealously guarded by their breeders. They are so protected because they have sticky pads on their feet that
+allow them to climb walls—a necessity for getting
+about in unpredictable underground passages. These
+creatures stand 4 feet tall at the shoulder and weigh
+around 600 pounds.
+
+Carrying Capacity: Light 300 lb., medium 600 lb., heavy 900 lb.; 
+DC Young/Adult: 20/27; 
+Egg Price: 300 gp; Training Cost: 1,000 gp.
+
+Lizard, Riding: CR 1; 
+Large magical beast; 
+HD 2d10+6; hp 17; 
+Init +1; 
+Spd 40 ft.; 
+AC 16 (touch 10, flat-footed 15); 
+Atk +5 melee (1d6+4, 2 claws), +3 melee (1d8+2, bite); 
+Face/Reach 5 ft. by 10 ft./5 ft.;
+SQ darkvision 60 ft., light blindness, low-light vision, sticky pads; 
+AL N; 
+SV Fort +6, Ref +4, Will +1; 
+Str 18, Dex 13, Con 17, Int 2, Wis 13, Cha 6.
+Skills and Feats: Hide –3, Listen +3, Spot +3; Multiattack.
+
+Sticky Pads (Sp): A riding lizard has large, circular pads on its toes that exude adhesive. At will, a riding lizard can stick to any vertical or inverted surface as spider climb cast by a 20th-level sorcerer

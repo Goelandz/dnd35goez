@@ -1,0 +1,19 @@
+These dinosaurs are favored as mounts by remote barbarian tribes. Capturing one’s mount is often a rite of passage into adulthood for young members of these tribes. Since these creatures are difficult to train in adulthood, the rite usually revolves around stealing eggs. Facing adults (or a pack) is sometimes used as a test of a stranger’s worthiness, though. 
+
+The deinonychus is normally a singlerider creature, but it can easily carry a passenger. The megaraptor is a rare mount, difficult to control. When trained, it can carry up to five Medium-size passengers in addition to its rider on long hunting trips.
+
+A common trick rider/trainers teach their dinosaurs is pack hunting techniques. One or more dinosaurs learn to flush prey into traps set up by their riders. With this trick, the mounts also know how to flank with their riders in combat.
+
+Though technically bipeds, because of their build and leg strength, both types of dinosaur have carrying capacities as quadrupeds. Eggs and young of these dinosaurs are unusually expensive due to the extreme distances and hardships involved in bringing them back from their isolated homelands.
+
+Deinonychus: 
+Carrying Capacity: Light 348 lb., medium 699 lb., heavy 1,050 lb.; 
+DC Young/Adult: 22/29; 
+Egg Price: 10,000 gp;
+Training Cost: 1,500 gp.
+
+Megaraptor: 
+Carrying Capacity: Light 918 lb., medium 1,836 lb., heavy 2,760 lb.; 
+DC Young/Adult: 26/33; 
+Egg Price: 13,000 gp; 
+Training Cost: 2,000 gp.

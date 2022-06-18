@@ -1,0 +1,16 @@
+Price (Item Level): 1, 500 gp (5th) 
+Body Slot: — (held) 
+Caster Level: 3rd 
+Aura: Faint (DC 16); transmutation 
+Activation: Standard (manipulation) 
+Weight: 1 lb. 
+
+This small silver shaft has a hollow ball at one end. Tiny holes in the ball allow holy water to emerge from the font within. 
+
+You can use this vessel to dispense small amounts of holy water. The I reservoir holds a pint of holy water, even though it does not appear large enough to contain such a quantity. Every dawn, an aspergillum of perpetual benediction refills itself, ensuring you a nearly endless supply of holy water. Holy water dispensed from this item loses its blessing after 24 hours. 
+
+Chaotic, evil, and lawful versions of the aspergillum exist as well, though they are far less common. 
+
+Cost to Create: 750 gp, 60 XP, 2 days. 
+
+Prerequisites: Craft Wondrous Item, Mess water. 

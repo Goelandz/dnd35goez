@@ -1,0 +1,5 @@
+A weapon with this ability can drive its targets back. On a successful hit, the target of the attack must succeed on a Fortitude save (DC 19) or be knocked back 10 feet. If the target can’t move back 10 feet, it instead falls to the ground. If the first save fails, the target must succeed on another Fortitude save (DC 19), or be stunned for 1 round. Knockback weapons work only on creatures of the wielder’s size or smaller.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, repulsion; 
+Market Price: +3 bonus.

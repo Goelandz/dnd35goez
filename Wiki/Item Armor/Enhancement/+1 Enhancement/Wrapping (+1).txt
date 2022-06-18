@@ -1,0 +1,7 @@
+A shield with this quality hinders foes who are struck by it. With a successful shield bash attack, the wrapping shield’s bearer can make the shield magically bind itself to the opponent. It will not move until the command words are uttered (often “shield release”), the target dies, or the shield is pulled off with a successful Strength check (DC 20). The bearer loses any benefit to Armor Class while the shield is attached to the target. A wrapping shield does not function against Huge or larger creatures. nor does it work on incorporeal foes. The wearer can loose himself from the shield normally.
+
+It is difficult for the opponent to perform any physical actions while the shield is so attached, and it’s equally difficult for the wrapping shield’s bearer to do much while someone is wriggling against the shield. Both incur an additional armor check penalty of –5 (which stacks with any existing armor check penalties, but applies only to skill checks) and a –2 circumstance penalty on attacks.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Magic Arms and Armor, make whole; 
+Market Price: +1 bonus.

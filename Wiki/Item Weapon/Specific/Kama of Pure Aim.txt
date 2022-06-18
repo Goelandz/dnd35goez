@@ -1,0 +1,6 @@
+This +2 kama allows a wielder with great mental fortitude to ignore many effects that would disrupt his aim. Each round, the wielder of the kama of pure aim can attempt a Wisdom check (DC 20). If this check is successful, the wielder may ignore any miss chance created by concealment, including effects such as blur and invisibility, but not miss chances from other conditions such as incorporeality or the blink spell. Although the kama of pure aim can potentially remove the miss chance from an invisible foe, the attacker must still target the correct space. The wielder does not automatically know which space an invisible or otherwise concealed foe is in. The weapon is otherwise identical to a +2 kama.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, creator must have a Wisdom score of 20, true seeing; 
+Market Price: 32,302 gp; 
+Cost to Create: 16,302 gp + 1,280 XP

@@ -1,0 +1,6 @@
+This hooked +2 spiked chain wraps around foes, entrapping them and dealing continuous damage. On a successful hit, the chain of entangling allows its wielder to attempt to grapple the target. On subsequent attacks, the wielder can attempt to hold the target in the chain. Treat the attack as a normal hold attempt that it deals the damage of the spiked chain rather than unarmed damage. The target may attempt to break the grapple as normal.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, Evard’s black tentacles; 
+Market Price: 32,325 gp;
+Cost to Create: 16,325 gp + 1,280 XP

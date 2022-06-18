@@ -1,0 +1,5 @@
+At first glance the dwarven buckler-axe appears similar to a standard buckler, but this weapon has enlarged bladelike edges at its top and bottom, allowing the wielder to swing it like an axe. Thus, in addition to its obvious protective qualities, it proves a capable off-hand weapon or emergency weapon when disarmed.
+
+ A dwarven buckler-axe grants its wielder a +1 shield bonus to Armor Class. As with any shield, when you attack with a dwarven buckler-axe, you do not get the shield bonus to your AC.
+
+ The buckler-axe also provides a –1 armor check penalty and incurs a 5% arcane spell failure chance for its wielder. Like a spiked shield, a buckler-axe can be enhanced as a weapon, as a shield, or both, but such enhancements must be paid for and applied separately

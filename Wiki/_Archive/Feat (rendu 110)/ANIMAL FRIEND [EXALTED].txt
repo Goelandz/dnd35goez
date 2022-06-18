@@ -1,0 +1,3 @@
+Animals respond favorably to the aura of goodness that exudes from you.
+
+Prerequisites: Cha 15, wild empathy class feature. Benefit: You receive a +4 exalted bonus on wild empathy checks to sway the attitudes of animals and good-aligned magical beasts (including, but not limited to, blink dogs, unicorns, pegasi, and animals with the celestial template). In the case of good magical beasts, this bonus simply eliminates the penalty you normally take when trying to deal with magical beasts rather than animals.

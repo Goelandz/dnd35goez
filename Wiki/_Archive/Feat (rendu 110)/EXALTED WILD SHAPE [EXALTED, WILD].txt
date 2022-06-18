@@ -1,0 +1,6 @@
+You can use your wild shape ability to take the form of a goodaligned magical beast.
+Prerequisites: Wild shape class ability, wild shaping class level 8th.
+
+Benefit: You can use your wild shape ability to turn yourself into a blink dog, giant eagle, giant owl, pegasus, or unicorn.
+
+You can also turn into a celestial version of any animal you could normally transform into. (At the DM’s discretion, other magical beast forms might be available to you. In general, only creatures of CR 3 or lower are possible.) You gain the extraordinary and supernatural abilities of the creature. This ability counts as a use of your wild shape ability and functions the same way

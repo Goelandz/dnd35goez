@@ -1,0 +1,8 @@
+When driven or hammered into a fruit tree, this slim wooden stake causes the tree to go through an amazingly fast rejuvenation, growing extremely healthy and producing an enormous amount of fruit. It takes 1 complete round to complete this growth, at which point the fruit falls to the ground and the tree begins to wither and die. Both the tree and the spike are utterly destroyed in the process.
+
+A single tree produces enough fresh fruit to feed eight creatures for two days, acting like a maximized goodberry spell. After three days, the fruit turns into worthless mush. Fruit blossom spikes do not work on plant creatures such as treants or tendriculos.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, goodberry, plant growth; 
+Market Price: 5,800 gp;
+Weight: —.

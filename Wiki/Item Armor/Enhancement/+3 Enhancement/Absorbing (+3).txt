@@ -1,0 +1,5 @@
+Armor and shields with this enchantment are always a dull black, and appear to possess depths that couldn't exist. A suit of armor or a shield with this enchantment absorbs ability-draining and level-draining attacks. It can absorb as many points of ability damage or levels drained per day as its enhancement bonus. It allows Fortitude saves against energydrain attacks that normally don't allow such saves. A successful save means the attack has half effect. Absorbing armor or a shield does not change saves against attacks that already allow them.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, restoration; 
+Market Price: +3 bonus.

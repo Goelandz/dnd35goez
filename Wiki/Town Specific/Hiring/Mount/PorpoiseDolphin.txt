@@ -1,0 +1,10 @@
+quatic races of all kinds ride porpoises. Rather than saddling the porpoise, riders wear seaweed twisted into a harness. Then they slide loops of braided seaweed around the porpoise’s nose as a bridle and connect these to the harness. This harness grants the same benefits as a military saddle.
+
+Porpoises are an exception to the normal size restrictions for mounts. Thanks to the buoyancy of water, Medium-size creatures can ride porpoises. There is no room for passengers. Porpoises become encumbered quickly, so riders try to shed unnecessary pounds.
+
+Though distinct creatures, porpoises and dolphins are similar enough to share the same statistics.
+
+Carrying Capacity: Light 57 lb., medium 114 lb., heavy 173 lb.; 
+DC Young/Adult: 15/22; 
+Young Price: 100 gp;
+Training Cost: 20 gp.

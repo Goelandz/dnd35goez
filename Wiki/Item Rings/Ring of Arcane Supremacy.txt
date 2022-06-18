@@ -1,0 +1,13 @@
+Ring of Arcane Supremacy 
+
+This simple but potent ring enables you to more effectively penetrate your foe's spell resistance.
+
+Description: This ornate silver ring resembles a serpentine dragon consuming its own tail, in the classic ouroboros position. The band feels slightly warm to the touch, and the dragon's eyes gleam brightly any time the wearer casts a spell.
+
+Activation: A ring of arcane supremacy requires a free action to activate. You must declare that you are using the ring's power before the DM declares whether your caster level check (see Effect, below) results in success or failure. It functions up to three times per day, but not more than once per round.
+
+Effect: The ring grants its wearer the ability to reroll a caster level check made to overcome spell resistance withan arcane spell or invocation. You must take the result of there roll, even if it's worse than the original roll.
+
+Aura/Caster Level: Faint abjuration. CL 3rd.
+Construction: Forge Ring, true casting (page 121), 6,000 gp, 480 XP, 12 days.
+Price: 12,000 gp.

@@ -1,0 +1,4 @@
+Your unarmed attacks deal extra damage to evil creatures.
+Prerequisites: Cha 15, Improved Unarmed Strike, Ki strike (holy), Sanctify Ki Strike.
+
+Benefit: Your unarmed strike deals 2d6 points of extra holy damage to evil creatures. In addition, it is considered holy, which means that it can bypass the damage reduction of some evil outsiders. This does not stack with the extra damage from the Sanctify Ki Strike feat.

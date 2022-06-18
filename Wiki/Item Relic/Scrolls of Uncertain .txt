@@ -1,0 +1,30 @@
+These bundles of rough parchment have long been associated with Wee Jas, although even her lorekeepers don’tknow where the fi rst ones came from. Their name is something of a misnomer: The scrolls of uncertain provenance are not spells stored in written form. Instead, they are a collection of death-obsessed writings in an unknown hand. Those who can command the lore with a set of scrolls of uncertain provenance, it is said, have power over life and death itself.
+
+But there are several barriers to understanding the lore of the scrolls. To begin with, they’re written in nearly every language, ancient and modern, and they sometimes switch languages within the same sentence. One hour of reading allows a DC 20 Knowledge (religion) check to learn anything useful from the scrolls, with a +2 bonus for every language the reader speaks. Multiple readers can assist one another in translation, lending the languages they know automatically, but they share in the risk as well (detailed below). Read magic and comprehend languages spells don’t help a reader under stand the scrolls, so cryptic are their wisdom. A reader—or at least one reader if a group is translating together—must worship Wee Jas to get anything at all from the scrolls. 
+
+The second barrier to reading scrolls of uncertain provenanceis that the reader often draws near to the border between life and death himself. Whenever someone spends an hour reading scrolls of uncertain provenance, they must roll on the following table whether or not they learn anything useful.
+
+d% 	Effect
+01–10 	DC 20 Will save or go insane (as the insanity spell).
+11–30 	DC 20 Will save or the scrolls bestow greater curse upon you.
+31–60 	DC 20 Will save to receive a geas/quest to perform for Wee Jas.
+61–90 	Take 1d6 negative levels as energy drain (DC 20 Fort save negates after 24 hours)
+91–100 	DC 20 Fortitude save or become a ghost for a year and a day.
+
+While the risks of reading scrolls of uncertain provenance are great, so too are the rewards. A character who successfully reads from the scrolls for the listed time can choose from the following benefits.
+
+Time 		Benefit
+1 hour 		Renewal pact for yourself
+2 hours 	Renewal pact for another
+3 hours 	Death pact for yourself
+4 hours 	Death pact for another
+6 hours 	True resurrection (and the scrolls disappear)
+
+To use this relic, at least one reader must worship Wee Jas and either sacrifi ce an 8th-level divine spell slot or have the True Believer feat and at least 15 HD.
+
+Strong necromancy; 
+CL 15th; 
+Sanctify Relic, Craft Wondrous Item, death pact, renewal pact, true resurrection, creator 
+must worship Wee Jas; 
+Price 118,000 gp; 
+Weight 10 lb.

@@ -1,0 +1,5 @@
+A suit of armor or a shield with this enchantment allows the bearer to drain levels with the wearer's touch attack (if armor) or with a shield bash (if shield). Other than the requirement of a touch attack, the magical effect is exactly like an enervation spell cast by a 7th-level wizard. Such armor or shield always has the face of a snarling vampire carved on the front of it.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, enervation; 
+Market Price: +2 bonus.

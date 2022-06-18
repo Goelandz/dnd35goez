@@ -1,0 +1,8 @@
+Anyone wearing a headband of conscious effort can make a Concentration check in place of a required Fortitude saving throw. 
+
+This ability can be activated once per day. Activating the headband is an immediate action that does not provoke attacks of opportunity.
+
+ Moderate transmutation; 
+CL 6th; 
+Craft Wondrous Item, Combat Casting, bear’s endurance; 
+Price 4,000 gp

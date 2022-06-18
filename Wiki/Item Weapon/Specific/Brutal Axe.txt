@@ -1,0 +1,6 @@
+This +1 keen battleaxe has a thick haft and a heavy, almost unbalanced head. Whenever the brutal axe scores a successful critical hit, the wielder may make a free trip attempt against the target. If the brutal axe is used in two hands, the wielder can apply 1 1/2 times his Strength bonus to this trip attempt.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, keen edge; 
+Market Price: 18,310 gp; 
+Cost to Create: 9,310 gp + 720 XP.

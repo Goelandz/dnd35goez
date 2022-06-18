@@ -1,0 +1,14 @@
+Size Modifiers 
+
+A size bonus or penalty is derived from a creature's size category. Size modifiers of different kinds apply to Armor Class, attack rolls, Hide checks, grapple checks, and various other checks.
+
+Size 		Size Modifier
+Colossal 	–8 		
+Gargantuan 	–4 		 
+Huge 		–2 		
+Large 		–1 		
+Medium 		+0
+Small 		+1 
+Tiny 		+2
+Diminutive 	+4 
+Fine 		+8 

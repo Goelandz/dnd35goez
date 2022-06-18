@@ -1,0 +1,5 @@
+This seems to be a ring of spell storing upon first examination. However, while it allows a single spell of 1st through 9th level to be cast into it, that spell cannot be cast out of it again. Instead, should that spell ever be cast upon the wearer, or within 90 feet of the wearer (if the wearer retains line of sight to the caster), the spell is immediately countered, as a counterspell action, requiring no action (or even knowledge) on the wearer’s part. Once so used, the spell cast into the ring is gone. A new spell (or the same one as before) may be placed in it again.
+
+Caster Level: 18th; 
+Prerequisites: Forge Ring, spell turning, wish; 
+Market Price: 16,000 gp.

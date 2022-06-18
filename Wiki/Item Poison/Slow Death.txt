@@ -1,0 +1,3 @@
+An insidiously persistent toxin distilled in part from a dwarven mining acid, slow death eats away at its victims from within. Unlike most poisons, which deal damage in two stages, slow death works constantly over the course of several rounds.
+
+A subject of this poison who fails the initial Fortitude save takes 1d6 points of damage. Each round thereafter, at the beginning of the poisoner’s turn (up to a maximum of 5 rounds), the subject must repeat the saving throw. For each failure, it takes another 1d6 points of damage. Once a save succeeds, the subject takes no further damage

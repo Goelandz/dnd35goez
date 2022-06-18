@@ -1,0 +1,26 @@
+Large Vermin
+Hit Dice: 		3d8+6 (19 hp)
+Initiative: 		+2
+Speed: 			20 ft.; fly 50 ft. (good)
+AC: 			13 (–1 size, +2 Dex, +2 natural), touch 11, flatfooted 11
+Attacks: 		Bite +4 melee
+Damage: 		Bite 1d3+4
+Face/Reach: 		5 ft. by 10 ft./5 ft.
+Special Qualities: 	Vermin, darkvision 60 ft.
+Saves: 			Fort +5, Ref +3, Will +2
+Abilities: 		Str 16, Dex 15, Con 14, Int —, Wis 12, Cha 13
+Skills: 		Hide –2, Intuit Direction +7, Spot +7
+Climate/Terrain: 	Temperate hill and forest
+Organization: 		Solitary or swarm (5–20)
+Challenge Rating: 	1/2
+Treasure: 		None
+Alignment: 		Always neutral
+Advancement: 		4–6 HD (Large); 5–9 HD (Huge)
+
+These vermin make excellent search and rescue creatures. Their abdomens glow a soft yellow or green and shed light in a 10-foot radius. A common trick that riders direct giant fireflies to perform is “Light.” This keeps a firefly’s phosphorescent abdomen lit indefinitely while the riders search for ground targets. Giant fireflies make poor combatants, so their riders flee battle as soon as possible. A giant firefly is 9 feet long.
+
+Training a Giant Firefly: Training a giant firefly as a mount requires a successful Handle Animal check (DC 30). Giant firefly eggs are worth 300 gp on the open market. Professional trainers charge 300 gp to tame a giant firefly.
+
+Riding a giant firefly requires an exotic saddle. A giant firefly can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
+
+Carrying Capacity: Light 228 lb., medium 459 lb., heavy 690 lb.

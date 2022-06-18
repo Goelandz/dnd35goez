@@ -1,0 +1,1 @@
+The animal initiates a grapple attack and attempts to hold a designated enemy in its arms, claws, or teeth. An animal with the improved grab ability uses that ability in the attempt; otherwise, the attack provokes attacks of opportunity. An animal must know the attack trick (Player’s Handbook, page 74) before it can learn this trick.

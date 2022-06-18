@@ -1,0 +1,6 @@
+This +1 longsword is feared by spellcasters for its ability to disrupt their spells. Three times per day, a sword of countering can use dispel magic to counterspell, as the spell from a 13th-level caster. The sword of countering is incapable of dispelling existing effects.
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, dispel magic; 
+Market Price: 33,905 gp; 
+Cost to Create: 17,110 gp + 1,344 XP.

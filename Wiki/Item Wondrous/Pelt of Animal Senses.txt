@@ -1,0 +1,6 @@
+This pelt, worn like a cloak, is made from large predator: a wolf, bear, or great cat. When worn, it grants low-light vision, scent, and a +2 circumstance bonus on Listen checks. Animals react poorly to the wearer while it is worn; herbivores in general become nervous and try to flee, while carnivores generally become aggressive.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, see invisibility; 
+Market Price: 30,080 gp; 
+1 lb.

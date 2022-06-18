@@ -1,0 +1,10 @@
+This slender, unadorned wooden staff is shorter than usual for staffs, only 4 feet long, and it has a leather strap attached, making it easy to sling over the shoulder. It allows use of the following spells:
+• Obscuring mist (1 charge)
+• Pass without trace (1 charge)
+• Improved invisibility (2 charges)
+• Poison (2 charges, DC 16)
+
+Caster Level: 7th; 
+Prerequisites: Craft Staff, improved
+invisibility, obscuring mist, pass without trace, poison; 
+Market Price: 24,000 gp. This price assumes the staff is made by an assassin.

@@ -1,0 +1,35 @@
+Large Magical Beast (Aquatic)
+Hit Dice: 4d10+12 (34 hp)
+Initiative: +2 (Dex)
+Speed: Swim 60 ft.
+AC: 16 (–1 size, +2 Dex, +5 natural), touch 11, flatfooted 14
+Attacks: Tail slap +8 melee, bite +3 melee
+Damage: Tail slap 1d6+5, bite 1d8+3
+Face/Reach: 5 ft. by 10 ft./5 ft.
+Saves: Fort +7, Ref +6, Will +4
+Abilities: Str 20, Dex 15, Con 16, Int 10, Wis 13,
+Cha 13
+Skills: Hide –2, Listen +8, Sense Motive +5, Spot +8,
+Swim +13, Wilderness Lore +5
+Feats: Iron Will
+Climate/Terrain: Temperate and warm aquatic
+Organization: Solitary, pair, or pod (5–20)
+Challenge Rating: 2
+Treasure: None
+Alignment: Always chaotic good
+Advancement: 5–8 HD (Large); 9–12 HD (Huge)
+
+A hippocampus is a thoroughbred steed for the aquatic set. It is prized as an underwater mount and gladly serves good causes.
+
+A hippocampus looks like a horse gone native underwater with colors ranging from black to aquamarine. The front half resembles a horse with
+short hair, except that fins replace hooves and mane. The hindquarters are those of a great fish, with scales and a muscular tail fanning out into a large fin.
+
+Wild hippocampi speed through open water, living wild and free. Though fairly intelligent, they are simple creatures. They enjoy races and displays of strength and endurance. They do not get bored or restless as long as they keep moving and have a challenge or competition. Winning does not even seem to be the most important thing for a hippocampus— simply striving is their joy. Marathon relay races and long distance scavenger hunts are favorite forms of competition.
+
+While they do not take naturally to domesticated life, hippocampi can be convinced that living among an underwater civilization is a good idea. Even domesticated, a hippocampus tries to make a contest out of everyday tasks. If another hippocampus is nearby to challenge, so much the better. Masters try to discourage this behavior, since hippocampi can become quite reckless in the heat of a race.
+
+Hippocampi speak Aquan.
+
+Training a Hippocampus: Training a hippocampus as a mount requires a successful Handle Animal check (DC 22 foal, DC 29 adult). Hippocampus foals are worth 2,500 gp on the open market. Professional trainers charge 1,000 gp to rear or train a hippocampus. Riding a trained hippocampus requires an exotic saddle. A hippocampus can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
+
+Carrying Capacity: Light 459 lb., medium 918 lb., heavy 1,380 lb.

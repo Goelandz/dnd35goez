@@ -1,0 +1,6 @@
+On a critical hit, this weapon deals 1d6+2 points of temporary Strength damage in addition to its regular damage. Spell resistance applies. Bows, crossbows, and slings so crafted confer the enfeebling power upon their ammunition.
+
+Faint necromancy; 
+CL 5th; 
+Craft Magic Arms and Armor, ray of enfeeblement; 
+Price +1 bonus.

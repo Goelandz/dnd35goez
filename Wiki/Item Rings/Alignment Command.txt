@@ -1,0 +1,48 @@
+Similar in some ways to the mighty rings of elemental command, the four varieties of rings of alignment command grant the wearer great power over outsiders of a certain alignment. Each appears to be a lesser magic ring until its powers are fully activated, as described in its entry. The four varieties have the following common properties. 
+
+• Outsiders with the alignment subtype (Chaotic, Evil, Good, or Lawful) to which the ring is attuned can’t attack the wearer, or even approach within 5 feet of her. If the wearer desires, she may forego this protection and instead attempt to charm the outsider (as charm monster, Will save DC 17). If the charm attempt fails, however, absolute protection is lost and no further attempts at charming can be made.
+
+• Outsiders with the alignment subtype to which the ring is attuned who attack the wearer (if a charm attempt fails) take a –1 penalty on their attack rolls. The ring wearer gains a +2 resistance bonus on saving throws against the creature’s attacks. She also gains a +4 morale bonus on all attacks against such creatures. Any weapon she uses bypasses the damage reduction of such creatures, regardless of whether it has a sufficient enhancement bonus to do so.
+
+• The wearer of the ring is able to converse with creatures with the alignment subtype to which her ring is attuned. These creatures recognize that she wears the ring. They show a healthy respect for the wearer if alignments are similar. If alignments are opposed, creatures fear the wearer if she is strong. If she is weak, they hate and desire to slay her. Fear, hatred, and respect are determined by the DM.
+
+• The possessor of a ring of alignment command takes a saving throw penalty as follows:
+	Alignment Saving Throw Penalty
+	Chaotic –2 against lawful spells
+	Evil –2 against good spells
+	Good –2 against evil spells
+	Lawful –2 against chaotic spells
+
+In addition to the powers described above, each specific ring gives its wearer the following abilities according to its alignment.
+
+Chaotic: This ring has the following powers.
+	• Random action (unlimited use)
+	• Shatter (unlimited use)
+	• Chaos hammer (2/day)
+	• Dispel law (1/day)
+	• Animate objects (1/week)
+
+Evil: This ring has the following powers.
+	• Bane (unlimited use)
+	• Desecrate (unlimited use)
+	• Unholy blight (2/day)
+	• Dispel good (1/day)
+	• Create undead (1/week)
+
+Good: This ring has the following powers.
+	• Bless (unlimited use)
+	• Aid (unlimited use)
+	• Holy smite (2/day)
+	• Dispel evil (1/day)
+	• Blade barrier (1/week)
+
+Lawful: This ring has the following powers.
+	• Command (unlimited use)
+	• Calm emotions (unlimited use)
+	• Order’s wrath (2/day)
+	• Dispel chaos (1/day)
+	• Hold monster (1/week)
+
+Caster Level: 15th; 
+Prerequisites: Forge Ring, planar ally, all appropriate spells; 
+Market Price: 200,000 gp

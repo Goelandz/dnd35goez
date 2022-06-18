@@ -1,0 +1,13 @@
+Deities: Heironeous, Moradin, St. Cuthbert.
+Granted Power: Gain a +4 bonus on all dispel checks.
+
+Inquisition Domain Spells
+1 Detect Evil. Reveals creatures, spells, or objects.
+2 Zone of Truth. Subjects within range can't lie.
+3 Detect Thoughts. Allows "listening" to surface thoughts.
+4 Discern Lies. Reveals deliberate falsehoods.
+5 True Seeing. See all things as they really are.
+6 Forbiddance. Denies area to creatures of another alignment.
+7 Dictum. Kills, paralyzes, weakens, or dazes nonlawful subjects.
+8 Holy Aura. +4 AC, +4 resistance, and SR 25 against evil spells.
+9 Trap the Soul. Imprisons subject within gem.

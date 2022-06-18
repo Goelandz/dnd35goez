@@ -1,0 +1,36 @@
+Light Sources and Illumination 
+Object 			Bright 		Shadowy 	Duration 
+Candle 			n/a 		5 ft. 		1 hr. 
+Everburning torch 	20 ft. 		40 ft. 		Permanent 
+Lamp, common 		15 ft. 		30 ft. 		6 hr./pint 
+Lantern, bullseye	60-ft. cone 	120-ft. cone	6 hr./pint 
+Lantern, hooded 	30 ft. 		60 ft. 		6 hr./pint 
+Sunrod 			30 ft. 		60 ft. 		6 hr. 
+Torch 			20 ft. 		40 ft. 		1 hr. 
+
+Spell Bright Shadowy Duration 
+Continual flame 	20 ft. 		40 ft. 		Permanent 
+Dancing lights 		20 ft. (each) 	40 ft. (each) 	1 min. 
+Daylight 		60 ft. 		120 ft. 	30 min. 
+Light 			20 ft. 		40 ft. 		10 min
+
+Underwater light
+Depth 			Bright 		Shadowy
+30 ft. or less 		100 ft. 	200 ft.
+31–60 ft. 		60 ft. 		120 ft.
+61–120 ft. 		30 ft. 		60 ft.
+121–180 ft. 		20 ft. 		40 ft.
+181–300 ft. 		10 ft. 		20 ft.
+301 ft. or more 	— 		—
+
+ Creatures with low-light vision can see objects twice as far away as the given distance, just as they do by torchlight 
+or lantern light. Similarly, creatures with darkvision can see out to the extent of their darkvision.
+
+Murky Water: Water containing a lot of sediment, debris, or organic matter is often quite murky. Most rivers and lakes are murky, while some are very murky.
+
+ Murky water reduces the radius of illumination provided by a light source (the sun or a carried light source, such as 
+an object with a light spell cast on it) by 50%, since light scatters and reflects from matter hanging in the water. For 
+example, a sunrod normally provides bright illumination to a range of 30 feet and shadowy illumination to 60 feet, 
+but in murky water these are reduced to 15 feet and 30 feet, respectively.
+
+ Very murky or muddy water obscures all sight, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment (20% miss chance). 

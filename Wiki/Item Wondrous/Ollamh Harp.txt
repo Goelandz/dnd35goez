@@ -1,0 +1,7 @@
+This masterwork harp grants a +2 circumstance bonus on Perform (string instruments) checks and a +7 competence bonus on a bard’s bardic music checks for countersong, fascinate, and suggestion. A character with 14 ranks in Perform (string instruments) can use the instrument to cast control weather, eyebite, and repulsion each once per day. The instrument bestows one negative level on any creature that doesn’t have at least 14 ranks in Perform (string instruments).
+
+ Strong various; 
+CL 17th; 
+Craft Wondrous Item, control weather, eyebite, repulsion, creator must be a bard; 
+Price 83,600 gp; 
+Weight 3 lb.

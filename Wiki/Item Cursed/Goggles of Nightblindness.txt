@@ -1,0 +1,6 @@
+ While they appear exactly like goggles of night, the effect of these lenses is almost completely opposite. When first worn, they grant the wearer darkvision with a range of 60 feet. As soon as the wearer attacks a creature while using darkvision, however, she becomes completely unable to see except in conditions of bright light (such as sunlight or the daylight spell) thereafter. Once the curse is activated, the goggles of nightblindness can be removed only be means of a remove curse spell.
+
+Caster Level: 16th; 
+Prerequisites: Craft Wondrous Item, darkvision, bestow curse; 
+Market Price: 1,000 gp; 
+Weight: —.

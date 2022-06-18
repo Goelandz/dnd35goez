@@ -1,0 +1,6 @@
+The blade of this elegant +2 holy longsword is inscribed with runes and symbols sacred to the clergy of Heironeous. While holding the sword of crypts, a cleric gains one extra turn undead attempt per day. In addition, if the wielder is a cleric of Heironeous, the sword provides a +2 enhancement bonus on the wielder’s turn damage on all attempts to turn undead.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be good, holy smite; 
+Market Price: 42,315 gp; 
+Cost to Create: 21,315 gp + 1,680 XP

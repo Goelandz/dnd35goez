@@ -1,0 +1,5 @@
+A radiant weapon can give off brilliant light. At will, it emits daylight as the spell cast by a 9th-level cleric.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, daylight; 
+Market Price: +2 bonus.

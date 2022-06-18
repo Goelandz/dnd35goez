@@ -1,0 +1,8 @@
+This handful of sharp gray flint chips is usually found inside a tattered brown pouch. When emptied onto solid earth or stone, the shards burrow into the earth, causing a slight tremor.
+
+In 1d4+1 rounds, an equal number of Small earth elementals claw to the surface. The elementals are not under any control, although they can be controlled later through charm monster, dominate monster, and so on. They attack the nearest creature or creatures, then continue their rampage until destroyed or banished.
+
+Caster Level: 17th; 
+Prerequisites: Craft Wondrous Item, elemental swarm; 
+Market Price: 7,650 gp;
+Weight: —.

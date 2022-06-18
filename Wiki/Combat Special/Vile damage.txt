@@ -1,0 +1,1 @@
+Vile damage, like regular damage, results in the loss of hit points or ability score points. Unlike regular damage, vile damage can only be healed by magic cast within the area of a consecrate or hallow spell. Vile damage represents such an evil violation to a character’s body or soul that only in a holy place can healing magic repair the damage.

@@ -1,0 +1,5 @@
+Only ranged weapons can have this ability. A precise weapon can be shot or thrown at an opponent engaged in melee without incurring the standard –4 penalty. This weapon doesn’t grant any further benefit to wielders who already have the Precise Shot feat.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, Precise Shot; 
+Market Price: +1 bonus.

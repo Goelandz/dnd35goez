@@ -1,0 +1,6 @@
+This +3 disruption heavy mace is the favored weapon of astral devas. It always shines light equivalent to a torch (20-foot radius).
+
+Caster Level: 14th; 
+Prerequisites: Craft Magic Arms and Armor, heal; 
+Market Price: 50,312 gp; 
+Cost to Create: 25,312 gp + 2,000 XP.

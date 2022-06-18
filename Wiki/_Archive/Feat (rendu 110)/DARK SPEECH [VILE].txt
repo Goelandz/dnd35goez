@@ -1,0 +1,9 @@
+The character learns a smattering of the language of truly dark power.
+
+Prerequisite: Base Will save bonus +5, Int 15, Cha 15.
+
+Benefit: The character can use the Dark Speech to bring loathing and fear to others, to help cast evil spells and create evil magic items, and to weaken physical objects (see Dark Speech in Chapter 2).
+
+Normal: Attempting to utter a word of the Dark Speech always ends in immediate death for a speaker who is not trained in its dark power. Fortunately, it is impossible to make someone use the Dark Speech if he or she is unwilling, because the language’s pronunciation is so exacting. 
+
+Special: The character gains a +4 circumstance bonus on saving throws made when someone uses the Dark Speech against him or her.

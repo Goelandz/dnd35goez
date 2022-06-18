@@ -1,0 +1,7 @@
+A suit of armor or shield with this enchantment has the supernatural ability set by its creator to affect creatures either by alignment or by a specific creature type (see the antipathy spell in the Player's Handbook). The power is usable once per day as a standard action. Creatures of the specified type within 60 feet must make a Will save (DC 24) or flee this zone and not voluntarily reenter it for 2 hours.
+
+Affected creatures within the zone suffer a -4 penalty to Dexterity as long as they remain in the affected area. The zone is mobile with the wearer. If the wearer moves so a creature that fled is once more in the zone, then the creature is allowed another saving throw.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, antipathy, 
+Market Price: +4 bonus.

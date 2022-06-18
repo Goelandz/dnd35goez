@@ -1,0 +1,1 @@
+If possible, the creature deals subdual damage instead of normal damage.

@@ -1,0 +1,6 @@
+A suit of armor or shield with this ability has a slick sheen and is constantly covered in a layer of lightly smoking acid. The wearer (and anything she carries) is immune to acid, including that produced by the armor. Acidic armor deals 2d4 points of acid damage per round of contact during a grapple; momentary touch attacks have no effect. Objects not held by the wearer can be damaged by direct contact with the armor for a full round.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor; 
+Melf ’s acid arrow, resist elements; 
+Market Price: +4 bonus.

@@ -1,0 +1,15 @@
+This copper wand-sized handgrip allows you to apply your metamagic feats to wands.
+
+Description: A metamagic wandgrip is made of copper. It is unadorned except for a single magical rune carved out of the handgrip, so that the wielder's skin is exposed to the magic item through that rune.
+
+The hollow rune glows whenever the item is used, though its position inside the closed hand makes this difficult to see (Spot DC 15).
+
+Activation: Activating a metamagic wandgrip is subsumed in the activation of the wand. It functions only three times per day. Placing a wand into the wandgrip (or removing a wand from it) requires a move action.
+
+Effect: You can apply any one metamagic feat you know to a wand placed within the wandgrip. Doing this drains an additional number of charges from the item equal to the normal cost of that feat in spell slots. For instance, Extend Spell normally raises the cost of a spell by one level, so using Extend Spell on a wand or staff would drain one additional charge (on top of the cost of the spell being cast) from the item.
+
+In all other ways, this item functions as i£ you had the Metamagic Spell Trigger feat (see page 45).
+
+Aura/Caster Level: Moderate transmutation. CL 6th.
+Construction: Craft Wondrous Item, Metamagic Spell Trigger (page 45), 3,000 gp, 240 XP, 6 days.
+Price: 6,000 gp.

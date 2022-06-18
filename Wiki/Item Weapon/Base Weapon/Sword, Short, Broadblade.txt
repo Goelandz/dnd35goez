@@ -1,0 +1,5 @@
+Broadblade short swords have a wider blade and crossguard than normal swords. This feature makes them more difficult to wield in combat, but the design allows skilled users to defend themselves better when fighting cautiously.
+
+ If you are proficient with the broadblade short sword and you fi ght defensively or employ the total defense combat maneuver, you gain a +2 dodge bonus to AC for the rest of the round in addition to the normal AC bonus from the combat maneuver (+2 for fi ghting defensively or +4 for total defense). This bonus also applies if you are profi cient with the weapon, have the Combat Expertise feat, and shift at least 2 points of your attack bonus to AC for the round. Because of its benefit when fi ghting defensively, the broadblade short sword is a popular off-hand weapon. 
+
+ Characters profi cient with the broadblade short sword can treat it as a short sword for the purpose of any of the following feats: Greater Weapon Focus, Greater Weapon Specialization, Improved Critical, Weapon Focus, and Weapon Specialization.

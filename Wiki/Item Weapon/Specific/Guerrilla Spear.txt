@@ -1,0 +1,6 @@
+This +2 shortspear is extremely effective when used in ambush. Whenever the wielder makes a successful attack against an opponent who is denied his Dexterity bonus to Armor Class, the guerrilla spear deals an additional 2d6 points of damage.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, invisibility; 
+Market Price: 32,302 gp; 
+Cost to Create: 16,302 gp + 1,280 XP.

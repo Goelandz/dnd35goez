@@ -1,0 +1,9 @@
+There are actually many varieties of this item, and they vary so widely in appearance that it is practically impossible to characterize them at all. Each kind of rod of embassy is keyed to a different plane of existence, most to a specific Outer Plane. In general, the design and decoration of a given rod is strongly reminiscent of the plane it is keyed to.
+
+Thus, a rod of embassy keyed to the Seven Mounting Heavens of Celestia is made of precious metals and includes images of archons, while one keyed to the Ever-Changing Chaos of Limbo is almost amorphous, resembling an elongated ooze, though careful examination reveals the likenesses of slaadi lightly etched into its surface.
+
+When a creature carries a rod of embassy keyed to its home plane, it is considered to be on that plane for as long as it holds the rod. The creature’s type does not change, but it is no longer considered an extraplanar creature. Thus, it cannot be sent away by banishment or dismissal, or even the powerful blasphemy, dictum, holyword, and word of chaos spells. In addition, it can use similar spells to banish other extraplanar creatures as if it were on its home plane. If a creature holds a rod of embassy keyed to a plane that is not that creature’s home plane, the rod has no effect.
+
+Caster Level: 9th; 
+Prerequisites: Craft Rod, plane shift;
+Market Price: 20,000 gp

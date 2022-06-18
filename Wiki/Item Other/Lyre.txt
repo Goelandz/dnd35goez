@@ -1,0 +1,7 @@
+A simpler ancestor of the lap-harp, a lyre typically has a body made out of a turtle shell, plus two curved arms and a crossbar to hold its four to six (or, more rarely, eight) gut or sinew strings taut. To play a lyre, the musician holds it in one hand while strumming or plucking the strings with the other.
+
+The very simplicity of a lyre is its charm, since even a novice can strum one to credible effect. Because of this accessibility and the fact that they’re easy to make, lyres are popular among the sylvan fey (especially satyrs) and country folk in general. On occasion, however, a true master adopts it as a signature instrument, producing astonishing effects.
+
+Bardic Music: A bard playing a lyre can target one more creature than normal with her fascinate ability and inspire heroics abilities.
+
+ A bard who uses a lyre for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components. 

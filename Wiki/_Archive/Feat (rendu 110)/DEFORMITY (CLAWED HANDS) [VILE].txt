@@ -1,0 +1,7 @@
+Because of intentional self-mutilation, the character has deformed arms and hands ending in sharp claws. 
+
+Prerequisite: Willing Deformity.
+
+Benefit:The character has the ability to deal 1d6 points of damage as an unarmed claw attack. The character is considered armed even when unarmed.
+
+Special: The character does not draw attacks of opportunity when attacking unarmed, and he threatens areas even when unarmed. 

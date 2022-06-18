@@ -1,0 +1,7 @@
+The creature can use a spell-like ability with greater effect.
+
+Benefit: All variable, numeric effects of an empowered spell-like ability are increased by one-half. An empowered spell-like ability deals half again as much damage as normal, cures half again as many hit points, affects half again as many targets, and so on as appropriate. For example, a night hag’s empowered magic missile deals one and one-half times normal damage (roll 1d4+1 and multiply the result by 1.5 for each missile). Saving throws and opposed rolls (such as the one made when a character casts dispel magic) are not affected. Spell-like abilities without random variables are not affected.
+
+Each of a creature’s spell-like abilities can be empowered twice per day, though the feat does not allow the creature to exceed its normal usage limit for any ability. Thus, if a night hag chooses to empower its magic missileability, it can use an empowered magic missile up to two times that day. Thereafter, it could use its magic missile ability again normally (since it can use magic missile at will), or it could corrupt another of its spell-like abilities, such as sleep.
+
+Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to each of its spell-like abilities two additional times per day

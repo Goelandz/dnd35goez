@@ -1,0 +1,5 @@
+A suit of armor or a shield with this quality assists only wearers who have the ability to turn or rebuke undead. Sacred armor or a sacred shield increases the owner’s effective level for the turning check by +2. Armor and shields with this ability are always specific to a deity and prominently feature the god’s holy symbol.
+
+Caster Level: 8th; 
+Prerequisites: Craft Magic Arms and Armor, ability to turn or rebuke undead; 
+Market Price: +2 bonus.

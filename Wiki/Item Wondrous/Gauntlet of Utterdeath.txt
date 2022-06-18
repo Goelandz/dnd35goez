@@ -1,0 +1,7 @@
+This spiked gauntlet of jet-black steel smells faintly of brimstone. If the wearer succeeds on a melee touch attack, the target must make a DC 20 Fortitude save or be reduced to a pile of smoldering cinders. If the Fortitude save succeeds, the target instead takes 10d6 points of damage. A gauntlet of utterdeath is usable three times per day.
+
+ Strong necromancy; 
+CL 13th; 
+Craft Wondrous Item, destruction; 
+Price 96,000 gp; 
+Weight 2 lb.

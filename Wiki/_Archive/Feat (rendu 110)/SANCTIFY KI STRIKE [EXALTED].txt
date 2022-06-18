@@ -1,0 +1,4 @@
+Sacred power suffuses your unarmed strikes.
+Prerequisites:Improved Unarmed Strike, Ki strike (lawful), Cha 15.
+
+Benefit: Your unarmed strikes deal 1 extra point of damage to evil creatures, or 1d4 points to evil outsiders and evil undead. In addition, they are considered good-aligned for purposes of overcoming damage reduction.

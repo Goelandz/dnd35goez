@@ -1,0 +1,4 @@
+This plain gray powder is unassuming; it can’t be seen with normal vision from more than 10 feet away. When viewed with darkvision, however, it glows brightly. Creatures that have darkvision commonly use this powder to write messages that other creatures cannot read. Each vial contains enough powder for a reasonably lengthy sentence.
+
+DC To Create	20
+Cost		10 gp

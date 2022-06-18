@@ -1,0 +1,14 @@
+Deities: Estanna.
+
+Granted Power: Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.
+
+Community Domain Spells
+1 	Bless: Allies gain +1 attack and +1 on saves against fear.
+2	Status: Monitors condition, position of allies.
+3 	Prayer: Allies gain +1 on most rolls, and enemies take –1.
+4 	Greater Status: As status, but cast some spells through bond.
+5 	Rary’s Telepathic Bond: Link lets allies communicate.
+6 	Heroes’ Feast: Food for one creature/level cures and blesses.
+7 	Refuge M: Alters item to transport its possessor to you.
+8 	Sympathy M: Object or location attracts certain creatures.
+9 	Mass Heal: As heal, but with several subjects.

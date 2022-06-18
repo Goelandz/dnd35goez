@@ -1,0 +1,10 @@
+This small, elaborately carved silver tube is designed to hold a single piece of normal chalk. On mental command, the user can “draw” in the air, which leaves behind a vibrant blue line of crackling energy. Once a complete circle has been formed, the enclosed space suddenly disappears, creating a gate to wherever the user wishes. It only allows the planar travel aspect of the gate spell, not the ability to call forth creatures. 
+
+The item allows its user to draw only a circle. The user can feel it resisting anything but a curved line. There is no size limit to the circle, but it must be completely drawn in 1 full round to create the gate. 
+
+The dimensional chalk holder can draw 1d4+1 gates before crumbling into dust. Drawing a line counts as one use, regardless of whether a complete circle was made or not.
+
+Caster Level: 17th; 
+Prerequisites: Craft Wondrous Item, gate; 
+Market Price: 22,950 gp; 
+Weight: —.

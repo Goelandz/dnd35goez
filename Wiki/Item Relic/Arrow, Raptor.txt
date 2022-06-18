@@ -1,0 +1,13 @@
+Legend says these arrows (there are reputedly fi ve) gained relic status when Ehlonna used them to slay a great wyrm green dragon that was rampaging through a forest primeval. A raptor arrow is a +3 arrow with a variant of the returning quality. At the beginning of the round after it is fi red from a bow, a raptor arrow wrenches itself from whatever it hit (dealing 1d8 points of damage), fl ies up to 400 feet 
+
+through the air, and restrings itself in the bow from which it was fi red. Unlike most ammunition, raptor arrows are never destroyed when they hit their target.
+
+If a ranger fi res a raptor arrow at a favored enemy, the arrow additionally gains the bane quality against that foe.
+
+To use this relic, you must worship Ehlonna and either sacrifi ce a 6th-level divine spell slot or have the True Believer feat.
+
+Strong evocation; CL 12th; Sanctify Relic, Craft 
+Magic Arms and Armor, bane bow*, creator must worship Ehlonna; 
+Price 14,500 gp; 
+Cost 7,273 gp + 580 XP.
+*New spell described in Chapter 7 of this book

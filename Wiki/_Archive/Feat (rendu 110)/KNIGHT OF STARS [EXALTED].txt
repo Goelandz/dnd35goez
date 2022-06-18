@@ -1,0 +1,5 @@
+You swear allegiance to the Court of Stars, the paragons of the eladrin, and in exchange gain power to act on their behalf.
+
+Benefit: Once per day, while performing an act of good, you may call upon your eladrin patron to gain a +1 luck bonus on any one roll or check.
+
+Special: Once you take this feat, you may not take it again, nor can you take either the Servant of the Heavens feat or the Favored of the Companions feat. Your allegiance is only yours to give once

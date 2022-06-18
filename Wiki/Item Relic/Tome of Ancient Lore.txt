@@ -1,0 +1,9 @@
+Allegedly penned by Boccob himself and “borrowed” from his library, this leather-bound book is overstuffed with yellowing sheets of parchment. Its magical pages contain every conceivable spell, but the tome of ancient lore (and copies made since the original left Boccob’s library) is cursed with a deliberately confusing, everchanging system of cross-referencing. The pages within the tome rearrange themselves, apparently at random. Finding anything useful by browsing is impossible, but a reader who uses the index at the back has a 90% chance of fi nding any arcane spell within the tome’s pages (retries for the same spell within 24 hours fail). Spells read from the tome of ancient loretake half as long to prepare as normal.
+
+ To use this relic, you must worship Boccob and either sacrifice a 5th-level divine spell slot or have the True Believer feat and at least 9 HD.
+
+ Moderate transmutation; 
+CL 10th; 
+Sanctify Relic, Craft Wondrous Item, secret page, creator must worship Boccob;
+Price 22,000 gp; 
+Weight 2 lb.

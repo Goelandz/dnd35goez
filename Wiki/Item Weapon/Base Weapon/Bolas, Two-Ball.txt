@@ -1,0 +1,4 @@
+A set of two-ball bolas consists of two heavy wooden spheres connected by lengths of cord. It is a ranged weapon used to trip an opponent. When you throw a set of bolas, you make a ranged touch attack against your opponent. If you hit, your
+opponent must succeed on a Dexterity or Strength check opposed by your Strength check or be tripped.
+
+Bolas can only trip Medium-size or smaller targets. Your opponent cannot trip you when you make a trip attack with a set of two-ball bolas.

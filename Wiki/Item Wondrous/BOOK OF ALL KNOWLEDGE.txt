@@ -1,0 +1,18 @@
+Price (Item Level): 3, 000 gp (7th) 
+Body Slot: —(held) 
+Caster Level: 5th 
+Aura: Faint (DC 17); divination 
+Activation: See text 
+Weight: 8 lb. 
+
+The pages of this enormous tome are rough-edged and yellowed. 
+
+Embossed on the worn, blue leather cover is the holy symbol of Boccob. 
+
+A book of all knowledge is said to contain all the secrets of the world, but few mortals are capable of accessing all that information. Its pages are apparently infinite; no matter how many you turn, more still remain unturned. Once per day, you can attempt a single Knowledge check (as if you were trained) with a +10 insight bonus after perusing the book for 2d4 hours. 
+
+If you're a worshiper of Boccob (or any deity that offers access to the Knowledge domain), the time required is only ld4 hours. 
+
+Cost to Create: 1, 500 gp, 120 XP, 3 days. 
+
+Prerequisites: Craft Wondrous Item, lore of the gods*', worshiper of Boccob. 

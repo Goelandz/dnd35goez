@@ -1,0 +1,5 @@
+A suit of armor or a shield with this enchantment appears to be carved from ice. The enchantment has two effects. First, it simulates a slow spell cast by a 5th-level wizard. This affects the first five opponents to come within 30 feet of the wearer. Second, the wearer may invoke a ray of frost as if a 5th-level wizard, up to five times per day. The ray springs from the front of the armor or shield.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, slow, ray of frost; 
+Market Price: +3 bonus.

@@ -1,0 +1,5 @@
+You have willingly given yourself to the service of a good deity or cause, denying yourself an ordinary life to better serve your highest ideals.
+
+Benefit: You gain a +2 perfection bonus on Diplomacy checks.
+
+Special: This feat serves as the prerequisite for several other feats, including the Vow of Abstinence, Vow of Chastity, Vow of Nonviolence, Vow of Obedience, Vow of Peace, Vow of Poverty, and Vow of Purity.

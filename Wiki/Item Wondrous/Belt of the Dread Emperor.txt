@@ -1,0 +1,6 @@
+If a willing (or dominated or helpless) humanoid creature is attached to the wearer of this belt by a chain and a manacle (see armor of the Dread Emperor), the wearer can draw energy from that creature to power spells. The belt of the Dread Emperor functions for all spellcasters who prepare spells (including clerics, druids, rangers, paladins, and wizards). The belt enables the wearer to recall a prepared spell, even if the spell has already been cast, as long as the spell was among those he most recently prepared. For each spell recalled, the chained creature takes damage equal to the square of the spell’s level: A recalled 1stlevel spell deals 1 point of damage, a 2nd-level spell deals 4 points, a 3rd-level spell deals 9 points, and so on, up to a 9thlevel spell that deals 81 points of damage. If the chained creature does not have enough hit points left to power a desired spell, the spell fails and the creature dies. 
+
+Caster Level: 17th; 
+Prerequisites: Craft Wondrous Item, creator must be able to cast 9th-level spells; 
+Market Price: 120,000 gp; 
+Weight: 1 lb.

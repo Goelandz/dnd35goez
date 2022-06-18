@@ -1,0 +1,6 @@
+You can turn bonus damage into nonlethal damage.
+Prerequisites: Subduing Strike.
+
+Benefit: When you use your weapon to deal nonlethal damage, you can also transform bonus damage from a holy weapon, your smite evil class ability, or your smite granted power into nonlethal damage.
+
+Special: A fighter may select Holy Subdual as one of his fighter bonus feats.

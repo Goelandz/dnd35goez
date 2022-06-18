@@ -1,0 +1,6 @@
+You can channel holy power into your spell-like abilities.
+Prerequisites: Any good alignment.
+
+Benefit:This feat adds the good descriptor to a spell-like ability. Furthermore, if the ability deals damage, half that damage (rounded down) results from divine power and can’t be reduced by resistance or immunity to energy-based attacks. For example, if a consecrated lightning bolt from an avoral deals 31 points of damage, 16 points of that is electricity damage and the other 15 points is not. Thus, a nongood creature immune to electricity still takes 15 points of damage if it fails its Reflex save. 
+
+Each of your spell-like abilities can be consecrated three times per day, though this feat does not allow you to exceed your normal usage limit for any ability. Thus, if a tulani eladrin chooses to consecrate its chain lightning ability, it can use a consecrated chain lightning up to three times that day. Thereafter, it could use its chain lightning ability again normally (since it can use chain lightning at will), or it could consecrate another of its spell-like abilities, such as meteor swarm.

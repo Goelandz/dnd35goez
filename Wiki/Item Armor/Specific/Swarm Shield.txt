@@ -1,0 +1,6 @@
+ This shield appears to be a single bracer when first worn. When the command word is spoken, thousands of flying insects swarm toward the bracer, converging in a circular shape the size of a small shield. The insects move with the wearer’s arm and act as a +1 small shield. Once per day, when the wearer speaks a second command word, the insects stream away from the wearer’s arm toward a target as if the wearer had cast summon swarm (with the flying beetles swarm type). The swarm lasts as long as the wearer concentrates, but she has no shield while the swarm is active.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Magic Arms and Armor, summon swarm; 
+Market Price: 6,160 gp; 
+Cost to Create: 3,155 gp + 241 XP.

@@ -1,0 +1,6 @@
+You can charge your damaging spells with celestial energy that leaves good creatures unharmed.
+Prerequisites: Any good alignment.
+
+Benefit: A spell you modify with this feat gains the good descriptor. Furthermore, if the spell deals damage, neutral creatures take half damage, or one-quarter with a successful saving throw (if allowed), while good creatures take no damage at all. Evil outsiders affected by the spell take extra damage: The spell’s damage is increased by one die type (each 1d6 becomes 1d8, each 1d8 becomes 2d6, and so on, using the same progression as weapons increasing in size). For example, a purified lightning bolt cast by a 7th-level wizard deals 7d6 points of electricity damage to evil creatures, half damage to neutral creatures, and no damage at all to good creatures caught in its path. Evil outsiders (except ones immune to electricity) take 7d8 points of damage.
+
+A purified spell uses up a spell slot one level higher than the spell’s actual level.

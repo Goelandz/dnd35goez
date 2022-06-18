@@ -1,0 +1,6 @@
+This eight-stringed masterwork mandolin grants a +2 circumstance bonus on Perform (string instruments) checks and a +4 competence bonus on a bard’s bardic music checks for countersong, fascinate, and suggestion. A character with 8 ranks in Perform (string instruments) can use the instrument to cast cure serious wounds, dispel magic, or summon monster III each once per day. When held, the instrument bestows one negative level on any creature that doesn’t have at least 8 ranks in Perform (string instruments).
+
+ Moderate various; 
+CL 8th; 
+Craft Wondrous Item, cure serious wounds, dispel magic, summon monster III, creator must be a bard; 
+Price 23,400 gp; Weight 3 lb.

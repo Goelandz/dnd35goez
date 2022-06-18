@@ -1,0 +1,10 @@
+This staff, which benefi ts lawful good spellcasters the most, allows use of the following spells:
+• Dispel evil (2 charges)
+• Dispel chaos (2 charges)
+• Order’s wrath (1 charge)
+• Holy smite (1 charge)
+
+Moderate abjuration; 
+CL 9th; 
+Craft Staff, dispel chaos, dispel evil, holy smite, order’s wrath; 
+Price 28,266 gp.

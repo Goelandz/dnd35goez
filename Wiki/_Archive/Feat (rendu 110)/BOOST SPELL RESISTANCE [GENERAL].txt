@@ -1,0 +1,5 @@
+By making a deal with an evil power, the character makes himself even more resistant to magic. 
+
+Prerequisite: Any evil alignment.
+
+Benefit: If the character already has innate spell resistance, he gains a +2 profane bonus to his existing spell resistance score.

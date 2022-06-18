@@ -1,0 +1,10 @@
+Also called the Sword of the Avenger, this weapon is a +1 reptile bane short sword with a pommel carved to resemble a falcon’s head. Its bane property affects all reptiles, including creatures with the reptilian subtype, yuan-ti, mundane and magical snakes, nagas, and possibly other creatures at the DM’s discretion (but not dragons). In addition to its magical bonuses in combat, it possesses the ability to communicate through empathy and a few special powers that reflect the deity Re-Horakhty’s eternal opposition to his enemy Set and Set’s serpentine minions. The sword can neutralize poison three times per day, though it is effective only against snake venom, not the poison of scorpions, spiders, or even other reptiles. It can neutralize the poison of yuan-ti, however, and any other monster that is basically snakelike. In addition, the wielder of the sword gains a +2 bonus on saving throws against snake venom.
+AL LG; 
+SV Fort +9, Ref +9, Will +8; 
+Str —, Dex —, Con —, Int 12, Wis 9, Cha 16, 
+Ego 10.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, neutralize poison, summon monster I;
+Market Price: 38,030 gp; 
+Cost to Create: 19,170 gp + 1,509 XP.

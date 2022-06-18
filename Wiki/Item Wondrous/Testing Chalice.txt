@@ -1,0 +1,24 @@
+Made from tough clear glass, this chalice immediately discerns the properties of any liquid poured into it. The color of the chalice varies depending on the liquid poured into it. The opacity of the chalice also varies, depending on the strength of the liquid.
+
+Chalice Color 		Liquid (example)
+Clear 			Water
+Black 			Poison
+Red 			Potion (magical, not alchemical)
+Blue 			Alchemical liquid (antitoxin, alchemist’s fire)
+Green 			Acid
+Silver, shiny 		Holy water
+Silver, tarnished 	Unholy water
+Purple 			Any other liquid (oil, blood)
+
+Chalice Opacity 	Strength/purity (example)
+Clear 			Very weak/very impure (filthy water)
+Translucent 		Average/slightly impure (pond water)
+Smoky 			Strong/very pure (well water)
+Solid 			Extremely strong/completely pure (distilled water)
+
+The stronger the holy water, the more reflective the glass. The stronger the unholy water, the more tarnished it becomes.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Wondrous Item, detect magic, detect poison; 
+Market Price: 4,000 gp; 
+Weight: 1/2 lb.

@@ -1,0 +1,11 @@
+This tabard, said to be among the burial raiments of Shedlazzar IV, takes the wearer to the Ethereal Plane on command (as the ethereal jaunt spell) for up to 10 rounds per day, which need not be continuous. The effect is dismissible. 
+
+While on the Ethereal Plane, the spells you cast affect the Material Plane normally, unlike those of spellcasters who reach the Ethereal Plane by another means.
+
+To use this relic, you must worship Nerull and either sacrifice a 7th-level divine spell slot or have the True Believer feat and at least 13 HD.
+
+Moderate transmutation; 
+CL 10th; 
+Sanctify Relic, Craft Wondrous Item, ethereal jaunt, creator must worship Nerull; 
+Price 68,600 gp; 
+Weight 1 lb.

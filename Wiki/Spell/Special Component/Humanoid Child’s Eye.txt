@@ -1,0 +1,1 @@
+A spell that this component is applied to has a 20% chance to have its duration doubled. The eye must be intact and fresh or (or preserved).

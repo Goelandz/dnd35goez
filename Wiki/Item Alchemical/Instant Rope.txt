@@ -1,0 +1,4 @@
+When poured from a flask, this viscous gray liquid forms into a long cord usable as a temporary rope. Upon being exposed to air, the liquid rapidly increases in both volume and viscosity, swelling to the diameter of a typical hemp rope, then quickly drying. A flask of instant rope forms a 30-foot-long cord; it takes 2 rounds for it to solidify and dry enough to be used. The instant rope can be moved during this period without damaging it, but it cannot support more than 10 pounds of weight without breaking. Once completely dry, instant rope can support as much weight as normal hemp rope. After an hour, instant rope becomes too brittle to support any weight and quickly crumbles into dust.
+
+DC To Create	15
+Cost		25 gp

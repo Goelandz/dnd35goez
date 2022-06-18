@@ -1,0 +1,6 @@
+Skin paint armor was brought to civilization from remote barbarian tribes. This magic paint is mixed from rare dyes and herbs found only in remote parts of the world and comes in small pots. One pot contains three applications; one application lasts for 24 hours. The paint imbues its wearer with a +5 armor bonus to AC. This is considered light armor that has no maximum Dexterity bonus and no armor check penalty. Its weight is negligible. It takes 4 minutes to apply skin paint armor (2 minutes if another character does nothing but assist you), 1 minute to do so hastily, and 1 minute to remove (30 seconds if another character does nothing but assist you).
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, Alchemy 5 ranks; 
+Market Price: 5,000 gp; 
+Cost to Create: 2,500 gp + 200 XP

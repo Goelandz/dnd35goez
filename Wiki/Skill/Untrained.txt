@@ -1,0 +1,11 @@
+Disable Device
+Decipher Script
+Handle Animal
+Knowledge
+Open Lock
+Profession
+Sleight of Hand
+Speak language
+Spellcraft
+Tumble
+Use Magic Device

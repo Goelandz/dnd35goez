@@ -1,0 +1,12 @@
+Whisper is a +3 ghost touch shortsword forged in a land where ghosts ran wild. In addition to its ghost touch property, it allows the wielder to see invisibility at will, and it can cast shield on its wielder three times per day. It communicates only by empathy, sharing its strong feelings of hatred toward ghosts with its wielder in order to encourage her to hunt what it considers undead abominations.
+
+As might be expected, Whisper has a special purpose: to destroy ghosts. When its wielder is using it in combat against a ghost, it grants the character a +2 luck bonus on all saving throws, a +2 deflection bonus to her Armor Class, and SR 15.
+
+AL NG; 
+SV Fort +6, Ref +6, Will +7; 
+Str —, Dex —, Con —, Int 15, Wis 13, Cha 16, 
+Ego 17.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, plane shift, see invisible, shield; 
+Market Price: 125,790 gp; Cost to Create: 63,050 gp + 5,019 XP

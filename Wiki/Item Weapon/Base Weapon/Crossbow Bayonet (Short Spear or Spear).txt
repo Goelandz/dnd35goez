@@ -1,0 +1,13 @@
+Bayonets easily fit onto light or heavy crossbows, attaching to the stock below where the bolt fires. Crossbow bayonets come in two kinds: knife and sword. A knife bayonet attached to a crossbow functions as a shortspear, while a sword bayonet attached to a crossbow is treated as a spear. A crossbow with an attached bayonet cannot be thrown as a true spear can be, though it can be set against a charge.
+
+A hand crossbow is too small to accept a bayonet (but see hand crossbow blade, below)
+
+======================================================================
+
+Bayonets and Combination Blades 
+
+Archers, crossbowmen, and others who rely on ranged weapons are at a distinct disadvantage when an enemy closes within melee range. In order to maximize survivability in such situations, many ranged specialists attach blades to their weapons.
+
+These blades, called bayonets, give ranged weapons melee capability.
+
+A bayonet does not interfere with the normal functioning of the weapon to which it is fixed, so it can remain attached indefinitely. Bayonets act in all ways like normal melee weapons, as noted in their descriptions, and can be made masterwork or magic (separately from any masterwork or magic property of the main weapon). Attaching or removing a bayonet requires a move action. Attacking with a bayonet imposes a –2 penalty on the attack roll.

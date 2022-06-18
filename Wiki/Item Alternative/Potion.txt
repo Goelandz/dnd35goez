@@ -1,0 +1,18 @@
+POTIONS
+The standard potion is, of course, a vial fi lled with a magical libation, designed to be consumed by anyone and having the following characteristics.
+• Single-use only—once consumed, the potion is gone.
+• Limited to spells of 3rd level or lower.
+• No special magical training required—anyone can drink a potion and gain the benefi t of its magic.
+• Must be physically manipulated in some way (unstoppered or broken, then consumed).
+• Must be in the user’s hand to be used.
+• Use provokes attacks of opportunity.
+ Within these broad guidelines, though, a number of alternate potion forms might be possible.
+
+ Magic Fruit: Apples and pomegranates with magical properties are commonplace in mythology. A potion-fruit might consist of a slice or 
+section of a fruit steeped in a magical libation that produces its effect when consumed.
+
+ Magic Tiles: A small ceramic tile inscribed with a magic rune could hold a potion-type effect. When it is snapped or broken in one’s hand, the effect is released.
+
+ Skull Talismans: The skull of a small animal (a bird, mouse, or rat, for example) is enchanted with a single spell. When crushed in one’s hand or underfoot, the skull talisman releases its stored effect.
+
+ Spell Wafers: A thin wafer of specially prepared bread or dough, stamped with a holy or arcane symbol, can hold a spell as well as a potion bottle can. When the wafer is consumed, the stored magic takes effect.

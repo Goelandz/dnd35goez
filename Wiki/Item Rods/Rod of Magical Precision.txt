@@ -1,0 +1,19 @@
+A boon to all casters but particularly to combat-focused arcanists, this item improves your accuracy with magical ranged attacks.
+
+Description: A rod of magical precision is a slender rod, almost wandlike in appearance. Runes and arcane symbols travel up the rod in a spiral pattern, culminating in one great rune printed on the tip.
+
+When the rod is active, the runes pulse with energy, starting at the handle and working up to the top. The spell appears to emanate from the rod rather than from your own hand.
+
+Activation: The primary function of a rod of magical precision works as long as you hold the item in one or both hands, requiring no action to activate. It has no limit on daily uses.
+
+The secondary function of the rod requires no specific action to activate, merely an act of will made as part of casting a spell. It functions up to three times per day.
+
+Effect: While you are holding a rod of magical precision, any ranged attack you make with a spell or spell-like ability at an opponent engaged in melee does not take the standard –4 penalty on your attack roll. 
+
+In addition, you can choose for your spell or spell-like ability to ignore the miss chance granted to a target by concealment or total concealment. In the case of a target that has total concealment, you must still aim at the correct square. 
+
+Aura/Caster Level: Faint divination. CL 3rd.
+
+Construction: Craft Rod, true strike, 6,000 gp, 480 XP, 12 days.
+Weight: 1 lb.
+Price: 12,000 gp.

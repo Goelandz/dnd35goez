@@ -1,0 +1,19 @@
+Harp of charming; 
+AL CG; 
+Int 18, Wis 10, Cha 18; 
+Speech, telepathy, 120 ft. darkvision, blindsense, and hearing; 
+Ego score 14.
+Languages: Celestial, Common, Draconic, Elven, Gnome. 
+
+Lesser Powers: elation 3/day, Faerinaal’s hymn (see below), 10 ranks in Knowledge (history) (total modifier +14).
+Greater Powers: Dismissal 1/day, fear 3/day (against foes only).
+
+Personality: The frame of this golden harp is fashioned into a handsome likeness of Faerinaal, Queen Morwel’s eladrin consort (see Chapter 7: Celestial Paragons). Crafted by a firre eladrin bard in Queen Morwel’s court, Hwyrr serves Faerinaal as a chronicler of events on the Material Plane. As it finds its way into the hands of different adventuring bards, Hwyrr learns new tales of heroism that it will someday recount to Faerinaal when it finally returns to Queen Morwel’s court.
+
+When it senses battle occurring within 60 feet, Hwyrr automatically begins playing Faerinaal’s hymn and continues to do
+so until one of its other powers is employed. Hwyrr takes great pride in its appearance and constantly insinuates itself into conversations, recounting tales of its past owners’ exploits to help its current owner deal with immediate or similar problems.
+
+Strong enchantment; 
+CL 15th; 
+Craft Magic Arms and Armor, dismissal, elation, Faerinaal’s hymn, fear, suggestion; 
+Price 84,000 gp.

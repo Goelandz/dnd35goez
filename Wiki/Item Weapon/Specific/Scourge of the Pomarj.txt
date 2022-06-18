@@ -1,0 +1,6 @@
+One side of this +2/+2 dire flail is bane (monstrous humanoids), and the other is bane (goblinoids). While holding the scourge of the Pomarj, the wielder can understand (but not speak) Orc and Goblin.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, comprehend languages, summon monster I; 
+Market Price: 68,690 gp; 
+Cost to Create: 34,690 gp + 2,720 XP

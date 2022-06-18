@@ -1,0 +1,4 @@
+Your mightiest attacks weaken evil foes.
+Prerequisites: Str 13, Power Attack, Resounding Blow, base attack bonus +8.
+
+Benefit: Whenever you deal a critical hit to an evil creature using a melee weapon with which you are proficient, your opponent must succeed on a Fortitude save (DC 10 + 1/2 your character level + your Cha modifier) or take 1d4+1 points of temporary Strength damage. A monk’s unarmed strike is considered a melee weapon for purposes of this feat.

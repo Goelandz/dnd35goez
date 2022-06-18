@@ -1,0 +1,9 @@
+This thick, reddish liquid is the distilled essence of pain, captured using special spells or items (see the Pain as Power section of Chapter 2). It is highly sought after by outsiders.
+
+Initial Effect: User is stunned for 1d4+1 rounds and can take only partial actions for 1d6 minutes after that.
+
+Secondary Effect: 1d4+1 enhancement bonus to Charisma for 1d10+50 minutes. 
+
+Side Effects: Feelings of intense pleasure last for 1d4 hours.
+
+Overdose: If more than one dose is taken in a 24-hour period, the user immediately falls unconscious for 1d4 hours (Fort DC 18 negates).

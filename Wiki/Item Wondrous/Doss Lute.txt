@@ -1,0 +1,9 @@
+This masterwork lute grants a +2 circumstance bonus on Perform (string instruments) checks and a +3 competence bonus on bardic music checks for countersong, fascinate, and suggestion. 
+
+A character with 6 ranks in Perform (string instruments) can use the instrument to cast delay poison, hold person, and mirror image each once per day. When held, a doss lute bestows one negative level on any creature that doesn’t have at least 6 ranks in Perform (string instruments).
+
+ Faint various; 
+CL 5th; 
+Craft Wondrous Item, delay poison, hold person, mirror image, creator must be a bard; 
+Price 9,800 gp; 
+Weight 3 lb.

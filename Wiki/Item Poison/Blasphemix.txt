@@ -1,0 +1,9 @@
+ Said to be refined from the spilled ichor of a demon, devil, or other fiend, blasphemix corrupts not only the body but also the soul. Perpetually warm, greasy, and possessed of a vile blackness that seems to writhe of its own accord, blasphemix is further profaned by prayers and chants to dark, ancient, and wholly evil powers. 
+
+This liquid foulness impedes the power of faith and hinders even the most devout cleric’s access to his deity. Despite its origin, this poison affects creatures of all alignments and faiths.
+
+  If the subject of this poison fails the initial saving throw, its ability to cast divine spells is hindered. For the next 10 rounds, the subject must succeed on a caster level check (DC 15 + spell level) each time it attempts to cast a divine spell. Failure means the spell is lost and has no effect.
+
+Regardless of the outcome of the initial save, failing the secondary save applies a –1 penalty to the victim’s caster level for all divine spells it casts for the next 12 hours. If a creature is subjected to another dose of blasphemix before the effect of the first dose has run its course, the duration of the first dose’s effect ends.
+
+In addition to a Craft (poisonmaking) check, creating a dose of blasphemix requires a successful DC 15 Knowledge (religion) check.

@@ -1,0 +1,8 @@
+ Any animal or magical beast wearing this collar becomes easier to handle. The DC of any Handle Animal check to handle, push, teach, train, or rear the wearer is decreased by 5.
+
+ A collar occupies the same space on the body as an amulet, brooch, or other item meant to be worn around the neck.
+
+ Faint enchantment; 
+CL 3rd; 
+Craft Wondrous Item, charm animal; 
+Price 1,500 gp.

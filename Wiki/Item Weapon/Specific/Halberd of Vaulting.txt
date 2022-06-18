@@ -1,0 +1,6 @@
+This +2 halberd allows its wielder to make powerful leaping attacks. The halberd of vaulting gives its wielder a +30 bonus on Jump checks and removes the usual maximums for jumping distance. Whenever the wielder takes the charge action, she may attempt a vaulting charge. If the wielder can make a running high jump at least 5 feet high during the charge, the charge attack deals double damage. To make a vaulting charge, the wielder must have a clear path through the air to the target. In an area with a low ceiling or overhanging obstructions, a vaulting charge might not be possible.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, jump; 
+Market Price: 20,310 gp; 
+Cost to Create: 10,310 gp + 800 XP

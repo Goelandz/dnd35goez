@@ -1,0 +1,7 @@
+This ornate scepter is made of bluish glass. Though not suitable for use as a normal melee weapon, it can be used to make a special touch attack against incorporeal creatures. If this touch attack succeeds, the creature takes 2d4 points of damage.
+
+Once per day, the wielder of a ghost rod can become incorporeal. This allows the character to harm other incorporeal creatures normally, as well as passing through walls and all the other benefits (and drawbacks) of an incorporeal state, as described in the DUNGEON MASTER’s Guide. The character is not ethereal and has no connection to the Ethereal Plane, unlike a true ghost. He can remain incorporeal for a maximum of 15 rounds, after which he becomes fully material again.
+
+Caster Level: 15th; 
+Prerequisites: Craft Rod, plane shift;
+Market Price: 50,000 gp.

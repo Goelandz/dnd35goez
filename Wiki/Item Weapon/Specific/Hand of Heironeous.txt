@@ -1,0 +1,6 @@
+This +3 longsword is greatly prized by paladins and clerics of Heironeous. The wielder of the hand of Heironeous can take a standard action and expend a turn undead attempt to imbue the sword with divine power. If the next successful attack by the sword hits an undead target, the sword deals an additional 1d6 points of divine damage for each point of the wielder’s Charisma bonus (minimum 1d6).
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, creator must have the turn undead ability, creator must be good, divine power, searing light;
+Market Price: 50,315 gp; 
+Cost to Create: 25,315 gp + 2,000 XP.

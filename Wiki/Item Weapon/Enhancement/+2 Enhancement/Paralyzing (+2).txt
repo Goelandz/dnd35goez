@@ -1,0 +1,6 @@
+Any creature struck by this weapon must succeed on a DC 17 Will save or be paralyzed. Each round on its turn, the target may attempt a new saving throw to end the effect; otherwise, the paralysis lasts 10 rounds. Spell resistance applies. Bows, crossbows, and slings so crafted confer the paralyzing power upon their ammunition.
+
+Moderate enchantment; 
+CL 10th; 
+Craft Magic Arms and Armor, hold monster; 
+Price +2 bonus.

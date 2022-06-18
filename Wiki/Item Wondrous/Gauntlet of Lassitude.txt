@@ -1,0 +1,6 @@
+This leather glove bound in brass magically transforms to match the hand shape of its owner, and thus it can be worn on either hand. With a successful melee touch attack, the gauntlet of lassitude slows the target for 5 rounds (Will DC 14 negates
+
+Faint transmutation; 
+CL 5th; Craft Wondrous Item, slow; 
+Price 27,000 gp; 
+Weight 2 lb.

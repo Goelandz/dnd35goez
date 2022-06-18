@@ -1,0 +1,6 @@
+The hilt of this well-crafted +2 short sword has been shaped to resemble a heavily armored gnome soldier standing at attention. Small characters wielding warrenguard underground gain a +1 morale bonus on their melee attack damage for each ally within 5 feet. Warrenguard also helps its wielder coordinate blows with companions. If the wielder and an ally flank an opponent, the wielder of a warrenguard gains a +4 flanking bonus on his attack roll instead of the usual +2 bonus.
+
+Caster Level: 8th; 
+Prerequisites: Craft Magic Arms and Armor, bless; 
+Market Price: 40,310 gp; 
+Cost to Create: 20,310 gp + 1,600 XP

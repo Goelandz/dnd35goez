@@ -1,0 +1,13 @@
+Deities: Graz’zt, The Xammux.
+Granted Power: Character gains the Blind-Fight feat.
+
+Darkness Domain Spells
+1 	Darkvision. See 60 ft. in total darkness.
+2 	Darkbolt. Deals 1d8 damage/2 levels and stuns 1 round.
+3 	Deeper Darkness. Object sheds absolute darkness in 60-ft. radius.
+4 	Damning Darkness. Darkness deals either 2d6 or 1d6 damage per round.
+5 	Evard’s Black Tentacles. 1d4 +1/level tentacles grapple randomly within 15 ft.
+6 	Wall of Force. Wall manifests as opaque black wall, is immune to damage.
+7 	Shadow Walk. Step into shadow to travel rapidly.
+8 	Utterdark. 100-ft./level radius of darkness that evil creatures can see through.
+9 	Screen. Illusion hides area from vision, scrying.

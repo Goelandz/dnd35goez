@@ -1,0 +1,14 @@
+SEARCH (INT)
+You can find secret doors, simple traps, hidden compartments, and other details not readily apparent. The Spot skill lets you notice something, such as a hiding rogue. The Search skill lets a character discern some small detail or irregularity through active effort. Search does not allow you to find complex traps unless you are a rogue (see Restriction, below). 
+
+Check: You generally must be within 10 feet of the object or surface to be searched. The table below gives DCs for typical tasks involving the Search skill. 
+
+Task 							Search DC 
+Ransack a chest full of junk to find a certain item 	10 
+Notice a typical secret door or a simple trap 		20 
+Find a difficult nonmagical trap (rogue only)	 	21 or higher 
+Find a magic trap (rogue only)				25 + level of spell used to create trap 
+Notice a well-hidden secret door 			30 
+Find a footprint 					Varies				
+
+Action: It takes a full-round action to search a 5-foot-by-5-foot area or a volume of goods 5 feet on a side. 

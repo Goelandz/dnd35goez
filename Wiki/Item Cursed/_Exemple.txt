@@ -1,0 +1,74 @@
+Several common curses are detailed in the DUNGEON MASTER’s Guide, as noted on Table 6–5. New curses are detailed here.
+
+Awkward Use: This curse applies only to items with the spell trigger or command word activation methods. Activating the item requires awkward movements in addition to the normal actions, and provokes attacks of opportunity from threatening foes.
+
+Table 6–5: Cursed Item Common Curses
+d% 	Curse
+01–08 	Delusion (see DMG)
+09–18 	Opposite effect or target (see DMG)
+19–23 	Intermittent functioning (see DMG)
+24–30 	Requirement (see DMG)
+31–40 	Drawback (see below)
+41–48 	Awkward use 1 (see below)
+49–57 	Divination resistant (see below)
+58–65 	Extra space (see below)
+66–70 	Fragile (see below)
+71–73 	Possessed (see below)
+74–81 	Short circuit 2 (see below)
+82–88 	Won’t resize 3 (see below)
+89–95 	Completely different effect (see DMG)
+96–100 	Substitute specific cursed item (see DMG and below)
+
+Divination Resistant: When subjected to a Divination spell, including detect magic, identify, and analyze dweomer, the item receives a Will saving throw to resist the effect. If its saving throw is successful, the spell reveals no information about the item. This curse usually comes into play only when the item is first discovered, and it might be overlooked as nonmagical treasure.
+
+Drawback: The DUNGEON MASTER’s Guide lists a number of drawbacks often found on otherwise beneficial items. When randomly generating a cursed item, roll d%: 01–65, consult the table in the DUNGEON MASTER’s Guide; 66–100, consult the table below.
+d% Drawback
+01–08 The character cannot be awakened when sleeping until she has slept a full 8 hours. This applies whether the character falls asleep normally or is subjected to a magical sleep effect. Loud noise, slapping, and even wounding do not wake the character from sleep. Elves and half-elves are immune to this drawback.
+09–18 The character’s hearing diminishes. The character takes a –4 penalty on Listen checks and has a 5% chance to miscast any spell with a verbal component.
+19–26 	The character takes a –2 penalty on saving throws to avoid becoming dazed or stunned. When dazed or stunned, he remains so for 1 round longer than the normal duration.
+27–34 	The character does not recover well from wounds. He regains only half the normal number of hit points from resting, and subtracts 1 point per die from the result of healing spells. The character has only a 5% chance per round of stabilizing when dying, and only a 5% chance per minute of waking up when unconscious.
+35–42 	Whenever the character would be shaken, she becomes frightened instead. Whenever she would be frightened, she becomes panicked instead.
+43–51 	The character becomes easily distracted, taking a –4 penalty on Concentration checks.
+52–61 	The character develops two random mental or physical quirks, rolled randomly on Table
+5–5: 	One Hundred Traits in the DUNGEON MASTER’s Guide.
+62–69 	The character develops a pathological fear of being grappled. He cannot initiate a grapple and automatically becomes shaken when successfully grappled by an enemy.
+70–77 	The character becomes sensitive to light. Abrupt exposure to bright light (such as sunlight or a daylight spell) blinds the character for 1 round. In addition, the character takes a –1 penalty on all attack rolls, saves, and checks while operating in bright light.
+78–82 	The character becomes especially vulnerable to fire, as if she had the cold subtype. She gains no extraordinary resistance to cold, however.
+83–87 	The character becomes especially vulnerable to cold, as if she had the Fire subtype. She gains no extraordinary resistance to fire, however.
+88–90 	The character becomes susceptible to loud noises and sonic attacks, taking a –2 penalty on all saves against sonic effects.
+91–92 	Every time the character takes damage from a slashing or piercing weapon, the wound bleeds for an additional 1 point of damage each round, as if the weapon had the wounding property. Multiple wounds result in cumulative bleeding. The bleeding can only be stopped by a successful Heal check (DC 15) or the application of any healing spell.
+93–96 	The character becomes susceptible to critical hits. For purposes of confirming a threat, the character takes a –4 penalty on effective Armor Class.
+97 	Any hit scored with a blessed crossbow bolt instantly kills the character.
+98–99 	The character experiences flashbacks to the lives of previous owners of the item. At the start of every encounter, there is a 5% chance that the character notices something about an opponent that causes her to recall a past owner’s life. If this happens, the character takes no action for 1 round and thereafter takes a –2 penalty on all attacks directed at that opponent.
+100 	DM’s choice: DM either picks one of the above (or one from the DMG) that’s appropriate or creates a drawback specifically for that item.
+
+Extra Space: The item uses up two magic item spaces on a character’s body. A ring might use both a ring space and a bracer/bracelet space (perhaps it includes a bracelet linked by fine gold chain to the ring itself ), a cloak might also use an amulet space because it includes an elaborate brooch, or a helmet might prevent a character from using eye lenses or goggles.
+
+Fragile: The item has both a lower hardness than its material would normally have (reduce hardness by 1) and fewer hit points than it normally would (reduce hit points by 2).
+
+Possessed: The item’s magical power comes not from the normal process of making a magic item, but from a malevolent spirit inhabiting it. The possessing creature may be a ghost, a devil, a demon, or some other evil creature, at the DM’s discretion. The item does not radiate magic if detected for, but it might radiate an aura of evil. A character who makes a successful Search check (DC 25) while examining the possessed item can tell that there is “something strange” about it.
+
+The spirit in the item is aware of what is going on around the object: It can see and hear up to 60 feet away as if using its normal senses (it does not gain blindsight). In any round in which it takes no other action (such as using a spell-like ability), it can extend its senses to twice its normal range (120 feet). The possessing creature is vulnerable to spells that specifically affect creatures of its type or alignment (such as holy word and holy smite, as well as chaos hammer or order’s wrath) and mind-affecting spells or effects, but it is unaffected by physical attacks or standard magical effects (such as a fireball). Harming the object does not harm the possessing creature, although if the object is destroyed the creature is forced into an ethereal form. The possessing creature can use any ability it has that requires no physical action, such as using a spelllike ability or telepathy. It cannot cast spells (since it can neither speak nor move), attack physically, or perform any other physical action.
+
+The creature possessing the object can attempt to hide its presence by making a special Hide check. This “mental” Hide check uses the creature’s Intelligence modifier instead of its Dexterity modifier. A successful check allows the creature to avoid virtually anything that would betray its presence in the object: it can pass through a magic circle against evil, enter a temple warded by forbiddance, or escape detection via detect evil. The DC for this Hide check is the same as the saving throw DC for the spell the creature is trying to avoid. The creature gains a +4 circumstance bonus on this check if it is not controlling the possessed object at the time of the check. Making this check is not an action; the possessing creature can do it in response to another creature’s action (such as casting detect evil).
+
+The possessing creature has the ability to make the possessed item radiate a corrupt and befouling nature. Anyone touching the object in this state must make a Will save or fall under the effect of a bestow curse spell. The affected creature does not know that the curse came from the item, and in fact might not know right away that he or she is affected by the curse. Nothing about the object’s appearance suggests that it is possessed. The curse lasts until it is removed, even if the creature vacates the object it possessed.
+
+At the DM’s discretion, the creature inhabiting the object may at some time attempt to possess a character who has been carrying or using the object. If this occurs, the target receives a –1 penalty on the saving throw to resist possession for each day the possessed item has been on his person or in his use, to a maximum of –10.
+
+A possessed item’s powers function at the command of the possessing spirit, not the item’s owner. Most of the time, possessing creatures find it convenient to obey the commands of the owner, but occasionally a creature might refuse to activate the power when commanded, or activate it at an apparently random time. Possessed items may appear to have the simple curse of intermittent functioning, while the truth is much worse.
+
+Short Circuit: This curse only applies to items with charges, including all staffs and wands. Each time the item is activated, there is a 25% chance it burns one additional charge, with no additional effect. On a d% roll of 100, however, the effect is actually doubled, as if two charges of the item went off simultaneously.
+
+Won’t Resize: Most magic items resize to fit whatever character tries to wear them. These cursed items do not. If necessary, roll on the following table to determine what size creature the item was made for.
+
+d% 	Size
+01 	Tiny
+02–26 	Small
+27–76 	Medium-size (50% chance item is sized for a specific race or kind, such as elf or dwarf)
+77–96 	Large
+97–98 	Huge
+99 	Gargantuan
+100 	Colossal
+
+While this certainly seems like a curse to a player character who wants an item but finds it to be the wrong size, creatures such as giants think of it as something of a blessing. They generally make no secret of the item’s properties, hoping it will deter Medium-size thieves from coveting it. This curse does not apply to weapons, which normally do not resize.

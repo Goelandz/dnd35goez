@@ -1,0 +1,5 @@
+The character can focus evil power into his natural attacks.
+ 
+Prerequisite: Natural attack that deals at least 1d8 points of damage, base attack bonus +5.
+
+Benefit: Each time the character deals damage with his natural attack, he deals 1 additional point of vile damage.

@@ -1,0 +1,7 @@
+You can imbue your spells with the raw energy of good, by the grace of a celestial power.
+
+Prerequisites: Any good alignment. 
+
+Benefit: A spell you modify with this feat gains the good descriptor. Furthermore, if the spell deals damage, half that damage (rounded down) results from divine power and can’t be reduced by resistance or immunity to energy-based attacks. For example, if a consecrated lightning bolt cast by a 7th-level wizard deals 24 points of damage, 12 points of that is electricity damage and the other 12 points is not. Thus, a nongood creature immune to electricity still takes 12 points of damage if it fails its Reflex save.
+
+A consecrated spell uses up a spell slot one level higher than the spell’s actual level.

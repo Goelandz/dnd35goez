@@ -1,0 +1,4 @@
+This tightly sealed flask contains a pale green smoke. When released into the air, the smoke fills a 5-foot-square area. Most creatures are unaffected by the smoke, although humanoids generally find the smell unpleasant. Vermin, however, find the smoke almost intolerable. To pass through an area filled with verminbane, vermin must succeed on a Fortitude save (DC 15). Verminbane lasts for 1 minute, although strong winds may decrease this duration.
+
+DC To Create	20
+Cost		20 gp

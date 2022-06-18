@@ -1,0 +1,5 @@
+You can show others what you see.
+
+Prerequisite: Spot 8 ranks.
+
+Benefit: When you make a successful Spot check, you can spend an immediate action to grant a single ally a free Spot check to see the same thing (with a +2 circumstance bonus). Your ally must be within 30 feet of you and able to see or hear you to benefit from this effect.

@@ -1,0 +1,6 @@
+This +2 greatsword infects anyone it strikes with warp touch (see Diseases in Chapter 2) if the target fails a Fortitude save (DC 14).
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, contagion, cloak of chaos; 
+Market Price: 78,350 gp; 
+Weight: 10 lb.

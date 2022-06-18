@@ -1,0 +1,18 @@
+Price (Item Level): 26, 175 gp (16th) 
+Body Slot: Body 
+Caster Level: 10th 
+Aura: Moderate (DC 20); transmutation 
+Activation: — 
+Weight: 20 lb.
+
+This suit of studded leather armor is held together with bits of hone and scale rather than metal rivets. The breastpiece is engraved with an abstract image resembling a tree, whose branches cross over the armor's shoulders. 
+
+If you have the wild shape class feature, this suit of+1 wild studded leather armor grants you one additional use of that ability per day. (It does not, however, grant that ability if you do not already possess it. ) This extra use stacks with the one provided by a druid's vestment (DMG 268). 
+
+Armor of the beast is part of a set known collectively as the trappings of the beast, which also includes the ring of the beast (page 141) and the mantle of the beast (page 140). 
+
+When you wear all three of these items, you gain a +5 competence bonus on wild empathy checks. In addition, you are treated as one level higher than you are for the purpose of using wild shape. (For instance, an llth-level druid clad in the trappings of the beast could assume the form of a plant creature. ) 
+
+Prerequisites: Craft Magic Arms and Armor, wild shape ability. 
+Cost to Create: 13, 000gp (plus 175 gp for masterwork studded leather); 
+1, 040 XP, 26 days. 

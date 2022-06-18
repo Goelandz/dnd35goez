@@ -1,0 +1,4 @@
+You can channel holy power through a spell trigger item, such as a wand or staff.
+Prerequisites: Craft Wand or Craft Staff, ability to turn undead.
+
+Benefit: When you use a spell trigger item, such as a wand or staff, you can use one of your turning attempts for the day to trigger the item. You still expend a charge from the wand or staff. The spell cast by the item is modified as though it had the Purify Spell feat applied to it.

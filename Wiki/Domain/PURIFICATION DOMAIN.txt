@@ -1,0 +1,15 @@
+Core Deities: None.
+Other Deities: Rao, Wastri.
+
+Granted Power: You cast abjuration spells at +1 caster level.
+
+Purification Domain Spells
+1 Nimbus of Light*: Sunlight illuminates you until released as an attack for 1d8 +1/level damage.
+2 Deifi c Vengeance*: Deity’s punishment deals 1d6 damage/two caster levels (max 5d6).
+3 Recitation*: Your allies get bonus on attacks and saves, and your foes get penalties.
+4 Castigate*: Verbal rebuke deafens all who hear and damages those whose alignment differs from yours.
+5 Dance of the Unicorn*: Purifying mist washes the air clean of smoke, dust, and poisons.
+6 Fires of Purity*: Target bursts into magical flame, becoming a dangerous weapon.
+7 Righteous Wrath of the Faithful*: Your allies get bonuses, especially if they worship your deity.
+8 Sunburst: Blinds all within 10 ft., deals 6d6 damage.
+9 Visage of the Deity, Greater*: As lesser visage of the deity, but you become half-celestial or half-fi endish

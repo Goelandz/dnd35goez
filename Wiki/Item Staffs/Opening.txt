@@ -1,0 +1,10 @@
+This wooden staff is carved with images of doors, many of which have embossed iron bindings and miniature but nonfunctional keyholes. It allows the use of the following spells:
+• Knock (1 charge)
+• Open/close (1 charge)
+• Passwall (1 charge)
+• Shatter (1 charge)
+
+ Moderate transmutation; 
+CL 9th; 
+Craft Staff, knock, open/close, passwall, shatter; 
+Price 42,200 gp.

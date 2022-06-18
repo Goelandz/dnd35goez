@@ -1,0 +1,11 @@
+DEATH, DYING, AND HEALING 
+Your hit points represent how much damage you can take before being disabled, knocked unconscious, or killed.
+ 
+1 or More Hit Points: As long as you have 1 or more hit points, you remain fully functional. 
+
+0 Hit Points: If your hit points drop to 0, you are disabled. You can only take one move action or standard action per turn, and you take 1 point of damage after completing an action. 
+
+–1 to –9 Hit Points: If your hit points drop to from –1 to –9 hit points, you’re unconscious and dying, and you lose 1 hit point per round. Each round, before losing that hit point, you have a 10% chance of becoming stable. While stable, you’re still unconscious. Each hour you have a 10% chance to regain consciousness, and if 
+you don’t, you lose 1 hit point instead. 
+
+–10 Hit Points: If your hit points fall to –10 or lower, you’re dead. 

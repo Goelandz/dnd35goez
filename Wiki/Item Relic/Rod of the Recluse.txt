@@ -1,0 +1,10 @@
+This rod, wielded by some of Lolth’s high priestesses, resembles a giant spider leg with its segmentations and coarse, black hairs. It acts as a +3 light mace that deals no hit point damage. Instead, the wielder injects a poison that deals 2d6 points of Strength damage to any creature she touches with the rod (by making a melee touch attack). Like any poison, the damage repeats 1 minute later. If she scores a critical hit, the damage from that hit (both initial and secondary) is ability drain. In either case, the defender negates the effect with a DC 20 Fortitude save.
+
+To use this relic, you must worship Lolth and either sacrifi ce a 6th-level divine spell slot or have the True Believer feat and at least 11 HD.
+
+Strong necromancy; 
+CL 16th; 
+Sanctify Relic, Craft Rod, poison, creator must worship Lolth; 
+Price 33,600 gp; 
+Cost 16,953 gp + 1,332 XP; 
+Weight 5 lb.

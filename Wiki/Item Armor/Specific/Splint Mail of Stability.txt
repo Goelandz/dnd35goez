@@ -1,0 +1,5 @@
+This armor acts as normal splint mail except when worn by a neutral character. Such a character who dons this armor feels a sense of calm and confidence wash over him, and the armor acts as +2 splint mail that also gives a +2 resistance bonus on all saving throws.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, resistance; 
+Market Price: 5,845 gp.

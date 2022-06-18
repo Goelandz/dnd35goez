@@ -1,0 +1,13 @@
+Held within the greaves of a suit of armor, a knee blade extends with a quick upward thrust of the knee. The flat of the blade rests against the bearer’s thigh, allowing for full range of movement. Treat a knee blade as a short sword.
+
+======================================================================
+
+Hidden Blades
+
+Scoundrels generally avoid fair fights. Many hide various weapons about their bodies to glean whatever advantage they can.
+
+   A hidden blade is a springloaded blade attached to the inside of armor or boots or strapped to the scoundrel’s body. Activating a hidden blade requires a move action.
+
+Hidden blades can be made masterwork or magic just as normal weapons can be. Attacking with a hidden blade imposes a –2 penalty on the attack roll.
+
+Discovering a hidden blade before it has been activated requires a DC 15 Search check.

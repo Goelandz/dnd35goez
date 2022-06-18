@@ -1,0 +1,28 @@
+Large Vermin
+Hit Dice: 		3d8+3 (16 hp)
+Initiative: 		+1
+Speed: 			20 ft., fly 60 ft. (good)
+AC: 			14 (–1 size, +1 Dex, +4 natural), touch 10, flatfooted 13
+Attacks: 		Bite +5 melee
+Damage: 		Bite 1d8+6
+Face/Reach: 		5 ft. by 10 ft./5 ft.
+Special Qualities: 	Vermin, darkvision 60 ft.
+Saves: 			Fort +4, Ref +2, Will +2
+Abilities: 		Str 18, Dex 12, Con 13, Int —, Wis 12, Cha 12
+Skills: 		Hide –3, Intuit Direction +7, Spot +7
+Climate/Terrain: 	Temperate and warm aquatic and marsh
+Organization: 		Solitary, pair, or swarm (5–20)
+Challenge Rating: 	1
+Treasure: 		None
+Alignment: 		Always neutral
+Advancement: 		4–6 HD (Large); 7–9 HD (Huge)
+
+Raiders and bandits who ride flying vermin prefer giant dragonflies to other mounts. They’re less aggressive than wasps but more so than bees. They also make a distinct thrumming sound in flight that strikes fear into common folk. 
+
+Riders prefer to use female dragonflies, since males are very territorial. A giant dragonfly is 10 feet long with a 10-foot wingspan. Its body is only 2 feet wide.
+
+Training a Giant Dragonfly: Training a giant dragonfly as a mount requires a successful Handle Animal check (DC 30). Giant dragonfly eggs are worth 500 gp on the open market. Professional trainers charge 300 gp to tame a giant dragonfly.
+
+Riding a giant dragonfly requires an exotic saddle. A giant dragonfly can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
+
+Carrying Capacity: Light 300 lb., medium 600 lb., heavy 900 lb.

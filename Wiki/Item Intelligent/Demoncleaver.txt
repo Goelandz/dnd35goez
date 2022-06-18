@@ -1,0 +1,15 @@
+This impressive name belongs to a rather uninspiring, though extremely self-confident, +1 holy kukri.
+
+It has two moderately useful primary abilities:
+Its wielder has free use of the Improved Initiative feat and can detect evil at will. It is prone to singing defiant battlesongs about slaughtering demons, switching between Common and Celestial apparently at random. 
+
+Though convinced it is a mighty weapon against evil foes, it puts on a show of humility at times, begging to be allowed the chance to shatter on a balor’s hide or the like. Its loftiest dream is to be carried into battle by a noble halfling paladin again the last time this happened, some five centuries ago, the paladin died a grisly death.
+AL LG; 
+SV Fort +9, Ref +9, Will +8; 
+Str —, Dex —, Con —, Int 13, Wis 8, Cha 17, 
+Ego 9.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, detect evil, holy smite, creator must be good;
+Market Price: 34,708 gp; 
+Cost to Create: 17,508 gp + 1,376 XP

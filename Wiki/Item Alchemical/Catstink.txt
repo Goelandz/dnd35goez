@@ -1,0 +1,4 @@
+A dose of this alchemical compound sprinkled on your trail temporarily confuses the scent ability of any creature. Any creature using scent to track you must succeed on a DC 15 Survival check or lose your trail. If the trail is lost, the creature can attempt to relocate it using the normal rules for the Track feat, but the check DC increases by 2. The odor of catstink remains in effect for 10 minutes after the substance is used. Sprinkling catstink on one’s trail is a standard action that provokes attacks of opportunity.
+
+DC To Create	20
+Cost		50 gp

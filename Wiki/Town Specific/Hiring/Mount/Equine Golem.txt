@@ -1,0 +1,32 @@
+Large Construct
+Hit Dice: 		6d10 (33 hp)
+Initiative: 		+1
+Speed: 			50 ft.
+AC: 			15 (–1 size, +1 Dex, +5 natural), touch 10, flatfooted 14
+Attacks: 		2 hooves +8 melee and bite +3 melee
+Damage: 		Hoof 1d8+5; bite 1d4+2
+Face/Reach: 		5 ft. by 10 ft./5 ft.
+Special Attacks: 	Shatter
+Special Qualities: 	Construct, DR 5/+1, magic immunity
+Saves:	 		Fort +2, Ref +3, Will +2
+Abilities: 		Str 21, Dex 13, Con —, Int —, Wis 11, Cha 1
+Climate/Terrain: 	Any land and underground
+Organization: 		Solitary
+Challenge Rating: 	5
+Treasure: 		None
+Alignment: 		Always neutral
+Advancement: 		7–12 HD (Large)
+
+Equine golems are golems shaped as heavy warhorses instead of humanoids. An equine golem is faster and more agile than a regular golem, but less durable. The standard material used for golems is too heavy to make a good horse, and earth elementals are too plodding to make a swift mount. Instead, equine golems are crafted out of thick hardwood, and the animating spirit is an air elemental.
+
+Equine golems leave no scent. They creak quietly as they walk but can gallop tirelessly, moving at a full run for an entire day (180 miles per day with a light load). Because the golem doesn’t flex with the rider, however, riding one all day at a gallop is sore work. Riders who attempt to ride longer than 8 hours per day begin to feel the effects as if under a forced march (see Chapter 9 of the Player’s Handbook). 
+
+Since these mounts are constructs, they need no training. They simply do what their masters tell them to the best of their ability. Combat: An equine golem attacks as a warhorse, leading with hoof attacks against whatever its master points out. It can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
+
+Shatter (Sp): Three times per day, an equine golem can emit an ear-splitting whinny, which acts as a shatter spell cast by a 10th-level sorcerer.
+
+Magic Immunity (Ex): An equine golem is immune to all spells, spell-like abilities, and supernatural effects, except as follows. A warp wood or wood shape spell slows it (as the slow spell) for 2d6 rounds. A repel wood spell pushes it back normally, but if the golem resists the spell, it can hold its ground. This spell never splinters or breaks any part of the construct. Fire and electricity effects char the golem but do not harm it.
+
+Carrying Capacity: Light load 459 lb., medium 918 lb., heavy 1,380 lb.
+
+Construction: An equine golem ’s body must be carved from a single hardwood tree at least 100 years old. The golem costs 20,000 gp to create, which includes 400 gp for the body. Assembling the body requires a successful Craft (woodworking) check (DC 13). The creator must be 12th level and able to cast arcane spells. Completing the ritual drains 750 XP from the creator and requires animate objects, geas/quest, limited wish, phantom steed, and shatter.

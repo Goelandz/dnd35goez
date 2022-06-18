@@ -1,0 +1,13 @@
+Deities: Boccob, Vecna, Wee Jas.
+Granted Power: Gain a +2 bonus on Bluff, Diplomacy, Innuendo, Read Lips, and Sense Motive checks. Gain a +2 bonus on Will saves against enchantment spells and effects.
+
+Mind Domain Spells
+1 Comprehend Languages. Understands all spoken and written languages.
+2 Detect Thoughts. Allows "listening" to surface thoughts.
+3 Lesser Telepathic Bond†. Link with subject within 30 ft. for 10 min./level.
+4 Discern Lies. Reveals deliberate falsehoods.
+5 Rary's Telepathic Bond. Link lets allies communicate.
+6 Probe Thoughts†. Read subject's memories, one question/round.
+7 Brain Spider†. Eavesdrop on thoughts of up to eight other creatures.
+8 Mind Blank. Subject is immune to mental/emotional magic and scrying.
+9 Weird. Fearful illusion, affects all within 30 ft., either killing or dealing 3d6 damage.

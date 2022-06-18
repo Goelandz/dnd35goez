@@ -1,0 +1,5 @@
+This weapon allows its wielder to strike particularly vulnerable areas of a foe. Much like a rogue’s sneak attack ability, heartfinder weapons deal extra damage to flat-footed or flanked foes. Any time the wielder’s target would be denied its Dexterity bonus to AC, or when the wielder flanks the target, this weapon deals an additional 1d6 points of damage. This bonus damage has no effect against creatures that are immune to critical hits. Only piercing melee weapons can have this ability.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, keen edge; 
+Market Price: +2 bonus.

@@ -1,0 +1,6 @@
+Although it is made from obsidian, the magical properties of this +2 wounding shuriken make it as strong as steel. Once per day, the wielder can make a blinding strike with shadow’s hand. To make a blinding strike, the wielder makes a normal ranged attack with the weapon. If the attack is successful, the target must succeed on a Fortitude save (DC 14) or be blinded as the blindness/deafness spell from a 10th-level caster.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, blindness/deafness, Mordenkainen’s sword; 
+Market Price: 30,301 gp; 
+Cost to Create: 15,301 gp + 1,200 XP

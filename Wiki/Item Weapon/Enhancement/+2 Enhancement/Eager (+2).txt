@@ -1,0 +1,5 @@
+An eager weapon is easy to draw and allows its possessor to react quickly to danger. It grants a +2 bonus on its owner’s initiative checks, regardless of whether it is being used. An eager weapon may be drawn as a free action. Only melee weapons can have this ability.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, cat’s grace; 
+Market Price: +2 bonus.

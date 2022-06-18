@@ -1,0 +1,5 @@
+This arrow looks like a +1 arrow, but it is an invisible brilliant energy projectile that bestows two negative levels rather than dealing normal damage.
+
+Caster Level: 17th; 
+Prerequisites: Craft Magic Arms and Armor, energy drain, gaseous form, invisibility; 
+Market Price: 2,560 gp.

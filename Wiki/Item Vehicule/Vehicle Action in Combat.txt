@@ -1,0 +1,7 @@
+Melee Attacks: If the vehicle moves more than 5 feet in a round, the driver and passengers can each only make a single melee attack. Essentially, you have to wait until your vehicle gets to the enemy before attacking, so you can’t make a full attack. If you attack a Medium-size or smaller creature who’s standing on the ground, you get a +1 bonus on the attack roll for being on higher ground.
+
+Ranged Attacks: Normal ranged attacks and siege engine attacks made from a water vehicle incur a –2 penalty during inclement weather, a –4 penalty during a storm, and a –8 penalty during a powerful storm because the waves cause the ship’s deck to pitch, making such attacks difficult. These penalties stack with any penalties from high winds. As with mounted combat, you are assumed to make your attack rolls when the vehicle is at the midpoint of its movement for that round.
+
+Casting a Spell: Spellcasters aboard a moving vehicle must succeed on Concentration checks to cast spells. The check DC is 10 + spell level for all land vehicles and for air or water vehicles in inclement weather. The check DC is 15 + spell level aboard an air or water vehicle in a storm, and 25 + spell level in a powerful storm. Aboard a big air or water vehicle, a spellcaster can reduce the check DC by 5 by going belowdecks.
+
+Fighting Drivers: A driver can voluntarily relinquish control of a vehicle to make a full attack or take another full-round action. Such a vehicle is out of control (see above) until the driver spends a move-equivalent action to bring the vehicle under control again.

@@ -1,0 +1,3 @@
+Poison Spike:This special ability is identical to mundane armor spikes except that the spikes retract into hidden compartments in the armor. When they come out in response to a command word, they deal 1d6 points of piercing damage (just as normal armor spikes), and the spikes are coated with a dose of a poison that deals 1d3 points of Strength damage as both initial and secondary damage (Fort DC 16).
+
+Caster Level: 7th; Prerequisites: Craft Magic Arms and Armor, poison; Market Price: +1 bonus.

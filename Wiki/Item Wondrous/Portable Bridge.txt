@@ -1,0 +1,10 @@
+Once per day on command, this tiny statue of a bridge can turn into a fully functioning bridge. The bridge is always 5 feet wide and can extend in length from 5 feet to 50 feet. It takes a full round for the bridge to extend, regardless of the length of the bridge. The owner can choose which side the bridge retracts to, making it ideal for crossing chasms and leaving pursuers behind.
+
+The statue must be placed on solid rock or earth to work. Ideally, there should be equally solid rock or earth on the other side. If there is not stable ground on the other side (it reaches maximum range and doesn’t touch anything, there is loose sand, and so on), the bridge spends another round retracting to its statue form.
+
+The bridge can be destroyed through disintegrate or by normal means such as breaking and chipping. Each 5-foot square has 75 hit points and a hardness of 8.
+
+Caster Level: 20th; 
+Prerequisites: Craft Wondrous Item, wall of stone; 
+Market Price: 36,000 gp; 
+Weight: 1 lb.

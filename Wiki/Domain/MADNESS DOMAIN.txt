@@ -1,0 +1,17 @@
+Core Deities: Erythnul, Vecna.
+Other Deities: Tharizdun.
+
+Granted Power: Your insanity gives you insight. You subtract 1 from all Wisdom-based skill checks and all Will 
+
+saves. However, once per day, you can see and act with the clarity of true madness: Add one-half your level to a single Wisdom-based skill check or Will save. You must choose to use this benefi t before the check or save is rolled.
+
+Madness Domain Spells
+1 Confusion, Lesser: One creature acts randomly for one round.
+2 Touch of Madness*: Dazes one creature for 1 round/level.
+3 Rage: Subjects gain +2 to Str and Con, +1 on Will saves, –2 to AC.
+4 Confusion: Makes subject behave oddly for 1 round/level.
+5 Bolts of Bedevilment*: One ray/round, dazes 1d3 rounds.
+6 Phantasmal Killer: Fearsome illusion kills one creature or deals 3d6 damage.
+7 Insanity: Subject suffers continuous confusion.
+8 Maddening Scream*: Subject has –4 AC, no shield, Reflex save on 20 only.
+9 Weird: As phantasmal killer, but affects all within 30 ft

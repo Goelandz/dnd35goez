@@ -1,0 +1,8 @@
+This 6-foot-long staff is made of cracked white marble. Despite its appearance, however, the staff is curiously light and solid. The staff shatters into a thousand pieces as soon as all the charges are used up. It allows use of the following spells:
+• Shatter (1 charge, DC 13)
+• Disintegrate (1 charge, DC 20)
+• Earthquake (2 charges)
+
+Caster Level: 15th; 
+Prerequisites: Craft Staff, disintegrate, earthquake, shatter;
+Market Price: 98,500 gp.

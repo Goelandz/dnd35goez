@@ -1,0 +1,6 @@
+If you’re wielding a defl ecting weapon of your size or one size larger, you can try to knock projectiles aimed at you out of the air. Once per round when you would normally be hit by a ranged weapon, you may make a DC 20 Refl ex saving throw (if the ranged weapon has a magical enhancement bonus, the DC increases by that amount). If you succeed, the ranged weapon or projectile deflects away harmlessly. You must be aware of the attack and not fl atfooted. Only melee weapons can have this ability.
+
+ Faint transmutation; 
+CL 5th; 
+Craft Magic Arms and Armor, entropic shield; 
+Price +1 bonus.

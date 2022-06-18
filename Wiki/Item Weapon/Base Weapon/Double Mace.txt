@@ -1,0 +1,3 @@
+A stout shaft with a spiked, cylindrical head at each end, this is a double weapon. You can fight with it as if fighting with two
+weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons as if you are using a one-handed weapon and a light weapon (see Attacking with Two Weapons in Chapter 8 of the Player’s Handbook). A creature
+wielding a double weapon in one hand can’t use it as a double weapon.

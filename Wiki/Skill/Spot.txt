@@ -1,0 +1,23 @@
+SPOT (WIS)
+Use this skill to notice bandits waiting in ambush, to see a rogue lurking in the shadows, to see through a disguise, to read lips, or to see the monstrous centipede in the pile of trash. 
+
+Check: The Spot skill is used primarily to detect characters or creatures who are hiding. Typically, your Spot check is opposed by the Hide check of the creature trying not to be seen. Sometimes a creature isn’t intentionally hiding but is still difficult to see, so a successful Spot check is necessary to notice it. 
+
+A Spot check result higher than 20 generally lets you become aware of an invisible creature near you, though you can’t actually see it. 
+
+Spot is also used to detect someone in disguise (see the Disguise skill, page 72), and to read lips when you can’t hear or understand what someone is saying. 
+
+The Dungeon Master may call for Spot checks to determine the distance at which an encounter begins. A penalty applies on such checks, depending on the distance between the two individuals or groups, and an additional penalty may apply if the character making the Spot check is distracted (not concentrating on being observant). 
+
+Condition 			Penalty 
+Per 10 feet of distance 	–1 
+Spotter distracted 		–5
+
+Read Lips: To understand what someone is saying by reading lips, you must be within 30 feet of the speaker, be able to see him or her speak, and understand the speaker’s language. (This use of the skill is language-dependent.) The base DC is 15, but it increases for complex speech or an inarticulate speaker. You must maintain a line of sight to the lips being read. If your Spot check succeeds, you can understand the general content of a minute’s worth of speaking, but you usually still miss certain details. If the check fails by 4 or less, you can’t read the speaker’s lips. If the check fails by 5 or more, you draw some incorrect conclusion about the speech. Your DM rolls your check secretly in this case, so that you don’t know whether you succeeded or missed by 5. 
+
+Deck Height: The observer is on a small boat such as a rowboat or small sailboat, standing on the deck of a larger ship, or hovering about 5 to 10 feet above the water.
+
+Masthead Height: The observer is in a large ship’s rigging or crow’s nest, or otherwise suspended about 20 to 100 feet above the water surface.
+
+Action: Varies. Every time you have a chance to spot something in a reactive manner (for example, when someone tries to sneak past you while hidden, or you move into a new area), you can make a Spot check without using an action. Trying to spot something you failed to see previously is a move action. To read lips, you must concentrate for a full minute before making a Spot check, and you can’t perform any other action (other than moving at up to half speed) during this minute. 
+Try Again: Yes. You can try to spot something that you failed to see previously at no penalty. You can attempt to read lips once per minute. 

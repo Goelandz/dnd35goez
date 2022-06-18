@@ -1,0 +1,15 @@
+Core Deities: Ehlonna, Fharlanghn, Olidammara.
+Other Deities: Xan Yae, Zuoken.
+
+Granted Power: Your land speed is faster than the normal for your race by +10 feet. This benefit is lost if you are wearing medium or heavy armor or carrying a medium or heavy load.
+
+Celerity Domain Spells
+1 Expeditious Retreat: Your speed increases by 30 ft.
+2 Cat’s Grace: Subject gains +4 to Dex for 1 min./level.
+3 Blur: Attacks miss subject 20% of the time.
+4 Haste: One creature/level moves faster, +1 on attack rolls, AC, and Refl ex saves.
+5 Tree Stride: Step from one tree to another far away.
+6 Wind Walk: You and your allies turn vaporous and travel fast.
+7 Cat’s Grace, Mass: As cat’s grace, affects one subject/level.
+8 Blink, Improved*: As blink, but safer and with more control.
+9 Time Stop: You act freely for 1d4+1 rounds.

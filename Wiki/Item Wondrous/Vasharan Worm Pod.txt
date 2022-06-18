@@ -1,0 +1,8 @@
+This item is a 6-inch-long gray seed pod. To get the Vasharan worm pod to function, it must be forcibly inserted into a helpless character’s stomach (a standard action), dealing 3d6 points of damage to the character. For 2d10 days thereafter, gray-white worms grow within the pod, feeding on the character’s flesh, dealing 1d4 points of damage each day and creating specialized body parts within the stomach lining. Once the worms are fully grown, the character can mentally command the worms (a full-round action) to snake a long, fleshy tube out of his stomach and up into his nose. Thereafter, until the host of the worm pod retracts the tube (a standard action), he can command a worm to travel up the tube, into the nose, through the nasal passage, and into his mouth. As a standard action, up to three times per day, the character can spit a worm up to 30 feet away, hitting a target with a successful ranged touch attack. If a worm hits a living creature, it burrows into the creature’s body and into its vital organs. The target must succeed at a Fortitude save (DC 18) or die 1d4 rounds after the worm strikes. Even a target that succeeds at its saving throw take 2d6 points of damage each round for 1d4 rounds, after which the worm dies. A remove disease or heal spell kills the burrowing worm, stopping the damage and the risk of death.
+
+A creature with no discernible anatomy is immune to the worms and cannot be the host of a Vasharan worm pod.
+
+Caster Level: 9th; 
+Prerequisites: Craft Wondrous Item, slay living, fabricate, animal growth; 
+Market Price: 35,000 gp. 
+Weight: 5 lb

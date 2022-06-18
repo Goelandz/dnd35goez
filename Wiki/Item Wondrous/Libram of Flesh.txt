@@ -1,0 +1,10 @@
+This weighty tome details the creation of flesh golems. Additionally, the magical inscriptions of the libram allow the reader to create a flesh golem even if not a 14th-level arcane spellcaster. The reader gains a +2 bonus to effective caster level for the purpose of making golems and can emulate knowledge of the requisite spells necessary to create a flesh golem. Thus, an 11th-level arcane spellcaster still couldn’t create a golem using the libram, though a 12th-level spellcaster could, because 14th level is the minimum to create a flesh golem.
+
+Flesh golems created using the libram of flesh retain up to five abilities from one of the donor bodies used in the golem’s creation, which are layered on the flesh golem as if using a template. The DM determines which abilities of a donor body are appropriate, and which are inappropriate, which abilities stack, and which do not.
+
+Each time a flesh golem is created using the libram, enchantment visibly drains from the book as inscriptions fade. When first created, a libram of flesh has enough magical power to create seven golems. After this time, the book falls into ruin.
+
+Caster Level: 17th; 
+Prerequisites: Craft Wondrous Item, wish; 
+Market Price: 178,500 gp; 
+Weight: 5 lb.

@@ -1,0 +1,1 @@
+This oversized sling is made to fire flasks filled with liquid. Common ammunition includes acid, alchemist’s fire, and other alchemical substances. Alchemical ammunition deals damage according to its properties, but it gains the range increment of the gnome calculus.
