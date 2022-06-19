@@ -1,5 +1,0 @@
-After prolonged exposure to a poison or toxin, the character has rendered himself immune to it.
-
-Benefit: The character is immune to one specific poison (chosen by the DM or the character’s player), whether available as a blade poison, the venom of a specific creature, or one other toxin. The character also gains a +1 circumstance bonus on saving throws against other poisons.
-
-Special: A character may take this feat multiple times, choosing a different poison each time. The +1 bonus against other poisons doesn’t stack with itself, because the circumstances of each poison immunity are essentially the same.

@@ -1,4 +1,0 @@
-You turn undead with such power that affected undead take damage.
-Prerequisites: Ability to turn undead.
-
-Benefit: Any undead creature that you turn takes 3d6 points of damage in addition to the normal turning effect.

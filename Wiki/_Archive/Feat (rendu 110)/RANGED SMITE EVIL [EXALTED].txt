@@ -1,4 +1,0 @@
-Your smite ability can be channeled through your ranged weapon.
-Prerequisites: Smite evil class ability.
-
-Benefit: Your smite evil ability can be channeled through a missile that you fire. This counts as one use of your smite evil ability.

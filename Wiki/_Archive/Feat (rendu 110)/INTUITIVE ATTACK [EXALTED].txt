@@ -1,6 +1,0 @@
-You fight by faith more than brute strength.
-Prerequisites: Base attack bonus +1. 
-
-Benefit: With a simple weapon of your size or a natural weapon, you may use your Wisdom modifier instead of your Strength modifier on attack rolls.
-
-Special: A fighter may select Intuitive Attack as one of his fighter bonus feats.

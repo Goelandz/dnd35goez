@@ -1,5 +1,0 @@
-Vermin regard the character better than they would normally.
-
-Prerequisite: Cha 15.
-
-Benefit: If a vermin is about to attack the character, she may make a Charisma check (DC 20). If the check succeeds, that vermin refuses to attack her for 24 hours.

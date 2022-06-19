@@ -1,7 +1,0 @@
-You can charge your damaging spell-like abilities with celestial
-energy that leaves good creatures unharmed.
-Prerequisites: Any good alignment.
-
-Benefit:This feat adds the good descriptor to a spell-like ability. Furthermore, if the ability deals damage, neutral creatures take half damage, or one-quarter with a successful saving throw (if allowed), while good creatures take no damage at all. Evil outsiders affected by the ability take extra damage: The ability’s damage is increased by one die type (each 1d6 becomes 1d8, each 1d8 becomes 2d6, and so on, using the same progression as weapons increasing in size). For example purified lightning bolt cast by an avoral deals 8d6 points of electricity damage to evil creatures, half damage to neutral creatures, and no damage at all to good creatures caught in its path. Evil outsiders (except ones immune to electricity) take 8d8 points of damage.
-
-Each of your spell-like abilities can be purified three times per day, though this feat does not allow you to exceed your normal usage limit for any ability. Thus, if a tulani eladrin chooses to purify its chain lightningability, it can use a purified chain lightning up to three times that day. Thereafter, it could use its chain lightning ability again normally (since it can use chain lightning at will), or it could purify another of its spell-like abilities, such as meteor swarm.

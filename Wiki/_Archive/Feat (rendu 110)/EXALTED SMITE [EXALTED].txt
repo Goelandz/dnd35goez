@@ -1,4 +1,0 @@
-Your smite ability is empowered with holy energy.
-Prerequisites: Smite evil class ability.
-
-Benefit: When you use your smite evil ability, your weapon is considered good-aligned for purposes of bypassing damage reduction.

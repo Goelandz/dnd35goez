@@ -1,7 +1,0 @@
-The character can focus evil power into her weapon blows
-
-Prerequisite: Cha 15, Weapon Focus with the specified weapon.
-
-Benefit: Each time the character deals damage with a specific kind of weapon, she deals 1 additional point of vile damage.
-
-Special: A character may take this feat more than once, selecting a different weapon each time.

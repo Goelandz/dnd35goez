@@ -1,7 +1,0 @@
-Through intentional gorging and general gluttony, the character is obese. Grossly overweight, she is now at least triple the normal weight for creatures of her kind. 
-
-Prerequisite: Willing Deformity.
-
-Benefit: The character gains a +2 deformity bonus to Constitution and a –2 deformity penalty to Dexterity. Furthermore, she gains a +2 circumstance bonus on Intimidate checks and saving throws against poison.
-
-Special: A character with this feat may not take the Deformity (gaunt) feat.

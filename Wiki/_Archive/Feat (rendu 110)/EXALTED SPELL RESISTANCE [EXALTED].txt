@@ -1,4 +1,0 @@
-You are particularly resistant to evil spells.
-Prerequisites: Cha 15, spell resistance.
-
-Benefit: Against evil spells (spells with the evil designator) and spell-like abilities used by evil outsiders, your spell resistance increases by +4.

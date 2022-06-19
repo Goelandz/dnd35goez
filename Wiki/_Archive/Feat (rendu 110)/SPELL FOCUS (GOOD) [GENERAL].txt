@@ -1,6 +1,0 @@
-Your spells with the good descriptor are more potent than normal due to your relationship with the powers of good. 
-Prerequisites: Any good alignment.
-
-Benefit: Add +2 to the Difficulty Class for all saving throws against your spells with the good descriptor. 
-
-Special: The +2 increase also applies to the Difficulty Class for a possessing fiend to Hide from your good spells such as detect evil or magic circle against evil (as detailed in the Book of Vile Darkness).

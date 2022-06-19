@@ -1,4 +1,0 @@
-Your sneak attack is enhanced by your unshakable faith in a good-aligned deity.
-Prerequisites: Sneak attack class ability.
-
-Benefit: When you use your sneak attack ability against an evil creature, roll d8s for your sneak attack dice (instead of d6s) and your sneak attack damage is considered good-aligned for purposes of overcoming damage reduction.

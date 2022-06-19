@@ -1,4 +1,0 @@
-Your touch is poisonous to evil creatures.
-Prerequisites: Con 13.
-
-Benefit:Any evil creature you touch with your bare hand, fist, or natural weapon is ravaged by golden ice (see Ravages and Afflictions in Chapter 3: Exalted Equipment for effects).

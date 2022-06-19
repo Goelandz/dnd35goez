@@ -1,7 +1,0 @@
-The character can transform one of his spells into an evil spell, and the wounds the spell inflicts are tainted with the foulest evil.
-
-Prerequisite: Any evil alignment.
-
-Benefit: This feat adds the evil descriptor to a spell. Furthermore, if the spell deals damage, half of the damage dealt is vile damage. For example, a violated lightning bolt cast by an 8th-level wizard deals 8d6 points of damage: 4d6 points of electricity damage and 4d6 points of vile electricity damage (but creatures immune to electricity take no damage). A violated spell uses up a spell slot one level higher than the spell’s actual level.
-
-Special: A character may take this feat multiple times, choosing a different spell each time.

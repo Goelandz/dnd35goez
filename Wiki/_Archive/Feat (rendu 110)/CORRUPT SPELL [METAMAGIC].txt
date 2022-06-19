@@ -1,9 +1,0 @@
-The character can transform one of her spells into a thing of evil due to a deal she makes with an evil power.
-
-Prerequisite: Any evil alignment. 
-
-Benefit: This feat adds the evil descriptor to a spell. Furthermore, if the spell deals damage, half of the damage is unholy damage. For example, a corrupted fireball cast by a 6th-level wizard deals 6d6 points of damage: 3d6 points of fire damage and 3d6 points of unholy damage.
-
-Thus, creatures immune to fire still potentially take 3d6 points of damage. The corrupted spell uses up a spell slot one level higher than the spell’s actual level.
-
-Special: A character may take this feat multiple times, choosing a different spell each time.

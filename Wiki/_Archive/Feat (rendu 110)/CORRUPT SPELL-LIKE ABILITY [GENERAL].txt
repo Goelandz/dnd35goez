@@ -1,9 +1,0 @@
-One of the creature’s spell-like abilities is powered by evil. A dark pact provides the creature with unholy energy.
-
-Prerequisite: Any evil alignment. 
-
-Benefit:This feat adds the evil descriptor to a spell-like ability. Furthermore, if the spell-like ability deals damage, half of that damage (rounded down) is unholy damage. For example, if a corrupted fireball from a pit fiend deals a total of 35 points of damage, half of that amount (18 points) is fire damage and the other half (17 points) is unholy damage. Nonevil creatures immune to fire still take the 17 points of unholy damage.
-
-Each of a creature’s spell-like abilities can be corrupted three times per day, though the feat does not allow the creature to exceed its normal usage limit for any ability. Thus, if a pit fiend chooses to corrupt its fireball ability, it can use a corrupted fireball up to three times that day. Thereafter, it could use its fireball ability again normally (since it can use fireball at will), or it could corrupt another of its spell-like abilities, such as meteor swarm.
-
-Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to each of its spell-like abilities three additional times per day.

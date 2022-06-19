@@ -1,6 +1,0 @@
-Your stunning attack is empowered by celestial might.
-Prerequisites: Wis 15, Sanctify Ki Strike, Stunning Fist.
-
-Benefit: The saving throw DC of your Stunning Fist increases by 2 when you use it against an evil creature. If the stunning attack succeeds, the creature is staggered for 1 round following the round it is stunned.
-
-Special: A fighter may select Fist of the Heavens as one of his fighter bonus feats.

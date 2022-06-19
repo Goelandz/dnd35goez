@@ -1,6 +1,0 @@
-You have learned a few of the words that were spoken to create the world.
-Prerequisites: Int 15, Cha 15, base Will save bonus +5.
-
-Benefit: You can use the Words of Creation to enhance bardic music, to help cast good spells and create good magic items, and to enhance the process of creation (see Words of Creation in Chapter 2).
-
-Normal: A nonevil creature that tries to utter the Words of Creation without learning them properly is affected as by a feeblemind spell, while an evil character is struck dead. Fortunately, it is impossible to make someone speak the Words of Creation against his will, because their pronunciation is so exacting.

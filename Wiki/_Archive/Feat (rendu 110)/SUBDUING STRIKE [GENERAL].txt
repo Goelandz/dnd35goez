@@ -1,7 +1,0 @@
-You are adept at striking to deal nonlethal damage even with normal weapons.
-
-Benefit: You can use any melee weapon to deal nonlethal damage with no penalty on your attack roll. If you are a rogue, you can deal nonlethal damage with your sneak attack even if you are using a normal melee weapon. This feat does not allow you to deal nonlethal damage with ranged weapons.
-
-Normal: If you use a melee weapon designed to deal lethal damage to deal nonlethal damage instead, you take a –4 penalty on your attack roll. Rogues normally can only use saps or unarmed strikes to deal nonlethal damage with their sneak attacks.
-
-Special: A fighter may select Subduing Strike as one of his fighter bonus feats.

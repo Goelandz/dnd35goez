@@ -1,9 +1,0 @@
-The creature can use a spell-like ability with a moment’s thought.
-
-Benefit: Using a quickened spell-like ability is a free action that does not provoke an attack of opportunity. The creature can perform another action—including the use of another spell-like ability—in the same round that it uses a quickened spell-like ability. The creature may use only one quickened spell-like ability per round. A spell-like ability that duplicates a spell with a casting time greater than 1 full round cannot be quickened.
-
-Each of a creature’s spell-like abilities can be quickened only once per day, and the feat does not allow the creature to exceed its normal usage limit for any ability. Thus, if a demon chooses to quicken its darkness ability, it cannot use quickened darkness again the same day, though it could use its darknessability again normally (since it can use darkness at will), or it could quicken another of its spell-like abilities, such as desecrate.
-
-Normal: Normally the use of a spell-like ability requires a standard action and provokes an attack of opportunity unless noted otherwise.
-
-Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to each of its spell-like abilities one additional time per day.

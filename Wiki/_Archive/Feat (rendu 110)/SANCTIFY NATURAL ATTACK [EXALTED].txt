@@ -1,4 +1,0 @@
-You can focus holy power into your natural attacks.
-Prerequisites: One or more natural weapon attacks, base attack bonus +5.
-
-Benefit: Each time you deal damage with a natural attack, you deal 1 extra point of damage to evil creatures, or 1d4 points to evil outsiders and evil undead. In addition, your natural attacks are considered good-aligned for purposes of overcoming damage reduction.

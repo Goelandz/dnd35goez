@@ -1,6 +1,0 @@
-Your rage is empowered with divine fury.
-Prerequisites: Rage class ability.
-
-Benefit: When you first deal damage with a melee attack against an evil foe during your rage, that creature must make a successful Will saving throw (DC 10 + 1/2 your raging class level + your Cha modifier) or be shaken. If you fail to affect a creature the first time you hit it, you cannot affect it in that encounter. The shaken effect remains until you withdraw or are killed or incapacitated.
-
-While raging, you maintain clarity of mind unusual among barbarians. You are perfectly able to deal nonlethal damage, stop your attacks to show mercy, and distinguish friend from foe even in the heat of your rage.

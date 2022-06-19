@@ -1,7 +1,0 @@
-Sacred power suffuses your attacks with a certain kind of weapon.
-Prerequisites: Cha 15, Weapon Focus with the specified weapon.
-
-Benefit: Whenever you wield a specific kind of weapon, it deals 1 extra point of damage to evil creatures, or 1d4 points to evil outsiders and evil undead. In addition, that weapon is considered good-aligned for purposes of overcoming damage
-reduction.
-
-Special: You can take this feat more than once, selecting a different weapon each time

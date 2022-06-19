@@ -1,6 +1,0 @@
-You can modify a spell that uses energy to deal damage to deal nonlethal damage instead.
-Prerequisites: Any other metamagic feat, Knowledge (arcana) 5 ranks.
-
-Benefit: Choose one type of energy: acid, cold, electricity, fire, or sonic. You can modify a spell with the chosen designator to deal nonlethal damage instead of energy damage. The altered spell works normally in all respects except the type of damage dealt. For example, a nonlethal fireball spell works in the usual way except it deals nonlethal damage instead of fire damage. 
-
-A nonlethal spell uses a spell slot of the spell’s normal level, modified by any other metamagic feats

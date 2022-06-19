@@ -1,5 +1,0 @@
-The character’s spells that have the evil descriptor are more potent than normal due to a deal she makes with an evil power. 
-
-Prerequisite: Any evil alignment.
-
-Benefit: Add +2 to the DC for all saving throws against any of the character’s spells that have the evil descriptor.
