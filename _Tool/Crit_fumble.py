@@ -1,17 +1,38 @@
 #Import everything from tkinter
 from tkinter import *
+from tkinter import Menu
 import random
 import ctypes
 
 #Create Windows object
 window=Tk()
 window.title('Crit & Fumble')
-window.geometry("200x80")
-window.attributes('-toolwindow', True)
+window.geometry("190x80")
+window.resizable(False, False)
 
-import ctypes
+#pop up
 ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 6 )
 
+#Menu with information
+menubar = Menu(window)
+window.config(menu=menubar)
+
+# create a menu
+file_menu = Menu(menubar, tearoff=False)
+
+# add a menu item to the menu
+file_menu.add_command(label='How it work?', command=lambda: Help())
+file_menu.add_separator()
+file_menu.add_command(label='Exit', command=window.destroy)
+
+# add the File menu to the menubar
+menubar.add_cascade(label="File", menu=file_menu)
+
+#Help menu
+def Help():
+    ctypes.windll.user32.MessageBoxW(0, "You can either click on 'Critical' or 'Fumble' to automatically generate one. Or enter a value in the corresponding section, then press 'Roll'", "How does it work?", 0)
+
+#Simple else-if for the critical result
 def CritMessage(i):
     message = ""
     if i < 32:
@@ -79,10 +100,12 @@ def CritMessage(i):
     elif i == 100:
         message = "Decapitation DC 35, 50% hp if fail"
     else:
-        message = "ERROR"
+        message = "ERROR: Value must be between 1 and 100."
         
     return message
 
+
+#Simple else-if for the Fumble result
 def FumMessage(i):
     message = ""
     if i < 32:
@@ -150,16 +173,20 @@ def FumMessage(i):
     elif i == 100:
         message = "Limited to a standard action for the fight"
     else:
-        message = "ERROR"
+        message = "ERROR: Value must be between 1 and 100."
         
     return message
   
+    
+    
 def rollCrit():
     #Variable
     Result = ""
     rollnum = random.randrange(1, 100)
     
+    #Check for the string 
     result = CritMessage(rollnum)
+    #Say the result in a pop up
     ctypes.windll.user32.MessageBoxW(0, result, "Critical, rolled a " + str(rollnum) + ".", 0)
         
     #Clear shit
@@ -170,20 +197,23 @@ def rollFum():
     #Variable
     Result = ""
     rollnum = random.randrange(1, 100)
-    
+ 
+    #Check for the string    
     result = FumMessage(rollnum)
+    #Say the result in a pop up
     ctypes.windll.user32.MessageBoxW(0, result, "Fumble, rolled a " + str(rollnum) + ".", 0)
         
     #Clear shit
     CriticalRoll.set("")
     FumbleRoll.set("")
-    
+
+    #Define button
 def roll():
     #Variable
     crit = e1.get()
     fum = e2.get()
     Result = ""
-    
+        
     if crit != "":
         result = CritMessage(int(crit))
         ctypes.windll.user32.MessageBoxW(0, result, "Critical", 0)
@@ -209,6 +239,7 @@ e1.grid(row=0,column=1)
 FumbleRoll=StringVar()
 e2=Entry(window,textvariable=FumbleRoll, width=12, justify="center")
 e2.grid(row=1,column=1)
+
 
 #define buttons
 b1=Button(window, text="Critical", width=12,  command=lambda: rollCrit())
