@@ -1,3 +1,0 @@
-This light, slender +1 arrow has a small point and brightly colored fletching. On a successful hit, a pale glow surrounds the target. The glow functions exactly like the faerie fire spell from a 5th-level caster, preventing an outlined target from gaining the benefits of concealment caused by darkness, blur, displacement, invisibility, or similar effects.
-
-Caster Level: 5th; Prerequisites: Craft Magic Arms and Armor, faerie fire; Market Price: 297 gp; Cost to Create: 152 gp + 12 XP

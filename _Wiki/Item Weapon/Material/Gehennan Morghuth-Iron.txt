@@ -1,6 +1,0 @@
-This volcanic mineral is unique to the steep mountains of the Bleak Eternity of Gehenna, where it is occasionally mined by neutral evil fiends called yugoloths and other creatures on that forbidding plane. It forges poorly, making weapons that appear pocked and pitted and have a –1 attack and damage penalty. 
-
-However, morghuth-iron is extremely toxic, rapidly poisoning the blood. A slashing or piercing weapon made of Gehennan morghuth-iron is naturally poisonous. The weapon delivers its poison (Fortitude save DC 12) with each successful attack. The initial damage is 1 point of temporary Dexterity; the secondary damage is 1d4 points of temporary Dexterity. The market price modifier for a weapon made of morghuth-iron
-is +4,000 gp. 
-
-Gehennan morghuthiron has a hardness of 9 and 20 hit points per inch of thickness.

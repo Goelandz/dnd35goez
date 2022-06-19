@@ -1,6 +1,0 @@
-This +2 returning halfspear grants its wielder superior speed in combat. Any round in which the wielder throws the spear of skirmishing, he may add 10 feet to his speed.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, expeditious retreat, telekinesis; 
-Market Price: 32,301 gp; 
-Cost to Create: 16,301 gp + 1,280 XP.

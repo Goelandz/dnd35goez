@@ -1,5 +1,0 @@
-This weapon has one special purpose: disarming opponents of their weapons. It eliminates the opponent’s bonuses for weapon size and twohanded weapons. Weapons with this ability also grant the wielder a +1 bonus on the opposed attack roll during a disarm attempt; this bonus does not apply to any other attack roll. Only melee weapons can have this ability.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor; 
-Market Price: +2 bonus.

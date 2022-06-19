@@ -1,5 +1,0 @@
-Urdrukar, often referred to as “mind steel,” is a dark metal found only in the deepest recesses of the Underdark. Naturally resistant to divination magic, items made from urdrukar are greatly prized by those who do not wish to be found. Every 5 pounds of urdrukar that a character wears or carries increases the DC for all attempts to scry on that character by +2.
-
-Armor and shields made from urdrukar have double the normal arcane spell failure chance. Urdrukar is heavier and harder to work with than most other metals: Armor made from it tends to be somewhat clumsier, making gestures more difficult.
-
-Urdrukar has a hardness of 15 and 30 hit points per inch of thickness. Metal items made from urdrukar cost an additional 500 gp per pound.

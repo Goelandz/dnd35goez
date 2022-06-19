@@ -1,5 +1,0 @@
-This +2 light pick grants its wielder powerful abilities to shape and move stone. Three times per day its wielder may swing it at stone and have the weapon cast stone shape as a 5th-level caster. In addition, the wielder may meld into stone once per day as a 5th-level caster.
-
-Caster Level: 6th; Prerequisites: Craft Magic Arms and Armor, meld into stone, stone shape; 
-Market Price: 32,304 gp; 
-Cost to Create: 16,304 gp + 1,280 XP.

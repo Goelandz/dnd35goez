@@ -1,6 +1,0 @@
-A creature wearing a lore ring can use legend lore and stone tell each once per week by speaking a command word, and can fi nd magic traps created by glyphs, runes, sigils, and symbols with a successful Search check, just as a rogue does.
-
- Strong divination; 
-CL 12th; 
-Forge Ring, find traps, legend lore, stone tell; 
-Price 23,250 gp.

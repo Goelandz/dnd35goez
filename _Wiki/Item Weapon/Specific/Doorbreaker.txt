@@ -1,6 +1,0 @@
- This plain-looking +1 battleaxe resembles mundane wood-chopping axes more than other battleaxes, and it is especially effective against wood and similar materials. A doorbreaker deals double damage to all objects made predominantly of wood and to plant creatures.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, warp wood; 
-Market Price: 8,310 gp; 
-Cost to Create: 4,310 gp + 320 XP.

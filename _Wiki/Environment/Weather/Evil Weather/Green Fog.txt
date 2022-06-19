@@ -1,3 +1,0 @@
-Clouds of dark greenish mist roll across the countryside. The fog perverts any living thing it touches, twisting and mutating flesh. Any creature touched by the mist must succeed at a Fortitude save (DC 17) or become polymorphed into a random creature (use the reincarnate spell to determine which creature, or select a creature from a relevant wilderness encounter list in Chapter 4 of the DUNGEON MASTER’s Guide). 
-
-The fog usually encompasses an area of 1d3 square miles, lasts for 10d6 minutes, and moves at a speed of 30 feet.

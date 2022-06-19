@@ -1,5 +1,0 @@
-This gem, when in the possession of a creature, poisons that creature so that anyone casting a mind-affecting or divination spell at the creature is affected with a psychic poison (see Chapter 3) that deals 1d6 points of Intelligence damage as both initial and secondary damage.
-
-Caster Level: 7th; 
-Prerequisites: Craft Wondrous Item, poison area; 
-Market Price: 28,000 gp.

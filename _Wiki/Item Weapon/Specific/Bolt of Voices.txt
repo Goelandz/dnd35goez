@@ -1,6 +1,0 @@
-These +2 bolts have bright fletching and often have brightly painted shafts as well. Also known as magebane bolts, they are feared by many spellcasters. Anyone hit by a bolt of voices must succeed on a Will save (DC 16) or suffer from the bolt’s distracting effects. Targets who fail their saves hear voices that seem to whisper inside their heads. Those affected by a bolt of voices must make a Concentration check (DC 16 + spell level) to cast any spells. This effect lasts for 1d6 rounds.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, feeblemind; 
-Market Price: 767 gp; 
-Cost to Create: 387 gp + 31 XP.

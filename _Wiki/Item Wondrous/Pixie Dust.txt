@@ -1,8 +1,0 @@
-This sparkling, silvery dust is created by several different fey but primarily used by pixies. It comes in long, thin, silvery tubes. A single tube’s contents finely coat a 5-foot square, and any passage through the area stirs up the dust for 1d6 rounds.
-
-Alternatively, the contents of a tube can be blown at a target creature as a ranged touch attack (maximum range 5 feet). A creature that stirs up the dust or is targeted by someone wielding a tube of the dust must make a successful Fortitude save (DC 15) or begin shrinking to the size of a grig (Tiny). In addition, the creature acts as though under the effect of a charm person spell from a 9th-level caster, obeying the person who spread the dust. Both effects last for 9 hours before restoring the person to normal.
-
-Caster Level: 9th; 
-Prerequisites: Craft Wondrous Item, reduce, charm person or creator must be a fey; 
-Market Price: 2,700 gp; 
-Weight: —.

@@ -1,9 +1,0 @@
-These golden bracers are engraved with holy runes and fit snugly over the arms of any creature that dons them. Ranged attacks made by evil creatures against the wearer take a –4 penalty.
-
-An evil creature that dons the vambraces of evil’s warding takes 2d6 points of damage per round.
-
-Faint abjuration; 
-CL 5th; 
-Craft Wondrous Item, protection from arrows, creator must be good; 
-Price 18,000 gp; 
-Weight 1 lb

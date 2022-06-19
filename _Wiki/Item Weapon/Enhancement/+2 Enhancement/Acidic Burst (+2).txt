@@ -1,7 +1,0 @@
-An acidic burst weapon functions as a corrosive weapon (see below) that also explodes with acid upon scoring a successful critical hit. The acid does not harm the hands that hold the weapon. 
-
-Acidic burst weapons deal +1d10 points of bonus acid damage on a successful critical hit. If the weapon’s critical multiplier is ×3, add +2d10 points of bonus acid damage instead, and if the multiplier is ×4, add +3d10 points of bonus acid damage. Bows, crossbows, and slings with this ability bestow the acid energy upon their ammunition.
-
-Caster Level: 12th; 
-Prerequisites: Craft Magic Arms and Armor, acid fog, Melf ’s acid arrow, or storm of vengeance; 
-Market Price: +2 bonus.

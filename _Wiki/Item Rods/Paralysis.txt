@@ -1,7 +1,0 @@
-This rod is created out of sickly pink coral and topped with spikes like those on a puffer fish. The spikes constantly produce an exotic venom that has paralytic qualities. These rods are commonly created by kuo-toas, who are immune to the effects they produce.
-
-Anyone struck by the rod must succeed on a Fortitude save (DC 25) or be paralyzed for 1d4 rounds. The wielder can also expend a charge to cast hold person and hold animal twice per day and hold monster once per day (as the spells from a 9th-level caster). The rod holds 50 charges for the spells, but the poison lasts indefinitely.
-
-Caster Level: 9th; 
-Prerequisites: Craft Wondrous Item, hold monster , hold person; 
-Market Price: 22,000 gp.

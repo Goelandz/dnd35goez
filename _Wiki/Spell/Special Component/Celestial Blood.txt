@@ -1,1 +1,0 @@
-If a spell to which this component is applied deals damage, there is a 30% chance that the spell deals an extra +2d6 points of damage to an evil target. The celestial who gave the blood must still be alive for this to function.

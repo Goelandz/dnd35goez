@@ -1,4 +1,0 @@
-Lance
-A lance deals double damage when used from the back of a charging mount. It has reach, so you can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
-
-While mounted, you can wield a lance with one hand.

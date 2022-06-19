@@ -1,6 +1,0 @@
-This Large +5 unholy bastard sword allows its wielder to smite good once per day. The wielder adds his Charisma modifier (if positive) to his attack roll and deals +10 damage, in addition to the +2d6 points of unholy damage the weapon normally deals. This special smite attack is in addition to any smite ability the wielder might already have, but the wielder cannot use two different smite abilities on the same attack. This weapon looks like a bolt of red lightning.
-
-Because the market price of this item is close to that of the balor’s sword of flame, it can be substituted for that weapon with no adjustment to the balor’s treasure.
-
-Caster Level: 15th; Prerequisites: Craft Magic Arms and Armor, unholy blight, creator must be evil and have a smite ability; 
-Market Price: 118,670 gp; Cost to Create: 59,670 gp + 4,720 XP.

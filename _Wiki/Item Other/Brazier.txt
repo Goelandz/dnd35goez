@@ -1,7 +1,0 @@
-A brazier is a metal pan used to hold burning coals, providing heat and light and consuming incense and other items as sacrifice. This item is a convenient way to burn incense that is the material component for a spell.
-
-A large brazier (gold, silver, or bronze) is 6 feet in diameter and very ornately carved, suitable for use in a large temple.
-
-A medium brazier (gold, silver, or bronze) is 4 feet in diameter, often somewhat less ornate, and suitable for a chapel or shrine.
-
-A field brazier (silver or bronze) is 18 inches in diameter and very plain, but can be easily carried and used in prayers and religious ceremonies on the road. (A brazier of commanding fire elementals is a bronze field brazier.)

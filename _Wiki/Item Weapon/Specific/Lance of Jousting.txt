@@ -1,5 +1,0 @@
-This +3 light lance was created to put smaller riders on par with their larger counterparts. When in the hands of a Small humanoid, the lance of jousting has a reach of 10 feet. In all other respects, the weapon functions like a normal +3 light lance.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, enlarge; 
-Market Price: 32,306 gp; Cost to Create: 16,306 gp + 1,280 XP

@@ -1,7 +1,0 @@
-Bound in blood-red leather and bearing a bronze clasp, this vellum spellbook is waterproof, fi reproof, and lockable, and can contain up to forty-fi ve spells of any level. In addition, once per day, its owner can use the book to cast summon monster IV to summon a yeth hound. The book can also be used to cast fi nger of death once per day, but each such use permanently drains 1 hit point from the wielder. The book must be held to utilize its powers.
-
- Strong conjuration, strong necromancy; 
-CL 13th; 
-Craft Wondrous Item, finger of death, summon monster IV;
-Price 21,300 gp; 
-Weight 3 lb.

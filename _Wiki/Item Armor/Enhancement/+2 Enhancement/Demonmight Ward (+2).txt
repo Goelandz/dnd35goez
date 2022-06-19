@@ -1,3 +1,0 @@
-Demonmight Ward: This armor increases the wearer’s enhancement bonus to Armor Class by +1 against attacks from creatures of good alignment, or by +2 against attacks from good outsiders. Furthermore, it provides a +1 bonus on all saving throws against spells and spell-like effects from good creatures, and a +2 bonus on saving throws against spells with the good descriptor.
-
-Caster Level: 9th; Prerequisites: Craft Magic Arms and Armor, dispel good, unheavened; Market Price: +2 bonus.

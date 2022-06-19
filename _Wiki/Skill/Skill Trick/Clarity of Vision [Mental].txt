@@ -1,5 +1,0 @@
-You can briefly see invisible opponents.
-
-Prerequisite: Spot 12 ranks.
-
-Benefit: As a swift action, you can attempt a DC 20 Spot check. If successful, you focus your vision so clearly that you can pinpoint the location of invisible creatures within 30 feet. This clarity lasts until the end of your turn.

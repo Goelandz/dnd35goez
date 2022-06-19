@@ -1,6 +1,0 @@
-This type of armor is normally decorated with spirals and fanged mouths. It functions like armor of spell resistance with spell resistance 13, except that any spell that targets the wearer and fails to overcome the armor’s spell resistance is consumed by the armor, giving the wearer 1d8 temporary hit points to a maximum of 8 temporary hit points at any time (no matter how many spells the armor consumes). Temporary hit points gained in this fashion last for up to 1 hour.
-
- Strong transmutation; 
-CL 16th; 
-Craft Magic Arms and Armor, limited wish, spell resistance; 
-Price +3 bonus

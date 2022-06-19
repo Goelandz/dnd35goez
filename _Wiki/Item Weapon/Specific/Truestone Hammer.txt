@@ -1,6 +1,0 @@
-This utilitarian +2/+1 gnome hooked hammer is useful as a tool as well as a weapon. Three times per day, when in contact with an illusion or an object that is the target of an Illusion spell, the hammer can dispel magic (as the spell cast by a 15thlevel caster, except that it affects only spells from the school of Illusion). Once per day, a truestone hammer can be used to cast stone shape, as the spell from a 15th-level caster.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, dispel magic, stone shape; 
-Market Price: 51,120 gp; 
-Cost to Create: 25,870 gp + 2,020 XP

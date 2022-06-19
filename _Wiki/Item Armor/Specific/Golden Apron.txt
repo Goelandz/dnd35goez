@@ -1,5 +1,0 @@
-This item is a boon to many who work a forge. It appears to be an ordinary leather apron, with an odd metallic sheen in direct light. It gives a +2 deflection bonus to the wearer's Armor Class. A gnome who wears one gains damage reduction 5/+1 and a +2 bonus on all saves against fire and heat.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, Alchemy, shield; 
-Market Price: 22,200 gp.

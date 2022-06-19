@@ -1,6 +1,0 @@
-This weapon unleashes a tremendous roar with each swing. Any evil creature struck by the roaring weapon must succeed on a DC 22 Will save or be shaken. A roaring weapon also deals +2d6 points of sonic damage on a successful critical hit. A roaring weapon cannot also have the thundering ability (see the Dungeon Master’s Guide), and vice versa.
-
-Strong evocation; 
-CL 15th; 
-Craft Magic Arms and Armor, leonal’s roar, creator must be good; 
-Price +3 bonus.

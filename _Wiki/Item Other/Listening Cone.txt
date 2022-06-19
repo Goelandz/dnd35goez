@@ -1,1 +1,0 @@
-This device is made for listening through doors and other solid surfaces. It grants a +2 circumstance bonus on Listen checks made through a door or other relatively thin, solid obstacle.

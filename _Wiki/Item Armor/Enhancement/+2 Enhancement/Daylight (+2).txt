@@ -1,4 +1,0 @@
-A suit of armor or a shield with this quality glows with the brilliant light of a daylight spell for up to 30 minutes per day. A command word, usually inscribed on the inside of the armor or the back of the shield, activates and deactivates the illumination. Except when glowing, this armor or shield appears completely normal.
-
-Caster Level: 5th; Prerequisites: Craft Magic Arms and Armor, daylight; 
-Market Price: +2 bonus.

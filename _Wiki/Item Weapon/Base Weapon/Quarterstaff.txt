@@ -1,4 +1,0 @@
-Quarterstaff
-A quarterstaff is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a quarterstaff in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
-
-The quarterstaff is a special monk weapon. This designation gives a monk wielding a quarterstaff special options.

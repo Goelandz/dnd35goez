@@ -1,7 +1,0 @@
-A harp typically has seventeen strings but can come with as few as twelve on a smaller instrument or as many as forty-seven on a larger one. Silver wires are the most common choice for strings, but other materials are occasionally used. Harps are usually made of wood, though some artisans carve them from bone or ivory. Whatever their material, most harps are highly polished and elaborately decorated with carvings. The finest rank as works of art in their own right, quite apart from their status as instruments. Though harps can stand up to 6 feet tall, smaller versions (sometimes called lap-harps) are much smaller—about 2 feet high—and more portable. 
-
- The harp is especially favored by elf bards for its light, soothing sound and gentle, rippling notes. Harps are often handed down from generation to generation among the elves, and many eventually acquire names and legends of their own. Any character with the bardic knowledge ability who examines an elven harp automatically gains a +5 bonus on his or her bardic knowledge check to identify the instrument and its bearer.
-
-Bardic Music: A bard playing a harp can target one more creature than normal with her fascinate and inspire greatness abilities.
-
- A bard who uses a harp for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components.

@@ -1,2 +1,0 @@
-Resistance Bonus
-A resistance bonus affects saving throws, providing extra protection against harm. Multiple resistance bonuses on the same character or object do not stack. Only the highest resistance bonus applies.

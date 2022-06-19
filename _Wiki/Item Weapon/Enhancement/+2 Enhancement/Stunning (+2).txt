@@ -1,5 +1,0 @@
-When striking a foe, a stunning weapon emits a powerful burst of sonic energy. It deals +1d6 points of bonus sonic damage on a successful hit. The sonic energy does not harm the weapon’s wielder or others nearby. On a successful critical hit, the target must succeed on a Fortitude save (DC 17) or be stunned for 1 round. Bows, crossbows, and slings with this ability bestow the sonic energy on their ammunition.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, sound burst, hold monster; 
-Market Price: +2 bonus.

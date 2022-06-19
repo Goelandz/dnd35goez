@@ -1,8 +1,0 @@
-You can demoralize multiple enemies.
-
-Prerequisite: Intimidate 8 ranks.
-
-Benefit: When you use Intimidate to demoralize an opponent (PH 76), you can affect all enemies within 10 feet that 
-can see you, rather than only a single enemy you threaten.
-
-Each enemy rolls a separate modified level check to oppose your Intimidate check, but the skill check otherwise works as normal.

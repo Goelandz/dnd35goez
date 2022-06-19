@@ -1,7 +1,0 @@
-Weapons with the exit wound ability propel their ammunition entirely through living targets they hit. 
-
-This effect deals an extra 1d6 points of damage. The weapon or projectile continues in a straight line beyond the original target. Targets in that path are attacked using the same attack roll as the original target; these additional targets gain a +4 bonus to AC for each previous target in the path. When an exit wound weapon or projectile hits an object, it stops. The exit wound ability can be applied to any ranged weapon; projectile weapons so enhanced bestow the ability on their ammunition.
-
- Moderate transmutation; 
-CL 8th; 
-Craft Magic Arms and Armor, Melf’s acid arrow; rice +2 bonus

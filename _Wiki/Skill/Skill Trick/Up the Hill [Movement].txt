@@ -1,5 +1,0 @@
-You can move quickly up a slope.
-
-Prerequisite: Balance 5 ranks, Jump 5 ranks.
-
-Benefit: You can move up a steep slope or stairs at your normal speed instead of at half speed. This effect lasts for 1 round.

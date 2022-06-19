@@ -1,8 +1,0 @@
-This wooden staff, exactly 3 feet long and notched every inch, allows use of the following spells:
-• Animate objects (2 charges)
-• Wall of stone (1 charge)
-• Major creation (1 charge)
-
-Moderate conjuration; 
-CL 11th; Craft Staff, animate objects, major creation, wall of stone; 
-Price 38,156 gp

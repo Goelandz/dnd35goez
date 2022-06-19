@@ -1,2 +1,0 @@
-Scythe
-A scythe can be used to make trip attacks. If you are tripped during your own trip attempt, you can drop the scythe to avoid being tripped.

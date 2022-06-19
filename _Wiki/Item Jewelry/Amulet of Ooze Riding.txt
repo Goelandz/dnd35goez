@@ -1,6 +1,0 @@
-Amulet of Ooze Riding 
-Any time the wearer of this amulet comes into contact with an ooze, a sphere of force springs up around the wearer. The sphere prevents any contact with an ooze and protects the wearer from direct attacks by oozes.
-
-Caster Level: 7th; 
-Prerequisites: Craft Wondrous Item, Otiluke’s resilient sphere; 
-Market Price: 28,000 gp

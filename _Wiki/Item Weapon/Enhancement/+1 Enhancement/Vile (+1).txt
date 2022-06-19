@@ -1,5 +1,0 @@
-Every time this weapon deals damage, it deals an additional 1 point of vile damage. If the weapon scores a critical hit, it deals 2 additional points of vile damage.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, vile lance; 
-Market Price: +1 bonus.

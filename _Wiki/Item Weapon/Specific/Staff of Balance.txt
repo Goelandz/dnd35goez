@@ -1,6 +1,0 @@
-Longer and thinner than most, this +2 quarterstaff improves the wielder’s sense of equilibrium. Any round in which the wielder holds the staff of balance in both hands and does not make a melee attack, the staff grants a +10 enhancement bonus on Balance checks. While holding the staff in this manner, the wielder can move at his full movement rate without incurring penalties on Balance checks made during that round. In addition, the wielder gains a +4 enhancement bonus on Strength checks made to resist being tripped.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, cat’s grace; 
-Market Price: 26,600 gp; 
-Cost to Create: 13,600 gp + 1,040 XP.

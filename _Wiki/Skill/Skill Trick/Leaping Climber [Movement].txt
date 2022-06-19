@@ -1,7 +1,0 @@
-There’s no better way to start a tough climb than by leaping up the wall.
-
-Prerequisite: Climb 5 ranks, Jump 5 ranks.
-
-Benefit: If you begin a climb by making a Jump check as a swift action, you can add the vertical distance of your jump to the distance climbed in that round. Treat the Jump check as being made with a running start even if you didn’t move at least 20 feet.
-
-Example: Ember the monk is standing at the base of a craggy cliff and wants to scale the cliff as quickly as possible. She spends a swift action to make a Jump check and gets a result of 24. Thus, she adds 6 feet to the distance she climbs in that round.

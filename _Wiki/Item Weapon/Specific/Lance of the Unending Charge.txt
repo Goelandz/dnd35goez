@@ -1,6 +1,0 @@
-This +2 mighty cleaving heavy lance allows a charging wielder to plow through multiple foes. Whenever the wielder takes the charge action, she gains the ability to move great distances between Cleave attempts. Anytime during a charge that the wielder is granted an extra attack by the Cleave feat, she can continue moving in the direction of her charge up to the limit of her mount’s movement before making that extra attack. The same benefit applies to the extra attack granted by the weapon’s mighty cleaving quality.
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, expeditious retreat, haste; 
-Market Price: 50,310 gp; 
-Cost to Create: 25,310 gp + 2,000 XP

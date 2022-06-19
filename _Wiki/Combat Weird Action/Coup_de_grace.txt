@@ -1,5 +1,0 @@
-Coup de Grace: As a full-round action, you can use a melee weapon to deliver a coup de grace to a helpless opponent. You can also use a bow or crossbow, provided you are adjacent to the target. You automatically hit and score a critical hit. If the defender survives the damage, he must make a Fortitude save (DC 10 + damage dealt) or die. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace. 
-
-Delivering a coup de grace provokes attacks of opportunity from threatening opponents because it involves focused concentration and methodical action on the part of the attacker. 
-
-You can’t deliver a coup de grace against a creature that is immune to critical hits, such as a golem. You can deliver a coup de grace against a creature with total concealment, but doing this requires two consecutive full-round actions (one to “find” the creature once you’ve determined what square it’s in, and one to deliver the coup de grace). 

@@ -1,9 +1,0 @@
-Originally created by a wizard known as Whisper, this staff is mostly hollow (fashioned simply of wire in the shape of a staff), with a mottled brown uncut gemstone at each end. It allows the use of the following spells:
-• Blink (1 charge)
-• Dimension door (1 charge)
-• Teleport (2 charges)
-
- Moderate transmutation; 
-CL 9th; 
-Craft Staff, blink, dimension door, teleport; 
-Price 67,500 gp.

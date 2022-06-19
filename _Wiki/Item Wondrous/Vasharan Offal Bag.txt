@@ -1,6 +1,0 @@
- This big burlap sack is filled with dung that always remains fresh and odiferous. If someoneempties the bag, it loses all its power. Otherwise, a nonflying giant cockroach (see Chapter 8) can be called out of the bag once per day to serve the bag holder. The giant cockroach remains for 1 hour or until killed. It obeys all verbal commands of the bag owner, although it will not roam farther than 100 feet from the bag. If it is forcibly moved farther, it responds to no commands, although it will still disappear after its hour is up. Unlike other vermin, a giant cockroach brought forth from this bag understands Common and has an Intelligence score of 3.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, summon monster II; 
-Market Price: 3,000 gp. 
-Weight: 10 lb

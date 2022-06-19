@@ -1,9 +1,0 @@
-This is a heavy black iron staff, fairly short, and decorated with images of demonic faces and leering skulls. Usually made by blackguards, the staff of the fallen allows use of the following spells:
-• Doom (1 charge, DC 11)
-• Shatter (1 charge, DC 13)
-• Contagion (2 charges, DC 14)
-• Summon monster IV (evil creatures only, 2 charges)
-
-Caster Level: 7th; 
-Prerequisites: Craft Staff, contagion, doom, shatter, summon monster IV, creator must be evil; 
-Market Price: 24,000 gp. This price assumes the staff is made by a blackguard.

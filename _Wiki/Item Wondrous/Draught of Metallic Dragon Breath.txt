@@ -1,9 +1,0 @@
-A special variety of draughts of metabreath magic, this liquid comes in five varieties, corresponding to the five kinds of metallic dragons, and their color is the same: brass, bronze, copper, gold, and silver. When drunk, this draught alters the drinker’s next use of its breath weapon, as long as that use occurs before the end of the next round. The breath weapon works just like the nondamaging effects of a metallic dragon. A brass draught creates a cone of sleep, a bronze draught creates a cone of repulsion gas, a copper draught creates a cone of slow gas, a gold draught creates a cone of weakening gas, and a silver draught creates a cone of paralyzing gas. The saving throw against the metallic breath weapon has the same DC as the drinker’s natural breath weapon, and the effects are the same as if the drinker used the breath weapon normally. For example, an old red dragon that drank a gold draught of metallic dragon breath could breathe a cone of weakening gas that deals 8 points of Strength damage.
-
-A character under the effects of a potion of fire breath or similar effect can use a draught of metallic dragon breath to alter the fiery blasts from that potion, using the caster level of the effect (3rd, in the case of a potion of fire breath) as the effective age category. A creature with no breath weapon ability is unaffected by drinking the draught. 
-
-Moderate transmutation; 
-CL 7th;
-Craft Wondrous Item, breath weapon substitution, and one of the following: sleep, repulsion, slow, ray of enfeeblement, or hold person; 
-Price 2,100 gp;
- Weight 1/2 lb.

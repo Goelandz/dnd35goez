@@ -1,8 +1,0 @@
-Although single-minded, rust monsters make surprisingly good mounts. When fed generously and treated well, they become friendly and even affectionate, crowding around, uttering a staccato chit-chit-chit noise, and making feathery strokes with their antennae against the faces of trainers approaching with bags of scrap metal.
-
-Gnomes are the most common race to domesticate rust monsters, but some dwarf armies breed Large specimens for special cavalry units. Clothed in hide armor and armed with stone hammers, a unit of dwarves mounted on rust monsters can rout an opposing army in minutes.
-
-Carrying Capacity: Light 99 lb., medium 198 lb., heavy 300 lb.; 
-DC Young/Adult: 23/30; 
-Young Price: 1,000 gp; 
-Training Cost: 1,200 gp.

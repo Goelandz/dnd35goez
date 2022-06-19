@@ -1,6 +1,0 @@
-This ebony skull is fashioned so it can be mounted on armor, a weapon haft, or a staff or pole. It gives the wearer or wielder an aura of fear, so that anyone coming within 10 feet is affected as if by a fear spell (Will DC 16 negates). The wearer or wielder can raise or lower the aura with a command word.
-
-Caster Level: 7th; 
-Prerequisites: Craft Wondrous Item, fear;
-Market Price: 70,000 gp; 
-Weight: 2 lb.

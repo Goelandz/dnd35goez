@@ -1,4 +1,0 @@
-These hollow glass bullets are filled with holy water. When they strike a target, they immediately shatter, dousing the target with holy water. Undead and evil outsiders take 1d4 points of damage from the holy water in addition to the normal damage from the sling bullet. To hold sufficient holy water, these bullets must be larger than normal, imposing a –2 penalty on the attack roll.
-
-DC To Create	-
-Cost		25 gp

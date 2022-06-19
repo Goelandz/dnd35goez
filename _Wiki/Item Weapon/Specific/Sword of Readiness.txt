@@ -1,6 +1,0 @@
-The wielder of this +2/+2 two-bladed sword can anticipate foes’ movements and attack accordingly. When readying an action to attack with the sword of readiness, the wielder can ready a full attack action. The wielder can do nothing else in the turn she readies the action.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, haste; 
-Market Price: 36,700 gp; 
-Cost to Create: 18,700 gp + 1,440 XP.

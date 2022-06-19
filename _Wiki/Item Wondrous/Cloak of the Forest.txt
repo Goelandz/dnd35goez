@@ -1,6 +1,0 @@
-This elf-made item is a green cloak with brown leather trim. When worn by an elf, that individual gains a +4 competence bonus on Balance and Climb checks and may use tree stride three times per day.
-
-Caster Level: 9th; 
-Prerequisites: Craft Wondrous Item, tree stride; 
-Market Price: 39,392 gp; 
-Weight: 2 lb.

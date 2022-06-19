@@ -1,4 +1,0 @@
-This mask fits over the character's nose and mouth. The bulk of the item is a cloth packet holding a porous, spongelike substance. It requires a move action to put on or remove, and once a single breath is taken through the mask, its benefits last for only 1 hour (or less if taken underwater).
-
-A creature wearing an auran mask receives a +5 circumstance bonus on Fortitude saves against inhaled toxins. In
-addition, the wearer can breathe underwater as if under the effect of a water breathing spell, though immersing the auran mask in water reduces its remaining duration to 10 minutes (or less, if less than 10 minutes remain).

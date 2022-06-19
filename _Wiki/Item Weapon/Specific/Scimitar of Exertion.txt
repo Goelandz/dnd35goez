@@ -1,6 +1,0 @@
-This +2 scimitar allows its wielder to undertake tremendous feats of strength. Once per day by uttering a command word, the wielder can invoke the scimitar’s exertion ability. On the round the command word is uttered, the wielder gains a +2 enhancement bonus to Strength. Two rounds later, the bonus increases to +4. Two rounds after that, the bonus subsides to +2, and 2 rounds after that, the bonus fades entirely. For the next 10 rounds, the wielder takes 2 points of temporary Strength damage every other round. Once the command word is uttered, the progression of increasing and decreasing Strength continues regardless of whether the wielder continues to use or even possess the scimitar of exertion.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, bull’s strength; 
-Market Price: 18,315 gp; 
-Cost to Create: 9,315 gp + 720 XP

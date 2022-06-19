@@ -1,6 +1,0 @@
-Created to deal with formations of polearm-wielding foes, this completely unadorned +2 glaive looks like a normal soldier’s weapon. When used in combat, its fearsome powers become evident. While using a rankbreaker glaive, the wielder can act as if he had the Cleave feat. A wielder who already has the Cleave feat gains no additional benefit. Whenever the wielder takes a charge action using a rankbreaker glaive, he deals an additional 1d6 points of damage on each successful hit. 
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, righteous might; 
-Market Price: 32,308 gp; 
-Cost to Create: 16,308 gp + 1,280 XP

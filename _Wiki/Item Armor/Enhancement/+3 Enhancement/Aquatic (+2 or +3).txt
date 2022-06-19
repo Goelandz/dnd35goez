@@ -1,5 +1,0 @@
-Armor and shields with this enchantment appear streamlined and possess a greenish glint. A suit of armor or shield with this enchantment enables its wearer to move freely through water without the need for Swim checks. Drowning rules still apply (see The Drowning Rule, page 85 of the DUNGEON MASTER'S Guide), unless the item is also enchanted with water breathing.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, freedom of movement, water breathing; 
-Market Price: +2 bonus, or +3 bonus with water breathing.

@@ -1,5 +1,0 @@
-You’ve heard so many tales of legendary monsters that you remember all sorts of gory details.
-
-Prerequisite: Knowledge (any) 5 ranks.
-
-Benefit: When you attempt a trained Knowledge check to identify a creature or to learn its special powers or vulnerabilities, you gain a +5 competence bonus on the check.

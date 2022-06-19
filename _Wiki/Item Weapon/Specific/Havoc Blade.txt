@@ -1,6 +1,0 @@
-This +3 keen chaotic greataxe is a powerful weapon of disorder. In addition to its other properties, a havoc blade causes confusion (as the spell from a 5th-level caster) with a successful critical hit. The target is allowed a Will save (DC 19) to avoid the confusion effect. A target who fails the Will save is confused for 5 rounds. An ungainly-looking weapon at best, a havoc blade is a swirl of three different metals, apparently only partly blended. The shaft is also slightly twisted, as if warped by long exposure, although it can still be wielded without penalty.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, chaos hammer, confusion, keen edge, creator must be chaotic; 
-Market Price: 98,320 gp; 
-Cost to Create: 49,320 gp + 3,920 XP.

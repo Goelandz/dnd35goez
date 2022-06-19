@@ -1,7 +1,0 @@
-This strange, short rod is crowned with an image of a mynah. When held, its wielder can mimic any voice or sound she has heard. Listeners must succeed on a Will save (DC 17) to detect the ruse
-
-The wielder also receives a +10 competence bonus on Disguise, Forgery, and Use Magic Device checks, and can use the ventriloquism spell at will.
-
-Caster Level: 6th; 
-Prerequisites: Craft Rod, change self, ventriloquism; 
-Market Price: 30,000 gp

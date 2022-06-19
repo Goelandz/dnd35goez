@@ -1,6 +1,0 @@
-This +2 sap delivers stunning blows to the unaware, making them easy to subdue. Whenever the target of an attack made with the sap of stunning is denied its Dexterity bonus to Armor Class, the sap delivers a stunning attack. With each stunning attack, the target must succeed on a Fortitude save (DC 15) or be stunned for 1 round.
-
-Caster Level: 6th; 
-Prerequisites: Craft Magic Arms and Armor, sound burst; 
-Market Price: 32,301 gp; 
-Cost to Create: 16,301 gp + 1,280 XP

@@ -1,6 +1,0 @@
-This shiny mouthpiece fits any brass instrument such as trumpets and horns. It grants a +5 competence bonus on Performance checks using the instrument. Once per day, the trumpeter can use the horn to cast a shout spell. Unless the horn is at least masterwork quality, however, it is destroyed once the spell is complete.
-
-Caster Level: 7th; 
-Prerequisites: Craft Wondrous Item, shout; 
-Market Price: 12,200 gp; 
-Weight: —

@@ -1,5 +1,0 @@
-This +2 greataxe allows its wielder to push himself beyond the normal limits of rage. Whenever a character wielding the axe of anger uses the barbarian rage ability, he may sustain the rage for 2 additional rounds. In addition the raging character is not limited by height when using the Jump skill.
-
-Caster Level: 14th; 
-Prerequisites: Craft Magic Arms and Armor, creator must have the rage ability, emotion; 
-Market Price: 18,320 gp; Cost to Create: 9,320 gp + 720 XP.

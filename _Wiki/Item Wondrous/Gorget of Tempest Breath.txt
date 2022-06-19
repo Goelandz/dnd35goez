@@ -1,7 +1,0 @@
-This metal collar bestows the benefit of the Tempest Breath feat upon its wearer. A creature wearing the gorget cannot also make use of a magic robe.
-
-Strong (no school); 
-CL 13th; 
-Craft Wondrous Item, Tempest Breath; 
-Price 10,000 gp; 
-Weight 10 lb.

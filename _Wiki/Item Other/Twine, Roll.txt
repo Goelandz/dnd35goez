@@ -1,1 +1,0 @@
-A roll of sturdy twine. It has 0 hardness and 1 hp. When tightly wrapped around an object, it has the same strength as hemp rope (0 hardness, 2 hp per inch).

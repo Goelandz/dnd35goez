@@ -1,5 +1,0 @@
-This +2 battleaxe has a thick, heavy blade and a large spike on the top of its haft ideal for charging foes. The axe grants the Improved Bull Rush feat to anyone holding it. If used in both hands, the axe’s powerful blows can push foes back. When used to make a two-handed melee attack, any successful hit forces the target 5 feet directly away from the wielder in addition to dealing normal damage. Creatures bigger than Large are immune to this effect.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, bull’s strength; Market Price: 32,310 gp; 
-Cost to Create: 16,310 gp + 1,280 XP

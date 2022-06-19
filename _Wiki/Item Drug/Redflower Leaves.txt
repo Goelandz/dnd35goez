@@ -1,9 +1,0 @@
-These crushed leaves of a tiny red bog flower are known for their ability to improve hand-to-eye coordination.
-
-Initial Effect: None.
-
-Secondary Effect: As a move-equivalent action, the user may focus his attention upon a particular creature. If he follows that action with an attack against the creature, he gains a +4 competence bonus on the attack roll. This ability lasts 10 minutes.
-
-Side Effects: None.
-
-Overdose: Taking a second dose before the first has worn off causes the user to be nauseated for 1d4 × 10 minutes.

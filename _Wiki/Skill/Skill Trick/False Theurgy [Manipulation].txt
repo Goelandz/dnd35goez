@@ -1,5 +1,0 @@
-Prerequisite: Bluff or Sleight of Hand 8 ranks, Spellcraft 8 ranks.
-
-Benefit: As a swift action when casting a spell, you can adjust the spell’s verbal and somatic components to mimic those of another spell of your choice of the same level. Any creature using Spellcraft or any other means to identify the spell you’re casting believes it to be the other spell instead.
-
-This trick renders your spell immune to the normal method of counterspelling, though dispel magic or a similar effect still works normally. Of course, once the spell takes effect, it can be identified and dealt with normally (a fireball still looks and feels like a fireball once you’ve cast it).

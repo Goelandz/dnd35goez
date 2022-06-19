@@ -1,6 +1,0 @@
- These appear no different from any other magic bracers. On command, these bracers jerk together and remain bound to each other until another command word is spoken. Against escape attempts, the bracers have Strength 30, and the DC for the Escape Artist check is 35.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, make whole; 
-Market Price: 10,800 gp; 
-Weight: 1 lb.

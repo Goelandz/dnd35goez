@@ -1,1 +1,0 @@
-If a spell to which this component is applied requires a Will save, there’s a 40% chance that the saving throw DC is increased by +1. When the scale is used by a bard, the chance increases to 60%.

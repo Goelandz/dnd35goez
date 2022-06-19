@@ -1,8 +1,0 @@
-A gray render does not need a saddle. Its hunched shoulders provide a broad, flat seating surface, and when carrying a passenger, its gait is surprisingly smooth. Some Small riders even stand up and pace while riding one.
-
-All this is dependent on the gray render allowing itself to be ridden, of course. No one understands why or how a gray render makes its decisions about whom to “adopt” but simply accept the powerful gift it bestows. Once a gray render has adopted a person, it can be trained normally. If its adoptee attempts the training, the Handle Animal check DC is 10. Attempting to train an unwilling gray render is tantamount to suicide. The beasts are unnaturally hard to train; even the rare baby, stolen from its parent, is savage and recalcitrant. The training cost given below assumes that the gray render is not bonded to its trainer.
-
-Carrying Capacity: Light 400 lb., medium 800 lb., heavy 1,200 lb.; 
-DC Young/Adult: 33/40; 
-Young Price: 6,000 gp; 
-Training Cost: 20,000 gp.

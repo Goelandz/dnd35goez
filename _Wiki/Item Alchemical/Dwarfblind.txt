@@ -1,6 +1,0 @@
-Dwarfblind stones are small stones treated with alchemical substances, giving them a faint purple sheen. You can throw a dwarfblind stone as a grenadelike weapon. When it strikes a hard surface, it releases a burst of violet light. The light illuminates a 20-foot-wide area for an instant and temporarily interferes with the darkvision of those caught in its effects.
-
-Creatures within a 10-foot radius of the stone’s impact point must succeed on a Reflex save (DC 15) or lose their darkvision ability for 10 minutes. Dwarfblind has no effect on normal and low-light vision.
-
-DC To Create	25
-Cost		50 gp

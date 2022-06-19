@@ -1,8 +1,0 @@
-On a successful critical hit against an evil creature, this weapon discharges a radiant burst that deals +3d6  points of damage to the target and blinds it for 1 round. A successful DC 14 Fortitude save negates the blindness. Bows, crossbows, and slings so crafted confer the heavenly burst power upon their ammunition.
-
-Every time this weapon discharges a radiant burst, the wielder takes 1d2 points of temporary Strength damage. 
-
-Faint evocation; 
-CL 5th; 
-Craft Magic Arms and Armor, Ayailla’s radiant burst, creator must be good; 
-Price +2 bonus.

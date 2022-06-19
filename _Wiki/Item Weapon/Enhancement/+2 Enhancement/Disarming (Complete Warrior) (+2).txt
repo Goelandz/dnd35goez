@@ -1,6 +1,0 @@
-This weapon ability functions differently depending on whether it’s applied to a melee weapon or a ranged weapon. If applied to a melee weapon, the disarming ability eliminates the opponent’s bonuses for both weapon size and two-handed weapons. If applied to a ranged weapon, the disarming abilitymakes possible a disarm attack; you can shoot a weapon out of someone’s hand. The relative weapon sizes don’t matter for a ranged disarm attempt, but the defender gains a +4 bonus for wielding a weapon in two hands.
-
- Moderate transmutation; 
-CL 11th; 
-Craft Magic Arms and Armor, telekinesis;
-Price +2 bonus.

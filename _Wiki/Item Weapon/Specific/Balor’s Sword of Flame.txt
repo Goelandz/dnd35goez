@@ -1,6 +1,0 @@
-The traditional weapon of the balor demon is a Large +1 vorpal bastard sword that can detect good as the spell from a 12th-level caster, except that its range is 30 feet. These weapons are often mistaken for flaming swords because they look like tongues of flame.
-
-Caster Level: 12th; 
-Prerequisites: Craft Magic Arms and Armor, death spell, detect good, keen edge; 
-Market Price: 115,870 gp; 
-Cost to Create: 58,270 gp + 4,608 XP

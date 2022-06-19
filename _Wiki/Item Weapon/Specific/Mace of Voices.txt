@@ -1,6 +1,0 @@
-The bell-shaped head of the mace of voices produces several sonic effects, from peals of thunder to soothing tones that magically enhance the wielder’s oratory. This +2 thundering heavy mace allows clerics who wield it to channel divine energy to produce magically infused oratory. Once per day, while holding the mace of voices, a cleric can give up one turn undead attempt to cast enthrall. The spell is treated as if cast by the cleric himself, and the save DC and caster level are figured accordingly. In addition, the mace of voices grants a +2 bonus on the wielder’s Diplomacy checks to adjust a creature’s attitude.
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, blindness/deafness, enthrall; 
-Market Price: 37,712 gp; 
-Cost to Create: 19,012 gp + 1,496 XP.

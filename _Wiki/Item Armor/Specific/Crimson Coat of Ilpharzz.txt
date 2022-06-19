@@ -1,9 +1,0 @@
-Dyed a brilliant scarlet color, a crimson coat of Ilpharzz is a suit of +4 leather armor whose surface is embroidered with flame motifs in golden thread. 
-
-As a free action, the wearer can command the armor to ignite three times per day, enveloping her in magical flames that give off light as a torch. The wearer is not harmed by these flames, gaining a +4 deflection bonus to Armor Class and fire resistance 15 while they last. Any creature attacking the wearer with a natural weapon or a melee weapon that is not a reach weapon takes 1d4 points of fire damage per attack. A crimson coat can burn for up to 1 minute at a time.
-
- Moderate abjuration; 
-CL 12th; 
-Craft Magic Arms and Armor, fire shield, resist energy, shield; 
-Price 28,300 gp; 
-Cost 14,230 gp + 1,125 XP.

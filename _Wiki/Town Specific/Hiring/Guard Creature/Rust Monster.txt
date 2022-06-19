@@ -1,4 +1,0 @@
-Domesticated rust monsters are quite friendly toward their masters, but their lust for rust overcomes any notion of friendship or loyalty. Masters who enjoy carrying metal items usually just leave their rust monsters alone in an enclosed area as free-roaming guards. Since rust monsters do very little real damage, they are often the first line of defense, to dissuade intruders rather than harm them (or to soften them up for the more dangerous second line).
-
-	DC Young/Adult: 23/30; 
-	Young Price: 1,000 gp; Training Cost: 1,200 gp

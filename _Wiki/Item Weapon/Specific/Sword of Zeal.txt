@@ -1,6 +1,0 @@
-This +2 holy bastard sword is doubly effective in the hands of a paladin. Attacks with the sword of zeal ignore outsiders’ damage reduction. In addition, paladins wielding the sword of zeal can channel their positive energy from their lay on hands ability through the sword against evil outsiders and undead. When channeling the ability in this way, the paladin can give up points of her daily healing allotment in order to add an equivalent amount of damage to her next attack with the sword of zeal. The paladin decides how many points of lay on hands to use in this manner after the attack hits. The attack with the sword of zeal is always a regular melee attack, dealing normal damage in addition to the channeled energy from lay on hands. Creatures other than evil outsiders and undead are not affected by the channeled energy.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, creator must be good, bless weapon, holy smite; 
-Market Price: 72,335 gp; 
-Cost to Create: 36,335 gp + 2,880 XP.

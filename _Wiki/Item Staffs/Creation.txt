@@ -1,8 +1,0 @@
-This wooden staff is about 5 feet long. One end is forked and the other forms a graceful hook, making it resemble certain scepters of office or symbols of authority. It allows use of the following spells:
-• Create food and water (1 charge)
-• Minor creation (1 charge)
-• Major creation (2 charges)
-
-Caster Level: 9th; Prerequisites:
-Craft Staff, create food and water, major creation, minor creation;
-Market Price: 45,000 gp

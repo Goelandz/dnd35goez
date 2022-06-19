@@ -1,5 +1,0 @@
-This weapon can shrink, as if affected by the shrink item spell, on command.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, shrink item; 
-Market Price: +1 bonus.

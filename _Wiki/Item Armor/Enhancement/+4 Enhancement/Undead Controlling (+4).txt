@@ -1,7 +1,0 @@
-The wearer of a suit of armor or a shield with this enchantment may control up to 26 HD of undead per day, as the control undead spell. At dawn each day, the wearer loses control of any undead still under his sway.
-
-Armor or a shield with this power appears to be made of bone; this feature is entirely decorative and has no other effect on the armor.
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, control undead; 
-Market Price: +4 bonus.

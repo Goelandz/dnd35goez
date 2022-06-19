@@ -1,6 +1,0 @@
-This +2 heavy lance can destroy an opponent’s shield with a successful critical hit. If the wielder scores a successful critical hit against an opponent using a shield, the opponent’s shield is torn away and ruined in addition to the attack’s normal effect.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, shatter; 
-Market Price: 18,310 gp; 
-Cost to Create: 9,310 gp + 720 XP

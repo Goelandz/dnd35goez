@@ -1,6 +1,0 @@
-Otherwise unadorned, the pommel of this +2 longsword is carved to look like a large, unblinking eye. Once per day, the possessor of the foretelling sword may roll 1d20. Once over the course of the ensuing day, the wielder may choose to use the result of that roll instead of making an attack roll. To use this ability, the wielder must announce this choice before making the attack roll. For the chosen attack, the wielder simply uses the result of the earlier 1d20 roll as if that were his attack roll.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, augury; 
-Market Price: 18,315 gp; 
-Cost to Create: 9,315 gp + 720 XP

@@ -1,6 +1,0 @@
-This shaft of this light +1 bane (animal) shortspear is eternally fresh, appearing to be newly cut wood. The spear is tipped with a bone point rather than metal, but its magic ensures that it is no less effective than a typical spear. When outdoors, the spear of the hunt grants its wielder the Track feat, if the wielder does not already have it. The spear grants no bonus on Wilderness Lore or Search checks.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, creator must have the Track feat; 
-Market Price: 28,302 gp; 
-Cost to Create: 14,302 gp + 1,120 XP.

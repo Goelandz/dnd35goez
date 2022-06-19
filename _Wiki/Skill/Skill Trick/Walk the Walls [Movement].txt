@@ -1,6 +1,0 @@
-You can run straight up a wall for a few seconds.
-
-Prerequisite: Climb 12 ranks, Tumble 5 ranks.
-
-Benefit: You can move up a wall without making a Climb check. Each 5 feet of vertical movement costs you 
-4 squares of movement, and you must begin and end your turn on a horizontal surface.

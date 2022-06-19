@@ -1,6 +1,0 @@
-This wide metal-studded leather belt is decorated with images of lions and appears to be a belt of giant strength +6. It functions as such until the wearer attacks an enemy with a Challenge Rating equal to or greater than his level. At that moment and thereafter, the belt imposes a –6 penalty on the wearer’s Strength, and the lion images change to house cats. Once the curse is activated, a belt of cat’s strength can be removed only by means of a remove curse spell.
-
-Caster Level: 16th; 
-Prerequisites: Craft Wondrous Item, bull’s strength, bestow curse; 
-Market Price: 1,300 gp;
-Weight: 1 lb.

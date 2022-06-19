@@ -1,6 +1,0 @@
-This bowl gives anyone who casts a divination spell over it a 100% chance for a correct divination.
-
-Caster Level: 6th; 
-Prerequisites: Craft Wondrous Item, divination; 
-Market Price: 44,800 gp; 
-Weight: 2 lb.

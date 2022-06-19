@@ -1,6 +1,0 @@
-This +2 lawful quarterstaff reinforces a monk’s martial abilities. While wielding the staff of discipline, a monk may make attacks using her better unarmed rate. She can use the staff of discipline as a double weapon and still get the benefit of her increased rate of attacks, but she takes all of the normal penalties while doing so.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, creator must be lawful, order’s wrath; 
-Market Price: 50,600 gp; 
-Cost to Create: 25,600 gp + 2,000 XP.

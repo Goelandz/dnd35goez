@@ -1,5 +1,0 @@
-A commanding weapon looks imposing and lends force to the wielder’s personality. Even when sheathed or stowed, this weapon grants a +2 enhancement bonus on Bluff, Diplomacy, and Intimidate checks. When held or drawn, a commanding weapon provides a +4 enhancement bonus on Intimidate checks. In addition, the wielder can cast suggestion once per day as a 7th-level sorcerer.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, suggestion; 
-Market Price: +2 bonus.

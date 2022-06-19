@@ -1,8 +1,0 @@
-This crystal lens provides the user with a +5 competence bonus on Appraise checks. Once per day the user can use identify.
-
- A monocle occupies the same space on the body as a pair of eye lenses or goggles.
-
-Faint divination; 
-CL 3rd; 
-Craft Wondrous Item, identify; 
-Price 6,500 gp

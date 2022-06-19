@@ -1,7 +1,0 @@
-Rather than resizing to fit its wearer, as most wearable magic items do, this half-inch-wide metal collar studded with tiny jewels resizes its wearer. When worn, the collar grows to 2 inches wide, and the jewels enlarge to cover most of its surface. Regardless of his or her original size, the wearer shrinks to Small size, becoming around 3 feet in height and weighing no more than 60 pounds. None of the creature’s other attributes change. Unwilling targets get a Fortitude save (DC 11) to resist. If the save is successful, the collar snaps and is ruined. 
-
-A creature with Intelligence 2 or lower must succeed on a Will save (DC 11) or become panicked by the transformation. Animal companions do not have to make this save, nor do creatures that have the effect of the collar explained to them beforehand somehow, such as through telepathy or speak with animals.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, reduce; 
-Market Price: 10,000 gp; Weight: 1 lb.

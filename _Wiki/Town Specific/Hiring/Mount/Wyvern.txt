@@ -1,8 +1,0 @@
-Despite its claws and wicked sting, a wyvern is a far safer mount than one of its more intelligent cousins. Once caught and tamed, a wyvern behaves predictably and follows relatively standard training procedures. 
-
-Though reputedly stupid, wyverns are better described as “tactically challenged.” When properly disciplined and cared for, a wyvern can learn many different commands and follow complex orders, even away from its master. However, if it is confused or hurt without a master to issue orders, it reverts to instinct and attacks the source of its discomfort. A wyvern can never be domesticated.
-
-Carrying Capacity: Light 696 lb., medium 1,398 lb., heavy 2,100 lb.; 
-DC Young/Adult: 25/32; 
-Young Price: 3,000 gp; 
-Training Cost: 3,000 gp.

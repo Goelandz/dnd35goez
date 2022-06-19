@@ -1,6 +1,0 @@
-The magic chain on this +2 heavy flail gives the weapon a greater ability to pull opponents’ weapons from their grasp. The disarming flail grants a +2 circumstance bonus on disarm checks and allows the wielder to make disarm attempts as though she possessed the Improved Disarm feat. This bonus stacks with the normal bonus flails receive on disarm checks.
-
-Caster Level: 6th; 
-Prerequisites: Craft Magic Arms and Armor, magic weapon; 
-Market Price: 18,395 gp; 
-Cost to Create: 9,355 gp + 723 XP

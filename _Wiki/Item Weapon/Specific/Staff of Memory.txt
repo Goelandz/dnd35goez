@@ -1,6 +1,0 @@
-More the tool of a wizard than a warrior, this sturdy +1 quarterstaff can enhance the memory of its wielder. Once per day, the wielder can lose a prepared spell from memory in order to recall a spell of lower level that she has already cast. The recalled spell is treated exactly as if the spell caster had prepared it normally. Exchanging prepared spells in this manner is a standard action that does not incur an attack of opportunity.
-
-Caster Level: 17th; 
-Prerequisites: Craft Magic Arms and Armor, creator must be at least 12th level, Rary’s mnemonic enhancer; 
-Market Price: 32,600 gp; 
-Cost to Create: 16,600 gp + 1,280 XP.

@@ -1,5 +1,0 @@
-Full-Round Action: A full-round action consumes all your effort during a round. The only movement you can take during a fullround action is a 5-foot step before, during, or after the action. You can also perform free actions (see below) as your DM allows. The most common type of full-round action is a full attack, which allows you to make multiple melee or ranged attacks in a single round. 
-
-Some full-round actions do not allow you to take a 5-foot step. 
-
-Some full-round actions can be taken as standard actions, but only in situations when you are limited to performing only a standard action during your round (such as in a surprise round). The descriptions of specific actions, below, detail which actions allow this option. 

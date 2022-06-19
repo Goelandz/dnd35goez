@@ -1,5 +1,0 @@
-Any bludgeoning weapon with this ability has its threat range doubled. For example, an impact quarterstaff scores a threat on a 19–20, and an impact heavy flail scores a threat on a 17–20. This ability does not affect piercing or slashing weapons.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor; 
-Market Price: +1 bonus.

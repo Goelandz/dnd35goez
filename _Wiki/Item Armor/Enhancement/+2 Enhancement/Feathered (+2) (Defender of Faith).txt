@@ -1,5 +1,0 @@
-A suit of armor or a shield with this enchantment appears to be created from thousands of iridescent feathers. This characteristic has no effect on the armor's or shield's weight, armor check penalty, or other statistics. The enchantment allows the wearer to fly up to 50 minutes per day. In all other respects it functions as if the wearer cast fly on herself, allowing a speed of 90 feet (or 60 feet if the armor is medium or heavy) with good maneuverability.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, air walk; 
-Market Price: +2 bonus.

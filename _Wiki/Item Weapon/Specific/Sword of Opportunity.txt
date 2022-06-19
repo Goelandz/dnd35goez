@@ -1,6 +1,0 @@
-This +2 longsword allows its wielder to take advantage of openings in its opponent’s defenses. A sword of opportunity grants its wielder the ability to make one additional attack of opportunity per round. This ability stacks with the Combat Reflexes feat, but any condition that would prevent that feat from being used also prevents the additional attack of opportunity from the sword.
-
-Caster Level: 6th; 
-Prerequisites: Craft Magic Arms and Armor, cat’s grace; 
-Market Price: 18,315 gp; 
-Cost to Create: 9,315 gp + 720 XP.

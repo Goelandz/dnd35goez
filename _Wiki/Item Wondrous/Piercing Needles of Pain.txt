@@ -1,6 +1,0 @@
-These three needles must be used together to gain any effect. If all three pierce the flesh of a creature (each dealing 1 point of damage that can’t be healed until it is removed), the pained creature can give feelings of intense pain to others by touch. The painful touch produces the effect of a wrack spell (Fort DC 15 negates).
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, wrack; 
-Market Price: 35,000 gp; 
-Weight: 1 lb.

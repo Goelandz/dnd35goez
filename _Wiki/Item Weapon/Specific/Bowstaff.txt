@@ -1,6 +1,0 @@
-As a move-equivalent action, the wielder can change this thin, flexible +2 quarterstaff into a +2 longbow or back again. Both forms perform exactly like a regular magic weapon of their type.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, polymorph any object; 
-Market Price: 10,975 gp; 
-Cost to Create: 5,975 gp + 400 XP

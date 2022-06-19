@@ -1,6 +1,0 @@
-Etched with a seemingly random pattern of thin lines, this +1 dagger is constantly covered with a thin sheen of acid. Although the weapon’s magic prevents the acid from harming the wielder, an acid fang dagger deals an additional +1d6 points of acid damage with each hit. In addition, the wielder gains power over reptilian animals, including snakes. Once per day, the dagger can cast a specialized version of the animal friendship spell that affects only snakes and reptiles. The dagger’s wielder can befriend a maximum of 8 Hit Dice worth of creatures at one time. While holding the dagger, the wielder can speak with reptiles as the speak with animals spell.
-
-Caster Level: 4th; 
-Prerequisites: Craft Magic Arms and Armor, animal friendship, speak with animals, Melf ’s acid arrow; 
-Market Price: 19,102 gp; 
-Cost to Create: 9,702 gp + 752 XP

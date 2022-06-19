@@ -1,6 +1,0 @@
-The barbed head of this +2 longspear holds foes fast once they have been run through. After a successful critical hit, the wielder of a spear of impaling may make a grapple attempt as a free action. If this grapple attempt succeeds, the wielder may then make a pin attempt as part of the same action. Grapples and pins caused by a spear of impaling can be broken normally. If a foe is grappled in this manner, but not pinned, the wielder can use subsequent attacks to attempt to deal damage or initiate a pin. Opponents grappled by a spear of impaling can make an opposed grapple check to break the pin and escape the grapple, but not to deal damage or initiate pins of their own.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, hold person; 
-Market Price: 32,305 gp; 
-Cost to Create: 16,305 gp + 1,280 XP

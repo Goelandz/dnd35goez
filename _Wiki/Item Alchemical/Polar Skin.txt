@@ -1,4 +1,0 @@
-This dull white cream provides limited protection against cold-based damage. Polar skin becomes ineffective once it has absorbed 5 points of cold damage. Regardless of whether it absorbs any damage, polar skin loses its effectiveness 1 hour after application. Polar skin does not stack with magical protection from cold. Magical effects such as the resist elements spell supersede the protection provided by polar skin. Applying polar skin takes 1 minute
-
-DC To Create	25
-Cost		25 gp.

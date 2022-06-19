@@ -1,6 +1,0 @@
-This +1 wounding glaive gains additional power in the hands of a barbazu or any other creature with a natural wounding ability. Whenever such a creature wields the weapon, those struck by it are racked with pain, taking a –4 penalty on attack rolls, skill checks, and ability checks, for 3 rounds. A successful Fortitude save (DC 16) lessens the penalty to –2.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, bestow curse, Mordenkainen’s sword; 
-Market Price: 74,308 gp; 
-Cost to Create: 37,308 gp + 2,960 XP

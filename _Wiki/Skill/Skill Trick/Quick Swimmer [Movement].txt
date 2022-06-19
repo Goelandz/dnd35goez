@@ -1,5 +1,0 @@
-You can push yourself to swim faster.
-
-Prerequisite: Swim 5 ranks.
-
-Benefit: If you succeed on a Swim check to move at least 10 feet, you can move an extra 10 feet as part of that action.

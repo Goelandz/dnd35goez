@@ -1,3 +1,0 @@
-When a vicious weapon strikes an opponent, it creates a flash of disruptive energy that resonates between the opponent and the wielder. This energy deals 2d6 points of bonus damage to the opponent and 1d6 points of bonus damage to the wielder. Only melee weapons can have this ability.
-
-Caster Level: 7th; Prerequisites: Craft Magic Arms and Armor, enervation; Market Price: +1 bonus.

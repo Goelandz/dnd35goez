@@ -1,6 +1,0 @@
-Covered with levers and small repositories for alchemical fluids, and strung with a system of pulleys, this +1 shortbow offers several advantages. The wielder can choose from the following three options, each requiring a move-equivalent action to activate. The wielder can remove any penalty on damage rolls from a low Strength score for the next shot from the bow. The wielder can add his Intelligence modifier to the attack roll for the next shot from the bow. Finally, the wielder can double the range increment of the bow for the next shot from it. None of these actions provokes an attack of opportunity. If the wielder spends the time, it’s possible to set up a shot that benefits from all three abilities.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, bull’s strength, clairaudience/clairvoyance, true strike; 
-Market Price: 18,530 gp; 
-Cost to Create: 9,430 gp + 728 XP

@@ -1,6 +1,0 @@
-This silvery dart turns into a small bolt of magical force when thrown and unerringly strikes its target for 1d4+1 points of damage. Once thrown, a moonsilver shard behaves in all manner like a dart from the magic missile spell, except that it has an effective range of 150 feet. Attempting to throw a moonsilver shard at a target beyond this range causes the dart to transform and then dissipate harmlessly. A moonsilver shard vanishes after one use.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, magic missile; 
-Market Price: 50 gp; 
-Cost to Create: 25 gp + 2 XP. 

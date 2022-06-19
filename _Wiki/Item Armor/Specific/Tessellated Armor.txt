@@ -1,6 +1,0 @@
-This curiosity usually appears to be an ornate, lacquered box containing hundreds of identical metallic shapes. Numerous variations exist for the shapes, including lizards, beetles, mounted riders, and Peloran suns. When the command word is spoken, the shapes stream from the box and flow over the wearer’s body, interlocking perfectly to create a single, smooth suit of +2 full plate. This armor is lighter and more flexible than normal full plate and is considered medium armor rather than heavy. Its armor check penalty is –4, and it has an arcane spell failure chance of 25%. Once per day on command, the shapes wriggle and move about the wearer’s body, creating a hypnotic pattern effect.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, hypnotic pattern; 
-Market Price: 11,560 gp; 
-Cost to Create: 6,605 gp + 397 XP

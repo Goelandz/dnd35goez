@@ -1,9 +1,0 @@
-Made of elegantly shaped mithral, this staff is a badge of purity and righteousness. It allows use of the following spells:
-• Divine favor (1 charge)
-• Prayer (1 charge)
-• Dispel evil (1 charge)
-• Holy sword (2 charges)
-
-Caster Level: 7th; 
-Prerequisites: Craft Staff, dispel evil, divine favor, holy sword, prayer; 
-Market Price: 34,000 gp.

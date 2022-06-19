@@ -1,6 +1,0 @@
-This +3 javelin has a long, narrow point and incredible balance. When thrown, the javelin ignores cover bonuses to AC. This ability does not allow the wielder to make attacks that would otherwise not be possible, so total cover prevents attacks from the javelin of precision. In addition to ignoring cover, the wielder never takes a penalty on her attack roll when throwing the javelin of precision into melee. The javelin does not reduce the effects of concealment.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, true strike; 
-Market Price: 50,301 gp; 
-Cost to Create: 25,301 gp + 2,000 XP.

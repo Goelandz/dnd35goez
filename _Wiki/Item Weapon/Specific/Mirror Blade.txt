@@ -1,6 +1,0 @@
-Shined to a mirror-bright brilliance, this +2 longsword sheds magical light in a 20-foot radius. The light glimmers along the sword’s blade and through the many gems in its hilt, creating a dazzling pattern of light. All creatures that remain within 5 feet of the wielder for an entire round must succeed on a Will save (DC 15) or become dazzled by the sword’s light. Creatures without eyes are not susceptible to this effect.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, flare, hypnotic pattern, light; 
-Market Price: 38,315 gp; 
-Cost to Create: 19,315 gp + 1,520 XP

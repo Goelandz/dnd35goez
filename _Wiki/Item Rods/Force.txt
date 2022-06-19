@@ -1,8 +1,0 @@
-This rod is made of black iron, 18 inches long and a half-inch wide. The rod has three functions, any of which can be used, in any combination, five times per day.
-• Blast of Force: A blast of force projects from the rod with a range of 100 feet. This is a ranged touch attack and deals 10d6 points of damage.
-• Wall of Force: As the spell. 
-• Blade of Force:A 3-footlong glowing blade of force springs forth from the rod that lasts for 10 rounds. This can be used as a +1 brilliant energy longsword.
-
-Caster Level: 13th; 
-Prerequisites: Craft Rod, magic missile, Mordenkainen’s sword, wall of force; 
-Market Price: 125,000 gp.

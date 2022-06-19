@@ -1,6 +1,0 @@
-This +1 mighty (+2) composite longbow is covered in intricate arcane runes. The bow of arcane might allows its wielder to channel the energy of arcane spells through it to make attacks with the bow more damaging. As a moveequivalent action that does not provoke an attack of opportunity, the wielder can sacrifice a prepared arcane spell from memory (or a unused spell slot if a spontaneous arcane caster). Doing so adds a damage bonus equal to the sacrificed spell’s level to the next attack made with the bow of arcane might. This damage bonus stacks with the normal enhancement bonus from the bow and any magic arrows used in the attack. 
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, greater magic weapon; 
-Market Price: 8,600 gp; 
-Cost to Create: 4,600 gp + 320 XP

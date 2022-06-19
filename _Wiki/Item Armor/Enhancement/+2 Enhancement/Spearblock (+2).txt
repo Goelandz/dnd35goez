@@ -1,9 +1,0 @@
-Armor with this quality functions the same as axeblock armor, except that it provides damage reduction of 5/bludgeoning or slashing.
-
- Moderate abjuration; 
-CL 11th; 
-Craft Magic Arms and Armor, polymorph any object; 
-Price +2 bonus.
-
-Axeblock :
-This armor is magically enhanced to turn away slashing weapons such as axes and most swords. The wearer gains damage reduction 5/bludgeoning or piercing. If a single shield or suit of armor has two of the three blocking armor qualities (axeblock, hammerblock, and spearblock), it grants its owner just 5 points of damage reduction by whatever damage type appears twice. For example, a +1 chain shirt with the axeblock (DR 5/bludgeoning or piercing) and hammerblock (DR 5/piercing or slashing) special abilities only provides DR 5/piercing.

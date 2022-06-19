@@ -1,5 +1,0 @@
-Any weapon with this ability may add an additional amount of damage from an energy type of the wielder’s choice (acid, cold, electricity, fire, or sonic). Regardless of the energy type selected, the energy does not harm the hands that hold the weapon. The weapon deals an additional +1d6 points of damage of the appropriate energy type on a successful hit. Changing the weapon’s energy aura is a free action available once per round. Bows, crossbows, and slings with this ability bestow the energy type upon their ammunition.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, chill metal, flame blade, lightning bolt, Melf ’s acid arrow, sound burst; 
-Market Price: +3 bonus.

@@ -1,7 +1,0 @@
-Shooting or Throwing into a Melee: If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a –4 penalty on your attack roll because you have to aim carefully to avoid hitting your friend. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being 
-attacked.) 
-
-If your target (or the part of your target you’re aiming at, if it’s a big target) is at least 10 feet away from the nearest friendly character, 
-you can avoid the –4 penalty, even if the creature you’re aiming at is engaged in melee with a friendly character. 
-
-Precise Shot: If you have the Precise Shot feat (page 98), you don’t take this penalty. 

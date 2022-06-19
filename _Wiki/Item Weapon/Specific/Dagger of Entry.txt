@@ -1,5 +1,0 @@
-Greatly prized by rogues and others with larceny on their minds, a dagger of entry looks like a plain, if finely crafted dagger. This +1 dagger’s one oddity is its strangely shaped hilt, which looks like an oversized key. The dagger is capable of opening almost any door, allowing its possessor to cast knock once per day as a 9th-level caster. In addition, the dagger allows its wielder to cast find traps once per day and detect secret doors once per day (both as the spells from a 9th-level caster).
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, detect secret doors, find traps, knock; 
-Market Price: 18,502 gp; Cost to Create: 9,402 gp + 728 XP

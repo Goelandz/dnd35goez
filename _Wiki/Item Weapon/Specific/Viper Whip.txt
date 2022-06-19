@@ -1,6 +1,0 @@
-This +2 whip is made of braided pieces of multicolored leather cut to look like the scaly skin of a snake. On command, the tip of the weapon transforms into the head of a Tiny viper. While transformed, the weapon delivers poison with each successful melee attack. The poison deals 1d6 points of temporary Constitution damage (both initial and secondary). Struck opponents must succeed on a Fortitude save (DC 11) to resist the poison. The weapon can remain transformed for a total of 10 rounds each day, and these need not be consecutive.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, polymorph any object, summon nature’s ally I;
-Market Price: 38,301 gp; 
-Cost to Create: 19,301 gp + 1,532 XP

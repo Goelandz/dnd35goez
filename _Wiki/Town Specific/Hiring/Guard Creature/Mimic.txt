@@ -1,9 +1,0 @@
-Mimics are near-perfect property guards. They’re intelligent, they speak Common, and they are willing to sit still for years at a time as long as they are paid in treasure and food for their trouble. A mimic’s main drawback is its potential disloyalty. It
-can sometimes be bought off if an intruder offers better rewards. In addition, if intruders prove too strong, a mimic might bargain information for its life. Under no circumstances, though, will a mimic surrender treasure.
-
-Mimics reject attempts at formal training—they instinctively know how to guard items and places, and they have little desire to protect people. Would-be trainers must use Diplomacy instead of Handle Animal to get a mimic to do something it does not want to do. Fortunately, mimics are unskilled diplomats.
-
-No young mimic has ever been found. It is unknown how or if mimics reproduce. 
-
-	DC Young/Adult: —/opposed Diplomacy check;
-	Young Price: —; Training Cost: —.

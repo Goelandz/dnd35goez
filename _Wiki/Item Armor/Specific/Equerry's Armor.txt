@@ -1,5 +1,0 @@
-This armor appears to be finely crafted full plate specifically cut for those who fight from atop a mount of some sort. In addition to providing a +2 enhancement bonus to Armor Class (in addition to its +8 armor bonus, for a total bonus of +10), this armor provides a +1 competence bonus on all Ride checks for the rider, a +2 enhancement bonus to Dexterity for the mount, and gives the mount's speed a competence bonus of +10 feet.
-
-Caster Level: 6th; 
-Prerequisites: Craft Magic Arms and Armor; 
-Market Price: 10,670 gp.

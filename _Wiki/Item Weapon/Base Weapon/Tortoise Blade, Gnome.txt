@@ -1,5 +1,0 @@
-This contraption is designed to be used by a gnome in his or her off hand. It is particularly useful in cramped tunnels or warrens where swinging a weapon is diffi cult or impossible. It looks like a turtle shell strapped to the wielder’s wrist, with a daggerlike blade jutting out where the wielder’s fi ngers should be.
-
- A tortoise blade grants a +1 shield bonus to Armor Class. As with any shield, when you attack with a tortoise blade you do not get the shield bonus to your AC.
-
- A tortoise blade also provides a –1 armor check penalty and incurs a 5% arcane spell failure chance for its wielder. Like a spiked shield, a tortoise blade can be enhanced as a weapon, as a shield, or both, but such enhancements must be paid for and applied separately.

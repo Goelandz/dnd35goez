@@ -1,8 +1,0 @@
-This is actually the necromantically preserved last breath of some famous figure, trapped in a vial. A vial of the last gasp allow the user to draw strength and knowledge from the dead creature. 
-
-Anyone who unstoppers the vial and inhales its vapors (the equivalent of drinking a potion) gains 1d8 temporary hit points, a +2 enhancement bonus to Strength, and a +4 insight bonus on checks using one Craft, Knowledge, or Profession skill possessed by the deceased. (However, the vapors in a vial of the last gasp do not allow an untrained user to make use of a trained-only skill.) The creator specifies the skill to which the bonus applies upon creating the item; it is usually the skill in which the deceased has the greatest number of ranks. In addition, the fumes increase the user’s effective caster level by 1. These effects last for 10 minutes.
-
-Faint necromancy; 
-CL 4th; 
-Craft Wondrous Item, death knell; 
-Price 2,200 gp.

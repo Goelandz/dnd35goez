@@ -1,1 +1,0 @@
-This cutting tool can cut through chains, thin metal, and iron bars. When used against objects (usually metal) that are no thicker than 1 inch in diameter, bolt cutters deal 15 points of damage to that item, including any modifier for Strength. Bolt cutters cannot be used effectively as a weapon (other than as a clumsy club).

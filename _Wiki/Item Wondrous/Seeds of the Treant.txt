@@ -1,8 +1,0 @@
-This pouch made from tightly interwoven leaves contains 1d4 large acorns. When one or more of these are planted in soil, a treant begins to grow from that spot. It takes two full rounds for the treant to be completely summoned. If two seeds are planted next to each other, then the summoned treant is increased by one size (8 HD, Huge). If three seeds are planted next to each other, then the summoned treant is two sizes bigger (17 HD, Gargantuan).
-
-The treant is not controlled at the time of summoning, although it can be charmed, dominated, or made friendly through Diplomacy. The treant’s initial attitude is indifferent. The treant remains indefinitely, although it could perish if summoned in terrain that is not suitable for its survival (desert, for example). The treant takes a dim view of being summoned in this manner and more than likely will attack the summoner.
-
-Caster Level: 17th; 
-Prerequisites: Craft Wondrous Item, summon nature’s ally IX; 
-Market Price: 15,300 gp per acorn; 
-Weight: —.

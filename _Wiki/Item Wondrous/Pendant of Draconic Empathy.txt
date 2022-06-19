@@ -1,6 +1,0 @@
-This enchanted amulet allows the wearer to use the Handle Animal skill in place of the Diplomacy skill when dealing with dragons whose Intelligence is 11 or lower.
-
- Moderate enchantment; 
-CL 11th; 
-Craft Wondrous Item, charm monster; 
-Price 3,300 gp.

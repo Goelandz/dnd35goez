@@ -1,6 +1,0 @@
-This +2 bane (gnoll) light flail is feared and revered by gnolls. Its head, carved to resemble the snarling visage of a gnoll, inspires obedience in any gnoll who sees it. While holding the packmaster flail, the wielder gains a +10 bonus on Intimidate and Diplomacy checks made against gnolls. Furthermore, once per day the wielder can summon 1d3 fiendish gnolls. The fiendish gnolls obey anyone holding the packmaster flail. The gnolls remain for 10 rounds before disappearing.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, summon monster I; 
-Market Price: 48,708 gp; 
-Cost to Create: 24,508 gp + 1,936 XP.

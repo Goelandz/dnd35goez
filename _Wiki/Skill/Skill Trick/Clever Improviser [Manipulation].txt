@@ -1,7 +1,0 @@
-Tools? Why would you need tools? It’s just a combination lock with a poison needle trap, after all.
-
-Prerequisite: Disable Device 5 ranks, Open Lock 5 ranks.
-
-Benefit: When making a Disable Device or Open Lock check without using thieves’ tools, you ignore the normal –2 penalty.
-
-You can use this trick any number of times per day until you fail a Disable Device or Open Lock check made without using thieves’ tools. After a failure, you can’t use Clever Improviser again until after you have rested for 8 hours.

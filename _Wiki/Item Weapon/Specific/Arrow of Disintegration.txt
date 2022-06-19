@@ -1,5 +1,0 @@
-When this arrow strikes a target, the target must succeed on a Fortitude save (DC 19) or vanish as though struck with a disintegrate spell. Like the spell, the arrow can be used to disintegrate nonliving matter as well as creatures. A creature that makes a successful saving throw takes 5d6 points of damage. The arrow is consumed in the attack.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, disintegrate; 
-Market Price: 3,307 gp; Cost to Create: 1,657 gp + 132 XP.

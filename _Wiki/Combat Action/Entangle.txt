@@ -1,3 +1,0 @@
-Entangle: Any sheetlike fl exible object (such as a carpet or tapestry) can entangle an opponent with a successful ranged touch attack. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty to Dexterity, can move at only half speed, cannot run or charge, and may have difficulty casting spells (see the Concentration skill description, page 69 of the Player’s Handbook). Escaping from such an object requires a standard action and a DC 10 Escape Artist check. 
-
-These objects are treated as two-handed weapons.

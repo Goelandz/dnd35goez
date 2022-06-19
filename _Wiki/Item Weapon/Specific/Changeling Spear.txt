@@ -1,6 +1,0 @@
-This +2 halfspear can easily shift forms. As a free action, the wielder can change the weapon into a shortspear, a longspear, or back to a halfspear. The wielder may change the spear in this way once per round.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, alter self; 
-Market Price: 18,301 gp; 
-Cost to Create: 9,301 gp + 720 XP

@@ -1,5 +1,0 @@
-The wearer of this iron ring, emblazoned with the symbol of a brooding falcon, can deal 3d6 points of damage per round as a free action to anyone wearing a slave ring keyed to it. Furthermore, the wearer can exchange messages with anyone wearing a slave ring (as if using a sending spell) three times per day. Typically, a master ring has ten slave rings keyed to it. 
-
-Caster Level: 7th;
- Prerequisites: Forge Ring, shriveling, sending; 
-Market Price: 40,600 gp (does not include slave rings; see below).

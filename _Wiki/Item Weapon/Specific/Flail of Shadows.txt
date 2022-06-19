@@ -1,6 +1,0 @@
-Made from forge-blackened iron and darkwood, this +2 shadowstrike heavy flail has a powerful bond with the Plane of Shadow. In addition to its shadowstrike ability, the flail of shadows allows its wielder to cast dimension door with a command word (as the spell from an 11th-level caster, but the dimension door must originate and terminate in an area of shadow).
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, dimension door, shadow conjuration, shadow walk; 
-Market Price: 48,155 gp; 
-Cost to Create: 24,235 gp + 1,914 XP.

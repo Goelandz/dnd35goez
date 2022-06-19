@@ -1,6 +1,0 @@
-The head of this perpetually filthy +3 heavy flail always appears dingy and ill cared for. Even the chain of the flail appears rusted and caked with small bits of long-rotten matter. Any successful hit from the plague spreader can potentially infect the target with filth fever. A target hit by the plague spreader must succeed on a Fortitude save (DC 20) or be infected with the disease. The disease has an incubation period of 1d3 days, after which it deals 1d3 points of temporary Dexterity damage and 1d3 points of temporary Constitution damage. See Disease in Chapter 3 of the DUNGEON MASTER’S Guide for more information. Creatures immune to disease are immune to this effect.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, contagion; 
-Market Price: 104,715 gp; 
-Cost to Create: 52,515 gp + 4,176 XP

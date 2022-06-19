@@ -1,9 +1,0 @@
-This shield’s provenance is unrecorded, but it is named for the gory, dripping hand emblazoned on it. The shield of the severed hand is a +4 heavy wooden shield that gives its wielder a free bull-rush attempt at a +4 bonus once per round when the shield is struck in melee by a foe (in other words, when the +6 bonus from the shield was the difference between hitting and missing). When the foe hits the shield, make an immediate bull rush attempt, even if it isn’t your turn; you can follow the opponent who gets pushed back if you wish. You can’t fall prone during this attempt.
-
-To use this relic, you must worship Gruumsh and either sacrifi ce a 4th-level divine spell slot or have the True Believer feat and at least 7 HD.
-
-Strong evocation; 
-CL 18th; 
-Sanctify Relic, Craft Magic Arms and Armor, Bigby’s forceful hand, creator must worship Gruumsh; 
-Price 24,800 gp; 
-Cost 12,479 gp + 986 XP

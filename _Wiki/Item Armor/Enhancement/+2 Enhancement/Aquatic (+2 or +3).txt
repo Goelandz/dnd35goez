@@ -1,5 +1,0 @@
-This armor appears streamlined and possesses a greenish glint. Aquatic armor enables its wearer to move freely through water without the need for Swim checks. Drowning rules still apply (see the Drowning Rule in Chapter 3 of the DUNGEON MASTER’S Guide), unless the wearer can breathe water. Rare versions of aquatic armor include a persistent water breathing effect (as the spell, but affecting only the wearer).
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, freedom of movement, water breathing (when present); 
-Market Price: +2 bonus (+3 bonus with water breathing).

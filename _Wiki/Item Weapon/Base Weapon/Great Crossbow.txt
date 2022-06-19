@@ -1,4 +1,0 @@
-A great crossbow requires two hands to use effectively, regardless of the user’s size. You draw a great crossbow back by turning a winch. Loading a great crossbow is a full-round action that provokes an attack of opportunity.
-
-A Medium-size character cannot shoot or load a great crossbow with one hand at all. With training, a Large creature can shoot, but not load, a great crossbow with one hand at a –4 penalty. If a Large creature attempts to fire a separate great crossbow in each
-hand simultaneously, the standard penalties for twoweapon fighting apply.

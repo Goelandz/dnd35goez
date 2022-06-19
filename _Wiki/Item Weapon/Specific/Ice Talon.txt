@@ -1,6 +1,0 @@
-With blades carved from the pale claws of an ancient white dragon, this +2 frost greataxe radiates cold. The area within 5 feet of an ice talon is always 10 degrees cooler than the ambient temperature. Even without the aura of cold, an ice talon’s frosty nature is evident from its appearance; the pale dragon claws sit atop a haft of magically strengthened ivory, making the entire weapon an eerie shade of white. An ice talon grants its wielder the ability to withstand cold as the endure elements (cold) spell from a 10th-level caster. In addition, the wielder’s movement is never reduced due to snow or ice, and she never needs to make a Balance check to keep her footing on ice. Although it is made from ivory, an ice talon has a hardness of 15 and 20 hit points due to its magical reinforcement.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, cone of cold; 
-Market Price: 24,320 gp; 
-Cost to Create: 12,320 gp + 960 XP

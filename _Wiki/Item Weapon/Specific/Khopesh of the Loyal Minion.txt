@@ -1,6 +1,0 @@
-This +1 khopesh is a favored weapon of minions of Set (an evil god detailed in Deities and Demigods). When the wielder changes into a form that has a natural claw attack (such as an animal form), the khopesh merges with the new form and grants its +1 enhancement bonus to one of the creature’s claw attacks, as if the magic fang spell had been cast on the creature. When the wielder returns to a form that uses weapons, the khopesh returns to its normal form and functionality as well.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, polymorph self or creator must have a shapealtering ability (including wild shape or alternate form);
-Market Price: 6,320 gp; 
-Cost to Create: 3,320 gp + 240 XP

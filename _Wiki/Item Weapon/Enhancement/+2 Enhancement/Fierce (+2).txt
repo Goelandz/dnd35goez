@@ -1,5 +1,0 @@
-If its wielder is willing to forgo the opportunity to evade foes, a fierce weapon can land tremendous blows. It allows the wielder to transfer some or all of his Dexterity bonus to damage rolls (reducing his Armor Class by the same amount). As a free action, the wielder chooses how to allocate his Dexterity bonus at the start of his turn, and the effect lasts until his next turn.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, bull’s strength; 
-Market Price: +2 bonus.

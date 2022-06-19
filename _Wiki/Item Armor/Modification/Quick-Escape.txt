@@ -1,8 +1,0 @@
-Quick-escape +300 gp 
-+2 lb.
-
-Ingeniously crafted, this armor uses special buckles, straps, and releases so it can be removed in mere moments. It is a favorite of wealthy sailors and adventurers who anticipate going near bodies of water.
-
-As a standard action, the wearer pulls and twists on a special lock, located on the shield-side hip, which causes the armor to fall away. Each lock is unique in operation, making it difficult for anyone other than the owner to undo, especially in the middle of battle. A Disable Device check (DC 30) is required for someone other than the wearer to release the armor in combat. If the Disable Device attempt is made while the wearer is not in combat (a rogue sneaking up on a sleeping guard, for example), then the DC is reduced to 15.
-
-The quick-escape extra must be included during the creation of the armor, which must be of masterwork quality. It takes twice as long as normal to put on quick-escape armor.

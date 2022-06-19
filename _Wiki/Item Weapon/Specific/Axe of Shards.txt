@@ -1,6 +1,0 @@
-This +3 dwarven waraxe has a clear, crystalline blade. Three crystal spikes protrude from the back of the axe head. Although the main blade is as hard as normal steel, all of the three crystal spikes can easily be removed by the weapon’s wielder. Each sharp, balanced spike is treated as a masterwork throwing dagger. The spikes last for only one day once removed from the axe, and they cannot be reattached. Once a spike is removed from the axe, a new one begins to grow slowly in its place. It takes a spike three days to grow, and spikes cannot be removed from the axe before they are completely formed.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, fabricate; 
-Market Price: 19,330 gp; 
-Cost to Create: 9,830 gp + 760 XP

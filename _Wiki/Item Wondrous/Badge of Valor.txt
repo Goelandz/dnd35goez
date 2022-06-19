@@ -1,8 +1,0 @@
-This golden brooch provides its wearer with a +2 morale bonus on saves against fear effects. This bonus improves to +4 on level checks made to avoid being intimidated.
-
- The morale bonus of this badge stacks with the morale bonus granted by the paladin’s aura of courage ability and the bard’s inspire courage ability.
-
-Faint enchantment; 
-CL 4th; 
-Craft Wondrous Item; heroism; 
-Price 1,000 gp.

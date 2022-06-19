@@ -1,5 +1,0 @@
-The wielder can cast up to three spells per day that are chained as though using the Chain Spell feat.
-
- Strong (no school); 
-CL 17th; Craft Rod, Chain Spell; 
-Price 27,200 gp (lesser), 108,000 gp (normal), 243,000 gp (greater).

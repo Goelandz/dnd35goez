@@ -1,7 +1,0 @@
-Favored by dwarven foes of the tanar’ri, this +2 holy demon bane warhammer is fashioned from cold iron with a head shaped like two clenched fists. Once per day, the wielder can make a blinding strike against a demon. The wielder must declare he is using the blinding strike before making the attack roll; if the attack hits and the hammer bypasses the demon’s spell resistance with a successful level check (1d20+15), the demon is blinded as if by a power word blind spell. If the attack misses or the blinding strike is used on a creature other than a demon, the blinding strike is wasted.
-
-Strong enchantment; 
-CL 15th; 
-Craft Magic Arms and Armor, holy smite, power word blind, creator must be good; 
-Price 51,512 gp; 
-Cost to Create 25,912 gp + 2,048 XP.

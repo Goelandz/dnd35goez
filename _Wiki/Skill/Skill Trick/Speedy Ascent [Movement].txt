@@ -1,5 +1,0 @@
-You can produce a burst of speed when climbing.
-
-Prerequisite: Climb 5 ranks.
-
-Benefit: If you succeed on a Climb check to move at least 10 feet, you can move an extra 10 feet as part of that action.

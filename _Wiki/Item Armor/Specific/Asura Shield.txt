@@ -1,9 +1,0 @@
-Elite asura soldiers are known to bear this shield in times of war. Wreathed in holy flames, this +2 bashing heavy spiked steel shield deals regular bashing damage (2d6+2 points for a Medium spiked shield) plus 1d6 points of fire damage, plus 1d6 points of damage of divine origin that affects only evil creatures.
-
-Simply touching the blazing shield deals 1d6 points of fire damage, plus 1d6 of additional damage (of divine origin) that affects only evil creatures.
-
-Moderate transmutation; 
-CL 9th; 
-Craft Magic Arms and Armor, bull’s strength, flamestrike; 
-Price 27,180 gp;
-Cost to Create: 13,680 gp + 1,080 XP.

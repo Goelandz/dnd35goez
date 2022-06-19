@@ -1,5 +1,0 @@
-These specially modified thieves’ tools are mounted on long, thin handles, enabling the user to manipulate latches, tinker with locks, and probe traps from a position up to 5 feet away and well off to the side of the target device. A 1-inch-diameter mirror mounted on a long handle gives the user a good view of the object being manipulated. Though some traps can inflict harm even at a distance, these tools make it possible for a wary rogue to avoid many common hazards, such as poison needles, spurting acid, and the like.
-
- Using these tools is more time-consuming and less accurate than taking a direct approach; longspoon tools add 2 rounds to the time required to make a Disable Device or Open Lock check and impose a –2 penalty on any Disable Device or Open Lock check for which they are used. 
-
-Longspoon thieves’ tools are available in normal or masterwork versions. The masterwork version provides a +2 bonus on Disable Device and Open Lock checks, but the time required to make a check is not reduced. 

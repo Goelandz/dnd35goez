@@ -1,9 +1,0 @@
-This iron-shod staff, often decorated with the holy symbol of a specifi c deity, allows use of the following spells:
-• Greater incarnation (3 charges)
-• Incarnation (2 charges)
-• Lesser incarnation (1 charge)
-
-Strong conjuration; 
-CL 17th; 
-Craft Staff, greater incarnation, incarnation, lesser incarnation; 
-Price 60,563 gp.

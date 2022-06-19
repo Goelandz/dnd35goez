@@ -1,3 +1,0 @@
-This special device lets you cut through glass panes without cracking or shattering them in the process. The glass cutter makes a circular hole anywhere from 3 inches to 16 inches in diameter. To use it quietly, make a Dexterity check (DC 15). If the check fails, the glass shatters with a loud crash (+2 circumstance bonus on Listen checks to hear it).
-
-You can make an Open Lock check instead if you are trained in that skill.

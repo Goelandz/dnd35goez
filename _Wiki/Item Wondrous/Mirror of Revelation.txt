@@ -1,6 +1,0 @@
-If an evil outsider looks into this small, octagonal mirror, the mirror dispels any illusion spells or effects that conceal the true nature of the outsider. This effect functions as a targeted dispel magic cast by a 10th-level cleric. If the outsider is wary or attempts to avert its gaze, treat the situation as a gaze attack (see page 77 of the DUNGEON MASTER'S Guide).
-
-Caster Level: 10th; 
-Prerequisites: Craft Wondrous Item, dispel magic;
-Market Price: 48,000 gp; 
-Weight: 1/2 lb.

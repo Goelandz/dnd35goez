@@ -1,6 +1,0 @@
-Each side of this +3 guisarme’s blade is etched with the image of a miniscule guisarme. Twice per day, the wielder of the twin blade can create a spiritual weapon (as the spell from an 8thlevel caster). The spiritual weapon has the +6 attack bonus of an 8th-level cleric, and the wielder of the twin blade directs it as a free action. Only one of a twin blade’s weapon counterparts can be in existence at one time. Creating the second always causes the first to disappear harmlessly.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, spiritual weapon; 
-Market Price: 29,829 gp; 
-Cost to Create: 15,069 gp + 1,181 XP

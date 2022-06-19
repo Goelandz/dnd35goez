@@ -1,9 +1,0 @@
-This staff is formed of wildly twisting and entangled rods of iron. It allows use of the following spells:
-• Random action (1 charge, DC 11)
-• Confusion (1 charge, DC 16)
-• Insanity (2 charges, DC 20)
-• Weird (2 charges, DC 23)
-
-Caster Level: 17th; 
-Prerequisites: Craft Staff, confusion, insanity, random action, weird; 
-Market Price: 110,000 gp.

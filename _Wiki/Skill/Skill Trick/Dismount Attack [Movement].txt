@@ -1,5 +1,0 @@
-You can leap out of the saddle onto a foe.
-
-Prerequisite: Ride 5 ranks.
-
-Benefit: If your mount has moved at least 10 feet in this round and you succeed on a fast dismount (Ride, PH 80), you can use a standard action to attack an adjacent opponent as if you had charged that opponent.

@@ -1,1 +1,0 @@
-The creature fights until it senses that its target has been incapacitated. Then it backs off. This does not guarantee that the creature won’t kill a target, only that it ceases attacking if the target falls down and stops resisting

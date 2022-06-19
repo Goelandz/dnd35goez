@@ -1,7 +1,0 @@
-This rod is in the shape of a muscular humanoid carved from a single piece of marble. If the wielder is within 60 feet of a construct with no Intelligence score, the rod of construct control allows the bearer to override any commands that the construct might have and replace them with new commands as if the wielder were the creator of that construct (see the Golem entry in the Monster Manual). Against constructs with Intelligence scores, the construct must succeed on a Will save (DC 23) or the wielder takes control.
-
-If its creator is within 60 feet, an intelligent construct gains a +4 bonus on the Will save.
-
-Caster Level: 17th; 
-Prerequisites: Craft Wondrous Item, dominate monster; 
-Market Price: 68,850 gp.

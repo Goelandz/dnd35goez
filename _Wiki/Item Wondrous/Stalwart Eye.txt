@@ -1,6 +1,0 @@
-This Tiny birdlike item allows its owner to speak a command word and see through its eyes. The stalwart eye has AC 18, hardness 8, 5 hp, and cannot move on its own except to turn its head as the owner desires. No range limitation exists on the power except that the owner must be on the same plane as the stalwart eye.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, alarm, animal messenger; 
-Market Price: 10,000 gp;
-Weight: 2 lb.

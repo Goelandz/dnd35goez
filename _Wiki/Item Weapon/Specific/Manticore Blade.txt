@@ -1,6 +1,0 @@
-The wavy blade of this +3 greatsword begins in an oversized hilt adorned with six spikes. As an attack action, the wielder can launch one of the spikes from the sword at a ranged target. The spikes have a range increment of 20 feet, deal 1d6 points of piercing damage, and grant a +1 enhancement bonus on attack and damage rolls. When making a ranged attack with a spike, the wielder applies her Dexterity modifier to her attack roll and her Strength modifier to her damage roll. Making a ranged attack with a spike provokes an attack of opportunity just like making a normal ranged attack. The spikes crumble to dust 1 round after being launched from the sword. The sword regenerates spikes at the rate of one per day.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, magic missile; 
-Market Price: 20,350 gp; 
-Cost to Create: 10,350 gp + 800 XP.

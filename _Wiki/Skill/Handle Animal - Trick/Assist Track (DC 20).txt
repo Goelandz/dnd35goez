@@ -1,1 +1,0 @@
-The animal aids your attempt to track. The animal must be present as you attempt a Survival check to track another creature; if the animal succeeds on a DC 10 Survival check, you gain a +2 circumstance bonus on your Survival check made to track. An animal must have the scent ability and know the track trick (Player’s Handbook, page 75) before it can learn this trick.

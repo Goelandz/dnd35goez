@@ -1,6 +1,0 @@
-A raised skull adorns both sides of this otherwise featureless copper coin. When placed in the mouth of a corpse, the coin prevents it from being raised, resurrected, or turned into undead of any sort. Vermin and undead avoid a corpse bearing this coin, but they can overcome the aversion with a successful Will check (DC 20). The coin does not work in the mouth of a living or undead being.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, gentle repose; 
-Market Price: 6,000 gp; 
-Weight: —.

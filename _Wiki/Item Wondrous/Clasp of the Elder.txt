@@ -1,6 +1,0 @@
-Forged by dwarven artisans, this clasp is meant to be worn around a beard. It is carved from pure gold and studded with brilliant gems. If the wearer is a nondwarf, the clasp only grants a +1 competence bonus on Diplomacy checks. If a dwarf wears the clasp around the beard, it grants a +2 enhancement bonus to the wearer’s Wisdom score, and a +5 competence bonus on Diplomacy and Intimidate checks.
-
-Caster Level: 10th; 
-Prerequisites: Craft Wondrous Item, creator must be a dwarf, creator must be a spellcaster of 10th level; 
-Market Price: 6,000 gp; 
-Weight: —.

@@ -1,1 +1,0 @@
-If a creature is capable of making trip attacks, it attempts to do so until commanded to stop.

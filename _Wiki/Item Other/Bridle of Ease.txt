@@ -1,5 +1,0 @@
-This magic bridle grants trainers a +5 competence bonus on Handle Animal checks when training a mount. Versions of this item are available for exotic mounts.
-
-Caster Level: 7th; 
-Prerequisites: Craft Wondrous Item, charm monster; 
-Market Price: 500 gp; Weight: 1 lb.

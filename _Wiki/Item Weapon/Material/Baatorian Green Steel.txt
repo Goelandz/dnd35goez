@@ -1,5 +1,0 @@
-Deep in the mines of the Nine Hells of Baator, veins of green-flecked iron run through the rock. This rare metal, when alloyed into steel, can be used to create weapons of amazing sharpness. Any slashing or piercing weapon created with Baatorian green steel has a natural enhancement bonus of +1 to damage. This bonus does not stack with any other enhancement bonus. 
-
-Thus, a green steel (+1 to damage) longsword with a +4 enhancement bonus effectively has a +4 enhancement bonus on both attacks and damage. In an area where magic does not function, it still retains its natural +1 enhancement bonus on damage. A masterwork green steel slashing or piercing weapon would have a +1 bonus on both attack and damage rolls (from a combination of masterwork and the green steel). Though green steel is a common component of keen weapons produced in the Lower Planes, it grants no other special ability to such weapons. The market price modifier for such a weapon is +2,000 gp.
-
-Baatorian green steel has a hardness of 12 and 30 hit points per inch of thickness

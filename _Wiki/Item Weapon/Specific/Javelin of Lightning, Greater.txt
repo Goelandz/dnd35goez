@@ -1,6 +1,0 @@
-When thrown, this javelin becomes a 10d6 lightning bolt. It is consumed in the attack.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, lightning bolt; 
-Market Price: 1,501 gp; 
-Cost to Create: 751 gp + 60 XP.

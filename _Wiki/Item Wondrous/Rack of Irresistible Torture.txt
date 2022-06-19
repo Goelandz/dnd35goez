@@ -1,6 +1,0 @@
-This torture device, when used on a victim, provides a +10 bonus on the Intimidate check made by the torturer.
-
-Caster Level: 1st; 
-Prerequisites: Craft Wondrous Item, cause fear; 
-Market Price: 3,000 gp; 
-Weight: 275 lb

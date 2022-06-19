@@ -1,5 +1,0 @@
-You can hop back to your feet instantly if you fall.
-
-Prerequisite: Tumble 12 ranks.
-
-Benefit: If you fall prone for any reason, you can stand up as an immediate action without provoking attacks of opportunity.

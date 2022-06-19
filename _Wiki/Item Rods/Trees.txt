@@ -1,7 +1,0 @@
-This wooden rod resembles a small staff of the woodlands, having a shape that suggests natural growth. It can be used as a melee weapon as if it were a cudgel with shillelagh cast upon it: It strikes with a +1 enhancement bonus on attack and damage rolls and deals 1d10 points of damage (+1 for its enhancement bonus). It also grants its wielder a +5 natural armor bonus.
-
-The wielder of a rod of trees can animate trees as a treant. She can animate trees within 180 feet, controlling up to two trees at a time and no more than two trees per day. It takes a full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and otherwise fights as a treant in all respects. The ability is otherwise similar to liveoak from a 12th-level caster.
-
-Caster Level: 12th; 
-Prerequisites: Craft Rod, barkskin, liveoak, shillelagh; 
-Market Price: 120,000 gp

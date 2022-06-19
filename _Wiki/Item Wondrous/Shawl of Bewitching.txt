@@ -1,8 +1,0 @@
-A character wearing this simple-looking shawl gains a +5 competence bonus on Bluff checks made to conceal the truth (but not on any other use of the Bluff skill, including feinting in combat, creating a diversion to hide, or delivering a secret message). It also adds 1 to the wearer’s caster level when he casts any enchantment (charm) spell.
-
- A shawl occupies the same space on the body as a cloak, cape, or mantle.
-
- Faint enchantment; 
-CL 3rd; 
-Craft Wondrous Item, charm person; 
-Price 3,500 gp.

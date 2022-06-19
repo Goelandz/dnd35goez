@@ -1,6 +1,0 @@
-This coffinlike torture device is filled with spikes that pierce the flesh of anyone placed inside. It deals 1d6 points of damage per round to the prisoner within. It also heals 1d6 points of damage per round, however, but only if that damage was dealt by its own spikes. Thus, the prisoner inside is not likely to die soon, despite the constant pain and terrible wounds continually being inflicted and then healed.
-
-Caster Level: 11th; 
-Prerequisites: Craft Wondrous Item, heal;
-Market Price: 7,000 gp; 
-Weight: 550 lb

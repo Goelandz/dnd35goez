@@ -1,6 +1,0 @@
-This +2 falchion is particularly effective against spellcasters. Any round in which the wielder takes the total defense action, spells targeting her reflect back at their caster. This ability works exactly as if spell turning protecting against seven spell levels. This protection applies only on rounds in which the wielder takes the total defense action and is renewed at the beginning of each such round.
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, spell turning; 
-Market Price: 38,708 gp; 
-Cost to Create: 19,541 gp + 1,533 XP.

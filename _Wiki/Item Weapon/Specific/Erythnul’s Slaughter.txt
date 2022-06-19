@@ -1,4 +1,0 @@
-This +2 unholy morningstar is sacred to clerics of Erythnul, the god of slaughter. Any cleric wielding Erythnul’s slaughter can prepare spells as if he had access to the War domain in addition to his other domains. Clerics who already have access to the War domain gain no additional benefit. If for any reason the cleric loses possession of Erythnul’s slaughter, all prepared spells from the War domain are lost, unless the cleric normally has access to that domain.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, creator must have access to War domain, unholy blight; Market Price: 72,308 gp; Cost to Create: 36,308 gp + 2,880 XP

@@ -1,6 +1,0 @@
-A creature wearing this heavy iron collar gives all of its natural attacks an additional poison attack (Fort DC 14) that deals 1d10 points of Constitution damage as its initial and secondary damage.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, poison;
-Market Price: 50,000 gp; 
-Weight: 3 lb.

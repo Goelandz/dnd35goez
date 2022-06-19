@@ -1,9 +1,0 @@
-This supple staff of sumac, favored by clerics who face off against undead, allows use of the following spells:
-• Greater restoration (3 charges)
-• Death ward (1 charge)
-• Restoration (1 charge)
-
-Strong conjuration; 
-CL 13th; 
-Craft Staff, death ward, greater restoration, restoration; 
-Price 82,417 gp.

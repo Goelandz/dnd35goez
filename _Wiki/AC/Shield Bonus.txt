@@ -1,2 +1,0 @@
-Shield Bonus
-A shield bonus improves Armor Class and is granted by a shield or by a spell or magic effect that mimics a shield. Shield bonuses stack with all other bonuses to AC except other shield bonuses. A magic shield typically grants an enhancement bonus to the shield's shield bonus, which has the effect of increasing the shield's overall bonus to AC. A shield bonus granted by a spell or magic item typically takes the form of an invisible, tangible field of force that protects the recipient. A shield bonus doesn't apply against touch attacks.

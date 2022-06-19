@@ -1,7 +1,0 @@
-These bejeweled bracers have a miniscule lens-and-dial contraption mounted on the exterior of one bracer of the pair. When the dial is turned to the left, the bracers appear normal. When the wearer turns the dial to the middle position (a move action), a beam of light emerges from the lens, illuminating the surroundings as a bullseye lantern. Four times per day, the wearer can turn the dial to the right position as a standard action and aim the lens at a target, unleashing a beam of searing light that deals 3d8 points of damage to most creatures, 6d6 points of damage to undead, and 6d8 points of damage to creatures with light sensitivity. The dial returns to the middle position after each searing light. Even though only one of the pair contains the lens-anddial apparatus, both bracers must be worn for the magic to be effective.
-
- Moderate evocation, 
-CL 6th; 
-Craft Wondrous Item, searing light; 
-Price 26,000 gp; 
-Weight 1 lb.

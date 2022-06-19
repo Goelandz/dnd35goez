@@ -1,6 +1,0 @@
-This +2 rapier deals ×3 damage when it scores a critical hit on a creature of good alignment, rather than the normal ×2 damage.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, unholy blight; 
-Market Price: 15,320 gp; 
-Weight: 3 lb.

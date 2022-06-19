@@ -1,8 +1,0 @@
-These spectacles grant the wearer a +5 competence bonus on Spellcraft checks made to decipher scrolls, and a +5 competence bonus on Use Magic Device checks made to use scrolls.
-
- Spectacles occupy the same space on the body as a pair of eye lenses or goggles.
-
- Faint divination; 
-CL 3rd; 
-Craft Wondrous Item, read magic; 
-Price 2,500 gp.

@@ -1,6 +1,0 @@
-These +2 arrows are tipped with magically strengthened leaves rather than metal tips. Anyone firing an elven leaf arrow can, as a free action, declare that the arrow deals subdual rather than regular damage. Furthermore, whenever an elven leaf arrow deals subdual damage in a temperate woodland environment, the target must succeed on a Will save (DC 11) or be charmed as the charm monster spell from a 10th-level caster.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, creator must be an elf, charm monster; 
-Market Price: 1,167 gp; 
-Cost to Create: 587 gp + 47 XP

@@ -1,6 +1,0 @@
-The fletching of this +1 arrow is painted with brightly colored eyes. When fired, an arrow of eyes allows its wielder to see through a magical sensor located within its fletching. The sensor behaves exactly like an arcane eye spell cast by a 10thlevel sorcerer, except that it moves only when the arrow moves. The wielder must concentrate to use the magical sensor, which lasts for 10 minutes. If the arrow lodges in a moving object, the sensor moves with it. Neither the arrow nor the sensor provide any illumination of their own. The arcane eye ability functions only once. If an arrow of eyes is recovered intact after firing, it functions only as a +1 arrow.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, arcane eye; 
-Market Price: 1,047 gp; 
-Cost to Create: 527 gp + 42 XP

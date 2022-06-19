@@ -1,5 +1,0 @@
-You can quickly draw a hidden weapon to make a deadly strike.
-
-Prerequisite: Sleight of Hand 5 ranks, Quick Draw.
-
-Benefit: After you have used the Sleight of Hand skill to successfully conceal a weapon (PH 81), you can draw that weapon as a move action instead of a standard action.An opponent that was unaware of the concealed weapon is treated as flat-footed against the first attack you make in that turn.

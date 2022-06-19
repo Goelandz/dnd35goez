@@ -1,6 +1,0 @@
-This is a masterwork crossbow bolt of great heft, with a blunt head. Because of its size and weight, it can only be fired from a heavy crossbow. If it strikes a living target, it deals 3d6 damage and the target is subject to a bull rush (the bolt is Large and is considered to have Strength 25, with a +2 on the attempt). If it strikes an unliving object, it ignores the object's first 5 points of hardness and deals 3d6 damage. If it strikes a door, it opens the door as a character with a Strength of 29. The bolt is destroyed when used.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, bull's strength, telekinesis; 
-Market Price: 3,157 gp; 
-Weight: 1 lb.

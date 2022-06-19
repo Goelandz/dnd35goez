@@ -1,6 +1,0 @@
-This plain, 1-foot diameter, 1-inch-thick steel band grows and shrinks on verbal command. Its maximum size is 5 feet in diameter, but retains the same thickness. It can shrink to the size of a ring, reducing in thickness accordingly. If placed around a person, say to bind their arms to their sides, it can be sized to fit snugly around them. The band never shrinks to the point where it deals damage; it’s simply uncomfortably tight. It requires an Escape Artist check (DC 30) to wiggle out of a restricting band placed around the body and arms (DC 25 when the band is placed around arms or legs only).
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, enlarge, reduce; 
-Market Price: 5,400 gp; 
-Weight: 2 lb.

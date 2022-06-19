@@ -1,5 +1,0 @@
-This armor or shield enchantment provides a +4 haste bonus to AC and gives the wearer an extra partial action every round, as the haste spell. This armor seems to be constantly vibrating, always appearing blurred.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, haste; 
-Market Price: +3 bonus.

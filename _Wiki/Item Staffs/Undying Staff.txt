@@ -1,7 +1,0 @@
-This staff is constructed from humanoid bones wired together into a single piece. It allows use of the following spells:
-• Animate dead (1 charge)
-• Create undead (2 charges)
-
-Caster Level: 12th; 
-Prerequisites: Craft Staff, animate dead, create undead; 
-Market Price: 27,375 gp.

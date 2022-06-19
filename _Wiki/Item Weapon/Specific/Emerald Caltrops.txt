@@ -1,6 +1,0 @@
-These magic caltrops dissolve into small puddles of acid when stepped on. Like normal caltrops, emerald caltrops are scattered on the ground to slow enemies, but the act of scattering them also activates their magic. One 2-pound bag covers an area 5 feet square. Each time a creature moves into an area covered by emerald caltrops, make an attack roll (with a +1 bonus) using the rules for caltrops found in Chapter 7 of the Player’s Handbook. Any creature struck by the caltrops takes an additional +1 point of damage and 1d6 points of acid damage. Emerald caltrops turn to vapor 1 hour after being removed from their original container.
- 
-Caster Level: 4th; 
-Prerequisites: Craft Magic Arms and Armor, Melf ’s acid arrow; 
-Market Price: 166 gp; 
-Cost to Create: 86 gp + 7 XP.

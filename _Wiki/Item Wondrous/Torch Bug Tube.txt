@@ -1,7 +1,0 @@
-Common to plains and savannas, the sluggish torch bug looks like a bloated firefly. The insect’s bulbous abdomen, nearly the size of a child’s fist, accounts for more than half its body. When torch bugs are agitated, or during their lengthy mating season, their abdomens glow with a warm, yellow light. Inhabitants of areas thick with torch bugs harvest the sluggish insects for a variety of purposes.
-
-==============================================================
-
-A torch bug tube is a 1-foot-long, sealed glass cylinder with ends capable of being unscrewed. Inside dwells a single adult torch bug. When the tube is shaken (a move action for any creature holding it), the insect inside becomes irritated and begins glowing. This glow sheds as much light as a torch (emanating bright light out to 20 feet and shadowy illumination for another 20 feet beyond that). The light begins to dim as the bug calms down and goes out after 3 minutes unless the tube is shaken again. A torch bug tube can be taken underwater without being extinguished and does not emanate a magical aura.
-
-A torch bug can glow for up to 1 hour a day, after which it must eat and rest; torch bugs must be fed daily (they eat mostly smaller insects), or they grow too weak to shed light and eventually die. In addition, the tube end must be unscrewed once per day to replenish the insect’s air supply.

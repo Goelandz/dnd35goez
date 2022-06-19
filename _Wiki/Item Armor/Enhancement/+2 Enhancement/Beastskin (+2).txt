@@ -1,9 +1,0 @@
-First created by powerful druids, armor with this special ability is particularly useful to characters of that sort. Whenever you use the wild shape class feature while wearing a suit of armor with the beastskin property, you can expend an additional daily use of your wild shape ability to cause the armor to be transformed with you.
- 
-When used in this manner, the beastskin armor becomes a suit of armor fitted for your new form rather than simply merging with your body. The armor continues to grant its armor bonus, applying the appropriate armor check penalty, slowing your movement rate, and otherwise functioning as a suit of armor fitted to the new form. The armor’s weight increases or decreases to match your new size (and shape, if you assume a quadrupedal form) and therefore might affect your carrying capacity differently than it does in your natural form.
-
- If in your natural form you are proficient with the type of armor to which the beastskin quality has been spplied, then you are proficient with the beastskin armor when you are transformed, regardless of what shape you take.
-
- This special ability can be applied only to armor, not to shields.
-
- Strong transmutation; CL 13th; Craft Magic Arms and Armor, ironwood; Price +2 bonus.

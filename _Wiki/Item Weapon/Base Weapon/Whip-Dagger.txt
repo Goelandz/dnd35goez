@@ -1,9 +1,0 @@
-A character who takes the Exotic Weapon Proficiency (whip) feat is also proficient in the whip-dagger.
-
-Unlike standard whips, the whip-dagger’s ability to deal damage is unhindered by armor bonuses and natural armor bonuses. Although you keep it in hand, the whip-dagger is treated as a ranged weapon with a maximum range of 15 feet and no range penalties.
-
-Because the whip-dagger can wrap around an enemy’s leg or other limb, you can make trip attacks with it. If you are tripped during your own trip attempt, you can drop the whip dagger to avoid being tripped.
-
-You get a +2 bonus on your opposed attack roll when attempting to disarm an opponent (including the roll to keep from being disarmed yourself if you fail to disarm your opponent). 
-
-A mighty whip-dagger is made with especially heavy material that allows a strong user to take advantage of an above-average Strength score. The mighty whip-dagger allows you to add your Strength bonus to damage, up to the maximum bonus indicated.

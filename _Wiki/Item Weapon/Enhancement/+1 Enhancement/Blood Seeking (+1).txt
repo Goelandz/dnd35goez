@@ -1,8 +1,0 @@
-Weapons with the blood seeking ability often have strange-looking sights on them. Ammunition fired from blood seeking weapons fl ies around cover if necessary to strike a living creature, negating any bonus to Armor Class the target might have due to intervening cover. 
-
-The shooter can even fi re at a target with full cover, but she must know the target is there, there must be an unobstructed path for the ammunition to reach the target, and the target still has total concealment (and thus a 50% miss chance). The blood seeking ability doesn’t function against plants, oozes, undead, and constructs.
-
- Moderate divination; 
-CL 9th; 
-Craft Magic Arms and Armor, arcane eye; 
-Price +1 bonus.

@@ -1,6 +1,0 @@
-These two dark glass lenses fit over the user’s eyes, granting a +4 bonus on saving throws against illusion (pattern) spells, spells with the light descriptor, and any light effects that cause blindness (such as a prismatic wall).
-
- Faint abjuration, faint evocation; 
-CL 3rd; 
-Craft Wondrous Item, darkness, resistance; 
-Price 7,700 gp.

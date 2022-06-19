@@ -1,6 +1,0 @@
-This +2 returning throwing scimitar is ideal for knocking opponents’ weapons out of their hands. In addition to making normal attacks, the wielder can make a special ranged disarm attack with the spinning blade. This functions exactly like a melee disarm attempt except that it does not provoke an attack of opportunity. The spinning blade does nothing to prevent attacks of opportunity that the wielder provokes for other reasons, such as attacking with a ranged weapon while threatened in melee. Ranged disarm attempts with the spinning blade incur the normal penalties for range. 
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, magic stone, telekinesis; 
-Market Price: 50,315 gp; 
-Cost to Create: 25,315 gp + 2,000 XP.

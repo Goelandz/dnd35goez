@@ -1,3 +1,0 @@
-Serren trees grow on Arvandor, the uppermost of Arborea’s three layers. The trees serve as vessels for nature spirits, and any branch that falls from a serren tree can be fashioned into a bow, arrow, or crossbow bolt imbued with a portion of the tree’s spirit. Serren bows, arrows, and bolts have the ghost touch special quality, although this property is not magical. The market price modifier for a serren weapon (one bow or 50 arrows or bolts) is +4,000 gp.
-
-Serren has the same hit points per inch of thickness and hardness as regular wood.

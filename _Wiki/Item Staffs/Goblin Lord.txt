@@ -1,8 +1,0 @@
-This shabby-looking and gnarled staff is topped with a rat skull. It grants a +2 enhancement bonus to Charisma in the hands of a goblin or orc. A staff of the goblin lord allows use of the following spells:
-• Protection from law (1 charge)
-• Confusion (1 charge, DC 16)
-• Unholy blight (1 charge, DC 16)
-
-Caster Level: 12th; 
-Prerequisites: Craft Staff, confusion, protection from law, unholy blight; 
-Market Price: 26,625 gp.

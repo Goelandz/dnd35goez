@@ -1,6 +1,0 @@
-As long as a mounted rider holds the lance of bravery, both she and her mount are immune to all fear effects. The lance of bravery is otherwise identical to a +2 heavy lance.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, remove fear; 
-Market Price: 30,310 gp; 
-Cost to Create: 15,310 gp + 1,200 XP

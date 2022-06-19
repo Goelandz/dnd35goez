@@ -1,6 +1,0 @@
-This black, silky blindfold grants the blindsight ability with a range of 60 feet (see Special Qualities in the Monster Manual). Because the wearer’s eyes are protected, he is also immune to gaze attacks, spells, or effects that rely on sight. Wearing the blindfold takes up the same space as goggles. The wearer cannot use vision in any way while wearing the blindfold.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, see invisibility; 
-Market Price: 9,000 gp; 
-Weight: —.

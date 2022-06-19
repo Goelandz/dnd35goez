@@ -1,8 +1,0 @@
-This +1 half-plate has built-in armor spikes and spiked gauntlets (see Armor Descriptions in Chapter 7 of the Player’s Handbook). As a standard action, the armor can produce any of the following simple melee weapons: dagger, punching dagger, light mace, sickle, halfspear, heavy mace, or morningstar. The weapon forms out of the armor itself, in whichever hand the wearer chooses. The wearer can also choose to create a weapon in each hand, although it requires another action to do so. The weapon type can be changed each round. 
-
-Weapons created by the suit cannot be removed, and the wearer cannot be disarmed of any such weapon. Created weapons last indefinitely or until the wearer chooses to get rid of them. If a weapon is destroyed, the armor cannot create a new weapon for 24 hours.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, major creation; 
-Market Price: 42,305 gp; 
-Cost to Create: 21,555 gp + 1,660 XP.

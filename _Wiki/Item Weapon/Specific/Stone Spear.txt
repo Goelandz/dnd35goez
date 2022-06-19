@@ -1,6 +1,0 @@
-Made entirely from magically augmented stone, this +2 shortspear weighs 10 pounds. Because of its weight and unwieldy nature, the stone spear has a range increment of only 10 feet. A stone spear deals double damage against any creatures with the Air subtype on a successful hit. If a wielder standing on the ground uses a ready action to set the stone spear against a charge, it deals triple rather than double damage.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, wall of stone; 
-Market Price: 32,302 gp; 
-Cost to Create: 16,302 gp + 1,280 XP

@@ -1,7 +1,0 @@
-Also known as a false stomach, a possum pouch is a small, flat, circular bag about 10 to 12 inches in diameter and up to 2 inches thick. When placed against a humanoid’s abdomen and sealed there with a command word, it blends in unobtrusively with the surrounding skin, requiring a DC 30 Search check to detect. Spies and couriers fi nd these items useful as diplomatic pouches, while nobles and wealthy merchants sometimes use them as money belts. Assassins, ninjas, and sneak-thieves love possum pouches because they make it easy to smuggle poison, daggers, and small valuables into or out of well-guarded houses.
-
- Faint illusion; 
-CL 3rd; 
-Craft Wondrous Item, disguise self; 
-Price 1,800 gp; 
-Weight 1 lb.

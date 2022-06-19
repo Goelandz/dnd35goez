@@ -1,7 +1,0 @@
-This pear-shaped masterwork lute grants a +2 circumstance bonus on Perform (string instruments) checks and a +2 competence bonus on bardic music checks for countersong, fascinate, and suggestion. The cithern can be played by anyone with 4 ranks in Perform (string instruments) to cast cure light wounds, mage armor, and sleepeach once per day.
-
- Faint various; 
-CL 3rd; 
-Craft Wondrous Item, cure light wounds, mage armor, sleep, creator must be a bard; 
-Price 2,900 gp; 
-Weight 3 lb.

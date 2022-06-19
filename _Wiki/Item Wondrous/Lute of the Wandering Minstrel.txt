@@ -1,9 +1,0 @@
-This finely wrought instrument functions as a masterwork lute with minor magical effects in the hands of someone with 1 or more ranks in Perform (string instruments). By speaking the correct command words, such a musician can use levitate and magic circle against evil once per day each.
-
-A musician with 5 or more ranks in Perform (string instruments) can coax additional magical effects from this instrument. By playing a single chord on the lute, such a performer can generate an expeditious retreat, haste,or phantom steed effect. Each of these abilities is usable once per day. 
-
- Faint abjuration, conjuration, and transmutation; 
-CL 5th; 
-Craft Wondrous Item, expeditious retreat, haste, levitate, magic circle against evil, phantom steed, creator must have 5 ranks in Perform (string instruments); 
-Price 29,500 gp; 
-Weight 3 lb.

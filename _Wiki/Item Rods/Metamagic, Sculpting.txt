@@ -1,6 +1,0 @@
-The wielder can cast up to three spells per day whose areas can be modified as though using the Sculpt Spell feat.
-
- Strong (no school); 
-CL 17th; 
-Craft Rod, Sculpt Spell; 
-Price 5,400 gp (lesser), 21,600 gp (normal), 48,600 gp (greater).

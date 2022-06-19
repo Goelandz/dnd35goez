@@ -1,4 +1,0 @@
-This thick, brown-tinted smoke is a great boon to anyone who needs to go without air for more than a few rounds. After inhaling longbreath, a character can hold his breath for 3 rounds per point of Constitution, rather than 2 rounds per point. Longbreath can be used after the character begins holding his breath, but it provides less of a benefit. If a character inhales longbreath after beginning to hold his breath, simply multiply the number of rounds that the character could continue holding his breath by 1.5. Once a character begins making Constitution checks to continue holding his breath, longbreath provides no benefit.
-
-DC To Create	25
-Cost		50 gp

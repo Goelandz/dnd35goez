@@ -1,6 +1,0 @@
-Cleverly shaped and magically enhanced to shatter opponent’s weapons, the breaking blade grants its wielder the Sunder feat while she holds the weapon. This +2 halberd is particularly effective when used against simple and martial reach weapons. When attacking such weapons, it deals double damage. The metal haft of the breaking blade has a hardness of 15 and 20 hit points.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, shatter; 
-Market Price: 18,310 gp; 
-Cost to Create: 9,310 gp + 720 XP

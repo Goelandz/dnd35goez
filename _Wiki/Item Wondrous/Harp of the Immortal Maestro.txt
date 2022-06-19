@@ -1,6 +1,0 @@
-A harp of the immortal maestro functions best in the hands of a musician with at least 15 ranks in Perform (string instruments). Such a user can, simply by strumming the harp, generate the following effects once per day each: cure critical wounds, displacement, and summon monster V. 
-
- Moderate abjuration, conjuration, illusion, and transmutation; CL 9th; 
-Craft Wondrous Item, cure critical wounds, displacement, levitate, magic circle against evil, summon monster V, creator must have 15 ranks in Perform (string instruments); 
-Price 51,000 gp; 
-Weight 3 lb.

@@ -1,6 +1,0 @@
-The wielder can cooperatively cast up to three spells per day as though using the Cooperative Spell feat.
-
- Strong (no school); 
-CL 17th; 
-Craft Rod, Cooperative Spell; 
-Price 2,700 gp (lesser), 10,500 gp (normal), 24,300 gp (greater).

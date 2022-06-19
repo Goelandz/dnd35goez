@@ -1,7 +1,0 @@
-The music of this flute has the power to charm snakes of all kinds. By playing this flute and making a DC 15 Perform (wind instruments) check, the musician can produce a charm animal effect that affects only snakes. This power can be used three times per day.
-
- Once per day, by playing a droning sequence of notes for 1 full round and succeeding on a DC 20 Perform (wind instruments) check, a musician can summon 1d4+1 Medium vipers. These snakes appear wherever the flutist designates within 30 feet of her location. They fight on the musician’s behalf, attacking on her turn, and remain for 7 rounds or until killed.
-
- Moderate conjuration and enchantment; CL 7th; 
-Craft Wondrous Item, charm animal, summon nature’s ally IV; 
-Price 15,400 gp

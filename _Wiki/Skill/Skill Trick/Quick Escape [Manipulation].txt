@@ -1,9 +1,0 @@
-In the blink of an eye, you can escape nearly any tight spot.
-
-Prerequisite: Escape Artist 12 ranks.
-
-Benefit: This trick has two options, either of which can be used once per encounter.
-
-You can make an Escape Artist check to escape from a grapple or pin as a swift action. You can use this trick even if you have already used a standard action on your current turn to attempt the same escape.
-
-Alternatively, you can make any Escape Artist check that would normally require a full-round action as a move action. You can’t use this option more than once per day against the same kind of restraint.

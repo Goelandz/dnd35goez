@@ -1,7 +1,0 @@
-You lean left, go right, and leave a whole group of enemies holding the bag.
-
-Prerequisite: Bluff 8 ranks.
-
-Benefit: You can use Bluff to feint in combat (PH 68) against more than one opponent. Make one Bluff check opposed by separate Sense Motive checks for each opponent.For each opponent after the first that you wish to affect, you take a cumulative –2 penalty on your Bluff check.
-
-Example: Lidda wants to feint against a group of three orcs, so she rolls a Bluff check with a –4 penalty. Each orc rolls a separate Sense Motive check opposed by Lidda’s adjusted Bluff check result.

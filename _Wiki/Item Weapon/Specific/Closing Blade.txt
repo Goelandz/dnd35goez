@@ -1,6 +1,0 @@
-This +3/+2 two-bladed sword allows its wielder to continue fighting effectively when grappled. Any time the wielder is grappled, he can make attacks against the creature he is grappling as if the closing blade were a Tiny weapon.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, free action; 
-Market Price: 58,700 gp; 
-Cost to Create: 29,700 gp + 2,320 XP

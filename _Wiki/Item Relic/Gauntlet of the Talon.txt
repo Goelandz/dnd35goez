@@ -1,9 +1,0 @@
- It is said that this silvery spiked set of gauntlets was fashioned by Bahamut himself, then given to the master of a now-defunct order of monks. A character wearing gauntlets of the taloneffectively has natural weapons that deal 1d8 points of slashing damage and count as magic for the purpose of overcoming damage reduction. If a monk dons the gauntlets of the talon, she is treated as if she were fi ve levels higher for purposes of AC, unarmed damage (which now counts as slashing), and the monk’s ki strike ability (this function stacks with the similar functions of a monk’s belt). Gauntlets of the talon function as ghost touch weapons for the purpose of attacking incorporeal creatures. Finally, the wearer gains a +4 bonus on all grapple checks.
-
- To use this relic, you must worship Bahamut and either sacrifi ce a 4th-level divine spell slot or have the True Believer feat and at least 7 HD.
-
- Moderate transmutation; 
-CL 11th; 
-Sanctify Relic, Craft Wondrous Item, righteous might, creator must worship Bahamut;
-Price 20,000 gp; 
-Weight 2 lb.

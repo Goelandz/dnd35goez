@@ -1,1 +1,0 @@
-This consists of flint and steel set in a wire hinge. Lighting a torch with a sparker takes a standard action. A sparker can be used ten times before it needs replacing.

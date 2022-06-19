@@ -1,6 +1,0 @@
-This +2 greatsword grants its wielder an enhanced ability to withstand blows. Anyone holding a sword of the mammoth gains 6 temporary hit points. These hit points are added to the wielder’s maximum and current totals. Unlike other temporary hit points, the bonus hit points supplied by the sword of the mammoth are not lost first. Instead, should the wielder ever lose hold of the sword, the hit points are subtracted from both his maximum and current total. The only way to regain these hit points in such a situation is to regain the sword.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, endurance; 
-Market Price: 18,350 gp; 
-Cost to Create: 9,350 gp + 720 XP.

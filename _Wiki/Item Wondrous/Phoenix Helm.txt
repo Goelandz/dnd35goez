@@ -1,7 +1,0 @@
-This helm is forged of copper and inlaid with silver and gold, stylized in the shape of a phoenix with wings unfurled, legs guarding the temples, and its head adorning the brow. When worn, the helmet grants its wearer low-light vision and the ability to use feather fall, flame arrow, fly, resist energy, and speak with animals (birds only) each once per day.
-
- Moderate various; 
-CL 9th; 
-Craft Wondrous Item, feather fall, flame arrow, fly, low-light vision*, resist energy, speak with animals; 
-Price 53,000 gp; 
-Weight 3 lb.

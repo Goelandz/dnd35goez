@@ -1,7 +1,0 @@
-You can talk your way out of a problem you talked yourself into.
-
-Prerequisite: Bluff 8 ranks, Diplomacy 5 ranks.
-
-Benefit: If your Diplomacy check to influence an NPC’s attitude fails, you can spend another full round talking to the NPC, then make a Bluff check with a –10 penalty.
-
-Use the result of this check in place of the Diplomacy check result, except that it can’t improve the NPC’s attitude by more than one step. Once you use this skill trick (successfully or not), you cannot use it against the same target again for 24 hours.

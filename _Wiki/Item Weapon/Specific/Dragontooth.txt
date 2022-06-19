@@ -1,6 +1,0 @@
-Made from a single tooth of an ancient blue dragon, this +2 shock rapier projects a fearsome aura around its wielder. Foes within 5 feet of the wielder must succeed on a Will save (DC 16)or suffer the effects of the fear spell from an 8th-level caster. Once foes have made a successful saving throw against the fear aura, they are immune to the aura’s effects for one day.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, fear, lightning bolt; 
-Market Price: 40,720 gp; 
-Cost to Create: 20,520 gp + 1,616 XP.

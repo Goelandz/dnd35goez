@@ -1,9 +1,0 @@
-Used to trap foes without killing them, a staff of the gaol allows use of the following spells:
-• Hold monster (1 charge)
-• Blade barrier (1 charge)
-• Dimensional anchor (1 charge)
-
-Moderate evocation; 
-CL 11th; 
-Craft Staff, blade barrier, dimensional anchor, hold monster;
-Price 51,563 gp.

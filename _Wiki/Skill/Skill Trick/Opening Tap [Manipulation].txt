@@ -1,7 +1,0 @@
-“No time to waste on tools—a sharp tap should pop that lock!”
-
-Prerequisite: Open Lock 12 ranks.
-
-Benefit: As a swift action, you can make an Open Lock check with a –10 penalty by tapping a lock with a hard, blunt object such as the pommel of a weapon. You don’t take any additional penalty for making the check without thieves’ tools.
-
-You can use this trick any number of times per day until you fail an Open Lock check made in this way. After a failure, you can’t use Opening Tap again until after you have rested for 8 hours.

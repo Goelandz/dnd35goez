@@ -1,2 +1,0 @@
-Glaive
-A glaive has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.

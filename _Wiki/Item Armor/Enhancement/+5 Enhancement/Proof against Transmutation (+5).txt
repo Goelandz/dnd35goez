@@ -1,5 +1,0 @@
-A character wearing this armor is impervious to any transmutation effect that would alter his form, including polymorph and petrification effects, as well as disintegration (disintegrate can still reduce the wearer to –10 hit points, but doesn’t turn his remains to dust). The wearer can choose to allow specific spells to bypass the armor’s protection (so as to cast transmutation spells on himself, for example, or to receive the benefit of polymorph or enlarge person from an allied spellcaster).
-
- Strong abjuration; 
-CL 12th; Craft Magic Arms and Armor, spell immunity; 
-Price +5 bonus.

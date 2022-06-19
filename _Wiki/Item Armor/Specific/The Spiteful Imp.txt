@@ -1,8 +1,0 @@
-Forged in the shape of an imp’s face grinning with malicious glee, this object is a +4 animated buckler that can be commanded as a standard action to spit burning venom once per day. 
-
-The venomous spittle is a ranged touch attack with a range of 30 feet that deals 1d4+6 points of fi re damage, 1d10 points of Constitution damage, and another 1d10 points of Constitution damage 1 minute later (each instance of Constitution damage can be negated by a DC 17 Fortitude save). The spiteful imp also possesses the unusual tendency to titter in evil mirth whenever it deflects an opponent’s weapon, a disquieting but harmless quality.
-
- Strong transmutation; 
-CL 12th; 
-Craft Magic Arms and Armor, animate objects, poison, produce flame; 
-Price 46,245 gp.

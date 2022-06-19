@@ -1,4 +1,0 @@
-This special form of acid affects only stone. You can throw stonebreaker acid as a grenadelike weapon. Acid ordinarily deals half damage to objects (see Attack an Object in Chapter 8 of the Player’s Handbook). A direct hit on a stone surface ignores hardness and deals 3d10 points of damage. On the round after a direct hit, stonebreaker acid deals a further 2d10 points of damage.
-
-DC To Create	20
-Cost		20 gp

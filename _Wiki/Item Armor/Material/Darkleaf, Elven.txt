@@ -1,5 +1,0 @@
-Similar to elven leafweave armor (see below), elven darkleaf armor is made of carefully cured and beautifully carved pieces of darkwood (see Chapter 8 of the DUNGEON MASTER’s Guide), supplemented by alchemically treated leaves.
-
-Making armor out of darkleaf reduces its spell failure chance by 5% because the armor is so flexible. The maximum Dexterity bonus of darkleaf armor is increased by +1, and armor check penalties are reduced by 2. Most darkleaf armors are one category lighter than normal for purposes of movement and other limitations (for example, whether a barbarian can use his fast movement ability). If made of elven darkleaf, heavy armor is treated as medium, medium armor is treated as light, but light armor is still treated as light. Only armors generally made of metal can be constructed from elven darkleaf.
-
-Creating elven darkleaf armor requires a successful Alchemy check (DC 25) in addition to the normal Craft (armorsmithing) checks required to make armor.

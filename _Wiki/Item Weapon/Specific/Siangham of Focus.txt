@@ -1,6 +1,0 @@
-This +3 siangham enhances the wielder’s ability to focus on combat. When using a siangham of focus, the wielder gains a +2 enhancement bonus on Reflex saves made to deflect ranged weapons using the Deflect Arrows feat. Furthermore, monks and other characters with the Stunning Fist feat may make stunning attacks while attacking with the siangham of focus.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, hold person, protection from arrows; 
-Market Price: 19,303 gp; 
-Cost to Create: 9,803 gp + 760 XP

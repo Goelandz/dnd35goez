@@ -1,6 +1,0 @@
-Covered in hooks, small sliding compartments, and tiny nooks perfect for potion vials, this +2 light crossbow can hold several small items. The gnome’s toolkit stores a set of masterwork lockpicks, a magnifying glass, and a small silver mirror. These items are magically bonded to the crossbow, and they disappear if taken more than 20 feet from it. Items removed like this reappear within the crossbow after 1 minute. The gnome’s toolkit can also hold up to six more small items such as keys or potion vials. No item stored in the crossbow can be more than 2 inches long or weigh more than 6 ounces. Additional stored items do not become bonded to the crossbow and function normally if removed. While holding a gnome’s toolkit, the wielder can retrieve any item stored in the crossbow as a free action.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, Leomund’s secret chest; 
-Market Price: 10,335 gp; 
-Cost to Create: 5,335 gp + 400 XP.

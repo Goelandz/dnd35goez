@@ -1,5 +1,0 @@
-If this ring is worn by a spellcaster, 1 point of damage per spell level from each of the caster’s damaging spells is vile damage. If multiple creatures take damage (such as with a fireball spell), each creature takes the vile damage. 
-
-Caster Level: 5th; 
-Prerequisites: Forge Ring, vile lance; 
-Market Price: 15,000 gp

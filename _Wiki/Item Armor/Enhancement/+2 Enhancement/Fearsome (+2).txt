@@ -1,4 +1,0 @@
-This suit of armor or shield creates an aura of fear around the wearer (as the fear spell from a 7th-level caster). This aura affects all opponents within 40 feet of the wearer. The armor or shield appears completely normal, except to those who fail their save. The fearful see a creature from the their worst nightmares in place of the wearer.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, fear; Market Price: +2 bonus.

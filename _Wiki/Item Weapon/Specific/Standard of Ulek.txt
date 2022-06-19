@@ -1,6 +1,0 @@
-Each side of this +2 mithral dwarven waraxe is engraved with the red axe symbol of the Principality of Ulek. Dwarves allied with the wielder gain a +1 morale bonus on their attack rolls as long as they stay within 10 feet of the wielder. The wielder does not benefit from the morale bonus.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, bless; 
-Market Price: 23,830 gp; 
-Cost to Create: 15,830 gp + 640 XP. 

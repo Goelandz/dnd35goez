@@ -1,6 +1,0 @@
-Armor with the anti-impact quality is designed to cushion the blow from massive blunt traumas. Anti-impact armor doesn’t give extra protection against weapon damage (beyond its AC bonus), but bludgeoning damage that affects all or most of the entire body (such as constriction and falling damage) is halved.
-
- Faint Abjuration; 
-CL 4th; 
-Craft Magic Arms and Armor, feather fall; 
-Price +2,000 gp

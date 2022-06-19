@@ -1,6 +1,0 @@
-The magical properties imbued in this +2 mighty (+3) composite longbow protect its wielder when enemies are near. The guardian bow provokes an attack of opportunity only from the target of its attack. If someone fires the guardian bow while surrounded by enemies, only the foe shot at may take an attack of opportunity, even if other opponents threaten the archer.
-
-Caster Level: 14th; 
-Prerequisites: Craft Magic Arms and Armor, shield; 
-Market Price: 50,700 gp; 
-Cost to Create: 25,700 gp + 2,000 XP.

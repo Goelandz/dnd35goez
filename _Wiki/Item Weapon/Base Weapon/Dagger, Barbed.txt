@@ -1,5 +1,0 @@
-Barbed daggers, as their name implies, look like normal daggers with long barbs covering the blade. The design makes the weapon more difficult to wield properly than a normal dagger, but it allows those skilled in the weapon’s use to deal more damage with a well-placed attack. 
-
- If you have 5 or more ranks in Sleight of Hand and use a barbed dagger, you gain a +2 bonus on damage rolls on any successful sneak attack made with the weapon as it twists in the wound. This bonus also applies (and is therefore doubled) on successful critical hits with the weapon.
-
- Characters proficient with the barbed dagger can treat it as a dagger for the purpose of any of the following feats: Greater Weapon Focus, Greater Weapon Specialization, Improved Critical, Weapon Focus, and Weapon Specialization.

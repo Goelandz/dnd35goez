@@ -1,5 +1,0 @@
-The drinker’s skin thickens and turns gray, granting a +3 natural armor bonus. An unfortunate side effect is that the drinker’s vision stops at 30 feet. The effects last for 1 hour.
-
-Caster Level: 9th; 
-Prerequisites: Brew Potion, alter self, Alchemy skill; 
-Market Price: 17,500 gp.

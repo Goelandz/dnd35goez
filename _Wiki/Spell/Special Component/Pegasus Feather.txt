@@ -1,1 +1,0 @@
-If this component is used when casting detect good or detect evil, the caster learns the number of evil auras and the power of the most potent aura in the first round of concentration instead of the second, and the power and location of each aura in the second round instead of the third

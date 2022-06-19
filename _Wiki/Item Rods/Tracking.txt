@@ -1,5 +1,0 @@
-These two identical copper rods are a foot long and topped with a smooth clear crystal. Taking a full action and doing nothing else, the wielder can determine the exact distance and direction of the other rod. By spending another full action, the wielder can determine if the rod is being held by a creature and what that creature’s current physical status is (alive and healthy, injured, dying, or unconscious). It does not determine the mental status (dazed, stunned, and the like) or any magical effects (such as charmed or dominated).
-
-Caster Level: 9th; 
-Prerequisites: Craft Wondrous Item, locate creature, status; 
-Market Price: 37,800 gp

@@ -1,7 +1,0 @@
-Almost indistinguishable from a staff of fire, this staff usually incorporates a deity’s holy symbol into its design, often the leafy face of ObadHai. It allows use of the following spells:
-• Flame strike (1 charge, DC 16)
-• Fire storm (2 charges, DC 20)
-
-Caster Level: 13th; 
-Prerequisites: Craft Staff, fire storm, flame strike; 
-Market Price: 60,000 gp. This price assumes the staff is created by a druid.

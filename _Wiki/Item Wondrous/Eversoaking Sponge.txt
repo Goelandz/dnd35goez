@@ -1,6 +1,0 @@
-This large, normal-looking sponge is capable of absorbing an enormous quantity of water. If placed in a body of water, it floats and begins soaking it up at the rate of 1,000 gallons per round. The sponge stops once it has absorbed 225,000 gallons of water—the size of a pool 100 feet long, 50 wide, and 6 feet deep. This water disappears completely, and if the sponge is squeezed afterward, it releases only as much water as a normal wet sponge. The eversoaking sponge absorbs only water, not mud or muck. Acid, oil, and other liquids affect it as they would a normal sponge.
-
-Caster Level: 11th; 
-Prerequisites: Craft Wondrous Item, disintegrate; 
-Market Price: 26,400 gp; 
-Weight: —.

@@ -1,5 +1,0 @@
-You can cast spells without others noticing.
-
-Prerequisite: Concentration 1 rank, Sleight of Hand 5 ranks, Spellcraft 1 rank.
-
-Benefit: You can cast a spell without revealing that you are doing so. Make a Sleight of Hand check as part of the action used to cast the spell, opposed by the Spot checks of onlookers. If you are successful, an observer can’t tell that you’re casting a spell. That observer cannot make an attack of opportunity against you for casting, nor can it attempt to counter your spell

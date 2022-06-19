@@ -1,7 +1,0 @@
-This weapon acts as though it has the spell detect evil upon it. This enchantment is always active unless the wielder commands the weapon to deactivate (a free action). The wielder receives a +2 bonus on attack and damage rolls against any creature with a strong or overwhelming aura of evil (see the detect evilspell description in the Player’s Handbook). Bows, crossbows, and slings so crafted confer the righteous power upon
-their ammunition.
-
-Moderate divination and evocation; 
-CL 7th; 
-Craft Magic Arms and Armor, detect evil, holy smite, creator must be good;
-Price +4 bonus.

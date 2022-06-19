@@ -1,6 +1,0 @@
-Four different types of the metamagic rod of substitution exist, each keyed to a different type of energy (acid, cold, electricity, or fi re). The wielder can cast up to three spells per day as though using the appropriate Energy Substitution feat.
-
- Strong (no school); 
-CL 17th; 
-Craft Rod, Energy Substitution for the appropriate energy type; 
-Price 2,700 gp (lesser), 10,500 gp (normal), 24,300 gp (greater).

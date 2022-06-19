@@ -1,9 +1,0 @@
-These deep red, crystal daggers are said to be plucked from the gems on the hem of Wee Jas’s gown. Each ruby blade is a +3 axiomatic dagger that enables its wielder to bolster, rebuke, or command undead as if her class level were four levels higher than it actually is. It also has a continuous status effect.
-
-To use this relic, you must worship Wee Jas and either sacrifi ce a 6th-level divine spell slot or have the True Believer feat and at least 11 HD.
-
-Moderate evocation; 
-CL 11th; 
-Sanctify Relic, Craft Magic Arms and Armor, order’s wrath, status, creator must worship Wee Jas;
-Price 46,902 gp; 
-Cost 23,602 gp + 1,864 XP.

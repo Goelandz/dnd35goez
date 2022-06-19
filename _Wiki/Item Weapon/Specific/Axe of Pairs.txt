@@ -1,6 +1,0 @@
-This +2 handaxe is easier to wield as an off-hand weapon. Whenever the axe of pairs is used in the off hand, its wielder may make one additional off-hand attack at a –5 penalty. This penalty is subtracted from the wielder’s worst off-hand attack bonus. For example, a fighter with a base attack of +6/+1 and the Ambidexterity, Two-Weapon Fighting, and Improved Two-Weapon Fighting feats wielding an axe of pairs in the off-hand would get five attacks. The two attacks with the primary weapon would be at +4/–1, and the attacks with the axe of pairs in the off hand would be at +4/–1/–6.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, haste; 
-Market Price: 50,306 gp; 
-Cost to Create: 25,306 gp + 2,000 XP.

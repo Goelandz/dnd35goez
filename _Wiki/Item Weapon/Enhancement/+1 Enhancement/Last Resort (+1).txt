@@ -1,6 +1,0 @@
-A melee weapon (usually a dagger) with the last resort ability is particularly effective in a grapple. Its wielder doesn’t take the –4 penalty for attacking with a weapon while grappling, and the weapon deals an extra 1d6 points of damage in a grapple for every size category the target is bigger than the wielder. For example, a halfling armed with a +1 last resort dagger would deal an extra 2d6 points of damage when being grappled by an ogre.
-
- Moderate transmutation;
- CL 7th; 
-Craft Magic Arms and Armor, freedom of movement; 
-Price +1 bonus.

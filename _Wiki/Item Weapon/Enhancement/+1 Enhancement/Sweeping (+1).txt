@@ -1,5 +1,0 @@
-This ability grants a +4 bonus on any Strength checks the wielder makes as part of an attempt to trip an opponent with the weapon. Only melee weapons can have this ability.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, bull’s strength; 
-Market Price: +1 bonus

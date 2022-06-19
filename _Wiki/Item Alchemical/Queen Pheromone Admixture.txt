@@ -1,5 +1,0 @@
-When consumed, this potion causes the drinker to exude pheromones that mimic those of a queen ant. In response, 1d4 giant ants within 60 feet must make a Will save (DC 13). If they fail, they remain docile and follow the drinker in a line, quietly and slavishly for a week. After this, the potion wears off and the drinker must take another draught to keep the ants. Ants who succeed on the Will save or those in range who otherwise do not succumb attack the false “queen” viciously.
-
-Caster Level: 3rd; 
-Prerequisites: Brew Potion; 
-Market Price: 300 gp.

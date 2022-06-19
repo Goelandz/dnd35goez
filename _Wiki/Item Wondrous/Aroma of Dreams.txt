@@ -1,8 +1,0 @@
-This silvery liquid is usually kept in a small bottle and applied like a perfume. One round after exposure to air, it creates an invisible cloud of magical poison gas in a 10-foot radius that lasts for 1 minute. The creature wearing the aroma is not subject to its effect, but other creatures exposed to the gas must make a DC 14 Fortitude save or fall asleep for 1 minute. One round later, exposed creatures (whether already asleep or not) must make a second DC 14 Fortitude save or fall asleep for 1 hour. Sleeping creatures are helpless. The cloud moves as the creature does.
-
- If the aroma is opened but not immediately applied to a creature, the cloud of poison gas that forms spreads to fi ll only a 5-foot radius, centered on the opened bottle or the place the liquid was poured out. This cloud also lasts for 1 minute.
-
- Faint enchantment; 
-CL 5th; 
-Craft Wondrous Item, deep slumber, character must have 4 ranks in Craft (alchemy); 
-Price 1,500 gp.

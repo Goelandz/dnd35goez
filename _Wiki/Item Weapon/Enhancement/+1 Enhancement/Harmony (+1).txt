@@ -1,5 +1,0 @@
-Harmony weapons help their wielders press the advantage against a flanked opponent. When flanking an opponent, the wielder of this weapon gains a +4 bonus on attacks rather than the normal +2 bonus for flanking. Only melee weapons can have this ability.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, detect thoughts; 
-Market Price: +1 bonus.

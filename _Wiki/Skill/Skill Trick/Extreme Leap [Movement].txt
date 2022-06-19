@@ -1,5 +1,0 @@
-Your extraordinary leaping ability carries you over great distances.
-
-Prerequisite: Jump 5 ranks.
-
-Benefit: If you make a horizontal jump of at least 10 feet during your turn, you can spend a swift action to move an additional 10 feet on that turn.

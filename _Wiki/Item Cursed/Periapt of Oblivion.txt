@@ -1,8 +1,0 @@
-A black pearl on a light silver chain, this amulet appears to be a periapt of Wisdom +6 and functions as such until the wearer attempts a Spot or Listen check. At that moment and thereafter, the periapt imposes a –6 penalty on the wearer’s Wisdom.
-
-Once the curse is activated, a periapt of oblivion can be removed only by means of a remove curse spell.
-
-Caster Level: 16th; 
-Prerequisites: Craft Wondrous Item, commune or legend lore, bestow curse; 
-Market Price: 1,300 gp; 
-Weight: —.

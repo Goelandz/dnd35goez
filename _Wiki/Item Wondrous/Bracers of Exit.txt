@@ -1,6 +1,0 @@
-These bracers each bear a crude design of a square bisected by an arrow. The wearer can negate one dimensional anchor effect per day.
-
-Caster Level: 7th; 
-Prerequisites: Craft Wondrous Item, dimensional anchor;
-Market Price: 11,200 gp; 
-Weight: 1 lb.

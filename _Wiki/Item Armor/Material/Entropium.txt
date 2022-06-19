@@ -1,7 +1,0 @@
-Githzerai armorsmiths in the EverChanging Chaos of Limbo have found a way to alloy ordinary iron with some of the shifting chaos-stuff of their native plane. The resulting metal, called entropium, is heavier than iron but can be used to make effective armor. A suit of entropium armor actually shifts as its wearer moves, allowing incredible flexibility at the cost of increased weight. Light entropium armor is considered medium and weighs 2 pounds more than normal, medium armor is heavy and weighs 5 pounds more than normal, and heavy armor is simply more so, weighing 10 pounds more than normal. Shields also weigh 2 pounds more than their steel counterparts. The armor check penalty of the armor increases by 2 for Strength-related skills (Climb  and Jump) and decreases by 2 for Dexterity-related skills (Balance, Escape Artist, Hide, Move Silently, Pick Pockets, and Tumble). The arcane spell failure chance decreases by 10% (to a minimum of 5%), and the maximum Dexterity bonus increases by +2. Naturally, entropium improves only armors made primarily of metal, including chain shirts, all medium armors except hide, all heavy armors, and steel shields. Entropium has a hardness of 15 and 40 hit points per inch of thickness.
-
-Item 		Market Price Modifier
-Light armor 	+750 gp
-Medium armor 	+2,000 gp
-Heavy armor 	+8,000 gp
-Shield 		+750 gp

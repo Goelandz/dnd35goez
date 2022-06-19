@@ -1,5 +1,0 @@
-Portfolio: kobolds, traps 
-AL: LE 
-Domains:  Evil, Law, Luck, Trickery
-Fav Weapon: spear
-Rank: I

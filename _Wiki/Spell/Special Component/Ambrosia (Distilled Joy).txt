@@ -1,3 +1,0 @@
-A mysterious substance made from distilled joy, ambrosia is celestial food, the heavenly sustenance of Celestia. Created by means of the distilled joy spell, ambrosia can be used as a special spell component, in addition to the other uses mentioned in the spell description.
-
-As an optional component, ambrosia automatically increases the effective caster level of a single good spell by +2. This increase doesn’t stack with previous applications of distilled joy or any other bonuses to effective caster level.

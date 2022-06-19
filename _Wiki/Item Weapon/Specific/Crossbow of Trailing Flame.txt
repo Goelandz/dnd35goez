@@ -1,6 +1,0 @@
-Made from a deep red-hued wood, this +1 flaming repeating crossbow is strengthened by bands of wrought iron and carved with shallow markings that resemble flickering flames. Anytime the crossbow of trailing flame is fired more than once in the same round, its additional property is activated. Each shot after the first in the round deals a cumulative +1 point of fire damage. For example, the second shot in a round deals 1d8+1 normal damage and 1d6+1 fire damage, and the third shot in the same round deals 1d8+1 normal damage and 1d6+2 fire damage.
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, flame blade, flame strike, or fireball; 
-Market Price: 18,550 gp; 
-Cost to Create: 9,550 gp + 720 XP

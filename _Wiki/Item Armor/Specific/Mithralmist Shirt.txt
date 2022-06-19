@@ -1,9 +1,0 @@
-Forged from a silver-white mithral alloy, a mithralmist shirt is a +2 mithral shirt that fi lls the wearer’s square with a billowing silver mist on command. The mist grants the wearer concealment but does not interfere with his vision. The armor sheds silver mist for 1 minute per use, up to seven times per day. 
-
-Finally, once per day, the wearer of this armor can assume gaseous form for up to 10 minutes.
-
- Moderate abjuration; 
-CL 6th; 
-Craft Magic Arms and Armor, gaseous form, obscuring mist; 
-Price 21,300 gp; 
-Cost 11,200 gp + 808 XP

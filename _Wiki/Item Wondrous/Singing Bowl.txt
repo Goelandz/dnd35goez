@@ -1,8 +1,0 @@
-Carved from a single piece of flawless crystal (10 hardness, 10 hp), this bowl comes with a smooth, thick wooden stick. Running the stick slowly along the edge of the bowl produces a clear, vibrating hum. The volume can range from barely audible to intensely loud. While the bowl is being played, spells in a 30-foot radius with a verbal component are prevented as though under the effect of a silence spell. Spells cast with the Silent Spell feat still work, however. The bowl’s effect can be activated with any stick—the one provided has no special abilities. It requires at least 1 rank of Performance (any percussion instrument).
-
-In addition, the bowl can cast shatter and blindness/deafness (deafness only) once per day as a 12thlevel bard.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, blindness/deafness, shatter, silence; 
-Market Price: 19,440 gp; 
-Weight: 4 lb.

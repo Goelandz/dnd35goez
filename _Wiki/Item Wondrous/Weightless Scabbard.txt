@@ -1,6 +1,0 @@
-This magical scabbard grows and shrinks in size to accommodate any Large to Tiny bladed weapon. This includes greatsword, falchion, scimitar, rapier, longsword, short sword, and dagger. While the weapon is in the scabbard, its weight is reduced to zero, although the scabbard retains its own weight.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, reduce; 
-Market Price: 1,600 gp; 
-Weight: 1 lb.

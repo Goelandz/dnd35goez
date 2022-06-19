@@ -1,3 +1,0 @@
-Once per day, the wearer of this +1 breastplate can transfer the damage dealt to him from a melee attack to another creature, other than the attacker, within 100 feet. If the other creature succeeds at a Fortitude save (DC 16), the creature takes no damage and the wearer of the grim defender armor takes double damage.
-
-Caster Level: 7th; Prerequisites: Craft Magic Arms and Armor, shield other; Market Price: 11,350 gp.

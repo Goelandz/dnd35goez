@@ -1,5 +1,0 @@
-This melee weapon bestows one negative level each time it deals damage normally. When the wielder scores a critical hit with the weapon, it bestows two negative levels, and the wielder gains +1d8 temporary hit points and a +2 enhancement bonus to Strength. The temporary hit points and enhancement bonus fade after 1 hour.
-
-Caster Level: 17th; 
-Prerequisites: Craft Magic Arms and Armor, energy drain; 
-Market Price: +4 bonus.

@@ -1,3 +1,0 @@
-This completely translucent +1 dagger radiates cold and looks as if it is sculpted out of ice. Despite its appearance, the dagger is as resilient as normal steel until used to make a successful melee or ranged attack. The first successful attack made with a frost shard dagger causes it to explode in a burst of cold energy, dealing 3d6 points of cold damage to everyone within 5 feet of the target. All creatures other than the original target may attempt a Reflex save (DC 17) to take half damage. The frost shard dagger is destroyed after one successful attack.
-
-Caster Level: 3rd; Prerequisites: Craft Magic Arms and Armor, cone of cold; Market Price: 1,052 gp; Cost to Create: 677 gp + 30 XP

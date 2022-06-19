@@ -1,6 +1,0 @@
-This suit of armor, favored by eladrin spellcasters, becomes semi-incorporeal and translucent when donned. It also possesses a faint sunset-colored sheen. The twilight armor reduces the chance of arcane spell failure by –10%.
-
-Faint abjuration; 
-CL 5th; 
-Craft Magic Arms and Armor; 
-Price +1 bonus.

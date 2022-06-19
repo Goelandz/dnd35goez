@@ -1,7 +1,0 @@
-This ancestor of the guitar has a pear-shaped bowl and a distinctive bent neck with frets for fingering. Between four and eight strings stretch between the base of the bowl and the top of the neck. Lutes vary between 30 and 36 inches in length, with the bowl taking up some two-thirds of that total. The musician either strums or plucks the strings to produce music.
-
- A highly versatile instrument because of its wide range of notes and inflection, the lute is accessible to the beginner but capable of great subtlety in the hands of a master. The deep bowl gives it a rich, full sound unlike that of any other stringed instrument. It is by far the most popular instrument with bards, especially half-elf and human ones.
-
-Bardic Music: A bard playing a lute is treated as one level higher for the purpose of adjudicating the power of his bardic music effects. For example, a 3rd-level bard using a lute could fascinate two creatures instead of one, a 6th-level bard using a lute to make a suggestion would calculate the save DC as if he were 7th level, and a 7th-level bard using a lute to inspire courage would grant a +2 morale bonus on the appropriate rolls.
-
- A bard who uses a lute for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components. 

@@ -1,9 +1,0 @@
-Helms of the Purple Plume were originally given as trophies to the winners of jousting tourneys among Heironeous’s followers, but they have since been passed from noble knight to brave squire through the centuries. A helm of the purple plume gives its wearer a +2 bonus to Charisma. Not only is the wearer of the helm immune to fear, but exposure to fear emboldens him further. Whenever the wearer is subject to a fear effect, he instead receives the benefit of a heroism spell for 10 minutes.
-
-To use this relic, you must worship Heironeous and either sacrifi ce a 5th-level divine spell slot or have the True Believer feat and at least 9 HD.
-
-Moderate abjuration; 
-CL 10th; 
-Sanctify Relic, Craft Wondrous Item, heroism, creator must worship Heironeous;
-Price 22,000 gp; 
-Weight 4 lb.

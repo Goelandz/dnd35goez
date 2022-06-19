@@ -1,9 +1,0 @@
-If reared from the egg, knowing no other life, a dragon consents to training. After birth, no amount of Handle Animal skill can convince a dragon to serve as a mount; Diplomacy is the only way to convince a dragon to serve another creature.
-
-It can be several years before a dragon raised from birth is large enough to ride. Every time the dragon advances to a new age category, a trainer must reassert her dominance by making a new Handle Animal check for every trick she has taught her dragon, opposed by the dragon’s Sense Motive check. Even young dragons are strong-willed; if a dragon wins the opposed check, it never performs that trick again.
-
-Dragons are born more intelligent than some people. Any dragon older than a wyrmling almost certainly has its own motives for allowing itself to be ridden, even if it is held in check by training. A dragon rider is best served by treating the mount as a partner, rather than a servant. The best way to display respect for a dragon is, of course, with treasure.
-
-Smart dragon riders provide their mounts with a lair appropriate to their age category and treasure equal to 1,000 gp per Hit Die of the dragon. This is a good starting point, though the personality of the dragon and the power of the rider determine if more must be done to cement the relationship.
-
-Carrying capacities vary widely depending on the age and type of dragon. Handle Animal check DCs are equal to 25 + the dragon’s HD; Diplomacy check DCs can only be determined by the situation. The price for an egg begins at 10,000 gp and goes up depending on the buyer. There is no “open market” for dragon eggs. The training cost is widely variable, but never less than 5,000 gp. Dragons can never be domesticated.

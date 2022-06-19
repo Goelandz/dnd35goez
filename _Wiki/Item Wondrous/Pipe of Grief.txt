@@ -1,6 +1,0 @@
-This long smoking pipe, when filled with tobacco and lighted, can create a single 5-foot-radius cloud that remains for 3d8 minutes, once per day. The cloud stays in place for the duration unless acted on by a magical force such as a gust of wind. Anyone within the cloud except the user must succeed at a Will save (DC 17) or take a –4 morale penalty on attack rolls, saving throws, skill checks, and ability checks for 10 rounds.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, wave of grief; 
-Market Price: 3,000 gp; 
-Weight: 1 lb.

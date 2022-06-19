@@ -1,6 +1,0 @@
-Groups that worship deities dedicated to the concepts of Law and Chaos also create water that mimics the effect of holy or unholy water. Lawful water is identified by its utter stillness, while chaotic water constantly bubbles and froths.
-
-Lawful water damages chaotic outsiders almost as if it were acid. Typically, a flask of lawful water deals 2d4 points of damage to a chaotic outsider on a direct hit or 1 point of damage if it splashes such a creature. In addition, lawful water is considered blessed, which means it has special effects against certain creatures. A flash of lawful water can be thrown as a
-grenadelike weapon (see Grenadelike Weapon Attacks in Chapter 8 of the Player’s Handbook). A flask breaks if thrown against the body of a corporeal creature, but against an incorporeal creature, the flask must be opened and the lawful water poured onto it. Thus, you can douse an incorporeal creature with lawful water only if you are adjacent to it. Doing so is a ranged touch attack that does not provoke attacks of opportunity.
-
-Chaotic water is identical to lawful water, except that it affects lawful outsiders

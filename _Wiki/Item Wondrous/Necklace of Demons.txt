@@ -1,6 +1,0 @@
-This necklace has eight small black spheres attached to it that can be easily removed (a move-equivalent action). When removed from the necklace and tossed upon the ground (or any hard surface), the sphere shatters, summoning a demon that remains for 10 rounds. Different spheres summon different kinds of demons. Two of the spheres summon 2d4 dretches, two summon 1 quasit each, one summons 1 succubus, two summon 1 vrock each, and one summons 1 hezrou.
-
-Caster Level: 17th; 
-Prerequisites: Craft Wondrous Item, summon monster IX; 
-Market Price: 28,500 gp; 
-Weight: 1 lb.

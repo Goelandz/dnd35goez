@@ -1,6 +1,0 @@
-As a move-equivalent action that does not provoke an attack of opportunity, the wielder can transform this +2/+2 two-bladed sword into two +1 longswords. Recombining the swords is also a move-equivalent action. Both halves of the sword of versatility function exactly like normal +1 longswords when separated from each other.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, make whole, shatter; 
-Market Price: 36,700 gp; 
-Cost to Create: 18,700 gp + 1,440 XP.

@@ -1,6 +1,0 @@
-This +1 dagger adds a +3 competence bonus on Knowledge (religion) checks required when a sacrifice is made with the knife.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, bless; 
-Market Price: 3,305 gp; 
-Weight: 1 lb.

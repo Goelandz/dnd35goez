@@ -1,4 +1,0 @@
-A fullblade is 18 inches longer than a greatsword and is too large for a Medium-size creature to use with two hands without special training; thus, it is an exotic weapon. (Medium-size creatures cannot use a fullblade one-handed at all.)
-
-A Large creature could use the fullblade with one hand, but it would be assessed the standard –4 nonproficiency penalty on its attack rolls; Large creatures can use the fullblade in two hands as a martial weapon. A Large creature with the Exotic Weapon
-Proficiency (fullblade) feat can use the fullblade in one hand, but a Medium-size creature must use both hands even if it has the relevant feat. A fullblade is also called an ogre’s greatsword

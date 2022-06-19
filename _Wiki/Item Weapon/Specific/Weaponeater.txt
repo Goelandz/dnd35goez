@@ -1,6 +1,0 @@
-This +3 club can cause most metal weapons to instantly rust away. In order to activate the rusting ability, the wielder of a weaponeater must attack his opponent’s weapon. Unless the wielder has the Sunder feat, this provokes an attack of opportunity from the target. If the wielder succeeds in striking a metal weapon in this manner, the target must succeed on a Fortitude save (DC 16) or the struck weapon instantly crumbles to dust. Magic weapons struck in this manner provide a bonus equivalent to their enhancement bonus on their wielder’s saving throw. After 50 uses of the rusting ability, a weaponeater crumbles to dust itself.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, rusting grasp; 
-Market Price: 58,300 gp; 
-Cost to Create: 29,300 gp + 2,320 XP.

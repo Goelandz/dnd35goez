@@ -1,4 +1,0 @@
-This thin blue liquid temporarily loosens the imbiber’s muscles and joints, allowing her to run faster and jump farther. When running, a character under the effect of fleetfoot moves at five times her speed. The effect lasts for 10 rounds + 1 round per point of Constitution modifier. The effects of fleetfoot stack with the Run feat, allowing a character to run at six times her speed and jump half again as far as normal with a running jump. Fleetfoot does not grant a character the ability to exceed her maximum jump distance.
-
-DC To Create	25
-Cost		50 gp

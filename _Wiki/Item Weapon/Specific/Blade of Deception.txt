@@ -1,5 +1,0 @@
-The flat steel blade of this +3 rapier is hard to follow in combat. Any time the wielder uses the Bluff skill to feint in combat while wielding the blade of deception, the blade provides a +2 enhancement bonus on the Bluff check. The blade of deception provides no bonus on other Bluff checks. In addition, any time a feint is successful in combat, the wielder can move freely without provoking attacks of opportunity from the target of the feint. Anyone not the target of the feint may take attacks of opportunity against the wielder normally.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, blur; 
-Market Price: 19,820 gp; Cost to Create: 10,070 gp + 780 XP.

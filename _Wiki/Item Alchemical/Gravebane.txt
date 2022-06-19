@@ -1,4 +1,0 @@
-This thick white liquid evaporates almost instantly upon contact with air, creating a thin, nearly invisible smoke. The smoke is nearly odorless, and is has no effect on most creatures. Undead, however, are repulsed by the smoke and can only pass through it with an effort of will. When opened (usually by throwing it on the ground), a flask of gravebane fills a 5-foot-square area with smoke. Undead cannot enter an area filled with gravebane smoke unless they succeed on a Will save (DC 10). Undead can attack into a gravebane-filled area normally as long as they don’t enter the area to do so. Gravebane ordinarily lasts for 1 minute, although strong winds may decrease this duration.
-
-DC To Create	25
-Cost		50 gp

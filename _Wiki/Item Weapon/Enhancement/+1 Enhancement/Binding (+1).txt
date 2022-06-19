@@ -1,5 +1,0 @@
-This weapon prevents extradimensional movement by those it hits. Once per day, the wielder of a binding weapon may make a binding strike. On a successful attack, the target of the binding strike cannot move extradimensionally by any means, as though affected by the dimensional anchor spell. This effect lasts for 13 minutes. If the attack misses, the binding strike for that day is wasted.
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, dimensional anchor; 
-Market Price: +1 bonus

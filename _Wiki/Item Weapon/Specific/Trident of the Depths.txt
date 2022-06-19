@@ -1,6 +1,0 @@
-This +1 trident allows its wielder to move through water with ease. While holding a trident of the depths, the wielder can swim at a speed of 30 feet. When submerged in water of any kind, the trident gains an additional +1 bonus on attack and damage. When submerged in ocean water, this bonus increases to +2; the bonus for being underwater stacks with the trident’s enhancement bonus.
-
-Caster Level: 6th; 
-Prerequisites: Craft Magic Arms and Armor, water walk; 
-Market Price: 8,315 gp; 
-Cost to Create: 4,315 gp + 320 XP.

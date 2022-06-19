@@ -1,4 +1,0 @@
-This thin, light blue oil burns with a blue flame and illuminates a wide area. When used in a lantern, farflame oil sheds light in a 40-foot radius. In a bullseye lantern, it illuminates a cone 80 feet long and 25 feet wide. A pint of farflame oil fuels a lantern for 3 hours. A pint of farflame oil covers a 5-foot square area if poured on the ground. If lit, farflame oil burns for 1 round and deals 1d4 points of damage to each creature in the area.
-
-DC To Create	15
-Cost		2 gp

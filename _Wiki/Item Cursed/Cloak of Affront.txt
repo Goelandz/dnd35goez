@@ -1,6 +1,0 @@
-This handsomely tailored cloak appears to be a cloak of Charisma +6 and actually functions as such until the wearer attempts a Bluff or Diplomacy check. At that moment and thereafter, the cloak imposes a –6 penalty on the wearer’s Charisma and makes his personality coarse and grating. Once the curse is activated, a cloak of affront can be removed only by means of a remove curse spell.
-
-Caster Level: 16th; 
-Prerequisites: Craft Wondrous Item, charm monster, bestow curse; 
-Market Price: 1,300 gp; 
-Weight: 1 lb.

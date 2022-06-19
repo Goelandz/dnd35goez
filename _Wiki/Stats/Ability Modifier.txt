@@ -1,2 +1,0 @@
-Ability Modifier
-The bonus or penalty associated with a particular ability score. Ability modifiers apply to die rolls for character actions involving the corresponding abilities.

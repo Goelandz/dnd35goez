@@ -1,7 +1,0 @@
-This black silk robe is embroidered with adamantine thread in an elegant waterfall pattern. It confers a +9 armor bonus to its wearer, and once per day can be commanded to create a blade barrier as a full-round action. The spell produces a ringed wall of whirling blades only (20 feet high, up to 90 feet in diameter, centered on the wearer’s current location), which lasts for 18 minutes or until dismissed as a standard action. As long as Dyrr’s impervious vestment is worn, the wearer is able to pass through the barrier without harm, though he receives no such protection against any other blade barrier.
-
- Strong abjuration; 
-CL 18th; 
-Craft Wondrous Item, blade barrier, mage armor; 
-Price 123,000 gp; 
-Weight 3 lb

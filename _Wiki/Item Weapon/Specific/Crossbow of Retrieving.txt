@@ -1,6 +1,0 @@
-This +2 hand crossbow has a cleverly carved stock that resembles a beckoning hand. Any inanimate object struck by a bolt from a crossbow of retrieving is affected by a mage hand spell. See Attack an Object in Chapter 8 of the Player’s Handbook for rules on attacking inanimate objects.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, mage hand or telekinesis; 
-Market Price: 13,400 gp; 
-Cost to Create: 6,900 gp + 520 XP

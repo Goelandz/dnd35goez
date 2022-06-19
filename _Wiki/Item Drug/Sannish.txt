@@ -1,9 +1,0 @@
-A bluish liquid distilled from wolves’ milk and a powdered desert plant, this concoction is very popular. Addicts are easily found by the permanent blue stains on their lips.
-
-Initial Effect: 1 point of Wisdom damage.
-
-Secondary Effect: The user becomes numbed to pain for 1d4 hours, immune to pain-induced penalties (such as from a symbol of pain). 
-
-Side Effects: Sannish causes euphoria. While the drug is in effect, the user takes a –2 penalty on all initiative checks.
-
-Overdose: A second dose taken while the first dose is still in effect causes a numbing stupor for 2d4 hours. The user can only take partial actions until the stupor wears off.

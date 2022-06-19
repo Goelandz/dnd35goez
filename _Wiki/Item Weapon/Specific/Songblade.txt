@@ -1,6 +1,0 @@
-Every move made with this +1 rapier fills the air with sweet sounds. While holding songblade unsheathed, the sword’s wielder gains a +2 enhancement bonus on Perform checks. A bard wielding the songblade may use his bardic music abilities one additional time per day. The blade is scored in a beautiful, intricate pattern, and air moving across this magic etching generates the music of the songblade. Thus, the blade’s musical qualities do not function underwater, in a vacuum, or in other environments where air cannot freely pass over the blade.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, creator must have the bardic music ability, sculpt sound; 
-Market Price: 6,400 gp; 
-Cost to Create: 3,360 gp + 243 XP

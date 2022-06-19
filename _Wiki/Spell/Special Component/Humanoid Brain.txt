@@ -1,1 +1,0 @@
-A spell that this component is applied to has a 50% chance to have its range doubled. The brain must be intact and fresh (or preserved).

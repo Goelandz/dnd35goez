@@ -1,6 +1,0 @@
-This replicates the effect of the bless weapon spell, but it is permanent and always in effect. The weapon becomes good, which means it can bypass the damage reduction of certain creatures, particularly evil outsiders. Furthermore, all critical hit rolls against evil foes are automatically successful, so every threat is a critical hit. This last effect does not apply to any weapon that already has a magical effect related to critical hits, such as a keen weapon or vorpal weapon.
-
-Faint transmutation; 
-CL 5th; 
-Craft Magic Arms and Armor, bless weapon; 
-Price +1 bonus. 

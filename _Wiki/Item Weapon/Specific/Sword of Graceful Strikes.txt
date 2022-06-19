@@ -1,6 +1,0 @@
-This +3 short sword allows graceful wielders to deal extra damage based on agility, not brute force. All melee attacks made with the sword of graceful strikes add the wielder’s Dexterity modifier to damage rather than his Strength modifier. Furthermore, an unsuccessful disarm attempt made with the sword of graceful strikes does not allow the target a chance to disarm the wielder.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, Tenser’s transformation; 
-Market Price: 72,310 gp; 
-Cost to Create: 36,310 gp + 2,880 XP

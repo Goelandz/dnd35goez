@@ -1,7 +1,0 @@
-Highly prized by many arcane spellcasters, a skillful weapon can be wielded without penalty by a character not normally profi cient with it. In addition, the wielder’s base attack bonus improves to a minimum of 3/4 his level (as a cleric of the same character level) when he attacks with a skillful weapon, though he gains no such bonus with any other weapon, even if a skillful weapon is wielded at the same time.
-
- The skillful special ability can be added only to melee weapons.
-
- Moderate transmutation; 
-CL 11th; Craft Magic Arms and Armor, Tenser’s transformation; 
-Price +2 bonus.

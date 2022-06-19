@@ -1,6 +1,0 @@
-This +3 dwarven waraxe, usually created by duergar smiths, utterly consumes the physical form of any living creature it slays, requiring a true resurrection spell to bring the creature back to life (raise dead and resurrection will not work).
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, charnel fire; 
-Market Price: 108,330 gp; 
-Weight: 15 lb.

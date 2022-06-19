@@ -1,6 +1,0 @@
-The magical properties of this +2 eager ranseur make it a deadly tool against charging foes. Any time the wielder gets an attack of opportunity against a charging foe, he may make that attack as if he had readied an action to set the ranseur against the charge. Attacks set in this manner deal double damage to charging foes. Anytime the wielder readies a ranseur of readiness against a charging foe, any attacks of opportunity triggered by that foe are also resolved normally. This ability does not allow the wielder to make two double-damage attacks against one charging attacker in the same round.
-
-Caster Level: 8th; 
-Prerequisites: Craft Magic Arms and Armor, cat’s grace, haste; 
-Market Price: 50,310 gp; 
-Cost to Create: 25,310 gp + 2,000 XP.

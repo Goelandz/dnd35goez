@@ -1,1 +1,0 @@
-A blowgun dart resembles a lightweight, undersized arrow. You don’t apply your Strength modifi er to damage with a blowgun dart. A blowgun dart can’t effectively be used as a melee weapon. Blowgun darts come in a leather pouch that holds 10 darts. A dart that hits its target is destroyed; one that misses has a 50% chance to be destroyed or lost

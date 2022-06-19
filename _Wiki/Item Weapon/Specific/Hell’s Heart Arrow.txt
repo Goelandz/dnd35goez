@@ -1,5 +1,0 @@
-This +1 arrow, once fired, passes through creatures of evil alignment. Such creatures offer no cover bonus, nor do they count when determining whether the archer firing into a melee must take the –4 penalty. 
-
-Caster Level: 1st; 
-Prerequisites: Craft Magic Arms and Armor, detect evil; 
-Market Price: 60 gp.

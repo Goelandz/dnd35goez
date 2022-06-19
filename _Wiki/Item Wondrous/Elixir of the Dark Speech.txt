@@ -1,6 +1,0 @@
-This allows the imbiber to speak and understand the Dark Speech as if he possessed the feat of the same name. This elixir deals 1 point of Strength damage when used. The speech effect lasts for 10 minutes.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, dread word; 
-Market Price: 750 gp; 
-Weight: 1 lb.

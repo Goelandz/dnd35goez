@@ -1,4 +1,0 @@
-Kama
-The kama is a special monk weapon. This designation gives a monk wielding a kama special options.
-
-You can use a kama to make trip attacks. If you are tripped during your own trip attempt, you can drop the kama to avoid being tripped.

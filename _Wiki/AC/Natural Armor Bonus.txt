@@ -1,2 +1,0 @@
-Natural Armor Bonus
-A natural armor bonus improves Armor Class resulting from a creature's naturally tough hide. Natural armor bonuses stack with all other bonuses to Armor Class (even with armor bonuses) except other natural armor bonuses. Some magical effects (such as the barkskin spell) grant an enhancement bonus to the creature's existing natural armor bonus, which has the effect of increasing the natural armor's overall bonus to Armor Class. A natural armor bonus doesn't apply against touch attacks.

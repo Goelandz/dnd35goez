@@ -1,7 +1,0 @@
-Essentially a smaller version of the lute, a mandolin is usually between 20 inches and 2 feet long. It has a straighter neck than the lute—the end at which the pegs secure the strings tilts back only slightly, if at all. The mandolin is unusual for the number of strings it holds—from four to six pairs (eight to twelve strings total) or even more. A mandolin is typically played with a pick, both to protect the musician’s fingers and because the strings are too close together to pluck accurately by hand.
-
-The mandolin has a sweeter sound than the lute and, because of its shorter strings, a higher pitch as well. Its great range of tone and expression have made it a favorite of gnomes and halflings, who champion it as superior even to the lute.
-
-Bardic Music: When a bard uses a mandolin to inspire courage, the morale bonus on attack rolls increases by 1, but the morale bonus on weapon damage rolls and on saves against charm and fear is reduced by 1.
-
- A bard who uses a mandolin for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components. 

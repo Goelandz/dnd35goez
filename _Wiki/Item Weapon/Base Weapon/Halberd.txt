@@ -1,4 +1,0 @@
-Halberd
-If you use a ready action to set a halberd against a charge, you deal double damage on a successful hit against a charging character.
-
-You can use a halberd to make trip attacks. If you are tripped during your own trip attempt, you can drop the halberd to avoid being tripped.

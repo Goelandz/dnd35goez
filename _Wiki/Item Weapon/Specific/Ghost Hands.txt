@@ -1,6 +1,0 @@
-These roughly wrought iron gauntlets remain a dull, dark gray regardless of how often they are polished. Despite their crude appearance, ghost handsare a surprisingly light pair of +1 ghost touch gauntlets. While wearing ghost hands, the wielder is immune to the magic jarspell and a ghost’s malevolence ability. Ghost hands provide a +1 enhancement bonus on attack and damage rolls but attacks with them are still considered unarmed for purposes of provoking attacks of opportunity.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, plane shift, protection from evil; 
-Market Price: 18,302 gp; 
-Cost to Create: 9,302 gp + 720 XP 

@@ -1,6 +1,0 @@
-On command, this +2 longbow radiates light out to 60 feet as the daylight spell. Furthermore, every arrow shot from the bow of radiance sheds light as the spell. There is no limit to the amount of time that the bow itself can radiate light, but the light shed by an arrow shot from the bow lasts only 10 minutes.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, light, daylight; 
-Market Price: 40,375 gp; 
-Cost to Create: 20,375 + 1,600 XP.

@@ -1,9 +1,0 @@
-This brightly glowing holy symbol of Pelor is mentioned in many religious texts as “Pelor’s gift, which I carry into darkness—a sun that never sets.” It continuously emits a warm light equivalent to a daylight spell heightened to 5th level (the symbol must be covered completely to douse the light). On command three times per day, the shard of the sun blasts forth four beams of light that each deal 10d6 points of damage to undead, 5d6 points of damage to constructs and objects, and 5d8 points of damage to other creatures. Creatures particularly vulnerable to bright light, such as vampires, take 10d8 points of damage.
-
-To use this relic, you must worship Pelor and either sacrifi ce an 8th-level divine spell slot or have the True Believer feat and at least 15 HD.
-
-Moderate evocation; 
-CL 11th; 
-Sanctify Relic, Craft Wondrous Item, daylight, searing light, creator must worship Pelor;
-Price 73,280 gp; 
-Weight 1 lb.

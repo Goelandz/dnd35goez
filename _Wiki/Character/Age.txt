@@ -1,8 +1,0 @@
-Race 		Middle Age 	Old		Venerable	Maximum Age 
-Human 		35 years 	53 years 	70 years 	+2d20 years 
-Dwarf 		125 years 	188 years 	250 years 	+2d% years 
-Elf 		175 years 	263 years 	350 years 	+4d% years 
-Gnome 		100 years 	150 years 	200 years 	+3d% years 
-Half-elf 	62 years 	93 years 	125 years 	+3d20 years 
-Half-orc 	30 years 	45 years 	60 years 	+2d10 years 
-Halfling 	50 years 	75 years 	100 years 	+5d20 years

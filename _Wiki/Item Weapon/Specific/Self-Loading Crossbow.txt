@@ -1,6 +1,0 @@
-This +1 heavy crossbow is much easier to load than mundane crossbows. After firing, the crossbow’s string is magically reset to the cocked position, requiring the wielder to simply place a bolt in the weapon to load it. Loading a self-loading crossbow requires only a moveequivalent action.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, animate objects; 
-Market Price: 12,350 gp; 
-Cost to Create: 6,350 gp + 480 XP

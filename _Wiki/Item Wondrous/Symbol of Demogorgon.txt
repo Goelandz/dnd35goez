@@ -1,6 +1,0 @@
-This unholy symbol, dedicated to the Prince of Demons, is worn as an amulet. It provides a +2 enhancement bonus to Wisdom and allows the owner to cast rotting curse of Urfestra with no corruption cost. The caster must still prepare the spell normally; if he does not prepare spells, this aspect of the symbol cannot be used.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, rotting curse of Urfestra; 
-Market Price: 10,000 gp; 
-Weight: —.

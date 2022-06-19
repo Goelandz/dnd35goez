@@ -1,6 +1,0 @@
-The two thin hollows in this +2 light crossbow’s stock have a magical affinity with wands. The wielder of the deathwand crossbow is considered to be holding either of the wands when she wields the crossbow, and she can use either wand normally without letting go of the crossbow. Removing or stowing a wand in the crossbow takes a moveequivalent action. If the crossbow is destroyed, any wands it holds are also destroyed.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, Leomund’s secret chest; 
-Market Price: 10,335 gp; 
-Cost to Create: 5,335 gp + 400 XP

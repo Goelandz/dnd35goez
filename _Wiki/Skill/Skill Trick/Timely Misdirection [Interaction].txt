@@ -1,5 +1,0 @@
-You can divert an opponent’s attention to avoid its attacks.
-
-Prerequisite: Bluff 8 ranks.
-
-Benefit: If you succeed on a Bluff check to feint in combat (PH 68), your opponent can’t make any attacks of opportunity against you until the start of its next turn. This effect is in addition to the normal benefits of a successful feint.

@@ -1,5 +1,0 @@
-When the command word is spoken, this riding saddle leaps into the air and fastens itself around a phantom steed, as the spell cast by an 8th-level caster. If the steed is killed, the saddle cannot be reactivated for 24 hours.
-
-Caster Level: 8th; 
-Prerequisites: Craft Wondrous Item, phantom steed; 
-Market Price: 43,200 gp; Weight: 25 lb.

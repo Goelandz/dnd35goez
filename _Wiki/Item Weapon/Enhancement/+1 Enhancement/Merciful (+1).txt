@@ -1,5 +1,0 @@
-The weapon deals 1d6 points of bonus damage, and all damage it deals is subdual damage. On command, the weapon suppresses this ability until commanded to resume it. Bows, crossbows, and slings bestow the effect upon their ammunition.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, cure light wounds; 
-Market Price: +1 bonus

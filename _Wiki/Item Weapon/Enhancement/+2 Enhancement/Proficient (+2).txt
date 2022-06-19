@@ -1,5 +1,0 @@
-The wielder of a proficient weapon never takes a nonproficiency penalty when attacking with it.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, Tenser’s transformation; 
-Market Price: +2 bonus.

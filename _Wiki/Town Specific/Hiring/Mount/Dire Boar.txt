@@ -1,8 +1,0 @@
-Boar riders must pay close attention to their mounts in a fight. Due to its innate ferocity, a dire boar gives no indication that it is hurt or near death in combat. A rider caught up in his own battle can take an especially hard tumble when the mount falls beneath him, taking an extra 1d6 points of falling damage from being thrown by the boar’s sudden stop. 
-
-Dire boars are voracious omnivores and tear up the ground mercilessly in search of roots and grubs. As long as a boar stays aboveground near decent-sized vegetation, its master doesn’t even need to pack food. The mount simply forages for what it needs.
-
-Carrying Capacity: Light 1,038 lb., medium 2,076 lb., heavy 3,120 lb.; 
-DC Young/Adult: 20/27; 
-Young Price: 400 gp; 
-Training Cost: 75 gp.

@@ -1,2 +1,0 @@
-Luck Modifier
-A luck modifier represents good (or bad) fortune. Multiple luck bonuses on the same character or object do not stack. Only the highest luck bonus applies.

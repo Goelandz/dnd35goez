@@ -1,6 +1,0 @@
-These +1 bolts are constantly coated with a thin film of oil or grease. They leave a thin, oily residue wherever they lie, and even the fletching seems soaked in oil. Any target hit by a bolt of freedom is covered with a thin layer of grease. This coating grants a +10 bonus on Escape Artist checks and on grapple checks made to escape a grapple. A creature so coated takes a –10 penalty on grapple checks made to hold another creature. The effect lasts for 1d4 rounds.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, grease; 
-Market Price: 247 gp; 
-Cost to Create: 127 gp + 10 XP

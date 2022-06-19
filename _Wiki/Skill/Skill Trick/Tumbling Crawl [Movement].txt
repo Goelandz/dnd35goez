@@ -1,5 +1,0 @@
-You can safely roll away from danger.
-
-Prerequisite: Tumble 5 ranks.
-
-Benefit: By succeeding on a DC 15 Tumble check, you can crawl 5 feet as a move action without provoking attacks of opportunity. Crawling normally provokes attacks of opportunity from any attackers who threaten you at any point during your crawl (PH 142).

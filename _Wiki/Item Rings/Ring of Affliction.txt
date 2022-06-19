@@ -1,7 +1,0 @@
-This mithral ring is shaped like a beautiful feathered serpent. Any natural or unarmed attack made by the ring’s wearer forces the target to succeed on a DC 17 Fortitude save or succumb to an affliction of the ring wearer’s choice (see the affliction spell description for more information).
-
-Strong necromancy [good]; 
-CL 12th; 
-Forge Ring, affliction, creator must be good; 
-Price 72,000 gp; 
-Cost to Create 36,000 gp + 2,880 gp.

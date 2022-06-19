@@ -1,6 +1,0 @@
-The magical properties imbued in this +2 morningstar grant the wielder tremendous benefits if she is victorious in combat. Whenever a successful hit from the morningstar of exhilaration drops a foe below 0 hit points, the wielder gains 6 temporary hit points and a +1 morale bonus on attack rolls and saving throws. The temporary hit points and morale bonus last for 10 rounds. Repeat triggering of this power does not stack.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, aid, bless; 
-Market Price: 28,308 gp; 
-Cost to Create: 14,308 gp + 1,120 XP

@@ -1,6 +1,0 @@
-Also called the coward’s sword, this +3 longsword grants its wielder a better chance to avoid mishaps of all kinds. Whenever the wielder takes the total defense action while holding the sword of avoidance, he gains a +4 luck bonus to AC and on all saving throws. This bonus lasts until the beginning of the wielder’s next turn.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, bless; 
-Market Price: 38,315 gp; 
-Cost to Create: 19,315 gp + 1,520 XP

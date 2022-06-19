@@ -1,6 +1,0 @@
-This dark leather helm has an open face and sports a pair of impressive deer antlers that rise from the forehead. When worn, the antlers join solidly with the wearer’s skull. The wearer’s base speed is doubled, and the horned helm grants a +2 enhancement bonus on melee attacks with the horns, which deal 1d8 points of damage.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, haste, magic fang; 
-Market Price: 38,000 gp; 
-Weight: 1 lb.

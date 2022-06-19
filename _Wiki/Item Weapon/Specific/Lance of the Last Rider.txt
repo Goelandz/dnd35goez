@@ -1,7 +1,0 @@
-Whenever the wielder of this +1 lance charges a mounted foe from the back of a steed, the weapon allows a free bull rush attempt on a successful hit. If the bull rush attempt succeeds, the enemy rider moves back, but the enemy’s mount stays where it is.
-
- Faint transmutation; 
-CL 5th; 
-Craft Magic Arms and Armor, bull’s strength; 
-Price 8,306 gp; 
-Cost 4,306 gp + 320 XP.

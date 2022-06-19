@@ -1,7 +1,0 @@
-This standard functions as a standard of courage, except that the standard bearer and any allies within 30 feet of the item gain a +2 morale bonus on attack rolls, saves, and skill checks.
-
- Faint enchantment and abjuration; 
-CL 5th; 
-Craft Wondrous Item, heroism, remove fear; 
-Price 40,000 gp; 
-Weight 1 lb.

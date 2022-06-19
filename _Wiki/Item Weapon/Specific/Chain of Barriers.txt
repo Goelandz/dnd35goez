@@ -1,6 +1,0 @@
-This item is a +1 spiked chain. When commanded with the proper word, however, it expands to become a wall of chains. With a second command word, the chain of barriers reverts to weapon form.
-
-Caster Level: 5th; 
-Prerequisites: Craft Magic Arms and Armor, wall of chains; 
-Market Price: 29,325 gp; 
-Weight: 15 lb.

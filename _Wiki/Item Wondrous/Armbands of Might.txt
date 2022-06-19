@@ -1,8 +1,0 @@
-These bronze armbands grant their wearer a +2 bonus on Strength checks and Strengthbased skill checks. If the wearer has the Power Attack feat, he gains a +2 bonus on melee damage rolls on any attack on which he uses the Power Attack feat and takes a penalty of at least –2 on his attack roll.
-
- Armbands occupy the same space on the body as a pair of bracers or bracelets.
-
- Faint transmutation; 
-CL 3rd; 
-Craft Wondrous Item, bull’s strength; 
-Price 4,100 gp.

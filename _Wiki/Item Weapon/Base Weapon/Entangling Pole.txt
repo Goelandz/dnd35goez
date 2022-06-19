@@ -1,9 +1,0 @@
-The entangling pole is a highly specialized weapon, used to catch and entangle an opponent without causing great harm. It is normally used to hook and catch the clothing of an opponent. When you use an entangling pole in this way, you make a grapple attack without provoking an attack of opportunity. You make a melee touch attack with the weapon to “grab” the target’s clothing. This attack does not work against a character in heavy armor, or against most monsters that do not wear clothing (though it does work against a monster with shaggy fur). If the touch attack is successful, you make an opposed grapple check, using the size modifier for the entanglingpole (+4 for a two-handed weapon) instead of your own
-size. If you win the opposed check, you have a hold on the target, but you do not deal any damage. If you lose, you fail to start the grapple.
-
-To maintain the grapple, you do not need to move into your opponent’s space. The entangling pole holds your opponent 10 feet away from you. While you maintain the grapple, you do not have the option to damage or pin your opponent. Your opponent can try to escape or wriggle free, attack with a light weapon, or cast a spell with no somatic components and a casting time of 1 standard action.
-
-An entangling pole can also be used as a normal weapon, dealing the damage shown on Table 3–1 but not entangling the
-opponent. 
-
-An entangling pole has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.

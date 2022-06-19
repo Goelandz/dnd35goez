@@ -1,6 +1,0 @@
-Hydras are insanely difficult to train, more so than even an experienced trainer might guess. Each head must be trained independently, and untrained heads do not wait patiently for their turns. Trainers must use aggressive magical aid to even begin the training process; a spellcaster can make a decent living just casting charm monster every few days to keep the other heads docile while the trainer works with a single head. Training the largest hydras can take years, and failed Handle Animal checks can be disastrous. For this reason, any trainer who consents to even attempt this task usually refuses to train a hydra with more than five or six heads.
-
-Carrying Capacity: Light 516 lb., medium 1,038 lb., heavy 1,560 lb.; 
-DC Young/Adult: 23/30 (five heads), 24/31 (six heads); 
-Egg Price: 4,000 gp (five heads), 4,500 gp (six heads); 
-Training Cost: 1,500 gp per head, 2,000 gp per head (pyrohydra or cryohydra).

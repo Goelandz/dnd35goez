@@ -1,7 +1,0 @@
-Every time this weapon deals damage to a creature with blood, it gains 1 blood point. When the weapon has 5 blood points, it can deal an additional 1 point of damage at the user’s behest (spending the blood points).
-
-The weapon can store up to 50 blood points, allowing an additional 10 points of damage, usable all at once or divided up over a number of attacks.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, vampiric touch; 
-Market Price: +1 bonus.

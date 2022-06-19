@@ -1,6 +1,0 @@
-This dangerous magic weapon becomes a bolt of chain lightning when thrown. The character who throws the javelin chooses the primary target, but the secondary bolts arc to the nearest eleven creatures within 30 feet of the target. The thrower has no control over the secondary bolts. The primary bolt deals 11d6 points of damage to the target (Reflex half DC 19) and 5d6 points of damage to secondary targets (half with a successful save). The javelin is consumed in the attack.
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, chain lightning; 
-Market Price: 3,301 gp; 
-Cost to Create: 1,651 gp + 132 XP.

@@ -1,7 +1,0 @@
-These items usually resemble two lumps of unworked stone. Once per day, each stone in a pair can send a message (as the sending spell) to the bearer of the other stone. If the stone’s mate is not in a creature’s possession, no message is sent and the user knows the message did not go through. If either stone in a pair is destroyed, its mate becomes useless.
-
- Moderate evocation; 
-CL 7th; 
-Craft Wondrous Item, sending; 
-Price 15,000 gp (pair); 
-Weight 1 lb.

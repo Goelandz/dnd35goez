@@ -1,2 +1,0 @@
-Sacred Modifier
-A sacred bonus (or penalty) stems from the power of good. Multiple sacred bonuses on the same character or object do not stack. Only the highest sacred bonus applies.

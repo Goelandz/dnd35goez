@@ -1,6 +1,0 @@
-The narrow end of this +3 longsword’s hilt fits a magic ring perfectly. While holding the ringsword, the wielder gains the benefit of the ring held on its hilt without compromising her ability to wear a magic ring on each hand. Only one magic ring may be attached to the sword at a time. Removing or attaching a ring to the ringsword is a move-equivalent action that does not provoke an attack of opportunity.
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, animate objects; 
-Market Price: 22,315 gp; 
-Cost to Create: 11,315 gp + 880 XP.

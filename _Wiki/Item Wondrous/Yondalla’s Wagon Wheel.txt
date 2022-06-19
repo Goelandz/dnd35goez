@@ -1,5 +1,0 @@
-Created by adepts of Yondalla, one of these small amulets is in the shape of a wagon wheel. Throwing it upon the ground and uttering a command word causes the wheel to grow into a normal-sized covered wagon. It can remain in that form indefinitely, until the command word is uttered again. Once per day, the amulet (in wagon form only) can create Leomund’s secure shelter as the spell from a 9th-level caster. The shelter’s outside appearance blends in perfectly with the exterior of the wagon, so it is not possible to tell that the spell is in effect until someone steps inside. When the spell effect ends, the wagon remains.
-
-Caster Level: 9th; 
-Prerequisites: Craft Wondrous Item, Leomund’s secure shelter, major creation, reduce;
-Market Price: 92,880 gp; Weight: 1 lb.

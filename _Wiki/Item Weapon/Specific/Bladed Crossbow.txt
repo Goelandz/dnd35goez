@@ -1,6 +1,0 @@
-This +2 heavy crossbow is magically strengthened and fitted with sharp metal blades. In addition to functioning as a normal +2 heavy crossbow, the bladed crossbow can be used as a melee weapon with a +2 enhancement bonus that deals 1d8+2 points of damage (critical ×2). Unless the wielder takes the Exotic Weapon Proficiency (bladed crossbow) feat, melee attacks made with the weapon incur the–4 nonproficiency penalty. 
-
-Caster Level: 9th; 
-Prerequisites: Craft Magic Arms and Armor, blade barrier; 
-Market Price: 32,350 gp; 
-Cost to Create: 16,350 gp + 1,280 XP.

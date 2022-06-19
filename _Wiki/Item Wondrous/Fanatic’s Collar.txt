@@ -1,6 +1,0 @@
-When worn by a willing creature, this spiked iron collar allows the wearer to choose another creature to dominate it, as the spell dominate monster. 
-
-Caster Level: 17th; 
-Prerequisites: Craft Wondrous Item, dominate monster; 
-Market Price: 30,000 gp; 
-Weight: 2 lb

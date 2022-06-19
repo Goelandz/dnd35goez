@@ -1,4 +1,0 @@
-This armor or shield always appears brilliant and gleaming, no matter what the conditions and despite all attempts to paint over or obscure it. Coveted by military leaders of all sorts, it carries a powerful aura that grants a +4 competence bonus on Charisma-based skill checks and reaction checks. Furthermore, all allies within 30 feet of the wearer of the armor or shield get a +2 morale bonus on Will saves. Command armor and command shields make their owners very noticeable, imposing a –6 penalty on Hide checks.
-
-Caster Level: 5th; Prerequisites: Craft Magic Arms and Armor, 5 levels of spellcasting ability; 
-Market Price: +2 bonus.

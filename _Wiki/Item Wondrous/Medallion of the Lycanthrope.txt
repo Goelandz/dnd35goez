@@ -1,6 +1,0 @@
-Found in lands where lycanthropy is an epidemic, these medallions grant powerful protection. Once per day, the medallion can cast antipathy against lycanthropes as the spell from a 15th-level caster. In addition, any melee weapons carried by the wearer damage lycanthropes as though they were made of silver. Ranged weapons are not affected.
-
-Caster Level: 15th; 
-Prerequisites: Craft Wondrous Item, antipathy, magic weapon; 
-Market Price: 44,200 gp;
-Weight: —.

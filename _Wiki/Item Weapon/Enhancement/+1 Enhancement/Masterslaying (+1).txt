@@ -1,5 +1,0 @@
-This melee weapon comes with a scabbard, belt hook, or other holder that is keyed to it in a special way. At the command of the character wearing the scabbard, the weapon attacks its current wielder with the scabbard wearer’s attack bonus, and the wielder is considered flatfooted (no sneak attack is possible, even if the scabbard wearer is a rogue). If it hits, the masterslaying weapon deals critical hit damage. This weapon is useful against rogues, foes that enjoy disarming and grabbing weapons, and in conjunction with the fleshgrinding ability. 
-
-Caster Level: 11th; 
-Prerequisites: Craft Magic Arms and Armor, animate objects; 
-Market Price: +1 bonus.

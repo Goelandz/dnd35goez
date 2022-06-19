@@ -1,5 +1,0 @@
-You can use a whip as a grappling hook.
-
-Prerequisite: Use Rope 5 ranks, proficiency with the whip.
-
-Benefit: You can use a whip as a makeshift grappling hook, lashing it around a protrusion or other firm, weightbearing object in order to climb a wall or swing across a chasm. You make Climb checks using the whip as if it were a normal rope. Using this feat requires a Use Rope check as normal for securing a grappling hook (PH 86) but takes only a move action.

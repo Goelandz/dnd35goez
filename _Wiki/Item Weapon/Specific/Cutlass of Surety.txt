@@ -1,6 +1,0 @@
-The magical properties of this +2 shortsword make it impossible for the wielder to be disarmed. The sword grants no bonus on disarm attempts initiated by the wielder.
-
-Caster Level: 6th; 
-Prerequisites: Craft Magic Arms and Armor, magic weapon; 
-Market Price: 18,310 gp; 
-Cost to Create: 9,310 gp + 720 XP.

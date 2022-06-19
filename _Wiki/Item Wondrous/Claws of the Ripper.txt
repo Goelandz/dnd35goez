@@ -1,6 +1,0 @@
-These metal, scythelike blades are designed to fit over one set of a dragon’s claws, and they resize to fit any dragon of Large size or bigger. A dragon wearing claws of the ripper cannot also make use of a magic ring on that claw. When worn, claws of the ripper increase the damage dealt by the dragon’s claws on a critical hit, giving them a ×4 multiplier (like that of a scythe).
-
-Faint transmutation; 
-CL 6th; 
-Craft Ring; Price 2,000 gp;
-Weight 10 lb.

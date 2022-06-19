@@ -1,2 +1,0 @@
-This arrow is specially designed to emulate a bird’s call when fired. Elven fletchers craft the arrows to make calls that will be recognized as signals by the elves of the community. For example, a hawk’s cry might signal an attack, and an owl’s
-screech might signal a stealthy advance. A successful Wilderness Lore check (DC 20) determines whether the sound comes from a bird or another source. The intricate carving on the arrow shafts makes them clumsy in flight, imposing a –2 circumstance penalty on attack rolls.

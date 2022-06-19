@@ -1,6 +1,0 @@
-When thrown, this javelin becomes a disintegrator ray that functions as a disintegrate spell from a 15th-level caster. The wielder makes a touch attack using her normal ranged touch modifier to determine whether or not the ray hits. The javelin is consumed in the attack.
-
-Caster Level: 15th; 
-Prerequisites: Craft Magic Arms and Armor, disintegrate; 
-Market Price: 9,301 gp; 
-Cost to Create: 4,801 gp + 360 XP.

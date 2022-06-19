@@ -1,8 +1,0 @@
-This capsule holds a thick pale liquid that allows the user to shake off pain and distraction. Anyone using an ironman capsule while staggered can ignore the restrictions on the number of actions taken in a round because of the staggered condition (rather than being limited to one standard action). This benefit applies only to the round in which the capsule is used, and the effect ends immediately after the user has taken his actions for the round.
-
- For example, a staggered character with a capsule retainer can use the capsule at the beginning of his turn (a swift action) and then take a move action and a standard action.
-
- An ironman capsule does not prevent a character from losing a hit point if he is already at or below 0 hit points and does not prevent the user from dying if he reaches –10 hit points.
-
-DC To Create	20
-Cost		15 gp

@@ -1,3 +1,0 @@
-Porcupine elixir toughens the drinker’s skin, granting a +1 natural armor bonus. In addition, hundreds of needle-sharp quills sprout from the drinker’s body. These quills deal 1d6 points of piercing damage with a successful grapple attack. The quills sprout through light armor or hide armor, but heavier armors prevent the quills from growing. The effects last for 1 hour.
-
-Caster Level: 3rd; Prerequisites: Brew Potion, alter self, Alchemy skill; Market Price: 2,300 gp.

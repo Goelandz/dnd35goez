@@ -1,8 +1,0 @@
-Tired of hearing adventurers complain about not being able to start a fire in the middle of rainstorms or underground, an enterprising mage created the first of these handy devices for cooking food.
-
-This enclosed metal box easily fits in the palm of someone’s hand. It has two metal flaps on one end that pop open to reveal a continuously burning flame. The heat of the flame is equivalent to a torch, although the flame’s size (and the light it produces) is the same as a candle. The metal of the box remains slightly warm to the touch, whether the flaps are open or not.
-
-Caster Level: 3rd; 
-Prerequisites: Craft Wondrous Item, produce flame; 
-Market Price: 2,400 gp; 
-Weight: 1 lb.

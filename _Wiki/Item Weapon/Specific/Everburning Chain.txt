@@ -1,6 +1,0 @@
-On command, this +2 flaming spiked chain turns into a column of fire. Like other flaming weapons, the fire does not harm the wielder. As a standard action, the wielder can sweep the chain around her head, spreading flame in a 10-foot radius. This attack deals 1d6 points of damage to creatures within the area of effect (Reflex half DC 13) and can cause flammable materials to ignite. Trip attacks made with an everburning chain may ignite the target’s clothing if it is flammable.
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, burning hands, fireball; 
-Market Price: 22,725 gp; 
-Cost to Create: 11,525 gp + 896 XP.

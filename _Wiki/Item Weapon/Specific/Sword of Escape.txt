@@ -1,6 +1,0 @@
-This +2 short sword allows its user to escape almost any confining situation. For up to 10 rounds per day, the wielder can act normally regardless of magical effects that impede movement. This power is similar to the granted power of the Travel domain in that the effect occurs automatically as soon as it applies, lasts until it runs out or is no longer needed, and can operate multiple times per day up to the total daily limit of rounds. In addition, when used against a creature or object holding the wielder, the sword of escape grants an additional +1 bonus on attack and damage. The sword of escape can be used to attack in a grapple even if it is not a light weapon for the wielder (see Grapple in Chapter 8 of the Player’s Handbook).
-
-Caster Level: 10th; 
-Prerequisites: Craft Magic Arms and Armor, freedom of movement; 
-Market Price: 88,310 gp; 
-Cost to Create: 44,155 gp + 3,532 XP.

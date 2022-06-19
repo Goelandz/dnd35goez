@@ -1,5 +1,0 @@
-Armor or shields with this enchantment appear designed with beauty in mind as well as functionality. The design of the armor enhances the physical beauty of whoever wears it. An opponent who strikes the wearer of this armor or bearer of this shield must save against the appropriate charm spell (charm monster or charm person or animal) for the type of opponent. An opponent who successfully strikes the wearer in melee receives a +4 bonus on the save.
-
-Caster Level: 7th; 
-Prerequisites: Craft Magic Arms and Armor, charm monster, charm person or animal; 
-Market Price: +3 bonus.

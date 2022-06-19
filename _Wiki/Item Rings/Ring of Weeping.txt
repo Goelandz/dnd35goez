@@ -1,6 +1,0 @@
-This dull gray ring allows the wearer to bestow weeping, crippling sadness by touch. A humanoid touched by the wearer of a ring of weeping must succeed at a Will save (DC 11) or be incapacitated for 1 round, then take a –3 morale penalty on attack rolls, saving throws, ability checks, and skill checks for 5 rounds. Each time the ring is used to affect a creature, its wearer takes a –1 morale penalty on attack rolls, saving throws, ability checks, and skill
-checks for 5 rounds.
-
-Caster Level: 5th; 
-Prerequisites: Forge Ring, sorrow; 
-Market Price: 3,000 gp.

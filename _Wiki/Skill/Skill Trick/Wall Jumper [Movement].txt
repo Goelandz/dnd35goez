@@ -1,5 +1,0 @@
-There’s no better way to end a tough climb than by leaping from the wall.
-
-Prerequisite: Climb 5 ranks, Jump 5 ranks.
-
-Benefit: If you have succeeded on a Climb check to ascend or descend a wall during this or your previous turn, you can leap horizontally from that wall as if you had a running start.

@@ -1,6 +1,0 @@
-A boon to travelers, this highly polished saddle protects the steed and rider from the elements. The steed and rider are completely immune to “normal” temperature from 0º to 110º Fahrenheit and remain perfectly dry unless completely immersed in a body of water. In addition, the rider can cast protection from elements on himself and his mount once per day.
-
-Caster Level: 5th; 
-Prerequisites: Craft Wondrous Item, protection from elements; 
-Market Price: 5,400 gp; 
-Weight: 25 lb.

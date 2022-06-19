@@ -1,9 +1,0 @@
-Leaves from the wyssin plant are dried and rolled into a tobaccolike substance and smoked. 
-
-Initial Effect: 1 point of Wisdom damage.
-
-Secondary Effect: The smoker gains a +2 alchemical bonus to Strength for 1d3 hours.
-
-Side Effects: A creature under the effect of devilweed is easily confused and acts skittish (treat as shaken).
-
-Overdose: None.

@@ -1,7 +1,0 @@
-This finely wrought trumpet plays beautifully in the hands of any talented trumpeter. Invoking any of its magic, however, requires playing the horn uninterrupted for a full round and making a DC 15 Perform (wind instruments) check. The trumpeteer can employ the trumpet three times per day, selecting from the following powers for each use: remove blindness/deafness, remove disease, cure serious wounds, or neutralize poison. These powers affect all creatures within 360 feet of the horn. In addition, the trumpet can heal a single creature within hearing range of the uplifting song once per day. Evil creatures cannot benefit from these effects; in fact, they hear nothing at all when the horn plays. The trumpeter cannot personally benefit from the trumpet’s healing powers.
-
-Strong conjuration; 
-CL 13th; 
-Craft Wondrous Item, cure serious wounds, heal, neutralize poison, remove blindness/deafness, remove disease, creator must be good;
-Price 115,440 gp; 
-Weight 2 lb.

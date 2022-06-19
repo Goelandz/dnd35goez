@@ -1,6 +1,0 @@
-This +4 net is made of pure magical force and can hold even incorporeal creatures. A creature entangled in a force web can attempt to escape as a full-round action (Escape Artist check, DC 20). The net has a hardness of 10 and 30 hit points and can be burst with a DC 40 Strength check as a fullround action. 
-
-Caster Level: 13th; 
-Prerequisites: Craft Magic Arms and Armor, forcecage; 
-Market Price: 72,320 gp; 
-Cost to Create: 36,320 gp + 2,880 XP.
