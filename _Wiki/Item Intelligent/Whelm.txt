@@ -1,0 +1,14 @@
+Whelm is a +3 warhammer of dwarven manufacture. In the hands of a dwarf, its enhancement bonus increases to +5, and it can be thrown with a 30-foot range increment. It returns to its thrower on the round after it was thrown and is then ready to be wielded or thrown again. When hurled, it deals +1d8 points of bonus damage or +2d8 points of bonus damage against giants. Whelm has three primary powers: detect secret doors at will, detect evil at will, and locate object in a 120-foot radius at will. Whelm can communicate telepathically, and it speaks and reads Common, Dwarven, Giant, Gnome, and Goblin.
+
+Whelm’s special purpose is to destroy goblinoids and giants. Once per day, when struck upon the ground in pursuit of that goal, Whelm sends forth a shock wave that forces all creatures within 30 feet to make successful Fortitude saves (DC 18) or be stunned for 1d4 rounds.
+
+Whelm bears a minor curse: One day after first using the weapon in battle, the wielder becomes agoraphobic, dreading open, outdoor spaces. The character takes a –2 penalty on attack rolls, saving throws, and skill checks in outdoor settings. For each consecutive 24-hour period during which the wielder fails to spend at least 8 hours indoors or underground, this penalty increases by –1, to a maximum of –5. This condition persists until the wielder disposes of Whelm permanently.
+
+AL LN; 
+SV Fort +10, Ref +10, Will +14; 
+Str —, Dex —, Con —, Int 12, Wis 18, Cha 7, 
+Ego 20.
+
+Caster Level: 16th; 
+Prerequisites: Craft Magic Arms and Armor, detect evil, detect secret doors, locate object, creator must be a dwarf of at least 16th level;
+Market Price: 122,412 gp; Cost to Create: 61,362 gp + 7,284 XP

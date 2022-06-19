@@ -1,0 +1,9 @@
+An extremely bitter brown powder, vodare is usually mixed with honeyed water or sweet wine to dilute the taste. It is made from the crushed petals of a flower that grows only on the graves of those who dedicated their lives to the worship of Rallaster.
+
+Initial Effect: +2 alchemical bonus on Intimidate checks and saving throws against fear effects for 1d4 hours.
+
+Secondary Effect: –4 alchemical penalty on Diplomacy and Bluff checks for 2d4 hours.
+
+Side Effects: Mild euphoria and fierce confidence while the drug is in effect.
+
+Overdose: If more than one dose is taken in a 4-hour period, the user becomes catatonic (Fort DC 15 negates).

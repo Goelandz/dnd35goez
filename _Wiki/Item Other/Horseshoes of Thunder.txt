@@ -1,0 +1,6 @@
+Once per day, when a horse gallops at a full run, and the rider speaks the command word, these shoes emit a loud crack of thunder. Any creature in a 20-foot radius (excluding the mount, rider, and any passengers) comes under the effect of a shout spell cast by a 7th-level caster.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, shout; 
+Market Price: 10,080 gp; 
+Weight: 1 lb. each.

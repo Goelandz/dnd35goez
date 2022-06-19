@@ -1,0 +1,5 @@
+Made from an incredibly hard red metal (hardness 15, 30 hp), this +3 flaming battleaxe can wrap its wielder in a protective shield of fire. Once per day, the flameshroud axe can produce an effect similar to the fire shield spell (chill version) from an 11th-level sorcerer. Activating the axe’s fire shield ability is a full-round action that provokes an attack of opportunity.
+
+Caster Level: 13th; Prerequisites: Craft Magic Arms and Armor, fireball, fire shield; 
+Market Price: 51,510 gp; 
+Cost to Create: 25,910 gp + 2,048 XP

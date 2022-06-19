@@ -1,0 +1,2 @@
+Deflection Bonus
+A deflection bonus affects Armor Class and is granted by a spell or magic effect that makes attacks veer off harmlessly. Deflection bonuses stack with all other bonuses to AC except other deflection bonuses. A deflection bonus applies against touch attacks.

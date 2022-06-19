@@ -1,0 +1,5 @@
+A balanced weapon can be wielded more easily by smaller characters. A creature one size smaller than the weapon can use it in one hand. For example, a halfling could wield a balanced battleaxe in one hand.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, reduce; 
+Market Price: +2 bonus.

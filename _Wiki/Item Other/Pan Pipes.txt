@@ -1,0 +1,5 @@
+In essence, a set of pan pipes is a series of hollow reeds or wooden tubes of varying lengths bound together in a row, from smallest to largest. To play them, the musician blows across the tops of the tubes, producing a sound much like that of several tiny wooden flutes. By moving the pipes from side to side, the piper can play different notes. Switching rapidly among notes creates the sweet, rippling effect for which the instrument is known.
+
+ Simple yet evocative, pan pipes are favorites of satyrs and other sylvan fey. Humans and some elves also find their music pleasing.
+
+Bardic Music: A bard using pan pipes gains a +1 bonus on Perform checks made to fascinate creatures, and also adds 1 to the save DC against the bard’s suggestion bardic music ability.

@@ -1,0 +1,19 @@
+A dreamstaff grants its wielder power over sleep and dreams.
+
+Description: A dreamstaff is carved of light ash wood and possesses strange marbling patterns that run up and down the length. It is unusually slender and topped with a crystal finial.
+
+The mottling and marbling seem to shift and writhe when the staff is activated, and the crystal fills with smoky, abstract images that are strangely familiar to the viewer.
+
+Activation: A dreamstaff is a spell trigger item, requiring a standard action to activate.
+
+Effect: A dreamstaff allows the wielder to produce the following spell effects:
+• deep slumber 1 charge
+• endless slumber (page 103), 2 charges
+• dream, 3 charges
+• nightmare, 3 charges
+
+Aura/Caster Level: Moderate enchantment and illusion.
+CL 11th.
+Construction: Craft Staff, dream, endless slumber, nightmare, deep slumber, 27,000 gp, 2,160 XP, 54 days.
+Weight: 5 lb.
+Price: 54,000 gp.

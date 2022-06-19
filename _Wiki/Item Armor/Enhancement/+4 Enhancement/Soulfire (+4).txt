@@ -1,0 +1,6 @@
+This armor’s wearer is immune to all death spells, magical death effects, and energy drain, and any negative energy effects (such as from chill touch or inflict spells).
+
+Moderate abjuration; 
+CL 7th; 
+Craft Magic Arms and Armor, death ward; 
+Price +4 bonus.

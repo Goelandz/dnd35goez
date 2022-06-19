@@ -1,0 +1,3 @@
+The wielder of a sizing weapon can change the weapon’s size category to any other size category as a standard action. Spellcasters who frequently polymorph themselves appreciate weapons with the sizing special ability.
+
+Moderate transmutation; CL 9th; Craft Magic Arms and Armor, enlarge person, reduce person; Price +1 bonus.

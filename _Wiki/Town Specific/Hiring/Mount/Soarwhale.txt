@@ -1,0 +1,30 @@
+Colossal Magical Beast
+Hit Dice: 		32d10+291 (467 hp)
+Initiative: 		+0
+Speed: 			Fly 20 ft. (good)
+AC: 			14 (–8 size, +12 natural), touch 2, flat-footed 14
+Attacks: 		Tail slap +38 melee
+Damage: 		Tail slap 2d6+21
+Face/Reach: 		40 ft. by 80 ft./15 ft.
+Special Attacks: 	Breath weapon
+Special Qualities: 	Darkvision 60 ft., low-light vision
+Saves: 			Fort +27, Ref +18, Will +12
+Abilities: 		Str 39, Dex 10, Con 29, Int 1, Wis 14, Cha 6
+Skills: 		Listen +3, Spot +3
+Feats: 			Toughness
+Climate/Terrain: 	Temperate and warm land
+Organization: 		Solitary, pair, or pod (5–20)
+Challenge Rating: 	15
+Treasure: 		None
+Alignment: 		Always neutral
+Advancement: 		33–70 HD (Colossal)
+
+Soarwhales resemble unusually large baleen whales that swim through the air instead of in water. They domesticate easily and are widely used as cargo transports by civilizations that occupy high places. A soarwhale is a cross between a vehicle and a creature. It is not so much ridden like a horse as steered like a ship. A gondola is commonly slung under a soarwhale to haul passengers, although occasionally a soarwhale is outfitted with an enormous howdah so that passengers can ride on top. Both docile and strong, soarwhales are used to carry tons of cargo over long distances. Quarry owners find especially them useful for delivering stone to customers hundreds of miles away. Soarwhales are also used as raiding platforms by air pirates, and as sky yachts by the very rich.
+
+In the wild, soarwhales are content to float calmly. They apparently do not need to eat, and they have no natural enemies. Their breath weapon is quite effective at fending off most predators. Sages agree the prospect of such a creature occurring naturally is slim, but if soarwhales were ever involved with magical experimentation, it happened so long ago or in such a remote location that no one has any record of it. 
+
+Breath Weapon (Su): A soarwhale quickly empties its air bladders as a defense mechanism. This loss of buoyancy causes the soarwhale to drop 100 feet, leaving a cloud of paralyzing gas in a 10-foot radius around its previous position. Any creature caught in the gas must make a successful Fortitude save (DC 35) or be paralyzed for 2d4 rounds.
+
+Training a Soarwhale: Training a soarwhale as a mount or beast of burden requires a successful Handle Animal check (DC 18 young, DC 25 adult). Soarwhale young are worth 10,000 gp on the open market. Professional trainers charge 500 gp to rear or train a soarwhale. Riding a trained soarwhale requires a gondola or howdah. A soarwhale can fight while carrying a rider. Riders and passengers may fight with no need for Ride checks.
+
+Carrying Capacity: Light 44,736 lb., medium 89,568 lb., heavy 134,400 lb.

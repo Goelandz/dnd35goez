@@ -1,0 +1,15 @@
+Coveted by wu jen everywhere, a rod of elemental might grants you mastery of an additional element.
+
+Description: Rods of elemental might are long, slender rods, inscribed with ancient symbols of power. The substance of which they are made depends on the element over which they grant mastery: heavy crystal for air, marble for earth, obsidian for fire, coral for water, and mahogany for wood.
+
+Prerequisite: A rod of elemental might functions only for wu jen (or another character with the elemental mastery class feature).
+
+Activation: A rod of elemental might functions as long as you hold it with at least one hand. It requires no activation.
+
+Effect: You gain the benefits of elemental mastery (+2 effective caster level when casting spells of that element, and a +2 competence bonus on saves against spells of that element) applied to whichever element the rod represents. This benefit is in addition to whichever elemental mastery you already possess. If you are already a master of the rod's element, the item grants you no further benefits.
+
+Aura/Caster Level: Moderate, no school. CL 17th.
+
+Construction: Craft Rod, creator must be a wu jen with mastery of the relevant element, 4,800 gp, 384 XP, 10 days.
+Weight: 3 lb.
+Price: 9,600 gp.

@@ -1,0 +1,5 @@
+A grasping weapon is more effective when attempting to trip or disarm an opponent. It grants its wielder a +2 circumstance bonus on trip and disarm attempts. Disarm attempts made with grasping weapons do not provoke attacks of opportunity. Only melee weapons can have this ability.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, web; 
+Market Price: +2 bonus.

@@ -1,0 +1,9 @@
+This wooden staff is covered in diseased sores that ooze yellow pus. It gives off a horrible odor of rotten flesh, but allows the use of the following spells  
+• Contagion (1 charge, DC 16)
+• Insect plague (1 charge, DC 17)
+• Pox (2 charges, DC 19)
+
+Caster Level: 11th; 
+Prerequisites: Craft Staff, contagion, insect plague, pox; 
+Market Price: 70,000 gp; 
+Weight: 5 lb.

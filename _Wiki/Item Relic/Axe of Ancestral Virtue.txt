@@ -1,0 +1,16 @@
++4 adamantine keen dwarven waraxe, AL LN; 
+Int 10, Wis 17, Cha 17; 
+Speech, telepathy, 120 ft. darkvision and hearing; 
+Ego score 17.
+Lesser Powers: Bless 3/day, cure moderate wounds on wielder 3/day, faerie fire 3/day.
+Greater Power: Haste on wielder 3/day.
+
+Personality: One of Moradin’s high priests volunteered to be bound into the original axe of ancestral virtue ages ago, and his personality has since been duplicated into what few copies of the weapon that exist. The priest, who refuses to reveal his old name, is a fi erce warrior who urges his owner to attack the ancient enemies of the dwarves (goblinoids and giants) at every available opportunity. He takes great delight in “illuminating targets” (faerie fire), “salving honorwounds” (cure moderate wounds), and granting “godspeed” (haste). He judges wielders on how well they adhere to traditional dwarven culture. He rebels mightily against nondwarves who so much as pick him up.
+
+To use this relic, you must worship Moradin and either sacrifi ce a 7th-level divine spell slot or have the True Believer feat and at least 13 HD.
+
+Strong transmutation; 
+CL 15th; 
+Sanctify Relic, Craft Magic Arms and Armor, bless, cure moderate wounds, faerie fire, haste, creator must worship 
+Moradin; Price 50,230 gp; 
+Cost 26,780 gp + 1,876 XP.

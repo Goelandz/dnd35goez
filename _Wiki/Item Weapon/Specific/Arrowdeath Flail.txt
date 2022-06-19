@@ -1,0 +1,6 @@
+This +2/+1 dire flail provides excellent protection against projectile attacks. While holding an arrowdeath flail, the wielder can deflect projectiles and thrown weapons as if she had the Deflect Arrows feat. When taking the total defense action, an arrowdeath flail grants an additional +2 deflection bonus to Armor Class that applies only to ranged weapon attacks.
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, protection from arrows; 
+Market Price: 33,690 gp; 
+Cost to Create: 17,190 gp + 1,320 XP

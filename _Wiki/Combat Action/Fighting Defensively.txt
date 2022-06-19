@@ -1,0 +1,1 @@
+Defense: Objects with lots of surface area (such as tables) grant you a +2 shield bonus to Armor Class (or a +4 shield bonus to AC if you use the total defense action), but require two hands to use.

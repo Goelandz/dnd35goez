@@ -1,0 +1,8 @@
+This silver sun-shaped brooch grants its wearer a +2 bonus on Diplomacy checks but imposes a –2 penalty on Bluff checks. This penalty remains for 24 hours after the medal is removed.
+
+ Three times per day the wearer can use sanctuary on himself as a swift action. If the wearer attacks while protected by this effect, he takes a –1 morale penalty on that attack and all subsequent attacks for 1 hour afterward.
+
+ Faint abjuration; 
+CL 3rd; 
+Craft Wondrous Item, sanctuary; 
+Price 1,100 gp.

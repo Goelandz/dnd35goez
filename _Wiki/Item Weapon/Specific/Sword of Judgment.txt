@@ -1,0 +1,6 @@
+This +2 lawful longsword prevents those near it from lying. Up to three times per day, the wielder may utter a command word and cause the sword to emit a zone of truth. Creatures coming within 25 feet of the sword of judgment must succeed on a Will save (DC 13) or be unable to speak any deliberate and intentional lie.
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be lawful, order’s wrath, zone of truth; 
+Market Price: 43,115 gp; 
+Cost to Create: 21,715 gp + 1,712 XP

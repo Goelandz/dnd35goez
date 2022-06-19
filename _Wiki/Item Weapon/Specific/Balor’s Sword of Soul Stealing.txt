@@ -1,0 +1,7 @@
+The most fearsome weapon carried by the balors, this Large +3 vorpal bastard sword appears as a crackling black-andpurple flame. A precious black sapphire is set in the weapon’s pommel. When it severs the head of a living creature, the sword draws forth the soul of the victim and imprisons it in the black sapphire, as the soul bind spell. The victim receives a Will save (DC 23) to avoid the soul bind effect. If the weapon severs the head of a creature with more than 30 Hit Dice, the sapphire shatters without imprisoning the soul, and it must be replaced. The sapphire can contain only one soul at a time, but balors are rumored to know mystic rituals that can draw the soul out of the gem, allowing them to use it for various vile purposes.
+
+This item is significantly more expensive than the standard-issue balor weapon. A balor equipped with a sword of soul stealing typically has only its sword and its whip, and no additional treasure.
+
+Caster Level: 17th; 
+Prerequisites: Craft Magic Arms and Armor, death spell, keen edge, soul bind; 
+Market Price: 219,870 gp; Cost to Create: 125,270 gp + 7,568 XP

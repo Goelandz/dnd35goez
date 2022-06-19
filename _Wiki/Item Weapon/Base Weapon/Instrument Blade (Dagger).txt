@@ -1,0 +1,15 @@
+Most stringed or wind instruments have a long, narrow section that can conceal a thin blade. Releasing a hidden catch allows the blade to spring forth. Such a blade functions as a dagger.
+
+Any stringed instrument whose neck is designed to hide a blade includes reinforcing metal bars for added support.
+
+======================================================================
+
+Hidden Blades
+
+Scoundrels generally avoid fair fights. Many hide various weapons about their bodies to glean whatever advantage they can.
+
+   A hidden blade is a springloaded blade attached to the inside of armor or boots or strapped to the scoundrel’s body. Activating a hidden blade requires a move action.
+
+Hidden blades can be made masterwork or magic just as normal weapons can be. Attacking with a hidden blade imposes a –2 penalty on the attack roll.
+
+Discovering a hidden blade before it has been activated requires a DC 15 Search check.

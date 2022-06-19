@@ -1,0 +1,15 @@
+A flask of thick green glass, a thought bottle can be used to store thoughts, memories, experience, or spells. A single bottle can hold fi ve thoughts or memories at a time, or a single creature’s current experience, or a single spellcaster’s collection of prepared spells. Any individual that touches the bottle and speaks the command word instantly gains a general knowledge of the bottle’s contents, but doesn’t actually access the thoughts, memories, or spells within until she consciously decides to do so. Storing or retrieving anything from a thought bottle requires a full-round action that provokes attacks of opportunity.
+
+Thoughts: The bottle can store specific ideas, communications, or conclusions. Once a memory is stored, it disappears from the user’s mind, but she remembers the general nature of the stored thought. For example, if the user stored the name of a murderer, that name would disappear from her memory and be unrecoverable from her own mind by any means, though she would know that the thought bottle now contains the murderer’s name. Similarly, secret messages and intelligence can be hidden in a thought bottle to pass them to someone else.
+
+ Memories: The user’s recollection of a single day’s events can be stored in the bottle. Once stored, the user remembers the general nature of the memory (“the day we performed the Ritual of Binding”) but loses all details of the event itself.
+
+Experience: A thought bottle can be used to offset level loss as a restoration spell can, but is effective against level loss that even restoration can’t undo (including levels lost due to death, but not the negative levels bestowed by magic items such as a holy weapon). When a user’s experience has been stored within the bottle, he can subsequently access the bottle to restore his XP total to exactly what it was when it was last stored, negating any levels lost in the interim. Storing experience in the bottle is diffi cult, and the user must pay 500 XP (deducted before storing) to do so. Only the creature that stored experience can retrieve it, but if the bottle is destroyed or lost, the user suffers no ill effects.
+
+Spells: An owner who prepares spells can store some or all of her memorized spells in a thought bottle. Any spell she puts into the thought bottle is expended as if she had cast it, but the spells in the bottle can then be retrieved at any later date to be prepared as normal. Wizards often use this function of the bottle to create a kind of backup spellbook, concealing thought bottles in well hidden boltholes against the eventuality of their grimoires being stolen or destroyed. Only the character who stored the spells can retrieve them, and if the bottle is destroyed, the stored spells are lost with no effect.
+
+ Strong enchantment; 
+CL 13th; 
+Craft Wondrous Item, demand, modify memory; 
+Price 20,000 gp;
+ Weight 1 lb.

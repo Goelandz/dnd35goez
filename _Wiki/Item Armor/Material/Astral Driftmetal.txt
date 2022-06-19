@@ -1,0 +1,3 @@
+his extraordinarily rare mineral is mined only on islands of matter floating on the Astral Plane. It is very similar to iron but has a single extraordinary feature: It has a 25% chance of being effective against an incorporeal attack, as if it were made of force. It is not malleable enough to be worked into chainmail or scale mail; only a breastplate, shield, or any form of heavy armor can be made from Astral driftmetal. A suit of driftmetal armor weighs 5 pounds more than the same armor made of steel, but the other statistics of the armor (maximum Dexterity bonus, armor check penalty, spell failure chance) are unchanged.
+
+Astral driftmetal has a hardness of 12 and 30 hitpoints per inch of thickness. Its market price modifier is +1,000 gp

@@ -1,0 +1,6 @@
+The curved blade at the end of this +2 guisarme is hooked even more than that of a normal guisarme and can cause particularly jarring falls. Whenever the wielder uses the guisarme of long falls to make a successful trip attempt, the target must succeed on a Fortitude save (DC 16) or be stunned for one round.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, telekinesis; 
+Market Price: 18,309 gp; 
+Cost to Create: 9,309 gp + 720 XP.

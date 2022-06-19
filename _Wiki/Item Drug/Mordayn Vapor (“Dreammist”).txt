@@ -1,0 +1,9 @@
+Made of roughly ground leaves of a rare herb found in deep forests, mordayn is so potent that it is taken by steeping a small amount in hot water, and then inhaling the vapors of the resultant tea. Raw mordayn powder and mordayn-tainted water are deadly poison taking the powder directly or drinking the water produces an immediate overdose. Dreammist is renowned for the beautiful visions it induces and the deadly peril of its sinister embrace.
+
+Initial Effect: Exotic visions of incredible beauty enthrall the user for the next d20+10 minutes. During this time the user has a 50% chance to lose any action he attempts, as described in the bestow curse spell.
+
+Secondary Effect: 1d4 points of Constitution damage and 1d4 points of Wisdom damage.
+
+Side Effects: The visions of a dreammist user are incredibly beautiful and poignant. His normal life seems drab and futile in comparison, and he aches to experience the transcendent beauty of his drug-induced dreams again. When the dose wears off, the user must succeed at a Will save (DC 17) or fall under a compulsion to do whatever is necessary to repeat the dreammist dose (treat this as a compulsion similar to that of a suggestion spell). This compulsion lasts for 1d4 hours before fading.
+
+Overdose: If two doses are taken within the space of an hour, or if raw mordayn powder or mordayn tea are ingested, the drug is a deadly poison (ingested DC 17, 1d10 Con/1d10 Con). Mordayn vapor addicts often throw out the tea as soon as they inhale and make sure that only one dose is available at a time in order to make sure they cannot overdose on the deadly drug.

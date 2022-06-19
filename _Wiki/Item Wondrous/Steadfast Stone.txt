@@ -1,0 +1,6 @@
+This dwarven item is commonly given out to dwarven defenders and other tunnel guards who require instant fortifications. The steadfast stone is a granite cube, 1 inch on each side, with runes indicating “growth” written on all sides. When thrown upon the ground and the command word uttered, the cube grows as a wall of stone cast by a 9thlevel cleric. The stone can grow up to two times per day. The wall lasts for up to 24 hours or until the command word is uttered, causing it to shrink back into cube form.
+
+Caster Level: 9th; 
+Prerequisites: Craft Wondrous Item, wall of stone; 
+Market Price: 32,400 gp; 
+Weight: 1 lb.

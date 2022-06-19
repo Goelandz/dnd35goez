@@ -1,0 +1,18 @@
+RULES OF TORTURE
+
+The torturer’s victim must first be secured, either by being tied in place, pinned in a grapple, or successfully restrained in a stationary torture device. A victim in such a device can attempt to make an Escape Artist check every round against the DC associated with the device (see Table 3–1: Torture Devices, on the following page). A pinned creature can attempt to break a grapple. However, the torturer is generally watching while the victim is being restrained in a stationary torture device or being grappled by a third party. If the victim attempts an Escape Artist check or a grapple check in the knowing presence of the torturer, whether or not the check succeeds the torturer can hit the creature with a coup de grace.
+
+Once the victim is secure, the torturer can attempt one use of a torture device against a secured victim (such as thumbscrews on a maid tied to a chair) in a certain time frame (once per round unless otherwise noted). Each device has an associated circumstance bonus that is applied to the torturer’s Intimidate check when the torturer attempts to pry desired information from the victim. The Intimidate check DC is 10 + the victim’s level or HD. Of course, a victim can choose to reveal the information before torture is applied. Merely threatening to use a torture device against a victim can be effective: If the torturer succeeds on a Bluff check opposed by the victim’s Sense Motive check, the torturer can use half of the device’s circumstance bonus on her subsequent Intimidate check.
+
+When using a torture device, a torturer can attempt multiple Intimidate checks to attempt to gain the same information, unlike the standard use of the Intimidate skill. A
+successful Intimidate check indicates the victim yields up the requisite information.
+
+A victim can attempt to mislead a torturer, pretending to give up the real information in hopes the torturer will end the pain. The victim’s Bluff check is opposed by the torturer’s Sense Motive check if the victim lies or misleads the torturer during the interrogation. Because the torturer is convinced of her methods—that pain reveals truth, and that torture can’t be withstood—the torturer is more likely to believe even the most outlandish lie. The torturer takes a –3 circumstance penalty on Sense Motive checks to see through the bluffs of those she tortures. Even victims who don’t really know the information sought by the torturer can be compelled to lie to make the hurt go away.
+
+The tendency of victims to say anything to stop the pain makes torture impractical in some cases. But even when a torturer feels as if she’s extracted the truth, she may continue the torture anyway. 
+
+If a victim is brought to 0 hit points or lower through the use of torture equipment, then later healed, the subsequent use of a torture device against that victim doubles the device’s circumstance bonus on the torturer’s Intimidate checks. This doubling only occurs in the second and subsequent torture sessions.
+
+Torture Devices as Weapons: Nonstationary items such as pokers and scalpels make poor melee weapons. In melee, torture devices deal half the damage given in Table 3–1, if the device can be used in melee at all. For example, a Medium-size torturer couldn’t pick up and use an iron maiden as a weapon.
+
+Masterwork Devices: Masterwork torture devices can be made, but do not provide higher circumstance bonuses. They simply exhibit finer craftsmanship and cost twice as much.

@@ -1,0 +1,1 @@
+A spell that this component is applied to has a 25% chance to have any damage the spell deals increased by +10%. The heart must be from a demon of at least 6 HD, and it must be dried and hardened into a rocklike object. 

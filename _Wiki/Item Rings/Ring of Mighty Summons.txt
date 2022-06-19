@@ -1,0 +1,13 @@
+This ring enhances summoned creatures, making them as tough as possible, but at the cost of a reduced “life span.”
+
+Description: A ring of mighty summons is an ornate gold band, carved with tiny images of many creatures and the representations of all four elements. Its surface is rough to the touch. Whenever the ring is active, the images carved on it seem to twist and move as though alive, and the item smells faintly of ozone.
+
+Activation: A ring of mighty summons requires no specific action to activate, merely an act of will made as part of casting a summoning spell. It functions up to three times per day.
+
+Effect: When you use this ring while casting a summoning spell, any creature you summon with the spell has maximum hit points per Hit Die. However, the duration of the spell is halved (to a minimum of 1 round).
+
+Aura/Caster Level: Moderate conjuration.
+CL 6th.
+
+Construction: Forge Ring, Augment Summoning, Spell Focus (conjuration), summon monster III or summon natures ally III, 7,000 gp, 560 XP, 14 days.
+Price: 14,000 gp.

@@ -1,0 +1,15 @@
+Staff of healing; 
+AL NG; 
+Int 14, Wis 14, Cha 10;
+Speech, 120 ft. vision and hearing; 
+Ego score 6.
+Languages: Celestial, Common, Infernal.
+Lesser Powers: Ease pain 1/day, vision of heaven 3/day.
+
+Personality: Legend has it that a faithful cleric of Pelor found this white ash staff with silver inlaid runes in a brook while on a pilgrimage. The cleric heard a babbling sound coming from the brook, walked out among its shoals, and drew the talking staff from its shallow depths. Caduceus (kah-DOO-shuss) has no memory of its origin, but it chats incessantly about the many great heroes it has helped over the years. The staff abhors bloodshed and violence, and it sometimes elects to not heal wounds it
+feels are justified or deserved.
+
+Moderate conjuration; 
+CL 15th; 
+Craft Magic Arms and Armor, cure serious wounds, ease pain, lesser restoration, remove blindness/deafness, remove disease, vision of heaven; 
+Price 34,950 gp.

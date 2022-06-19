@@ -1,0 +1,7 @@
+You dart past your opponent’s attacks, ending up perfectly positioned for a devastating counterattack.
+
+Prerequisite: Tumble 12 ranks.
+
+Benefit: If you succeed on a Tumble check to move through an enemy’s space, you can treat that enemy as flat-footed against the next melee attack you make against it on your current turn.
+
+Your enemy must be standing on the ground or floor in order for you to use this trick.

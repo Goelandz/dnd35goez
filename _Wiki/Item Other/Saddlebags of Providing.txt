@@ -1,0 +1,7 @@
+Each bag of this pair serves a different function. Every morning, the right bag contains enough food to feed whatever creature it is slung over for one day. For horses, this is generally oats and a few lumps of sugar; for griffons, it means several pounds of raw horsemeat. If removed and not eaten, the food spoils after 24 hours. Food does not appear if anything else is placed in the bag. 
+
+The left bag contains a masterwork set of grooming and leather repair tools. The grooming tools are appropriate for whatever creature the bag is slung over. In addition, the left bag contains 10 cubic feet of space for the rider’s personal effects, and in all other ways acts as a bag of holding. Both bags weigh the same as regular empty saddlebags, regardless of their contents.
+
+Caster Level: 9th; 
+Prerequisites: Craft Wondrous Item, create food and water, Leomund’s secret chest; 
+Market Price: 8,000 gp; Weight: 16 lb.

@@ -1,0 +1,14 @@
+This ash staff bears a few holy etchings but otherwise looks unremarkable. However, in the hands of a cleric, the staff sheds golden light as brightly as a torch. The staff of rapture can be used as a +1 quarterstaff, but it deals only nonlethal damage. Against evil creatures, it has a critical threat range of 17–20.
+
+The staff allows use of the following spells:
+• Atonement (2 charges)
+• Divination (1 charges)
+• Elation (1 charge)
+• Sword of conscience (2 charges)
+• Vision of heaven (1 charge)
+
+Strong various schools; 
+CL 12th; 
+Craft Staff, atonement, divination, elation, sword of conscience, vision of heaven, creator must be good; 
+Price 73,800 gp; 
+Cost to Create 37,050 gp + 2,940 XP

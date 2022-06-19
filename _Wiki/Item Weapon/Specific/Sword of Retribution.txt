@@ -1,0 +1,6 @@
+This +3 bastard sword allows the wielder to return blows against successful attackers. Whenever the wielder is wounded in melee combat, the sword of retribution adds a +2 morale bonus on both the attack and damage rolls of the wielder’s next attack, as long as that attack is directed against the opponent who damaged him. The bonus lasts for only 1 round after the wielder is struck, and it is lost if the wielder does not attack that foe with his next attack action. If more than one foe strikes the wielder in melee combat in a round, the bonus applies only to attacks against the source of his most recent injury.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, righteous might; 
+Market Price: 72,335 gp; 
+Cost to Create: 36,335 gp + 2,880 XP

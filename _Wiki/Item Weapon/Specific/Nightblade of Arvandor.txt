@@ -1,0 +1,7 @@
+This +2 longsword appears to be made of black steel. Within the blade, one can see miniscule twinkling stars. Upon command, the sword launches starlike pulses of light. Each round, as a standard action, the nightblade can fire as many stars from its blade as the wielder has ranged attacks. Using the sword in this fashion provokes attacks of opportunity, and each star requires its own ranged touch attack roll. A nonevil creature struck by a star takes 1d8 points of damage, half of which is nonlethal damage (rounded down). An evil creature struck by a star takes 1d8 points of lethal damage. The stars are magical force, not weapons, so theyignore damage reduction and incorporeality.
+
+Moderate evocation [good]; 
+CL 6th; 
+Craft Magic Arms and Armor, stars of Arvandor, creator must be good; 
+Price 44,315 gp; 
+Cost to Create 22,315 gp + 1,760 XP

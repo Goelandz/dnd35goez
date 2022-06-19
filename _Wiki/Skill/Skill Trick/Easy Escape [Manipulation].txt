@@ -1,0 +1,12 @@
+You can slip free from the grasp of a larger enemy with ease.
+
+Prerequisite: Medium or smaller size, Escape Artist 8 ranks.
+
+Benefit: If your opponent is larger than Medium, you gain a circumstance bonus on your Escape Artist check to escape a grapple or pin. The size of the bonus depends on your opponent’s size, according to the following table.
+
+Opponent	Escape Artist
+Size	 	Bonus
+Large 		+4
+Huge 		+8
+Gargantuan 	+12
+Colossal 	+16

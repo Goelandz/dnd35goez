@@ -1,0 +1,2 @@
+Competence Modifier
+A competence bonus (or penalty) affects a character's performance of a particular task, as in the case of the bardic ability to inspire competence. Such a bonus may apply on attack rolls, saving throws, skill checks, caster level checks, or any other checks to which a bonus relating to level or skill ranks would normally apply. It does not apply on ability checks, damage rolls, initiative checks, or other rolls that aren't related to a character's level or skill ranks. Multiple competence bonuses don't stack; only the highest bonus applies.

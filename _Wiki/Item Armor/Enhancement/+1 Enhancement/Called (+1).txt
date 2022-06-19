@@ -1,0 +1,5 @@
+This powerful enchantment allows the owner to utter a command word and call the armor or shield to her as a standard action. Armor appears correctly donned at the end of the action, or a shield appears on the proper arm. The armor or shield appears completely normal otherwise.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, teleport; 
+Market Price: +1 bonus

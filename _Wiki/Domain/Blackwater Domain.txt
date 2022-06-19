@@ -1,0 +1,15 @@
+BLACKWATER DOMAIN
+
+Deities: Blibdoolpoolp, Sekolah, Yeathan
+
+Granted Power: You are immune to pressure damage from descending into even the greatest of oceanic depths.
+
+ 	Spells
+1 	Cause Fear: One creature of 5 HD or less flees for 1d4 rounds.
+2 	Pressure Sphere*: Water pressure deals 4d6 damage to submerged targets.
+3 	Evard’s Black Tentacles: Tentacles grapple all within 20-ft. spread.
+4 	Transformation of the Deeps*: Grant water breathing, darkvision, and pressure immunity to one creature/3 levels.5 Blackwater Tentacle*: Create blackwater tentacle that attacks your foe.
+6 	Blackwater Taint*: Desecrate water, deal 1d6/2 levels negative energy damage, bestow a negative level.
+7 	Dark Tide*: Infuse water over a large area with negative energy, causing weakness and 1d6 damage/hour.
+8 	Maelstrom*: Conjures a deadly whirlpool to suck in and batter foes.
+9 	Doom of the Seas*: Summons a fiendish kraken under your command.

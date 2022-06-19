@@ -1,0 +1,6 @@
+In addition to its own magical enhancement, this +2 shortbow imparts a temporary enhancement bonus to any arrow shot from it. Arrows shot from the bow of sympathetic enhancement are treated as +1 arrows for 1 round. Arrows that were magic to begin with gain no additional benefit.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, greater magical weapon; 
+Market Price: 32,330 gp; 
+Cost to Create: 16,330 gp + 1,280 XP

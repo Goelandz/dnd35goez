@@ -1,0 +1,10 @@
+The staff of the spider is made from black hardwood and etched with silver web patterns. It allows the use of the following spells:
+• Spider climb (1 charge)
+• Web (1 charge, DC 13)
+• Summon swarm (spiders only, 1 charge)
+• Poison (1 charge, DC 16)
+• Insect plague (2 charges, DC 17)
+
+Caster Level: 12th; 
+Prerequisites: Craft Staff, insect plague, poison, spider climb, summon swarm, web; 
+Market Price: 42,600 gp. 

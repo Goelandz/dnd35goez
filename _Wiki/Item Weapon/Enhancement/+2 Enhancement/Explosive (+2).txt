@@ -1,0 +1,7 @@
+Always slightly warm to the touch, weapons with the explosive ability deal extra damage to anyone near the intended target. Each successful hit with an explosive weapon deals 2d4 points of damage to all targets in a 5-foot burst (Refl ex DC 15 half), including the original target. The explosive ability can be applied to any melee weapon (though the wielder may be subject to the extra damage) or ranged weapon. Projectile weapons so enhanced bestow the explosive ability on their ammunition.
+
+
+ Moderate transmutation; 
+CL 10th; 
+Craft Magic Arms and Armor, shatter; 
+Price +2 bonus (+3 bonus for ranged  weapons).

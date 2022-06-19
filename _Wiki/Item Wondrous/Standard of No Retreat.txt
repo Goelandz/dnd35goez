@@ -1,0 +1,7 @@
+This standard functions as a standard of courage, except that it also prevents outward extradimensional travel within 30 feet, just as if creatures were subjected to a dimensional anchor spell. Creatures trying to fl ee from the standard’s area must succeed on a DC 19 Will save, or their attempt to fl ee fails. A standard of no retreat doesn’t prevent creatures from using extradimensional travel to enter the area, just to leave it. Summoned creatures within the standard’s area still disappear when the spell that brought them here ends.
+
+ Moderate abjuration; 
+CL 11th; 
+Craft Wondrous Item, dimensional anchor, remove fear; 
+Price 145,000 gp; 
+Weight 1 lb.

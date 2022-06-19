@@ -1,0 +1,11 @@
+This near-artifact level staff is made of a thin, withered shaft of wood, sickly gray in color. Worms appear to squirm about its surface, but that is just an illusion. The staff allows the use of the following spells.
+• Befoul (2 charges)
+• Despoil (2 charges)
+• Morality undone (1 charge, DC 16)
+• Shriveling (heightened to 6th level, 10d4 damage, DC 19) (1 charge)
+• Wither limb (heightened to 6th level, 10d8 damage, DC 19) (1 charge)
+
+Caster Level: 17th; 
+Prerequisites: Craft Staff, befoul, despoil, shriveling, morality undone, wither limb; 
+Market Price: 192,000 gp; 
+Weight: 5 lb.

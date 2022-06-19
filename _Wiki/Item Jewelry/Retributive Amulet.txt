@@ -1,0 +1,10 @@
+This amulet provides a +2 sacred bonus to AC. In addition, when the wearer takes damage from a melee attack made with a natural or hand-held weapon, the damage is divided equally between the attacker and the target. If the damage is an odd number, the extra point of damage goes to the attacker.
+
+The retributive amulet deals the same types of wounds upon the attacker that the wearer receives, but only damage to hit points. For example, a rogue who uses a poisoned dagger to stab the amulet’s wearer would receive an identical gash in the same spot as the wearer, but would not suffer ability loss from the weapon’s poison.
+
+The amulet must be worn to function; it needs no command word for activation.
+
+Faint abjuration; 
+CL 5th; 
+Craft Wondrous Item, shield other;
+Price 56,000 gp

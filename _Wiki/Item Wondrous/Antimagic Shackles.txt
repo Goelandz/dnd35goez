@@ -1,0 +1,7 @@
+These adamantine manacles fit any Small to Large creature and create an antimagic field to a radius of 5 feet when they are fastened. The DC to slip out of the shackles is 28, but breaking them is nearly impossible, requiring a DC 40 Strength check.
+
+Moderate abjuration; 
+CL 11th; 
+Craft Wondrous Item, antimagic field; 
+Price 132,000 gp; 
+Weight 5 lb

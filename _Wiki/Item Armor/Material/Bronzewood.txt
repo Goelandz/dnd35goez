@@ -1,0 +1,11 @@
+This exceptionally hard wood is useful for making both armor and weapons. Unlike most woods, bronzewood can be used instead of metal to fashion heavy armor and weapons. Although dense and weighty compared to other woods, it is still lighter than most metal: Items weigh 10% less when made from bronzewood rather than metal. Armor made of bronzewood is also less obtrusive than similar armor made of metal. The armor check penalty from bronzewood armor and shields does not affect Hide checks made in woodland environments.
+
+The following armors can be made from bronzewood: breastplate, banded mail, splint mail, half-plate, and full plate. Although bronzewood can replace metal in most weapons, chain weapons such as the spiked chain cannot be made from it.
+
+Bronzewood has a hardness of 10 and 20 hit points per inch of thickness.
+
+Item 		Market Price Modifier
+Light armor 	+1,000 gp
+Medium armor 	+4,000 gp
+Heavy armor 	+9,000 gp
+Other items 	500 gp/lb

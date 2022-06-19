@@ -1,0 +1,8 @@
+Whip-dagger, mighty
+
+Item 		Cost 		Damage 		Crit 		Range 		Weight 		Type
+
++1 Str bonus 	225 gp 		1d6 		×2 		15 ft.  	4 lb. 		Slashing
++2 Str bonus 	325 gp 		1d6 		×2 		15 ft.  	5 lb. 		Slashing
++3 Str bonus 	425 gp 		1d6 		×2 		15 ft.  	6 lb. 		Slashing
++4 Str bonus 	525 gp 		1d6 		×2 		15 ft.  	7 lb. 		Slashing

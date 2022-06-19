@@ -1,0 +1,8 @@
+Covered with various runes and sigils meaning “earth,” these pitons burrow into earth, rock, and stone, providing a secure support for ropes and other climbing gear. It requires a partial action to burrow into solid, cut stone and other masonry. The pitons grant a +2 circumstance bonus on Climb checks while using climbing equipment. They are single-use items.
+
+A burrowing piton used in melee deals 1d8 points of damage (×3 critical) against stone golems, clay golems, earth elementals, and any other creature composed of earth or stone. It has no special effect against other types of creatures.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Wondrous Item, soften earth and stone; 
+Market Price: 380 gp;
+Weight: 1/2 lb.

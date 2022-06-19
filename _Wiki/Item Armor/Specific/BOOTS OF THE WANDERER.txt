@@ -1,0 +1,14 @@
+Price (Item Level): 1,500 gp (5th) 
+Body Slot: Feet 
+Caster Level: 3rd 
+Aura: Faint (DC 16); conjuration 
+Activation: — 
+Weight: 1 lb. 
+
+These rugged, brown leather boots appear faded as though from years of use. The soles are scuffed but still quite solid. 
+
+While wearing boots of the wanderer, you automatically succeed on any Constitution checks required for running or making a forced march If you are a worshiper of Fharlanghn (or any deity that offers access to the Travel domain), you also gain a +5-foot enhancement bonus to your land speed while wearing the boots. 
+
+Cost to Create: 750 gp, 60 XP, 2 days. 
+
+Prerequisites: Craft Wondrous Item, lesser restoration, longstrider, worshiper of Fharlanghn. 

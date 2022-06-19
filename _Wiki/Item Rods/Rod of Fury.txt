@@ -1,0 +1,6 @@
+A rod of this sort typically has its top carved to resemble the head of an angry deity. In addition to giving the bearer a defl ection bonus to Armor Class (+1 to +5, depending on the type of rod), a rod of fury allows a spellcaster to increase the effectiveness of one spell of 6th level or lower per day, altering it as if it were under the effect of the Empower Spell feat. Activating this ability is a free action and does not affect the spell level or casting time of the altered spell (even for sorcerers and other spontaneous casters).
+
+ Strong abjuration; 
+CL 17th; 
+Craft Rod, Empower Spell, Spell Focus, protection from chaos/evil/good/law, creator’s caster level must be at least three times that of the bonus placed in the rod; 
+Price 26,800 gp (+1), 38,800 gp (+2), 58,800 gp (+3), 77,600 gp (+4), 95,600 gp (+5).

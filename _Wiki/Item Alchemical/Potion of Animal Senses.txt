@@ -1,0 +1,5 @@
+This murky brown potion smells like the pelt of a wet animal. When imbibed, it grants low-light vision, the scent ability (see Special Qualities in the Monster Manual), and +2 circumstance bonus on all Listen checks for 1 hour.
+
+Caster Level: 5th; 
+Prerequisites: Brew Potion, creator must be a spellcaster of 5th level; 
+Market Price: 380 gp.

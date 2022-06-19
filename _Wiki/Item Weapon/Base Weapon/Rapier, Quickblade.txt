@@ -1,0 +1,7 @@
+Quickblade rapiers are longer and thinner than normal rapiers, with specially tapered blades and carefully balanced pommels. The design makes the weapon more diffi cult to wield properly than a normal rapier, but it allows those skilled in the weapon’s use to disarm opponents more easily and to feint more effectively in combat. Most quickblade rapiers are at least masterwork in quality.
+
+If you are proficient with the quickblade rapier, you gain a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails). You also gain a +2 circumstance bonus on Bluff checks made to feint in combat.
+
+ You can use the Weapon Finesse feat (see page 102 of the Player’s Handbook) to apply your Dexterity modifi er instead of your Strength modifi er to attack rolls with a quickblade rapier sized for you. You can’t use a quickblade rapier in two hands to apply 1-1/2 times your Strength modifier to damage.
+
+ Characters profi cient with the quickblade rapier can treat it as a rapier for the purpose of any of the following feats: Greater Weapon Focus, Greater Weapon Specialization, Improved Critical, Weapon Focus, and Weapon Specialization

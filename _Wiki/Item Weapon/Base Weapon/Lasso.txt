@@ -1,0 +1,5 @@
+A lasso is an entangling weapon that deals no damage, but it entangles only parts of an opponent’s body. When you use a lasso to entangle your opponent’s arms, you make a ranged touch attack against your target. A lasso’s maximum range is 30 feet. If you hit, the target is partially entangled, taking a –2 on attack rolls and a –4 penalty on effective Dexterity. The creature’s speed is not reduced, and it can still charge or run, but if you control the trailing rope by succeeding at an opposed Strength check while holding it, the lassoed creature can only move within the limits that the rope allows. If the lassoed creature attempts to cast a spell, it must succeed on a DC 15 Concentration check or be unable to cast the spell.
+
+The lassoed creature can escape with a DC 20 Escape Artist check as a full-round action. The lasso has 2 hp and can be broken with a DC 23 Strength check—also a full-round action.
+
+Alternatively, you can use a lasso to make trip attacks. If you are tripped during your own trip attempt, you can drop the lasso to avoid being tripped.

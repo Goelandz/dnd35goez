@@ -1,0 +1,6 @@
+DEPTH
+Very deep water deals water pressure damage of 1d6 points per minute for every 100 feet the character is below the surface. A Fortitude save (DC 15, +1 for each previous check) means that you take no damage in that minute.
+
+ Any creature with the aquatic type ignores pressure for the first 500 feet of depth, and only takes 1d6 points of damage per 200 feet below that when determining vulnerability to pressure damage. For example, an aquatic elf at a depth of 900 feet is subject to 2d6 points of pressure damage per minute, as opposed to the 9d6 points of pressure damage a surface dweller faces.
+
+Some deep-dwelling creatures are completely immune to pressure damage. Aberrations, elementals, and outsiders with the aquatic subtype are generally immune to pressure damage, as are certain other creatures adapted to the environment (such as giant squids or whales).

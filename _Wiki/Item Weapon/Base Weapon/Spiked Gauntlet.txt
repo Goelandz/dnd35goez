@@ -1,0 +1,2 @@
+Gauntlet, Spiked
+Your opponent cannot use a disarm action to disarm you of spiked gauntlets. The cost and weight given are for a single gauntlet. An attack with a spiked gauntlet is considered an armed attack.

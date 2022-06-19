@@ -1,0 +1,14 @@
+Deities: Phieran.
+
+Granted Power: You can perform a feat of endurance, which is the supernatural ability to gain an enhancement bonus to Constitution equal to one-half your level. Activating the power is a free action, the power lasts 1 minute, and it is usable once per day.
+
+Endurance Domain Spells
+1 	Endure Elements: Exist comfortably in hot or cold environments.
+2 	Bear’s Endurance: Subject gains +4 Con for 1 minute/level.
+3 	Refreshment: Cures creatures of all nonlethal damage.
+4 	Sustain M: Recipients need no food or drink for 6 hours/level.
+5 	Stoneskin M: Stops blows, cuts, stabs, and slashes.
+6 	Mass Bear’s Endurance: As bear’s endurance, affects one subject/level.
+7 	Globe of Invulnerability: As minor globe, plus 4th level.
+8 	Spell Turning: Reflect 1d4+6 spell levels back at caster.
+9 	Iron Body: Your body becomes living iron.

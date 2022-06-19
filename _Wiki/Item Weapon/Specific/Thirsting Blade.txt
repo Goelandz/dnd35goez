@@ -1,0 +1,6 @@
+This +4 longsword can dehydrate those it strikes. Whenever the wielder scores a successful critical hit, the thirsting blade deals an additional 1d6 points of subdual damage. This damage cannot be recovered unless the victim first imbibes at least 1 quart of water. Creatures who take subdual damage from a thirsting blade are also considered fatigued (see Environment in Chapter 3 of the DUNGEON MASTER’S Guide). Outsiders and creatures immune to critical hits are immune to this subdual damage.
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, disintegrate; 
+Market Price: 72,315 gp; 
+Cost to Create: 36,315 gp + 2,880 XP.

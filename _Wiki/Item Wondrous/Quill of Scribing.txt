@@ -1,0 +1,17 @@
+Beloved by wizards everywhere, this magical quill can scribe a scroll for you, leaving you free to pursue other activities.
+
+Description: This item appears to be a normal quill, albeit one made from the feather of an exotic bird. It is jet black but shimmers with a veritable rainbow of colors when observed at an angle in bright light, as if it was coated in a thin sheen of reflective oil. Despite this, it feels dry to the touch.
+
+When in use, the pen writes on its own, needing no inkwell or other writing supplies.
+
+Prerequisite: You must have the Scribe Scroll feat to activate a quill of scribing.
+
+Activation: A quill of scribing is activated by a command word in Draconic, translating roughly as “inscribe.” This requires a standard action. It deactivates when it is through scribing the scroll in question, but it can be deactivated early simply by taking it in hand and pulling it away from the scroll (though this wastes any resources required to scribe the scroll). The quill can be activated only once per day, even if it is deactivated early.
+
+Effect: A quill of scribing animates and scribes a scroll for you (of any single spell that you know). Treat this just as if you were scribing it, including gp cost, XP cost, time, and all other construction requirements.
+
+Spellcasters typically activate a quill of scribing just before going to bed (or, in the case of more raucous spellcasters, just before going drinking).
+
+Aura/Caster Level: Faint, no school. CL 1st.
+Construction: Craft Wondrous Item, Scribe Scroll, prestidigitation, 875 gp, 70 XP, 2 days.
+Price: 1,750 gp.

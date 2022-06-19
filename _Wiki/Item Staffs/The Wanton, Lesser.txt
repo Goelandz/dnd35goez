@@ -1,0 +1,10 @@
+This staff, which benefits chaotic evil spellcasters the most, allows use of the following spells:
+• Dispel good (2 charges)
+• Dispel law (2 charges)
+• Chaos hammer (1 charge)
+• Unholy blight (1 charge)
+
+ Moderate abjuration; 
+CL 9th; 
+Craft Staff, chaos hammer, dispel good, dispel law, unholy blight;
+Price 28,266 gp.

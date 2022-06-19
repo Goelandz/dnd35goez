@@ -1,0 +1,5 @@
+This bit-and-bridle set always looks clean and new. When worn by a horse, a clever bridle grants the ability to learn three, six, or nine more tricks than the horse could normally learn, depending on the version. The horse must wear the bridle for 8 hours per day to maintain any extra tricks it learns.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, animal friendship; 
+Market Price: 3 tricks 1,000 gp, 6 tricks 4,000 gp, 9 tricks 9,000 gp; Weight: 1 lb.

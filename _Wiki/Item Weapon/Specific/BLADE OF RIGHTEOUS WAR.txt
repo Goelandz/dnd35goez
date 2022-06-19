@@ -1,0 +1,19 @@
+Price (Item Level): 12, 315 gp (l3th) 
+Body Slot: —(held) 
+Caster Level: 7th 
+Aura: Moderate (DC 18); evocation 
+Activation: — or free; see text 
+Weight: 4 lb. 
+
+A blood groove runs down the center of this weapon's blade. Set into the pommel is a blood-red ruby, and within its crimson depths floats a deity's holy symbol. 
+
+This +1 longsword is favored by paladins and certain clerics. 
+
+Any time you roll a critical threat with the blade of righteous war, you can sacrifice a turn/rebuke ^) / undead attempt as a free action to gain a +4 bonus on the roll made to confirm the critical threat. You must make this decision before making the confirmation roll. 
+
+The blade of righteous war is part of a set known collectively as the regalia of righteous war, which also includes the helm of righteous war (page 139) and the bastion of righteous war (see above). When you use all three together, you gain an additional benefit as noted in the description of the bastion of righteous war. 
+
+The holy symbol pictured in the weapon's pommel always matches the deity worshiped by the holder (if any). 
+
+Cost to Create: 6, 000 gp (plus 315 gp for masterwork longsword), 480 XP, 12 days. 
+Prerequisites: Craft Magic Arms and Armor, divine power, turn or rebuke undead. 

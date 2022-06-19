@@ -1,0 +1,16 @@
+Deity: Boccob, Erythnul, Vecna. 
+
+Granted Power: You gain an "Insanity score" equal to half your class level (add cleric levels to prestige class levels for this purpose). For spellcasting (determining bonus spells and DCs), add this score to your Wisdom score and use the result in place of Wisdom alone. For all other purposes, such as skill checks and saving throws, subtract this score from your Wisdom score and use the result in place of Wisdom alone. This means that your spells are very difficult to resist, but you are in general unaware of your surroundings and act imprudently—often erratically.
+
+Once per day, you can see and act with the clarity of true madness. Use your Insanity score as a bonus on a single roll involving Wisdom, such as a Listen check or a Will saving throw. Choose to use this power before the roll is made.
+
+Madness Domain Spells
+1 Random Action. One creature acts randomly forone round.
+2 Touch of Madness†. Dazes one creature for 1round/level.
+3 Rage†. Gives +4 Str, +4 Con, +2 morale bonus onWill saves.
+4 Confusion. Makes subject behave oddly for 1 round/level.
+5 Bolts of Bedevilment†. One ray/round, dazes 1d3 rounds.
+6 Phantasmal Killer. Fearsome illusion kills one creature or deals 3d6 damage.
+7 Insanity. Subject suffers continuous confusion.
+8 Maddening Scream†. Subject has -4 AC, no shield, Reflex save on 20 only.
+9 Weird. As phantasmal killer, but affects all within 30 ft.

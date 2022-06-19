@@ -1,0 +1,7 @@
+This simple circlet functions as a headband of intellect +4. However, whenever the wearer casts a Conjuration (summoning) or Conjuration (calling) spell, the conjured creature is hostile to the wearer and attacks her instead of her enemies.
+
+Once this function has activated, the headband can be removed only by means of a remove curse spell. A variation of this item that works as a periapt of Wisdom +4 also exists.
+
+Caster Level: 16th;
+Prerequisites: Craft Wondrous Item, charm monster, commune or legend lore, bestow curse;
+Market Price: 13,000 gp; Weight: —.

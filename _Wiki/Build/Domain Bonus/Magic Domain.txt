@@ -1,0 +1,34 @@
+Criterion 										Affiliation Score Modifier 
+One-Time 
+Character level 										+1/2 levels 
+Knowledge (arcana) or (religion) 5-9 ranks 							+1/skill 
+Knowledge (arcana) or (religion) 10 or more ranks 						+2/skill 
+Use Magic Device 5-9 ranks 									+1 
+Use Magic Device 10 or more ranks 								+2 
+Can cast 3rd- or 4th-level arcane or divine spells 						+1 
+Can cast 5th-level or higher arcane or divine spells 						+2 
+Can cast both arcane and divine spells 								+1 
+Has one or more item creation feats 								+1 
+Lacks any spellcasting ability 									-2 
+
+Multiple Use 
+Converts a new member 										+1 
+Discovers a new source of magical power 							+4 
+Creates a new spell or magic item 								+1 
+Destroys a foe single-handedly using only magic 						+1/4 creature's CR 
+Defends a bastion of magical knowledge from attack 						+4 
+Recovers an artifact and donates it to the church 						+10 
+Founds a school of magic-' 									+4 
+Founds a school of magic dedicated to both arcane and divine magic* 				+6 
+Destroys a magic item or magic-related knowledge 						-8 
+Knowingly associates with those who hunt or persecute spellcasters 				-4 
+Loses or destroys magic church property 							-1/1,000 gp value 
+Fails to defend an item or location important to the church 					-4 
+* Overlaps for the same school. 
+
+Rank	Score		Title: Benefits and Duties
+0	3 or lower	None.
+1	4-14		Orison/Cantrip: Gain a +2 bonus on Use Magic Device checks made to emulate a class feature.
+2	15-22		Prodigy: Gain a +2 bonus on spellcraft checks made to identify a spell being cast.
+3	23-29		Sage: Effective caster level for a single type of magic (Arcane of a single school or divine, your 			choice) increase by 1.
+4	30 or higher	Master of Magical Philosophy: Once per day, counter a spell without a readied action, and without 			having the same spell ready to cast, provided you succeed on a Spellcraft check to identify the 			spell as normal.

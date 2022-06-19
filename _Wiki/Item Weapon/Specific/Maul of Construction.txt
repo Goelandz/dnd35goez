@@ -1,0 +1,6 @@
+This Large +2 warhammer gives its wielder power over stone. Because of its size, a maul of construction deals 2d6 base damage, weighs 16 pounds, and must be used in two hands by Medium-size characters. The maul allows its wielder to cast stone shape and wall of stone once per day each, as the spells from a 15th-level caster.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, stone shape, wall of stone; 
+Market Price: 51,824 gp; 
+Cost to Create: 26,224 gp + 2,048 XP.

@@ -1,0 +1,11 @@
+Wrought from four twisted rods of adamantine, this double weapon is a +4 axiomatic staff of clouting (see the clouting special ability earlier in this chapter) and a +1 staff. In addition to its potent properties as a weapon, a staff of masteryallows the use of the following spells:
+• Hold person (1 charge)
+• Dimensional anchor (1 charge)
+• Repulsion (2 charges)
+• Dominate monster (3 charges)
+ When its charges are used up, a staff of mastery remains a +4 axiomatic staff of clouting/+1 staff.
+
+ Strong enchantment; 
+CL 17th; 
+Craft Staff, dimensional anchor, dominate monster, hold person, order’s wrath, repulsion, creator must be lawful; 
+Price 223,000 gp

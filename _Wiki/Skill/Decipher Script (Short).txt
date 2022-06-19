@@ -1,0 +1,24 @@
+Int
+Trained only
+
+-------------------------------------------
+Decipher: Decipher script 1 page
+
+DC 20	Simple message
+DC 25	Standard text
+DC 30	Intricate or Old writting.
+
+Failure? DC 5 wisdom or don't realize mistake.
+
+Take 1 minute each page.
+Retry? Yes
+
+-------------------------------------------
+Create Private cipher: Create own cipher, DC 10 + Skill
+
+Take weeks.
+
+-------------------------------------------
+Read Private cipher: 
+
+Retry? Yes but take 1 week

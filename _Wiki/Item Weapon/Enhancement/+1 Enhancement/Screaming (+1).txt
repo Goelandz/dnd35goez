@@ -1,0 +1,5 @@
+Upon command, a screaming weapon emits a low hum that is grating upon the ears but does not harm the wielder. If it hits a target, it produces a high-pitched sound and deals +1d6 points of bonus sonic damage. Bows, crossbows, and slings with this ability bestow the sonic energy upon their ammunition. Screaming weapons don’t deal this bonus damage if the target is within a silence spell. They have no additional adverse effects on creatures with unusually acute hearing, although such creatures dislike them.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, shout or sound burst; 
+Market Price: +1 bonus.

@@ -1,0 +1,3 @@
+A sure striking weapon harms creatures with damage reduction as if it had a +5 enhancement bonus. Bows, crossbows, and slings cannot have this ability.
+
+Caster Level: 6th; Prerequisites: Craft Magic Arms and Armor, greater magic weapon; Market Price: +1 bonus

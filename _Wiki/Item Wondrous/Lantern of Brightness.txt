@@ -1,0 +1,6 @@
+This ornate bullseye lantern is adorned with gold filigree and sun patterns. It is illuminated with a permanent light spell. Twice per day, the lantern can emit a sunbeam (as the spell from a 13th-level caster).
+
+Caster Level: 13th; 
+Prerequisites: Craft Wondrous Item, light, sunbeam; 
+Market Price: 66,520 gp; 
+Weight: 3 lb.

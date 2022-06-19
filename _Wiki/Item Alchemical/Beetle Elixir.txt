@@ -1,0 +1,13 @@
+Beetle elixir causes the drinker’s skin to bulk up, darken, and gloss over. Short antennae also sprout from his or her forehead. The drinker gains a +2 natural armor bonus and darkvision up to 60 feet. The effects last for 1 hour.
+
+Caster Level: 6th; 
+Prerequisites: Brew Potion, alter self, darkvision, Alchemy skill; 
+Market Price: 8,300 gp.
+
+
+
+
+
+
+DC To Create	20
+Cost		20 gp

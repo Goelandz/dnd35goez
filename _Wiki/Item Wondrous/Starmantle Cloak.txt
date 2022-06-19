@@ -1,0 +1,7 @@
+This draping black cloak turns into a sparkling mantle of tiny, cascading stars when worn. The cloak sheds light as a torch, renders the wearer impervious to nonmagical weapon attacks, and transforms any nonmagical weapon or missile that strikes the wearer into harmless light, destroying it. Contact with the starmantle does not destroy magic weapons or missiles, but the starmantle’s wearer is entitled to a DC 15 Reflex save each time he is struck by such a weapon; success indicates that the wearer takes only half damage from the attack.
+
+Moderate abjuration; 
+CL 11th; 
+Craft Wondrous Item, starmantle; 
+Price 132,000 gp; 
+Weight 1 lb.

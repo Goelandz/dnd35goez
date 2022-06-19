@@ -1,0 +1,20 @@
+Sought by those who share a link with a familiar, a rod of spell channeling allows you to deliver spells other than touch spells through your companion.
+
+Description: A rod of spell channeling appears to be a short wooden or bone shaft, with numerous animalistic shapes and symbols engraved up and down its length.
+
+Upon activation, the rod hums very lightly, duplicating the call of the species to which your familiar belongs.
+
+Activation: Activating a rod of spell channeling is a free action that you take as you cast the spell to which you wish to apply its effects. Your familiar must be within 60 feet, and you must have line of sight to it. The rod can be used three times per day.
+
+Effect: You can cast any spell with a range greater than touch or 0 feet with its source as your familiar, rather than from your own person. 
+
+If the spell affects one or more targets, both you and your familiar must have line of sight to any target selected. For all other purposes (including attack rolls, save DCs, and so on), treat the spell as if you were the caster.
+
+You can apply this effect to spells of 3rd level or lower if using a lesser rod of spell channeling, to spells of 6th level or lower if using a normal rod of spell channeling, and to spells of 9th level or lower if using a greater rod of spell channeling.
+
+Aura/Caster Level: Strong, no school. CL 17th.
+
+Construction: Craft Rod, must have a familiar, 4,500 gp, 360 XP, 9 days (lesser); 16,250 gp, 1,300 XP, 33 days (normal);
+36,500 gp, 2,920 XP, 73 days (greater).
+Weight: 2 lb.
+Price: 9,000 gp (lesser), 32,500 gp (normal), 73,000 (greater).

@@ -1,0 +1,7 @@
+This device appears to be a headband of intellect +6 and functions as such until the wearer attempts a skill check based on Intelligence. At that moment and thereafter, the headband imposes a –6 penalty on the wearer’s Intelligence. 
+
+Once the curse is activated, a headband of simplemindedness can be removed only by means of a remove curse spell.
+
+Caster Level: 16th; 
+Prerequisites: Craft Wondrous Item, commune or legend lore, bestow curse; 
+Market Price: 1,300 gp; Weight: —.

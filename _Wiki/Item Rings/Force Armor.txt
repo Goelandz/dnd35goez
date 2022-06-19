@@ -1,0 +1,5 @@
+This pair of black iron rings must be worn as a set, one on either hand with no other magic ring, to function. They sheathe their wearer in a field of magical force, granting a +4 armor bonus to AC (as the mage armor spell). This sheath is harmful to the touch: Any creature whose bare flesh contacts the wearer takes 1d4 points of damage. The wearer’s unarmed strikes gain a +1 enhancement bonus on attacks and deal an additional 1d4 points of damage.
+
+Caster Level: 9th; 
+Prerequisites: Forge Ring, mage armor, magic weapon, wall of force; 
+Market Price: 45,000 gp.

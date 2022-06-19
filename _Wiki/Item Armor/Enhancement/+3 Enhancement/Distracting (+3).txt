@@ -1,0 +1,6 @@
+Armor or shields with this quality shimmer and glow hypnotically. Anyone engaged in combat with the wearer must succeed on a Will save each round or be affected by the daze spell. Once per day, the wearer can activate hypnotic pattern (as the spell from a 9th-level caster).
+
+Caster Level: 9th; 
+Prerequisites: 
+Craft Magic Arms and Armor, daze, hypnotic pattern; 
+Market Price: +3 bonus.

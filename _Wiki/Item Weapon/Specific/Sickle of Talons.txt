@@ -1,0 +1,6 @@
+This +2 keen sickle is particularly useful to those who can change their shape. Whenever its wielder transforms into a shape with natural claw or bite attacks, the sickle of talons grants a +2 enhancement bonus on the new form’s claw and bite attacks.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, keen edge, magic fang; 
+Market Price: 26,306 gp; 
+Cost to Create: 13,306 gp + 1,040 XP

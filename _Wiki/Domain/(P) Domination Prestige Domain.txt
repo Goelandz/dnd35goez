@@ -1,0 +1,13 @@
+Deities: Gruumsh, Hextor, St. Cuthbert, Wee Jas.
+Granted Power: You gain the Spell Focus (Enchantment) feat.
+
+Domination Domain Spells
+1 Command. One subject obeys one-word commandfor 1 round.
+2 Enthrall. Captivates all within 100 ft. + 10 ft/level.
+3 Suggestion. Compels subject to follow statedcourse of action.
+4 Dominate Person. Controls humanoid telepathically.
+5 Greater Command. As command, but affects onesubject/level.
+6 Geas/Quest. As lesser geas, but affects any creature.
+7 Mass Suggestion. As suggestion, plus one/levelsubjects.
+8 True Domination†. As dominate person, but save at -4.
+9 Monstrous Thrall†. As dominate person, but permanent and affects any creature.

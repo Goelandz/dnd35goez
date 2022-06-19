@@ -1,0 +1,13 @@
+Deities: Boccob, Obad-Hai, Pelor, Vecna.
+Granted Power: You cast divination spells at +2 caster levels.
+
+Divination Domain Spells
+1 Identify. Determines single feature of magic item.
+2 Augury. Learns whether an action will be good or bad.
+3 Divination. Provides useful advice for specific, proposed action.
+4 Scrying. Spies on subject from a distance.
+5 Commune. Deity answers one yes-or-no question/level.
+6 Legend Lore. Learn tales about a person, place, or thing.
+7 Greater Scrying. As scrying, but faster and longer.
+8 Discern Location. Exact location of creature or object.
+9 Foresight. "Sixth sense" warns of impending danger.

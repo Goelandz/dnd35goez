@@ -1,0 +1,6 @@
+This Large +2 heavy crossbow is covered with dwarven runes, and the intricate stock has been carved to resemble the head of a hammer. Because of its increased size, the dwarven mauler deals 1d12 points of damage on a successful hit. This increase in size does not affect the time it takes to load the crossbow. Furthermore, against all giants and goblinoids, the dwarven mauler’s critical multiplier is increased to ×4.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be a dwarf; 
+Market Price: 18,700 gp; 
+Cost to Create: 9,700 gp + 720 XP.

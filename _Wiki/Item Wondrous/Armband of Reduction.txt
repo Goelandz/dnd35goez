@@ -1,0 +1,5 @@
+This metal armband allows its wearer to reduce his height to one-half normal, as if a reduce spell had been cast upon him. This effect functions once per day, lasts for 2 hours, and may be dismissed at will by the wearer.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, reduce; 
+Market Price: 2,000 gp; Weight: 1 lb.

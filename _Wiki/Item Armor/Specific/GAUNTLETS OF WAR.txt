@@ -1,0 +1,14 @@
+Price (Item Level): 4, 000 gp (8th) 
+Body Slot: Hands 
+Caster Level: 3rd 
+Aura: Moderate (DC 16); transmutation 
+Activation: — 
+Weight: 4 lb. 
+
+These simple metal gauntlets are the type that normally comes with a suit of full plate armor, though they are abnormally well polished. Symbols of war are etched deeply across the back of each. 
+
+While you wear gauntlets of war, you gain a +1 bonus on melee weapon damage. If you worship any deity that grants access to the War domain, this bonus increases to +3 with that deity's favored weapon. 
+
+Cost to Create: 2, 000 gp, 160 XP, 4 days. 
+
+Prerequisites: Craft Wondrous Item, bull's strength, access to the War domain. 

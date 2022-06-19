@@ -1,0 +1,7 @@
+This +1 arrow sticks into its target on a successful hit and embeds itself in the wound. A burrowing arrow must be pulled out before natural healing can occur, and this removal deals a further 1d8 points of damage. If the target receives magical healing, the burrowing arrow immediately deals 1d8 points of damage as the magic forces it out of the wound.
+
+ Faint necromancy; 
+CL 4th; 
+Craft Magic Arms and Armor, infl ict light wounds; 
+Price 167 gp; 
+Cost 87 gp + 6 XP.

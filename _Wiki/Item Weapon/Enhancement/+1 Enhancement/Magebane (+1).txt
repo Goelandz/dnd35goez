@@ -1,0 +1,6 @@
+Weapons crafted with the magebane property are rightly feared by all arcane spellcasters. Against any creature with arcane spells currently prepared or spell slots available to cast arcane spells without preparation, or against creatures with the ability to use arcane spell-like abilities, a magebane weapon’s effective enhancement level is 2 better than normal (so that a +1 longsword becomes a +3 longsword when wielded against arcane spellcasters) and deals an extra 2d6 points of damage. Magebane bows, crossbows, and slings bestow this ability upon their ammunition.
+
+ Moderate conjuration; 
+CL 8th; 
+Craft Magic Arms and Armor, dispel magic; 
+Price +1 bonus.

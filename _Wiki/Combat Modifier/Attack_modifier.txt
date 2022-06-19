@@ -1,0 +1,10 @@
+Attack Roll Modifiers 
+Attacker is . . . 		Melee 	Ranged 
+Dazzled 			–1 	–1 	
+Entangled 			–2	–2
+Flanking defender 		+2 	— 
+Invisible 			+2 	+2
+On higher ground 		+1 	+0 
+Prone 				–4 	—3
+Shaken or frightened 		–2 	–2 
+Squeezing through a space 	–4 	–4

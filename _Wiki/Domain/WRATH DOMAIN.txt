@@ -1,0 +1,14 @@
+Deities: Kharash.
+
+Granted Power: Once per day, you may make a free attack of opportunity against any opponent that damages you with a melee attack. This ability does not allow you to make more than one attack of opportunity in a round.
+
+Wrath Domain Spells
+1 	Doom: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+2 	Energize Potion M: Transforms potion into a grenade that deals energy damage in a 10-ft.-radius burst.
+3 	Affliction: Infects evil subject with chosen affliction.
+4 	Radiant Shield: Creatures attacking you take electricity damage; you’re protected from electricity.
+5 	Righteous Might: Your size increases, and you gain combat bonuses.
+6 	Vengeance Halo: Any creature that slays the spell’s recipient takes 1d6/level damage.
+7 	Righteous Smite: Deals 1d6 damage/level (1d8 damage/level to evil outsiders) in 20-ft. radius and blinds evil foes.
+8 	Last Judgment: Evil creatures are struck dead and sent to Lower Planes.
+9 	Storm of Vengeance: Storm rains acid, lightning, and hail.

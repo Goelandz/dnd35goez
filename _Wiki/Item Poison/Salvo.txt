@@ -1,0 +1,13 @@
+The fortuitous creation of a poisoner with little skill, salvo is a weapon of the imprecise and desperate.
+
+The poison is relatively cheap and easy to create, but its effect fluctuates wildly from dose to dose.
+
+Salvo deals 1d4 points of initial and secondary damage to a random ability score. Determine the affected ability by rolling 1d6 and consulting the following table; roll once per dose. The poison’s type and save DC do not vary.
+
+d6	Ability Damaged
+1 	Strength
+2 	Dexterity
+3 	Constitution
+4 	Intelligence
+5 	Wisdom
+6 	Charisma

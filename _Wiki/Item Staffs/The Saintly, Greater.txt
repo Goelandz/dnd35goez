@@ -1,0 +1,9 @@
+A more powerful version of lesser staff of the saintly, this staff allows use of the following spells:
+• Shield of law (2 charges)
+• Holy aura (2 charges)
+• Dictum (1 charge)
+• Holy word (1 charge)
+Strong abjuration; 
+CL 15th; 
+Craft Staff, dictum, holy aura, holy word, shield of law; 
+Price 78,750 gp.

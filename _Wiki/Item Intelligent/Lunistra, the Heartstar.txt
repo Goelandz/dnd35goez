@@ -1,0 +1,14 @@
++4 soulfire breastplate; 
+AL NG; 
+Int 12, Wis 10, Cha 12; 
+Empathy, 30 ft. vision and hearing; 
+Ego score 11.
+
+Languages (understand only): Celestial, Common.
+Lesser Powers: Cure moderate wounds 3/day (on wearer only).
+
+Personality: Lunistra is a golden breastplate shaped in the likeness of a lupinal guardinal’s visage, with a golden eight-pointed star adorning its forehead. When donned by a creature of good alignment, Lunistra exudes unflinching confidence in its ability to protect the wearer from grave harm. Lunistra maintains a constant readied action to cast cure moderate wounds on the wearer if he or she is reduced to 0 hp or fewer, and it resists any attempt by the wearer to deplete its cure moderate wounds ability in less critical situations.
+
+Strong abjuration; 
+CL 13th; Craft Magic Arms and Armor, cure moderate wounds, death ward; 
+Price 71,850 gp.

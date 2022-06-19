@@ -1,0 +1,7 @@
+This elegant necklace is formed of bloodstones, and a large ruby hangs at its center. To all appearances, it is a beneficial and powerful item, granting several magical abilities to its wearer. It grants the wearer darkvision with a range of 60 feet and doubles her rate of natural healing. Three times per day, the wearer can use vampiric touch. Once per day, she can use finger of death.
+
+The first time the wearer uses finger of death, the necklace adheres itself to the wearer. At this point it cannot be removed unless the wearer dies or a remove curse is cast. The evil magic of the necklace is such that it entices the wearer to use this power, causing the command word to spring to mind every time she becomes angry, for example. Each successive use of that power causes the necklace to become more and more a part of the wearer’s body, gradually being covered over with skin until, after ten uses of the power, the ruby of the necklace reaches the wearer’s heart, killing her forever and turning her into a vampire.
+
+Caster Level: 20th; 
+Prerequisites: Craft Wondrous Item, create greater undead, finger of death, vampiric touch; 
+Market Price: 90,000 gp; Weight: —.

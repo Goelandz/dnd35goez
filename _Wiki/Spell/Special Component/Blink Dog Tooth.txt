@@ -1,0 +1,1 @@
+A spell to which this component is applied has a 50% chance to confer the ghost touch ability and negate miss chances due to blur, displacement, entropy, or phasing abilities.

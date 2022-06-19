@@ -1,0 +1,6 @@
+This oddly shaped sling bullet consists of a tightly packed cluster of small spheres rather than one smooth mass. On a successful hit, a spider’s nest bullet creates a web, as the spell from a 7th-level caster, and releases 2d4 Small monstrous spiders. The spiders move through the web freely and swarm over any creatures caught in it. The spiders do not leave the web and are destroyed if it is. The spiders and the web last for 10 minutes.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, summon monster III, web; 
+Market Price: 1,057 gp; 
+Cost to Create: 532 gp + 42 XP.

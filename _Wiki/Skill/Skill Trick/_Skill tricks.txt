@@ -1,0 +1,5 @@
+Learning a skill trick costs 2 skill points. Whenever you acquire skill points, you can choose to spend skill points to acquire a skill trick instead of purchasing ranks in skills.
+
+You can learn any skill trick, as long as you meet the prerequisite and can afford to expend 2 skill points. If you later no longer meet the prerequisite for a skill trick, you can’t use it again until you once more qualify.
+
+You can’t learn more than one skill trick at any given level, and your total skill tricks cannot exceed one-half your character level (rounded up).

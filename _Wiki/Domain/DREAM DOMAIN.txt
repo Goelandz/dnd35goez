@@ -1,0 +1,15 @@
+Core Deities: None.
+Other Deities: Diirinka.
+
+Granted Power: Because you have long delved into dreams and nightmares, you are immune to fear effects.
+
+Dream Domain Spells
+1 Sleep: Puts 4 HD of creatures into magical slumber.
+2 AuguryM, F: Learns whether an action will be good or bad.
+3 Deep Slumber: Puts 10 HD of creatures to sleep.
+4 Phantasmal Killer: Fearsome illusion kills subject or deals 3d6 damage.
+5 Nightmare: Sends vision dealing 1d10 damage, fatigue.
+6 Dream Sight*: Your spirit can hear and see at a distance for 1 min./level.
+7 Scrying, GreaterF: As scrying, but faster and longer.
+8 Power Word Stun: Stuns creature with 150 hp or less.
+9 Weird: As phantasmal killer, but affects all within 30 ft.

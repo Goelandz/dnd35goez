@@ -1,0 +1,16 @@
+Price (Item Level): 6, 000 gp (10th) 
+Body Slot: Torso 
+Caster Level: 18th 
+Aura: Strong (DC 24); evocation 
+Activation: — 
+Weight: 1 lb. 
+
+This badly stained robe looks as if it was deliberately cut to be unflattering on anyone. The fabric seems to be of poor quality and is dyed a questionable shade of brown-tinged green.
+ 
+While wearing the robe of the vagabond, you gain a +1 luck bonus to Armor Class and on all saving throws. 
+
+This robe is part of a set known collectively as the garb of the vagabond, which also includes the cloak of the vagabond, the sandals of the vagabond, and the staff of the vagabond. Using three or more of these items together grants extra benefits, as described in the entries for the cloak of the vagabond and the staff of the vagabond. 
+
+Cost to Create: 3, 000 gp, 240 XP, 6 days. 
+
+Prerequisites: Craft Wondrous Item, miracle. 

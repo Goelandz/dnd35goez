@@ -1,0 +1,7 @@
+These wrought-iron manacles fit any Small to Large creature. They exude a silence effect in a radius just large enough to contain the creature they hold—a 2 1/2- foot radius for a Small or Medium creature, a 5-foot radius for a Large creature. However, if the creature bound by them escapes without opening them—by slipping out of the shackles or breaking them—the silence effect ends and the shackles ring for 1 round, as the effect of an alarm spell’s audible alarm. The DC to break or slip out of the shackles is 28.
+
+Faint abjuration and illusion; 
+CL 3rd; 
+Craft Wondrous Item, alarm, silence; 
+Price 12,000 gp; 
+Weight 2 lb.

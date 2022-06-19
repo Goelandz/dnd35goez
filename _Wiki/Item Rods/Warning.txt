@@ -1,0 +1,5 @@
+This slender, 4-foot-long rod breaks down into four separate sections. When all four of these sections are planted at least halfway into the ground, they cast alarm and detect scrying as from a 9th-level caster. The area is defined by the location of the rods and is, in theory, unlimited. In practice, however, most users find a 300-foot diameter to be the largest useful area. The alarm lasts until the person who placed a section removes it. If anyone other than that person removes a section, then the alarm automatically triggers. The user can also choose what does not trigger the alarm, such as creature type, specifying size from Fine to Gargantuan.
+
+Caster Level: 9th; 
+Prerequisites: Craft Rod, alarm, detect scrying; 
+Market Price: 58,000 gp

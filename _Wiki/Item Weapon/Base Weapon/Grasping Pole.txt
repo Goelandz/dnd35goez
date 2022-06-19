@@ -1,0 +1,3 @@
+The grasping pole is a pole arm designed to capture opponents with a minimum of harm. A wielder who hits a Small or Medium opponent with a grasping pole can immediately initiate a grapple (as a free action) without provoking an attack of opportunity. (See Grapple in Chapter 8: Combat of the Player’s Handbook for more information.) In addition to the normal options available to a grappler, the wielder of a grasping pole can attempt to pull his target to the ground (the equivalent of a trip attack, though no attack roll is necessary).
+
+A grasping pole has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.

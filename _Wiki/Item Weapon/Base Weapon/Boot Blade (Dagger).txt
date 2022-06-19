@@ -1,0 +1,13 @@
+The most common hidden blade, a boot blade is concealed in the sole of a boot, usually under the toes. The wearer activates the blade by striking a certain part of the boot (usually the toe) against the ground, which flips the weapon it into position. Treat a boot blade as a dagger
+
+======================================================================
+
+Hidden Blades
+
+Scoundrels generally avoid fair fights. Many hide various weapons about their bodies to glean whatever advantage they can.
+
+   A hidden blade is a springloaded blade attached to the inside of armor or boots or strapped to the scoundrel’s body. Activating a hidden blade requires a move action.
+
+Hidden blades can be made masterwork or magic just as normal weapons can be. Attacking with a hidden blade imposes a –2 penalty on the attack roll.
+
+Discovering a hidden blade before it has been activated requires a DC 15 Search check.

@@ -1,0 +1,15 @@
+Core Deities: None.
+Other Deities: Trithereon.
+
+Granted Power: If you are affected by a charm, compulsion, or fear effect and fail your saving throw, you can attempt it again 1 round later at the same DC. You get only this one extra chance to succeed on your saving throw. This granted power is considered a supernatural ability.
+
+Liberation Domain Spells
+1 Omen of Peril*: You know how dangerous the future will be.
+2 Undetectable Alignment: Conceals alignment for 24 hours.
+3 Rage: Subjects gain +2 to Str and Con, +1 on Will saves, –2 to AC.
+4 Freedom of Movement: Subject moves normally despite impediments.
+5 Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrifi cation.
+6 Dispel Magic, Greater: As dispel magic, but up to +20 on check.
+7 Refuge: Alters item to transport its possessor to you.
+8 Mind Blank: Subject is immune to mental/emotional magic and scrying.
+9 Unbinding: Frees everyone in range from spells that constrain or bind.

@@ -1,0 +1,5 @@
+This +3 battleaxe gives its possessor great power over the wind. The possessor is unaffected by severe winds, including magical effects such as the gust of wind spell. Furthermore, three times per day the wielder can cause a gust of wind by swinging the axe of the winds over his head as a standard action. Once per day, the wielder can create a wind wall in a similar manner. Both effects are as the spells from an 11th-level caster.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, gust of wind, wind wall; 
+Market Price: 65,830 gp; Cost to Create: 33,070 + 2,621 XP

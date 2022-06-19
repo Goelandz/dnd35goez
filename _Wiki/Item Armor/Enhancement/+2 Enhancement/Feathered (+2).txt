@@ -1,0 +1,5 @@
+A suit of armor or a shield with this ability appears to be created from thousands of iridescent feathers. This characteristic has no effect on the armor’s or shield’s weight, armor check penalty, or other statistics. Feathered armor or a feathered shield allows the wearer to fly up to 50 minutes per day (as the fly spell).
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, fly; 
+Market Price: +2 bonus.

@@ -1,0 +1,5 @@
+You can follow a successful escape with a swift attack.
+
+Prerequisite: Escape Artist 8 ranks.
+
+Benefit: When you escape a grapple, you can make a single melee attack with a light weapon as a swift action against the opponent that was grappling you. The opponent is considered flat-footed against this attack. You must have the weapon in hand at the beginning of your turn in order to use this trick.

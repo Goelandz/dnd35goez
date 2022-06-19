@@ -1,0 +1,14 @@
+Deities: Barachiel.
+
+Granted Power: Intimidate is a class skill. You gain a +4 sacred bonus on Diplomacy and Intimidate checks.
+
+Herald Domain Spells
+1 	Comprehend Languages: Understand all spoken and written languages.
+2 	Enthrall: Captivates all within 100 ft. + 10 ft./level.
+3 	Tongues: Speak any language.
+4 	Sending: Delivers short message anywhere, instantly.
+5 	Greater Command: As command, but affects one subject/level.
+6 	Dream: Sends message to anyone sleeping.
+7 	Aspect of the Deity: As lesser aspect, but you get celestial qualities.
+8 	Crown of Glory M: Aura inspires awe.
+9 	Greater Aspect of the Deity: As lesser aspect, but gain wings, enhanced ability scores, and various resistances and immunities.

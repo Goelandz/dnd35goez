@@ -1,0 +1,15 @@
+Core Deities: None.
+Other Deities: Bralm, Mouqol.
+
+Granted Power: Add Appraise, Intimidate, and Sense Motive to your list of cleric class skills.
+
+Pact Domain Spells
+1 Command: One subject obeys selected command for 1 round.
+2 Shield Other: You take half of subject’s damage.
+3 Speak With Dead: Corpse answers one question/two levels.
+4 Divination: Provides useful advice for specific proposed actions.
+5 Stalwart PactX *: You gain combat bonuses automatically when reduced to half hit points or lower.
+6 Zealot PactX *: You automatically gain combat bonuses when you attack someone of opposite alignment.
+7 Renewal PactX *: Creature is automatically healed if adverse condition affects it.
+8 Death PactM, X *: Deity brings you back from the dead automatically.
+9 Gate: Connects two planes for travel or summoning.

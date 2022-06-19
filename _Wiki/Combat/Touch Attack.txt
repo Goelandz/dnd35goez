@@ -1,0 +1,3 @@
+Touch Attacks: Some attacks disregard armor, including shields and natural armor. 
+
+When you are the target of a touch attack, your AC doesn’t include any armor bonus, shield bonus, or natural armor bonus.

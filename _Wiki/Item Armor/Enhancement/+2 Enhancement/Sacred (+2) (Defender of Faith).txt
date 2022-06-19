@@ -1,0 +1,5 @@
+A suit of armor or a shield with this enchantment has no effect unless the wearer has the ability to turn or rebuke undead. In that case, the wearer turns or rebukes undead two levels higher than she would without the enchantment. Armor or a shield with this enchantment is always specific to a deity and features the deity's holy symbol prominently.
+
+Caster Level: 8th; 
+Prerequisites: Craft Magic Arms and Armor, ability to turn or rebuke undead; 
+Market Price: +2 bonus.

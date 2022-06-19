@@ -1,0 +1,9 @@
+It is said that these +2 unholy spiked chains are made from the shackles in Hextor’shellish prison-fortress. Despite their size and unwieldiness, they can be wielded in a grapple, and anyone pinned by a foe wielding a chain of obeisance must succeed on a Will save (DC 22) or be dominated (as the dominate monster spell)
+
+To use this relic, you must worship Hextor and either sacrifice a 7th-level divine spell slot or have the True Believer feat and at least 13 HD.
+
+Strong enchantment; 
+CL 18th; 
+Sanctify Relic, Craft Magic Arms and Armor, dominate monster, creator must worship Hextor; 
+Price 35,600 gp; 
+Cost 17,963 gp + 1,411 XP.

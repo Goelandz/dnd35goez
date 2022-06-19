@@ -1,0 +1,7 @@
+This complex metal device is worn in the mouth, fitting over the teeth while allowing them to protrude. A row of metal teeth is set into the jaws of the dragon behind where the dragon’s teeth emerge, increasing the damage dealt by the dragon’s bite. The dragon gains the benefit of the sharptooth spell while the jaws are worn. The device resizes to fit any creature as normal for a magic item, but creatures with no natural bite attack gain no benefit from wearing it.
+
+Moderate transmutation; 
+CL 7th; 
+Craft Wondrous Item, sharptooth; 
+Price 40,000 gp; 
+Weight 8 lb.

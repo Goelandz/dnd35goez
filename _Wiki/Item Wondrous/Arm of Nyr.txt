@@ -1,0 +1,6 @@
+This artificial arm made of mithral replaces an arm that has been lost by a good character. It will not function for a neutral character. An evil character who tries to attach it takes ld4 points of temporary Dexterity damage. A character who makes successful use of the arm gains +2 Strength and +2 Dexterity. The arm also provides a +2 deflection bonus to Armor Class. Generally, 70% of these items are left arms and 30% are right arms, though there are rumors of rare arms that adapt to the user.
+
+Caster Level: 6th; 
+Prerequisites: Craft Wondrous Item, animate object, shield; 
+Market Price: 12,800 gp;
+Weight: —.

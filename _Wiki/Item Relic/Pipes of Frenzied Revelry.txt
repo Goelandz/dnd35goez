@@ -1,0 +1,10 @@
+These pipes, created by a secretive order of bard/clerics devoted to Olidammara, require the piper to succeed on a DC 20 Perform (wind instruments) check each round to function properly. If the check succeeds, any living creature within 30 feet of the piper must succeed on a DC 16 Will save or suffer a confusion effect—with one exception. Whenever the die roll calls for the subject to attack someone, the subject makes a mildly amorous advance (such as an embrace or kiss) instead. The effect lasts as long as the subject remains within 30 feet of the piper. If the piper is interrupted or fails a Perform check, then resumes piping with a successful check, creatures within 30 feet get to make new save attempts. Subjects who successfully save are thereafter immune to the pipes of frenzied revelry for 24 hours.
+
+ To use this relic, you must worship Olidammara and either sacrifice a 5th-level divine spell slot or have the True Believer feat and at least 9 HD.
+
+ Moderate enchantment; 
+CL 7th; 
+Sanctify Relic, Craft Wondrous Item, confusion, creator must worship Olidammara; 
+Price 22,320 gp; 
+Cost 11,320 gp + 880 XP; 
+Weight 3 lb.

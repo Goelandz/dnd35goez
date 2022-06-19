@@ -1,0 +1,6 @@
+This thick white paste, when applied to hands and feet, strengthens and steadies the user’s grip, making it easier for the character to climb. Suregrip provides a +1 alchemical bonus on Climb checks for 1 minute. 
+
+ One dose of suregrip is enough to cover the hands and feet of one Medium creature. Applying suregrip is a standard action that provokes attacks of opportunity. 
+
+DC To Create	20
+Cost		20 gp

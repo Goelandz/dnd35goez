@@ -1,0 +1,16 @@
+MARTIAL LORE (INT; TRAINED ONLY)
+
+You can use this skill to identify martial maneuvers as soon as they are initiated.
+
+Check: You can identify maneuvers and disciplines used by a combatant. The DCs for Martial Lore checks relating to various tasks are summarized below.
+
+DC 					Task 
+10 + maneuver level 			Identify a maneuver being initiated by someone you can see. No action required. No retry.
+10 + maneuver level 			Identify a maneuver recorded on a martial script. One try per day. Requires a full-round action.
+20 + target’s initiator level 		Determine all disciplines known by a particular creature by watching it initiate at least one maneuver. No action required. Retry only if the subject initiates another maneuver.
+
+Action: Varies, as noted above.
+
+Try Again: See above.
+
+Special: A swordsage gains a +2 bonus on a Martial Lore check involving a maneuver in a discipline in which he has discipline focus

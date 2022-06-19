@@ -1,0 +1,6 @@
+Although it looks more like a large needle than an instrument of war, this +2 dart has the deadly ability to hold a foe motionless. Targets struck by a dart of pinning must make a successful Fortitude save (DC 13) or be paralyzed as though by carrion crawler brain juice (see Poison in Chapter 3 of the DUNGEON MASTER’S Guide). The effect lasts for 7 rounds.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, hold monster; 
+Market Price: 18,300 gp; 
+Cost to Create: 9,300 gp + 720 XP.

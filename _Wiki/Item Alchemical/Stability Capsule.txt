@@ -1,0 +1,4 @@
+The thick blue liquid in this capsule heightens the user’s sense of balance for a short time. While the capsule is in effect, the user gains a +4 alchemical bonus on Balance checks. The benefi ts of a stability capsule last for only 1 round, ending immediately upon the conclusion of the user’s actions for the round.
+
+DC To Create	20
+Cost		15 gp

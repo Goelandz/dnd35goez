@@ -1,0 +1,13 @@
+NONLETHAL DAMAGE 
+Sometimes you get roughed up or weakened, such as by getting clocked in a fistfight or tired out by a forced march. This sort of trauma won’t kill you, but it can knock you out or make you faint. If you take sufficient nonlethal damage, you fall unconscious, but you don’t die. Nonlethal damage goes away much faster than lethal damage does. 
+
+Dealing Nonlethal Damage: Certain attacks deal nonlethal damage, such as a normal human’s unarmed strike (a punch, kick, or head butt). Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated. Do not deduct the nonlethal damage number from your current hit points. It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered, and when it exceeds your current hit points, you fall unconscious. It doesn’t matter whether the nonlethal damage equals or exceeds your current hit points because the nonlethal damage has gone up or because your current hit points have gone down. 
+
+Nonlethal Damage with a Weapon that Deals Lethal Damage: You can use a melee weapon that deals lethal damage to deal nonlethal damage instead, but you take a –4 penalty on your attack roll because you have to use the flat of the blade, strike at nonvital areas, or check your swing. 
+
+Lethal Damage with a Weapon that Deals Nonlethal Damage: You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a –4 penalty on your attack roll because you have to strike only in the most vulnerable areas to inflict lethal damage. 
+
+Staggered and Unconscious: When your nonlethal damage equals your current hit points, you’re staggered. You’re so roughed up that you can only take a standard action or a move action in each round. You cease being staggered when your current hit points once again exceed your nonlethal damage. When your nonlethal damage exceeds your current hit points, you fall unconscious. While unconscious, you are helpless (see Helpless Defenders, page 153). 
+Spellcasters who fall unconscious retain any spellcasting ability they had before going unconscious. 
+
+Healing Nonlethal Damage: You heal nonlethal damage at the rate of 1 hit point per hour per character level. For example, a 7thlevel wizard heals 7 points of nonlethal damage each hour until all the nonlethal damage is gone. When a spell or a magical power cures hit point damage, it also removes an equal amount of nonlethal damage. 

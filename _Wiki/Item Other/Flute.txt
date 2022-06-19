@@ -1,0 +1,7 @@
+The flute is the highest-pitched of all the woodwinds. This broad category includes instruments ranging from the primitive recorder-flute—a simple, hollow tube that produces music when air is blown straight through it—to the traditional flute, which is held at a right angle to the musician’s mouth.
+
+ Flutes range in length from 8 inches to about 2 feet. The instrument has six holes (typically), plus a thumbhole that, when covered, lowers each of the other notes by an octave.
+
+ Flutes have a reputation for producing gentle, idyllic music, but they can also create more martial effects or distorted wailing sounds. Abyssal flutes always have an odd number of finger holes, and they conform to no scale or key used by humanoid bards. Particularly in the hands of demon pipers, they produce “music” that sounds to mortal ears like a disharmonious combination of sharps, flats, and bizarre, minor-key effects.
+
+Bardic Music: A bard playing a flute gains a +2 bonus on Perform checks made to use the countersong ability.

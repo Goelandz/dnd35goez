@@ -1,0 +1,10 @@
+This battered wooden dummy is designed for monks to practice their striking and blocking techniques. It consists of a plain round wooden post that stands 6 feet high and 1 foot thick. Six smaller posts stick out horizontally from the post, roughly representing a defending enemy’s limbs.
+
+To gain the benefit of its magic, a person with at least one level in monk must train with the dummy 8 hours a day for four weeks. If the training is ever interrupted for more than a 24 hours, she must begin again. If this training is interrupted twice, the monk can never gain the benefit of the sparring dummy. 
+
+Once she has completed the required training, the monk is allowed to make a 10-foot adjustment whenever she can normally make a 5 foot adjustment.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, haste; 
+Market Price: 30,000 gp; 
+Weight: 40 lb.

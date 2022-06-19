@@ -1,0 +1,3 @@
+Commonly worn by warriors of seafaring races, such as merfolk and tritons, coral armor is not so much created as grown. Exotic and rare corals are shaped over time to create armor for a specific person. Someone wearing coral armor that was not grown for them takes an additional –1 armor check penalty. Coral armor covers only the top half of the wearer—breastplate and bracers. Swim speed is reduced by 10 feet when wearing coral armor. However, because of its design, coral armor effectively weighs 10 pounds less in water.
+
+Growing coral armor requires the Craft (coralshaping) skill

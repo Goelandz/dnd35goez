@@ -1,0 +1,1 @@
+The animal attempts to hunt and forage for food for you using its Survival skill. See page 83 of the Player’s Handbook for details on how to use Survival to hunt and forage for food. While any animal automatically knows how to hunt and forage for its own needs, this trick causes it to return with food rather than simply eating its fill of what it finds. 

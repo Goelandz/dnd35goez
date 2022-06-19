@@ -1,0 +1,41 @@
+KNOWLEDGE (INT; TRAINED ONLY)
+Like the Craft and Profession skills, Knowledge actually encompasses a number of unrelated skills. Knowledge represents a study of some body of lore, possibly an academic or even scientific discipline. Below are listed typical fields of study. With your DM’s approval, you can invent new areas of knowledge. 
+
+ Arcana (ancient mysteries, magic traditions, arcane symbols, cryptic phrases, constructs, dragons, magical beasts) 
+ Architecture and engineering (buildings, aqueducts, bridges, fortifications) 
+ Dungeoneering (aberrations, caverns, oozes, spelunking) 
+ Geography (lands, terrain, climate, people) 
+ Covers the rare art of piloting and navigation—knowing where you are, where you’re going, and how to get there from here.
+
+ History (royalty, wars, colonies, migrations, founding of cities) 
+ Local (legends, personalities, inhabitants, laws, customs, traditions, humanoids) 
+ Nature (animals, fey, giants, monstrous humanoids, plants, seasons and cycles, weather, vermin) 
+ Most skilled mariners are students of the weather and the natural patterns of the ocean. Recognizing a dangerous squall line or determining the proximity of land from the types of fish and seabirds in the area are useful applications of this skill. 
+
+ Nobility and royalty (lineages, heraldry, family trees, mottoes, personalities) 
+ Religion (gods and goddesses, mythic history, ecclesiastic tradition, holy symbols, undead) 
+ The planes (the Inner Planes, the Outer Planes, the Astral Plane, the Ethereal Plane, outsiders, elementals, magic related to the planes) 
+ Hearth wisdom (folklore, myths, origins of place names, folk remedies for common ailments).
+ Literature (stories, plays, ballads, epic poetry, legends).
+ Mathematics (basic math, geometry, algebra),
+ Politics (government bureaucracies, petitions, bribes, subterfuge, art of compromise).
+ Streetwise (drinking, flirting, gambling, tailing).
+ War (siege engines, sapping, siege tactics and strategy).
+
+
+
+Check: Answering a question within your field of study has a DC of 10 (for really easy questions), 15 (for basic questions), or 20 to 30 (for really tough questions). In many cases, you can use this skill to identify monsters and their special powers or vulnerabilities. In general, the DC of such a check equals 10 + the monster’s HD. A successful check allows you to remember a bit of useful information about that monster. For every 5 points by which your check result exceeds the DC, you recall another piece of useful information. 
+
+Action: Usually none. In most cases, making a Knowledge check doesn’t take an action—you simply know the answer or you don’t. 
+
+Try Again: No. The check represents what you know, and thinking about a topic a second time doesn’t let you know something that you never learned in the first place. 
+
+=====Expanded Skill=====
+
+Knowledge (the planes) includes information about infernal beings such as devils, demons, and lower- planar critters, as well as divine beings such as celestials, archons, and denizens of higher planes.
+
+Knowledge (religion) is the appropriate skill for knowing about lost religions that were practiced by extinct races or cultures. It also covers current religions practiced by monstrous clerics.
+
+Knowledge (undead) involves special familiarity with the nature and tactics of undead creatures.
+
+Knowledge (war) includes the topics of siege engines, sapping, siege tactics and strategy. (This skill was originally mentioned in Sword and Fist: A Guidebook to Fighters and Monks.

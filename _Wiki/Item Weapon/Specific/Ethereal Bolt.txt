@@ -1,0 +1,6 @@
+These +1 bolts, once fired, flicker between the Material Plane and Ethereal Plane. This jumping between planes gives the bolts a hazy, insubstantial appearance. Flickering between the planes gives the bolts several powers. Although they provide no ability to see onto the Ethereal Plane, the bolts themselves affect ethereal creatures normally. Furthermore, they can pass through solid objects. For each 5 feet of solid material the bolt passes through, there’s a 50% chance that the bolt is on the Material Plane when it passes, stopping the bolt and ending its flight. All attacks with ethereal bolts have a 20% miss chance. The planar flickering lasts only for one shot; if recovered intact after being fired, an ethereal bolt is thereafter treated as a normal +1 bolt.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, blink; 
+Market Price: 797 gp; 
+Cost to Create: 402 gp + 32 XP

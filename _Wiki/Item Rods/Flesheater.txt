@@ -1,0 +1,6 @@
+This brown scepter is topped with a device that looks like a tooth-filled mouth. Once per day, the wielder can summon horrible little creatures of greenish energy that look like minuscule imps or quasits. These creatures tear at the flesh of one target, eating it as they swarm around. The flesheaters are not actual creatures, but instead magical effects. They can be dispelled, but not attacked; attacks directed against them hit the rod’s target instead. The target must succeed at a Fortitude save (DC 18) to resist the flesheaters. If this save is failed, the target takes 3d6 points of damage per round for 1d6+1 rounds.
+
+Caster Level: 5th; 
+Prerequisites: Craft Rod, summon monster III; 
+Market Price: 18,000 gp; 
+Weight: 3 lb.

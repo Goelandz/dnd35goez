@@ -1,0 +1,4 @@
+Only ranged weapons can have this ability. The weapon veers toward the target, negating any miss chances that would otherwise apply, such as from concealment. The wielder still has to aim the weapon at the right place. Arrows mistakenly shot into an empty space, for example, do not veer and hit invisible enemies, even if they are nearby.
+
+Caster Level: Craft Magic Arms and Armor, true seeing; 
+Market Price: +1 bonus.

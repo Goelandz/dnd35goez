@@ -1,0 +1,6 @@
+Each side of this +4 defending halberd is etched with the faint image of a disembodied eye hovering over an unadorned shield. The vigilant halberd is a powerful weapon of good. When a paladin uses her smite evil ability and successfully attacks with a vigilant halberd, the smite deals 2 points of damage per level instead of 1 point of damage per level.
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be good, holy word, shield or shield of faith; 
+Market Price: 72,310 gp; 
+Cost to Create: 36,155 gp + 732 XP.

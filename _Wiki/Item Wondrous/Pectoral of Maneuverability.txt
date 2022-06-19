@@ -1,0 +1,7 @@
+This metal disk has straps that go over a dragon’s forelimbs to hold the pectoral in place over its chest. A winged creature wearing a pectoral of maneuverability has its flying maneuverability improved by one step. A greater pectoral of maneuverability improves maneuverability by two steps. A humanoid can wear a pectoral as if it were a vest.
+
+Faint (ordinary) or moderate (greater) transmutation; 
+CL 3rd (ordinary) or 9th (greater); 
+Craft Wondrous Item, wings of air (ordinary) or greater wings of air (greater); 
+Price 12,000 gp (ordinary) or 90,000 (greater); 
+Weight 5 lb.

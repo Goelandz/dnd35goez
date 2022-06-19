@@ -1,0 +1,10 @@
+ This set of catgut strings for a lute, mandolin, or other string instrument can store up to five levels of spells. By making a DC 15 Perform (string instruments) check while employing a masterwork instrument equipped with these strings, a musician can unleash the desired spell. Each spell has a caster level equal to the minimum level needed to cast the spell. The user need not provide any material components or focus, or pay an XP cost to cast the spell, and there is no arcane spell failure chance for any armor the user is wearing. The activation time for the strings is the same as the casting time for the relevant spell, with a minimum of 1 standard action.
+
+ Treat a randomly generated set of strings of spell storing as a scroll for determining what spells are stored within it (see pages 238–243 of the Dungeon Master’s Guide). If you roll a spell that would put the set over its five-level limit, ignore that roll; those strings have no more spells in them. (Not every newly discovered set of strings is fully charged.) The strings magically impart to the user the names of all spells currently stored within them.
+
+ Casting spells into the strings functions identically to casting spells into a ring of spell storing (see page 233 of the Dungeon Master’s Guide), except that the caster must have at least 1 rank of Perform (string instruments) and must make a successful Perform (string instruments) check (DC 10 + spell level). Failure causes the spell to be lost to no effect. 
+
+ Moderate evocation; 
+CL 9th; 
+Craft Wondrous Item, imbue with spell ability, creator must have 5 ranks in Perform (string instruments); 
+Price 45,000 gp.

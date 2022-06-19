@@ -1,0 +1,14 @@
+This strange and mysterious tool infuses the wielder's illusions with the stuff of shadow, making them almost real.
+
+Description: A rod of shadowblending is roughly 2 feet in length, but it would likely be a full 3 if it were straight. It resembles a gnarled branch, with odd kinks and twists, but is in fact made of a dark metal that absorbs light rather than reflects it.
+
+When the rod is activated, a black smoke seeps out of both ends of it, swiftly dissipating mere inches from the metal.
+
+Activation: A rod of shadowblending requires a swift action to activate. You must take advantage of its power within 2 rounds of activation, or the charge dissipates and you must activate it again. It can be activated up to three times per day.
+
+Effect: A rod of shadowblending infuses your normal illusions with shadow, making them partially real. This effect allows you to transform any casting of either minor image or major image into a casting of shadow conjuration, and anycasting of major image into shadow evocation.
+
+Aura/Caster Level: Moderate illusion. CL 9th.
+Construction: Craft Rod, shadow evocation, shadow conjuration, 4,500 gp, 360 XP, 9 days.
+Weight: 3 lb.
+Price: 9,000 gp

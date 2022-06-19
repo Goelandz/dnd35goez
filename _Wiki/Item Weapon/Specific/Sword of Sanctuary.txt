@@ -1,0 +1,6 @@
+A +2 longsword, the sword of sanctuary offers its wielder temporary protection when in battle. Once per day, the sword of sanctuary can create a sanctuary effect centered on the sword (as the spell heightened to 3rd level by a 5th-level caster). While protected by the sword’s sanctuary, any opponent attempting to attack the wielder must succeed on a Will save (DC 14) to do so. In addition, the sword can cast an obscuring mist spell once per day (heightened to 3rd level by a 5th-level caster). If the wielder drops or otherwise loses possession of the sword of sanctuary, these effects cease to function.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, obscuring mist, sanctuary; 
+Market Price: 19,115 gp; 
+Cost to Create: 9,715 gp + 752 XP

@@ -1,0 +1,2 @@
+A tumbling bolt resembles a standard crossbow bolt except for a few minuscule holes and vents along the shaft. A channel allows air to pass through the bolt, which causes the bolt to tumble when fired. The bolt deals +2 damage but only has
+one-half its normal range increment due to the way the projectile moves through the air.

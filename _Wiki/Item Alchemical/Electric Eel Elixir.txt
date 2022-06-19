@@ -1,0 +1,5 @@
+The drinker’s skin turns silvery and gains a +1 natural armor bonus. In addition, the drinker’s touch deals 1d8+1 points of electricity damage once while the potion is in effect. The drinker gains a +3 circumstance bonus on the touch attack if the target is wearing metal armor. The effects last for 1 hour.
+
+Caster Level: 3rd; 
+Prerequisites: Brew Potion, alter self, shocking grasp, Alchemy skill; 
+Market Price: 2,050 gp.

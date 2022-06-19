@@ -1,0 +1,16 @@
+Price (Item Level): 16, 000 gp (14th) 
+Body Slot: Torso 
+Caster Level: 7th 
+Aura: Moderate (DC 18); enchantment 
+Activation: — 
+Weight: 3 lb. 
+
+Emblazoned in blood-red hues across the chest of this gleaming white tabard is the lightning bolt symbol of Heironeous. 
+
+Whenever your current hit point total is equal to or less than one-half of your full normal hit points, you gain the mettle ability: If you are affected by a spell that would normally have a reduced effect on a successful Fortitude or Will saving throw, it instead has no effect at all upon you if you save successfully. If you already have mettle from a class feature or some other source, you instead gain improved mettle, which halves the harmful effects of a spell on a failed Fortitude or Will save while still protecting you entirely on a successful save. 
+
+The tabard of valor is part of a set known collectively as the raiment of valor, which also includes the crest of valor (page 139) and the periapt of valor (page 140). When you use a tabard with both of the other items, you gain additional abilities, as noted in the description of the crest of valor. 
+
+Cost to Create: 8, 000 gp, 640 XP, 16 days. 
+
+Prerequisites: Craft Wondrous Item, good hope or prayer.

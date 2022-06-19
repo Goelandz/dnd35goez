@@ -1,0 +1,18 @@
++4 angelic light steel shield; 
+AL LG;
+Int 10, Wis 13, Cha 13; 
+Empathy, 60 ft. vision and hearing; 
+Ego score 10.
+
+Special: Torvion is fashioned from aurorum (see Special Materials in Chapter 3: Exalted Equipment for details). If sundered, it can be fully restored by rejoining its broken fragments (as a fullround action).
+Languages (understand only): Celestial.
+Lesser Powers: Bless 3/day, eyes of the avoral (continuous) on good-aligned owner.
+
+Personality: Torvion is one of seven identical shields crafted on Celestia. It was given to an astral deva named Jeveth, who was summoned via greater planar allyspell to the Material Plane to help adventurers destroy a fiendish red dragon. Jeveth bore Torvion into glorious battle and perished moments before the wyrm met its end. The adventurers placed Torvion and the deva’s other possessions in a hallowed tomb within their keep.
+
+Although the keep stands in ruins today, these items still lie beneath an alabaster statue of Jeveth that remains largely intact. If found, Torvion conveys excitement at being unearthed, exuding tremendous confidence when brought to bear in battle. However, it manifests an unsettling fear of red dragons, solitude, and dark places when exposed to them. It need not be drawn to confer its eyes of the avoral ability on its owner.
+
+Moderate abjuration; 
+CL 9th; 
+Craft Magic Arms and Armor, bless, dispel evil, eyes of the avoral, Phieran’s resolve, caster must be good; 
+Price 49,659 gp

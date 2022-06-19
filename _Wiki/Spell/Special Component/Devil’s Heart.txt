@@ -1,0 +1,1 @@
+A spell that this component is applied to has a 10% chance to remain prepared even after being cast. Casters who do not prepare spells gain no advantage from this component. The heart must be from a devil of at least 6 HD, and it must be dried and hardened into a rocklike object

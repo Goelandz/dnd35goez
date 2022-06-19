@@ -1,0 +1,7 @@
+Each of these golden censers is sacred to a particular deity whose symbol appears on it. When a cleric of that deity burns incense of consecration in the thurible and carries it, the effects of the incense are increased as though an altar or similar fixture were in the area of the consecrate spell, doubling its effects. If a cleric of a different deity uses the thurible, it has no special effect.
+
+Faint evocation; 
+CL 5th; 
+Craft Wondrous Item, consecrate, creator must be a cleric of the deity to whom the thurible is sacred;
+Price 5,000 gp; 
+Weight 4 lb.

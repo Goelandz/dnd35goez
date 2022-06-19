@@ -1,0 +1,23 @@
+Price (Item Level): 36, 000 gp (17th) 
+Body Slot: —(held) 
+Caster Level: 17th 
+Aura: Strong (DC 23); conjuration 
+Activation: As spell used 
+Weight: 5 lb. 
+
+This pale staff of ashwood hears symbols at its head that represent the Healing domain. 
+
+A domain staff of healing allows you to cast any of the following spells (each once per day) by expending a prepared divine spell or divine spell slot of the same level or higher. 
+• cure light wounds (1st) 
+• cure moderate wounds (2nd) 
+• cure serious wounds (3rd) 
+• cure critical wounds (4th) 
+• cure light wounds, mass (5th) 
+• heal (6th) 
+• regenerate (7th) 
+• cure critical wounds, mass (8th) 
+• heal, mass (9th) 
+
+Cost to Create: 18, 000 gp, 1, 440 XP, 36 days. 
+
+Prerequisites: Craft Staff, cure critical wounds, cure light wounds, cure moderate wounds, cure serious wounds, heal, mass cure critical wounds, mass cure light wounds, mass heal, regenerate. 

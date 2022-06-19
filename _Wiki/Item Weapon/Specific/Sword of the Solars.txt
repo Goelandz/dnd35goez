@@ -1,0 +1,6 @@
+This awesome weapon is a Large +5 dancing vorpal bastard sword. It always shines light equivalent to a torch (20-foot radius). This weapon’s high effective enhancement bonus makes it an epic weapon, beyond the reach of most player characters. The Epic Level Handbook has rules for creating such weapons.
+
+Caster Level: 18th; 
+Prerequisites: Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, animate objects, death spell, keen edge; 
+Market Price: 3,920,335 gp; 
+Cost to Create: 1,960,335 gp + 49,200 XP

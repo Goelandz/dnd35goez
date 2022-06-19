@@ -1,0 +1,6 @@
+This armor or shield is adorned with featherlike patterns and other heavenly motifs. The armor or shield increases the wearer’s enhancement bonus to AC by +1 against attacks from evil creatures. It also grants its user a +4 sacred bonus on saving throws against spells with the evil descriptor. An evil creature that dons the armor or uses the shield does not gain its benefits.
+
+Moderate abjuration; 
+CL 9th; 
+Craft Magic Arms and Armor, dispel evil, Phieran’s resolve, creator must be good; 
+Price +2 bonus.

@@ -1,0 +1,6 @@
+This +2 bane (shapechanger) light mace protects its wielder from shapechanging magic and can dispel such effects on others. Any successful hit against a creature not in its natural form forces the target to succeed on a Fortitude save (DC 22) or return to its natural form. This effect does nothing to prevent subsequent shapechanging effects. In addition, the wielder of the mace of form cannot change shape. While holding the mace of form, the wielder simply ignores the effects of all shapechanging magic, including self-targeting spells such as alter self. Note that the mace of form does nothing to prevent illusory changes to appearance from taking effect, so spells like change self still function normally for the wielder.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, polymorph any object; 
+Market Price: 100,312 gp; 
+Cost to Create: 50,312 gp + 4,000 XP

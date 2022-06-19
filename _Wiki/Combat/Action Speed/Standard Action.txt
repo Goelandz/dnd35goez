@@ -1,0 +1,1 @@
+Standard Action: A standard action allows you to do something. The most common type of standard action is an attack—a single melee or ranged attack. Other common standard actions including casting a spell, concentrating to maintain an active spell, activating a magic item, and using a special ability. See Table 8–2: Actions in Combat for other standard actions.

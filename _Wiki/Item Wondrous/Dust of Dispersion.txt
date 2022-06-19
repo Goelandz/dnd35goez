@@ -1,0 +1,8 @@
+This fine powder resembles other types of magic dust, and a single handful fl ung into the air creates a translucent cloud 10 feet high, 10 feet long, and 10 feet wide. Creatures outside the cloud can see into it and through it (though their sight is slightly blurred), but any ranged attacks entering or passing through the cloud have a 50% miss chance. Creatures within the cloud make ranged attack rolls normally.
+
+ The cloud persists for 3 minutes, but a moderate wind (11+ mph) disperses it in 4 rounds. A strong wind (21+ mph) disperses the cloud in 1 round, and any spell that deals fire damage burns away any part of the cloud in its area. The dust cannot be used underwater.
+
+ Faint illusion;
+CL 3rd; 
+Craft Wondrous Item, blur, glitterdust; 
+Price 2,100 gp.

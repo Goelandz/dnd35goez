@@ -1,0 +1,6 @@
+This +2 longbow functions as a bane weapon against all earth creatures. In addition, once per day the wielder may launch an arrow against any target known to be in range, and the arrow travels to the target around all forms of cover, even around corners. This ability functions in all respects like the seeker arrow class feature of the 4th-level arcane archer, except that the wielder of a skybow must be under the open sky to use this ability.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, gust of wind, true strike; 
+Market Price: 25,975 gp; 
+Cost to Create: 13,175 gp + 1,024 XP.

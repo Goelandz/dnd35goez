@@ -1,0 +1,3 @@
+A deadly precision weapon deals an extra 2d6 points of damage when its wielder makes a successful sneak attack. This ability does not bestow the ability to make sneak attacks upon a user who does not already have it.
+
+ Moderate transmutation; CL 12th; Craft Magic Arms and Armor, keen edge; Price +2 bonus.

@@ -1,0 +1,6 @@
+The wearer can release a dancing shield as a standard action and command it to protect a single character (possibly the wearer himself ). The dancing shield floats in the air in front of the protected character, darting in the way of an opponent’s weapons and providing cover against attacks from one opponent per round. Treat the shield’s armor bonus (including its enhancement bonus) as a cover bonus to Armor Class. At the end of 4 rounds, the dancing shield falls to the ground. It must be picked up and commanded for it to function again. It ceases dancing before 4 rounds have passed if so commanded.
+
+Only one dancing shield can protect a character at a time. It is half as effective (half the cover bonus to Armor Class) when protecting a Large creature, and it cannot provide meaningful cover for a Huge or bigger creature. A dancing shield functions only for a character that is proficient with shields.
+
+Caster Level: 15th; Prerequisites: Craft Magic Arms and Armor, animate objects; 
+Market Price: +3 bonus. Daylight: A suit of armor or a shield with this.

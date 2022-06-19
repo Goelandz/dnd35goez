@@ -1,0 +1,7 @@
+ Originally horns were, as their name indicates, actual horns taken from bulls or more exotic beasts. At its simplest, a horn consists of a narrow tip connected to a wider, circular orifice by a hollow, often curved shaft. A musician plays a horn by simply blowing into the small end. Other forms of horns exist, from the conch shell horn employed by merfolk to the herald’s trumpet, but all these instruments function more or less identically.
+
+ Horns are popular in primitive societies of all kinds. They come in all sizes; those used by Medium creatures are typically 1 to 2 feet in length. Hobgoblins and orcs in particular enjoy these instruments for their loud, stirring, martial sound. Larger humanoids and giants favor horns made from dire creatures. Legend holds that minotaurs use instruments made from the severed horns of other minotaurs that suffered defeat in one-on-one contests of honor.
+
+ A horn makes an excellent signal device particularly when used underwater, since sound travels much farther in water than in air. Some aquatic races such as merfolk and kuo-toa collect a variety of horn-shaped shells in different sizes and play them in harmony, in sequence, or both. The music of these seashell orchestras can achieve a deep, haunting grandeur.
+
+Bardic Music: When a bard plays a horn to inspire courage, it raises the morale bonus on weapon damage rolls and saves against fear by 1, but the effect lasts for only 1 round after the ally stops hearing the bard perform.

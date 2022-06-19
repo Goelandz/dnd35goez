@@ -1,0 +1,7 @@
+Phantom fungi are insidious guards. Not only are they invisible and quiet, but most detection spells fail to register their presence. Unfortunately, these same undetectable qualities make phantom fungi difficult to train. Seasoned trainers usually tie ribbons around key points on the phantom fungus or
+give it an occasional dusting of flour to keep up with it. They typically teach the creature to clack its teeth together to alert them when it completes a trick. Adventurers who know this listen for an occasional clacking sound when they suspect the presence of trained phantom fungi.
+
+Phantom fungi are only trainable as adults. Their spores are nonintelligent and immobile.
+
+	DC Young/Adult: —/27; 
+	Spore Price: 1,000 gp; Training Cost: 1,000 gp.

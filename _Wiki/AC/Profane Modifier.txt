@@ -1,0 +1,2 @@
+Profane Modifier
+A profane bonus (or penalty) stems from the power of evil. Multiple profane bonuses on the same character or object do not stack. Only the highest profane bonus applies.

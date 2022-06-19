@@ -1,0 +1,1 @@
+This small grappling hook has flat, retractable tines that fold out to create a working hook. It functions exactly like a normal grappling hook, except that it increases the DC by +4 for Search checks to find it when folded up and hidden among a person’s garments.

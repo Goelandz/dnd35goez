@@ -1,0 +1,3 @@
+A gyrspike is a double weapon. A stout shaft holds a flail on one end and a longsword on the other. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties for two-weapon fighting, as if you were using a one-handed weapon and a light weapon. You get a +2 bonus on your opposed attack roll when attempting to disarm an enemy when you wield a gyrspike (including the opposed attack roll to avoid being disarmed yourself if you fail to disarm your enemy).
+
+You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the gyrspike to avoid being tripped.

@@ -1,0 +1,7 @@
+A longaxe looks like a greataxe with an elongated haft. This feature makes the weapon awkward to wield by those unfamiliar with its use, but those proficient with the weapon can use the haft’s extra length to attack foes more than 5 feet away as long as they are willing to forgo precision in favor of dealing extra damage.
+
+ If you are proficient with the longaxe, you can treat it as a reach weapon any time you use the Power Attack feat to shift 3 or more points of your attack bonus from attack to damage.
+ 
+When you use a longaxe in this manner, you can strike opponents 10 feet away with it, but you cannot use it against an adjacent foe. Because you determine the use of the Power Attack feat for an entire turn, you must wield the longaxe as either a reach weapon or a normal weapon until the beginning of your next turn once you make the decision. You cannot wield it as both a reach weapon and a normal weapon in the same turn.
+
+ Characters profi cient with the longaxe can treat it as a greataxe for the purpose of any of the following feats: Greater Weapon Focus, Greater Weapon Specialization, Improved Critical, Weapon Focus, and Weapon Specialization.

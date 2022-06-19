@@ -1,0 +1,8 @@
+Necromancers, liches, and other dark beings find live horses skittish and their upkeep bothersome. When they need a mount, it is more expedient and characteristically ghoulish to slay a horse and cast animate dead on its corpse. 
+
+Use the Large skeleton statistics from the Monster Manual, except that a skeletal horse’s speed is 60 feet, it attacks with two hooves instead of claws (dealing the same amount damage), and its face and reach are as a long creature instead of a tall one (5 ft. by 10 ft./5 ft.). Skeletal horses cannot be domesticated.
+
+Carrying Capacity: Light 174 lb., medium 348 lb., heavy 525 lb.; 
+DC Young/Adult: —; 
+Young Price: —;
+Training Cost: —.

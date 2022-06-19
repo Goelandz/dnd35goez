@@ -1,0 +1,9 @@
+This staff, often created by druids to store spells for their animal companions, allows use of the following spells:
+• Animal growth (2 charges)
+• Barkskin (1 charge)
+• Greater magic fang (1 charge)
+
+Moderate transmutation; 
+CL 9th; 
+Craft Staff, animal growth, barkskin, greater magic fang; 
+Price 19,406 gp.

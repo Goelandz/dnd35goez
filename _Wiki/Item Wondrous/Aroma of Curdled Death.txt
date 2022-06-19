@@ -1,0 +1,8 @@
+This dark, viscous fluid is usually stored in a small stoppered bottle and applied like a perfume. One round after exposure to air, it creates an invisible cloud of poison gas in a 10-foot radius that lasts for 1 minute. The creature wearing the aroma of curdled deathis protected from the cloud’s effect, but all other exposed creatures with 3 Hit Dice or less die with no save. Creatures with 4 to 6 Hit Dice must succeed on a DC 17 Fortitude save each round they are exposed to the effect or die (taking 1d4 points of Constitution damage on a successful save), and creatures with 6 or more Hit Dice take 1d4 points of Constitution damage (Fortitude DC 17 half). The cloud moves as the creature does.
+
+ If the bottle is opened but the liquid within not immediately applied to a creature, the cloud of poison gas that forms spreads to fi ll only a 5-foot radius, centered on the opened bottle or the place the liquid was poured out. This cloud also lasts for 1 minute.
+
+ Moderate conjuration; 
+CL 9th; 
+Craft Wondrous Item, cloudkill, character must have 4 ranks in Craft (alchemy); 
+Price 4,500 gp.

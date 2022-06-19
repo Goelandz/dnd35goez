@@ -1,0 +1,16 @@
+Con
+
+Prevent loosing action, generally spell.
+
+
+DC 10 + Dmg		Damaged
+DC 10 + Half/Dmg	Continuous damage
+DC 10			Vigorous motion
+DC 15			Violent motion
+DC 20			Extremely violent motion
+DC 15			Entangle
+DC 20			While grapple
+DC 5			High wind
+DC 10			Wind driven debris
+
+Retry? Yes

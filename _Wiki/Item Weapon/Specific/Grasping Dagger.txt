@@ -1,0 +1,6 @@
+In addition to its main blade, this +3 keen punching dagger has two large barbs that project from the dagger’s hilt. On a successful critical hit, these barbs can hook into the target’s flesh, holding it fast. After a successful critical hit, the wielder may make a grapple attempt as a free action. If successful, the target is hooked on the dagger’s barbs. While grappling in this manner, the wielder can attack with the grasping dagger normally. 
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, hold person, keen edge; 
+Market Price: 50,302 gp; 
+Cost to Create: 25,302 gp + 2,000 XP

@@ -1,0 +1,28 @@
+These draughts are thick liquids, similar to potions, that bestow magical effects on a creature drinking them. The magical effects duplicate the metabreath spells described in the previous section, but the drinker must supply the breath component for the effect to take place. Drinking a draught is a standard action, and activates the magic of the draught for just over 1 round. After drinking, the drinker must use its breath weapon before the end of the next round. This use of the drinker’s breath weapon is enhanced as if the drinker had cast the appropriate metabreath spell on itself. 
+
+Draughts of metabreath magic come in a number of different varieties, whose caster level and market price are listed on the table below.
+
+Varies (no school); 
+Craft Wondrous Item, appropriate metabreath spell; 
+Weight 1/2 lb.
+
+Draught Variety 	Caster Level 	Price
+Blinding breath 	5th 		750 gp
+Breath flare 		1st 		50 gp
+Breath weapon admixture:
+	acid 		15th 		6,000 gp
+	cold 		15th 		6,000 gp
+	electricity 	15th 		6,000 gp
+	fire 		15th 		6,000 gp
+Breath weapon substitution:
+	acid 		7th 		1,400 gp
+	cold 		7th 		1,400 gp
+	electricity 	7th 		1,400 gp
+	fire 		7th 		1,400 gp
+Deafening breath 	17th 		7,650 gp
+Dispelling breath 	7th 		1,400 gp
+Enervating breath 	15th 		6,000 gp
+Ethereal breath 	9th 		2,250 gp
+Rebuking breath 	7th 		1,400 gp
+Stunning breath 	7th 		1,400 gp
+Greater stunning breath 13th 		4,550 gp

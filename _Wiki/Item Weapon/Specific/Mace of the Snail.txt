@@ -1,0 +1,6 @@
+This +2 heavy mace has an unadorned shiny metal head. Three times per day, the mace of the snail allows its wielder to cast slow as a 7thlevel caster. Targets must make a Will save (DC 14) to resist this effect. In addition, whenever its wielder takes the total defense action, the mace grants an additional +2 bonus to Armor Class that stacks with all other bonuses.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, shield, slow; 
+Market Price: 30,992 gp; 
+Cost to Create: 15,612 gp + 1,224 XP

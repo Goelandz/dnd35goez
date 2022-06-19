@@ -1,0 +1,6 @@
+Made of thick but flexible wood, this +3 composite shortbow allows its wielder to put all of his strength into a shot. While using the bow of mighty pulling, the wielder may take a move-equivalent action to pull the bow. This allows the wielder to apply up to his full Strength modifier to damage on the next single shot with the bow, provided that shot occurs within 1 round of the pull action.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, bull’s strength; 
+Market Price: 26,375 gp; 
+Cost to Create: 13,375 gp + 1,040 XP

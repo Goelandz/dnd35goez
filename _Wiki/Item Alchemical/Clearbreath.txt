@@ -1,0 +1,4 @@
+This vial of gray smoke temporarily dulls the sense of smell when someone inhales the contents through the nose. Clearbreath provides a +4 alchemical bonus on Fortitude saves made to resist unpleasant odors (such as a troglodyte’s stench). The effects of clearbreath last for 1 hour
+
+DC To Create	25
+Cost		50 gp

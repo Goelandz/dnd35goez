@@ -1,0 +1,6 @@
+Any extraplanar creature with 25 Hit Dice or fewer that is struck by the weapon must succeed on a DC 24 Will save or be banished back to its home plane. Spell resistance applies, and a creature so banished cannot return for at least 24 hours. The wielder may choose to deactivate this special ability as a free action. Bows, crossbows, and slings so crafted confer the banishing power upon their ammunition.
+
+Strong abjuration; 
+CL 13th; 
+Craft Magic Arms and Armor, banishment; 
+Price +3 bonus.

@@ -1,0 +1,8 @@
+This item is similar to a thurible of divining. It produces a prayer effect when lighted and allows the following spell effects:
+• Three times per day: command, doom, or inflict light wounds.
+• Once per day: spiritual weapon or searing light.
+• Once per week: inflict critical wounds or circle of doom.
+• Once per month: geas/quest.
+
+Caster Level: 11th; 
+Prerequisites: Craft Wondrous Item, circle of doom, command, doom, geas/quest, inflict critical wounds, inflict light wounds, prayer; Market Price: 77,000 gp; Weight: 1 lb.

@@ -1,0 +1,16 @@
++3 longsword; 
+AL CG; 
+Int 17, Wis 10, Cha 17; 
+Speech, telepathy, 120 ft. darkvision, and hearing;
+Ego score 15.
+Languages: Celestial, Common, Draconic, Elven.
+Lesser Powers: Cure moderate wounds on wielder 3/day, zone of truth 3/day, 10 ranks in Knowledge (history) (total modifier +13).
+
+Greater Powers: Detect lawful evil at will.
+
+Personality: Originally called Razorleaf, this sword was renamed shortly after the death of its creator, an elf crusader who dedicated his life to fighting tyranny. A champion and advisor of many kings, Barsolidor succeeded in imprinting fragments of his life experience on the blade before his death. The sword vehemently opposes tyranny and slavery, and when its current wielder grows too old to fight, it asks to be passed on to a younger champion of good who shares its purpose and ideals.
+
+Strong divination; 
+CL 15th; 
+Craft Magic Arms and Armor, cure moderate wounds, detect evil, detect law, zone of truth; 
+Price 52,515 gp

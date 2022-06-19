@@ -1,0 +1,6 @@
+This normal-looking silk rope can be become as hard as stone (8 hardness, 15 hp) when a command word is spoken. The rope retains its exact shape when hardened. If it is ever broken in either form, it becomes normal rope.
+
+Caster Level: 11th; 
+Prerequisites: Craft Wondrous Item, flesh to stone; 
+Market Price: 11,800 gp; 
+Weight: 5 lb.

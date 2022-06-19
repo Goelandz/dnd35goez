@@ -1,0 +1,1 @@
+Skis allow full movement across snow and icy surfaces but cannot be used at all on any other terrain. Downhill speed can be as a run (×4) on slight grades or as run (×5) on severe grades. It takes a full-round action to don and to remove skis.

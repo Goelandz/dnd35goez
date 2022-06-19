@@ -1,0 +1,9 @@
+This is a set of +5 halfplate armor (barding) designed to fit a dragon of a specific size. It adjusts to fit any individual dragon within a specificsize category, size Medium or bigger. In addition to its +12 armor bonus, the armor is fitted with spikes and blades designed to enhance the dragon’s attacks, granting a +5 enhancement bonus to each of the dragon’s natural weapon attacks (as if by use of the spell superior magic fang).
+
+
+Strong transmutation; 
+CL 15th; 
+Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor [an epic feat available only to  characters who have at least 28 ranks in both Knowledge (arcana) and Spellcraft], superior magic fang; 
+Price 276,350 gp (Medium), 327,500 gp (Large), 379,950 gp (Huge), 434,750 gp (Gargantuan), 444,350 gp (Colossal); 
+Cost 138,850 gp + 11,000 XP (Medium), 165,050 gp + 13,000 XP (Large), 192,450 gp + 15,000 XP (Huge), 222,250 gp + 17,000 XP (Gargantuan), 231,850 gp + 17,000 XP (Colossal);
+Weight 50 lb. (Medium), 100 lb. (Large), 250 lb. (Huge), 500 lb. (Gargantuan), 1,000 lb. (Colossal).

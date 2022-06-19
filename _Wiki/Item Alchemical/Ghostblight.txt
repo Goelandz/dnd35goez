@@ -1,0 +1,1 @@
+ A ghostblight alchemical capsule coats a melee weapon or a thrown weapon with a thick gray liquid. This substance allows the weapon to ignore the miss chance that ordinarily applies when the wielder is in combat with incorporeal creatures (as if the weapon had the ghost touch magical property). The capsule’s effects last for 3 rounds.

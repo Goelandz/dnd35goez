@@ -1,0 +1,6 @@
+This +1 bane (construct) sling temporarily robs constructs of their ability to follow their instructions. Any construct hit by a bullet or stone from a sling of misdirection must succeed on a Will save (DC 12) or suffer the effects of the random action spell. This ability affects even creatures otherwise immune to mind-influencing magic.
+
+Caster Level: 4th; 
+Prerequisites: Craft Magic Arms and Armor, random action; 
+Market Price: 30,300 gp; 
+Cost to Create: 15,300 gp + 1,200 XP

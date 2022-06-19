@@ -1,0 +1,6 @@
+This foul-smelling incense is typically found in a dark green vial with the embossed image of a gorgon. When burned, however, it creates a truly overwhelming smoke that fills a 10-foot cube. The incense is consumed after 1 round and the smoke dissipates naturally. Those in the area and not holding their breath must succeed on a Fortitude save (DC 19) or be turned to stone as if affected by the flesh to stone spell.
+
+Caster Level: 11th; 
+Prerequisites: Craft Wondrous Item, flesh to stone; 
+Market Price: 6,600 gp; 
+Weight: —.

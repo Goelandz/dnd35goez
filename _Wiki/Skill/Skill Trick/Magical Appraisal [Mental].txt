@@ -1,0 +1,8 @@
+You can judge the usefulness of magic items.
+
+Prerequisite: Appraise 5 ranks, Knowledge (arcana) 5 ranks, Spellcraft 12 ranks.
+
+Benefit: When you succeed by 5 or more on a Spellcraft check to determine the school of magic of the aura 
+surrounding a magic item (by casting detect magic), you can then spend 1 minute concentrating to also learn the properties of the item, as if you had cast identify.
+
+You can use this skill trick once per day.

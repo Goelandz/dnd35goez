@@ -1,0 +1,5 @@
+This +1 leather armor is the color of dried leaves and dead wood. It is excellent for clearing pathways through thickly forested terrain, although it does leave an obvious trail of dead and dying plants. Druids, elves, and other nature lovers take a dim view of uncontrolled use of this armor. It continually produces a diminish plants effect, and once per day the wearer can cast antiplant shell (as the spells from a 7th-level caster).
+
+Caster Level: 7th; Prerequisites: Craft Magic Arms and Armor, antiplant shell, diminish plants; 
+Market Price: 41,240 gp; 
+Cost to Create: 20,700 gp + 1,643 XP.

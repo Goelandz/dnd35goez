@@ -1,0 +1,9 @@
+Kord gives one of these gem-studded belts to a favorite gladiator each decade. The wearer gains a +6 bonus on Strength checks and an additional +4 bonus on grapple and bull-rush checks. If the wearer of a belt of the champion ever fails a save against a fear effect, the belt ceases functioning for 1 hour.
+
+ To use this relic, you must worship Kord and either sacrifi ce a 5th-level divine spell slot or have the True Believer feat and at least 9 HD.
+
+ Moderate transmutation; 
+CL 11th; 
+Sanctify Relic, Craft Wondrous Item, bull’s strength, creator must worship Kord; 
+Price 22,000 gp; 
+Weight 1 lb.

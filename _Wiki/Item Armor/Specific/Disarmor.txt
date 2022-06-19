@@ -1,0 +1,6 @@
+This +2 scale mail has an irregular overlapping pattern. Seemingly indiscriminate, the scales overlap down, up, and sideways. Three times per day, the wearer may direct the armor to execute a disarm attempt when an opponent scores a hit with a melee weapon. The scales seem to come alive and attempt to wrench the opponent’s weapon out of his or her hands as if the wearer had the Improved Disarm feat and a readied attempt to disarm. When disarming in this fashion, the armor uses the wearer’s melee attack bonus with an additional +5 bonus.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor; 
+Market Price: 10,875 gp; 
+Cost to Create: 5,538 gp + 427 XP.

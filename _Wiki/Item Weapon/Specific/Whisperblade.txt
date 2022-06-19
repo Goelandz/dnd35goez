@@ -1,0 +1,6 @@
+Three times per day, the wielder of this +4 greataxe can make a special silent attack. If the attack hits, the target must make a successful Will save (DC 14) or be affected by silence (as the spell heightened to 3rd level by a 5th-level caster). If the attack misses, the use is wasted. Otherwise plain, a whisperblade’s sturdy blade bears stylized dwarven runes that read, “Let dissenting voices be still. 
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, silence; 
+Market Price: 48,520 gp; 
+Cost to Create: 24,420 gp + 1,928 XP

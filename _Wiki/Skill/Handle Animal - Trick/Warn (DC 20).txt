@@ -1,0 +1,3 @@
+The animal reacts to new creatures coming near, even without any command being given, regardless of whether the animal sees the newcomer, or hears it, or detects the creature with scent. The exact warning sound given (hiss, growl, squawk, bark) varies depending on animal type and the training; this sound is chosen at the time of training and cannot be changed. 
+
+If the newcomer does not stop after this warning, the animal attacks. As part of the training, the animal can be trained to ignore specific creatures (such as the trainer’s allies). An animal must know the guard trick (Player’s Handbook, page 75) before it can learn this trick.

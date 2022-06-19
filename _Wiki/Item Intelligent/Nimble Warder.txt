@@ -1,0 +1,9 @@
+This +1 light fortification mithral shirt is all about protection. It grants the benefits of the Mobility feat and the evasion ability to its wearer. It communicates only by semiempathic means, throbbing when its wearer gets into danger. It has a fear of bebiliths that far exceeds their capacity to damage it.
+AL N; 
+SV Fort +8, Ref +8, Will +7; 
+Str —, Dex —, Con —, Int 10, Wis 9, Cha 11, 
+Ego 4.
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, limited wish or miracle, creator must have access to Mobility feat and evasion class ability;
+Market Price: 41,100 gp; Cost to Create: 21,100 gp + 1,600 XP

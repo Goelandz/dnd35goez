@@ -1,0 +1,6 @@
+This feedbag has a small medallion on it with an embossed cornucopia symbol. When placed around the muzzle of a horse, donkey, or other equine animal, it produces an unlimited amount of suitable feed. Care must be taken that the animal does not overeat, and most creatures must still eat other plants for proper nutrition. The feedbag produces nothing when it is not placed around an animal’s muzzle.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, create food and water; 
+Market Price: 15,000 gp;
+Weight: 1 lb.

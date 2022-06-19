@@ -1,0 +1,7 @@
+This +2 spiked chain has a glittering sheen, but most spellcasters don’t identify it as magic due to the persistent nondetection effect on it. A DC 25 Spellcraft check is required for a spellcaster to detect the magic of Oglien’s fi nal answer. The weapon gives its wielder a +5 bonus on Perform (weapon drill) checks. (See the section on skills near the end of Chapter 3.) Oglien, a noted gladiator from a bygone age, used his “fi nal answer” to get an edge in the arena. Since his death, the weapon has passed from gladiator to gladiator, with many unaware of its magical nature.
+
+ Moderate transmutation and abjuration; 
+CL 10th; 
+Craft Magic Arms and Armor, nondetection; 
+Price 26,325 gp; 
+Cost 13,325 gp + 1,040 XP.

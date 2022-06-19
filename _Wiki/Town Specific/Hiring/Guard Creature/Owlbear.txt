@@ -1,0 +1,8 @@
+Owlbears are theoretically trainable. However, it is not necessary to train them to attack, and not very productive to teach them anything else. Owlbears are best employed by leaving them in an enclosed area and tossing in raw meat occasionally. Further interaction is usually pointless.
+
+If raised from chicks, owlbears become very devoted to their trainers. They never transfer this devotion to anyone else, though, and continue to display their famously surly attitude to anyone who isn’t the trainer.
+
+The most useful trick to teach a guard owlbear is a version of “Alert” (see the New Tricks sidebar), whereby it makes a distinct noise when it fights something besides another owlbear. Owlbears can be taught other tricks, but they always perform them sullenly and violently. Any time an owlbear is commanded not to attack, its master must make a successful Handle Animal check (DC 15) or it attacks anyway.
+
+	DC Young/Adult: 23/30; 
+	Young Price: 3,000 gp; Training Cost: 2,000 gp

@@ -1,0 +1,6 @@
+This impressive name belongs to the traditional weapon of the noble salamander. It is a Huge +3 longspear that is always wreathed in fire like a flaming weapon, and it deals +1d8 points of bonus fire damage on a successful hit.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, flame blade, flame strike, or fireball; 
+Market Price: 35,610 gp; 
+Cost to Create: 18,810 gp + 1,400 XP

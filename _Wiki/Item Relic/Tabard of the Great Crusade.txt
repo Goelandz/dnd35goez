@@ -1,0 +1,8 @@
+These silvery tabards, of which seven are known to exist, are decorated with a simple red cross on the chest. They provide the wearer with damage reduction of 5/evil and grant everyone within 20 feet of the wearer (including the wearer) a +2 morale bonus on all saving throws. Once per day, if someone other than the wearer grasps the hem of a tabard of the great crusade (a move action), he is cured of all wounds (as the heal spell from a 15th-level caster).
+
+To use this relic, you must worship St. Cuthbert and either sacrifi ce an 8th-level divine spell slot or have the True Believer feat and at least 15 HD.
+
+Strong conjuration; 
+CL 15th; 
+Sanctify Relic, Craft Wondrous Item, heal, creator must worship St. Cuthbert; 
+Price 68,800 gp.

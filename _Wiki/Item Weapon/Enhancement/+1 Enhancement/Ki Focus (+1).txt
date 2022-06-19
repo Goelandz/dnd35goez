@@ -1,0 +1,5 @@
+This weapon serves as a channel for the wielder’s ki, allowing her to use any ki-based special attacks (such as a monk’s stunning attack, ki strike, and quivering palm, and the Stunning Fist feat) through the weapon as if they were unarmed strikes. Only melee weapons can have this ability.
+
+Caster Level: 8th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be a monk; 
+Market Price: +1 bonus.

@@ -1,0 +1,5 @@
+This weapon gives its wielder the ability to fly into a rage once per day as though affected by emotion (rage), but without the compulsion to fight heedless of danger. While in a rage, the wielder gains a +2 morale bonus to Strength and Constitution, and a +1 morale bonus on Will saves, but takes a –1 penalty to Armor Class. This effect does not stack with emotion (rage) or with barbarian rage. While in a rage, the wielder of a crazed weapon suffers the same restrictions to feat and skill use that a barbarian suffers while raging. The rage lasts for 3 rounds. Only melee weapons can be crazed.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, emotion; 
+Market Price: +1 bonus.

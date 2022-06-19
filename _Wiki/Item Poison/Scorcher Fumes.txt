@@ -1,0 +1,1 @@
+Creatures affected by scorcher fumes lose the scent ability, if they had it, for 1d6 × 10 minutes.

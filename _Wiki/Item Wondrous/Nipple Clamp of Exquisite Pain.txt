@@ -1,0 +1,5 @@
+The wearer of this ring is immune to debilitating pain effects such as the circle of nausea spell. He is also immune to the wrack spell. He is not immune to actual damage described as pain, such as that found in eyes of the zombie, however. The clamp converts all pain into a pleasurable sensation. This item does not change how or whether the character takes damage, but it does change how he might react to it.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, masochism; 
+Market Price: 8,000 gp

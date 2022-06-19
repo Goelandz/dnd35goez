@@ -1,0 +1,8 @@
+This masterwork harp grants a +2 circumstance bonus on Perform (string instruments) checks and a +6 competence bonus on a bard’s bardic music checks for countersong, fascinate, and suggestion. A character with 12 ranks in Perform (string instruments) can use the instrument to cast control water, mass cure light wounds, and mind fog each once per day. 
+
+An anstruth harp bestows one negative level on any creature that doesn’t have at least 12 ranks in Perform (string instruments).
+
+ Strong various; 
+CL 14th; Craft Wondrous Item, control water, mass cure light wounds, mind fog, creator must be a bard; 
+Price 60,000 gp; 
+Weight 3 lb.

@@ -1,0 +1,6 @@
+With a command word, this common-looking mug fills with 12 ounces of water, cheap ale, or watery wine (user’s choice). It functions three times per day.
+
+Caster Level: 1st; 
+Prerequisites: Craft Wondrous Item, create water; 
+Market Price: 800 gp; 
+Weight: —.

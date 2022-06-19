@@ -1,0 +1,6 @@
+Despite its sharp point, this dark green, dagger-sized thorn makes a poor weapon because it is too brittle and fragile. However, when it breaks against the flesh of a good-aligned outsider (requiring a touch attack), it releases terrible energy that stuns the target for 1d4 rounds (no save, but spell resistance applies).
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, power word stun, creator must be evil; 
+Market Price: 4,550 gp; 
+Weight: 1 lb.

@@ -1,0 +1,6 @@
+This Large +3 bastard sword is the favored weapon of planetars. It always shines light equivalent to a torch (20-foot radius), and its blade is typically engraved with the symbol of the deity served by the planetar.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor; 
+Market Price: 18,335 gp; 
+Cost to Create: 9,335 gp + 720 XP.

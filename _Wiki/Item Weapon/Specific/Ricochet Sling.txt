@@ -1,0 +1,6 @@
+This +2 sling allows the wielder to bounce attacks off nearby surfaces and catch opponents off guard. Any time the wielder makes an attack against a target within 5 feet of a wall, that target is denied its Dexterity bonus to Armor Class. This ability does not function against a foe of Intelligence 5 or greater who has experienced the ricochet sling effect before.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, telekinesis; 
+Market Price: 32,300 gp; 
+Cost to Create: 16,300 gp + 1,280 XP

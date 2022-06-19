@@ -1,0 +1,4 @@
+This vile liquid has a muddy brown hue and smells of rotten plant life. You can throw a flask of defoliator as a grenadelike weapon. On a direct hit, it deals 2d4 points of damage to plant creatures and kills normal plants of Medium-size or smaller. The splash damage from defoliator deals 1 point of damage to plant creatures and kills normal plants that are smaller than Medium-size. The damage is not limited to living plants: wooden objects such as doors and wooden weapons also take damage from defoliator, though their hardness applies.
+
+DC To Create	20
+Cost		20 gp

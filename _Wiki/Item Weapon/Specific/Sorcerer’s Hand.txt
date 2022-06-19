@@ -1,0 +1,6 @@
+The stock of this +2 light crossbow has been carved to resemble a humanoid forearm ending in a closed hand with two outstretched fingers. Despite its unusual appearance, this crossbow is a potent tool for casting ray spells. If held and used as an additional arcane focus when casting a ray spell, the spell’s effective caster level is increased by 1. This increase affects all aspects of the spell, including damage, range, and duration. Furthermore, the sorcerer’s hand grants a +2 enhancement bonus on attack rolls for rays.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, any ray spell; 
+Market Price: 18,335 gp; 
+Cost to Create: 9,335 gp + 720 XP

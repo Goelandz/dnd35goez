@@ -1,0 +1,26 @@
+DISGUISE (CHA)
+Use this skill to change your appearance or someone else’s. The effort requires at least a few props, some makeup, and some time. The use of a disguise kit (page 130) provides a +2 circumstance bonus to a Disguise check. A disguise can include an apparent change of height or weight of no more than one-tenth the original. You can also use Disguise to impersonate people, either individuals or types. For example, you might, with little or no actual disguise, make yourself seem like a traveller even if you’re a local. 
+
+Check: Your Disguise check result determines how good the disguise is, and it is opposed by others’ Spot check results. If you don’t draw any attention to yourself, others do not get to make Spot checks. If you come to the attention of people who are suspicious (such as a guard who is watching commoners walking through a city gate), the DM can assume that such observers are taking 10 on their Spot checks. 
+
+The effectiveness of your disguise depends in part on how much you’re attempting to change your appearance. 
+
+Disguise 				Disguise Check Modifier 
+Minor details only 			+5 
+Disguised as different gender		–2 
+Disguised as different race		–2 
+Disguised as different age category	–22
+
+If you are impersonating a particular individual, those who know what that person looks like get a bonus on their Spot checks according to the table below. Furthermore, they are automatically considered to be suspicious of you, so opposed checks are always called for. 
+
+Familiarity 		Viewer’s Spot Check Bonus 
+Recognizes on sight 	+4 
+Friends or associates 	+6 
+Close friends 		+8 
+Intimate 		+10
+
+Usually, an individual makes a Spot check to see through your disguise immediately upon meeting you and each hour thereafter. If you casually meet many different creatures, each for a short time, check once per day or hour, using an average Spot modifier for the group. For example, if you are trying to pass for a merchant at a bazaar, the DM can make one Spot check per hour for the people you encounter, using a +1 bonus on the check to represent the average for the crowd (most people with no Spot ranks and a few with good Spot modifiers). 
+
+Action: Creating a disguise requires 1d3×10 minutes of work. 
+
+Try Again: Yes. You may try to redo a failed disguise, but once others know that a disguise was attempted, they’ll be more suspicious.

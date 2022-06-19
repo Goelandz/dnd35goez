@@ -1,0 +1,30 @@
+Criterion 									Affiliation Score Modifier 
+One-Time 
+Character level 									+1/2 levels 
+Furthers the church's cause through good acts 						+2 
+Has visited a celestial plane at least once 						+4 
+
+Multiple Use 
+Performs an act of personal sacrifice 							+1 
+Openly thwarts an evil enemy 								+2 
+Aids the less fortunate with personal funds 						+1/500 gp expended 
+Converts a new member 									+1 
+Slays an evil creature 									+1/4 creature's CR 
+Establishes an organization dedicated to acts of good 
+(such as a poorhouse or orphanage) 							+4 
+Works to undermine an evil government 							+2 
+Gives up own life for that of another 							+8 
+Overthrows an evil-aligned government 							+8 
+Overthrows an evil-aligned government and installs a good government in its place 	+15 
+Fails in combat against an evil-aligned enemy 						-4 
+Performs an overtly evil act 								-4 
+Knowingly associates with evil-aligned creatures 					-4 
+Knowingly associates with fiendish creatures 						-8 
+
+Affiliation 
+Rank 	Score 		Title: Benefits and Duties 
+0 	3 or lower 	None. 
+1 	4-12 		Samaritan: Gain a+2 bonus on Diplomacy checks made to avoid combat. 
+2 	13-21 		Humanitarian: Gain a+1 bonus on saves against evil spells and effects. 
+3 	22-29 		Altruist: Gain a +1 bonus on attack rolls against evil-aligned enemies. 
+4 	30 or higher 	Saint: Once per day, confound an evil foe within 5 feet with the power of good, forcing it to make 			a Will save (DC 10 + your character level + your Cha modifier) or be unable to take an attack or 			spellcasting action on its next turn. 

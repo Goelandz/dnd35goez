@@ -1,0 +1,15 @@
+Forged in hellfire itself, these iron-shod rods have fi ve dragon heads (black, blue, green, red, and white) facing outward and encircling one end. A chromatic rod can be used as a +2 morningstar with either the frost, fl aming, or shocking qualities (wielder’s choice, changed with a command word). It also has a number of spell-like abilities, each usable once per day.
+
+• Insect plague with a 1,040-foot range, creating five adjacent swarms.
+• Veil with a Will disbelief save of DC 19.
+• Dominate person with a 65-footrange. A DC 17 Will save negates the effect.
+• Find the path lasting 160  minutes.
+• Wall of ice with a 65-foot range, covering up to sixteen 10-foot squares.
+
+To use this relic, you must worship Tiamat and either sacrifice a 7th-level divine spell slot or have the True Believer feat and at least 13 HD.
+
+ Strong conjuration; CL 16th; 
+Sanctify Relic, Craft Rod, dominate person, find the path, insect plague, veil, wall 
+of ice, creator must worship 
+Tiamat; Price 71,908 gp; 
+Cost 36,108 gp + 2,864 XP; Weight 5 lb.

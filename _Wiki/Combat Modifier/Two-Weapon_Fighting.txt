@@ -1,0 +1,17 @@
+TWO-WEAPON FIGHTING 
+If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. Fighting in this way is very hard, however, and you suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand. 
+
+You can reduce these penalties in two ways: 
+ If your off-hand weapon is light, the penalties are reduced by 2 each. (An unarmed strike is always considered light.) 
+ The Two-Weapon Fighting feat lessens the primary hand penalty by 2, and the off-hand penalty by 6. 
+
+Two-Weapon Fighting		Main Hand 	Off Hand 
+Normal penalties 		–6 		–10 
+Off-hand weapon is light 	–4 		–8 
+Two-Weapon Fighting feat 	–4 		–4 
+Off-hand weapon is light and 	–2 		–2 
+ Two-Weapon Fighting feat
+
+Double Weapons: You can use a double weapon to make an extra attack with the off-hand end of the weapon as if you were fighting with two weapons. The penalties apply as if the off-hand end of the weapon were a light weapon. 
+
+Thrown Weapons: The same rules apply when you throw a weapon from each hand. Treat a dart or shuriken as a light weapon when used in this manner, and treat a bolas, javelin, net, or sling as a one-handed weapon. 

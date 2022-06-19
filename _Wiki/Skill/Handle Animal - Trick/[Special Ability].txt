@@ -1,0 +1,1 @@
+If a creature has a special ability (such as a breath weapon), it can be trained to use only that ability until commanded to stop. If the ability is not usable every round, then the creature retreats to safety or repositions itself during the rounds when it cannot use the ability.

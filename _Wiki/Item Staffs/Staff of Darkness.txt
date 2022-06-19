@@ -1,0 +1,10 @@
+It is said that this staff was first created by a drow sorcerer deep in some forsaken Underdark sanctum. A smooth shaft of surprisingly lightweight black metal, this rather short staff allows the use of the following spells.
+• Damning darkness (2 charges, DC 16)
+• Darkbolt (3d8 damage, DC 13) (1 charge)
+• Darkness (1 charge)
+• Deeper darkness (2 charges)
+
+Caster Level: 7th; 
+Prerequisites: Craft Staff, damning darkness, darkbolt, darkness, deeper darkness; 
+Market Price: 24,000 gp;
+Weight: 5 lb.

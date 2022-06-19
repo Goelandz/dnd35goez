@@ -1,0 +1,6 @@
+A weapon enhanced by this property has the ability to drive its targets back. On a successful hit, the target of the attack must succeed on a DC 19 Fortitude save or be knocked back 10 feet (falling to the ground instead if such movement is impossible). If the fi rst save fails, the target must succeed on another DC 19 Fortitude save or be stunned for 1 round.
+
+ Moderate abjuration; 
+CL 11th; 
+Craft Magic Arms and Armor, repulsion; 
+Price +3 bonus.

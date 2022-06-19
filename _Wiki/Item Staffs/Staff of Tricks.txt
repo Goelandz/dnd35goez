@@ -1,0 +1,19 @@
+A staff of tricks allows you to call forth a number of mundane but useful items. It is favored by bards who expect to be lacking vital materials.
+
+Description: A staff of tricks appears to be a simple, unadorned walking stick. It is capped with decorations, jester's motley, or whatever fits the persona of its owner.
+
+Other than the fact that the staff seems somewhat lighter than its size would indicate, its appearance offers no trace of its abilities.
+
+Activation: A staff of tricks is a spell trigger item, requiring a standard action to activate.
+
+Effect: A staff of tricks allows the wielder to produce the following spell effects:
+• summon component (page 118), 1 charge
+• summon instrument, 1 charge
+• unseen servant, 1 charge
+• summon weapon (page 118), 2 charges
+
+Aura/Caster Level: Moderate conjuration.
+CL 8th.
+Construction: Craft Staff, summon component,summon instrument, summon weapon, unseen servant, 6,750 gp, 540 XP, 14 days.
+Weight: 3 lb.
+Price: 13,500 gp.

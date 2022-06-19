@@ -1,0 +1,6 @@
+This wearer of this armor, if of evil alignment, takes only half damage from spells or effects that cause greater damage to evil creatures, such as a holy smite spell, the smite evil ability of a paladin, or the extra damage dealt by a holy weapon.
+
+Caster Level: 7th; Prerequisites: Craft Magic Arms and Armor, protection from good; Market Price: +1 bonus.
+
+
+

@@ -1,0 +1,6 @@
+Large monstrous scorpions ride too low to make good mounts for Medium-size creatures. Humans and their ilk find Huge or larger scorpions to be better fits. However, this size of vermin is extraordinarily difficult to tame in adulthood, and the consequences of failure are dire. It is practically a necessity to purchase a scorpion from a reputable trainer rather than attempt to train it alone.
+
+Carrying Capacity: Light 918 lb., medium 1,836 lb., heavy 2,760 lb.; 
+DC Young/Adult: —/41; 
+Egg Price: 2,000 gp; 
+Training Cost: 1,000 gp.

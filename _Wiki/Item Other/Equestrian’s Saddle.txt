@@ -1,0 +1,5 @@
+Anyone seated in this military saddle feels more comfortable and competent at equestrianism. The saddle grants a +10 circumstance bonus on Ride checks with horses.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item;
+Market Price: 2,000 gp; Weight: 30 lb

@@ -1,0 +1,9 @@
+Containing spells that choke the life from enemies, this staff allows use of the following spells:
+• Acid fog (2 charges)
+• Miasma (1 charge)
+• Murderous mist (1 charge)
+
+Moderate conjuration; 
+CL 11th; 
+Craft Staff, acid fog, miasma, murderous mist; 
+Price 40,094 gp.

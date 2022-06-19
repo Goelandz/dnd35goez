@@ -1,0 +1,25 @@
+A boon to warriors everywhere, a warbringer's rod allows soldiers and fighters to mystically augment their abilities without waiting for assistance from an allied spellcaster.
+
+Description: A warbringer's rod is a heavy bar of iron with a steel head at the top. The head is flanged, allowing it to function as a mace.
+
+When one of the rod's magical abilities is activated, the handle grows warm, and the wielder hears a battle cry reverberating in his head.
+
+Activation: The normal enhancement bonus of a warbringer's rod and the feat-related benefit require no activation to function.
+
+The spell effects contained within a warbringer's rod require a command word to activate; this takes a standard action. The specific words vary from rod to rod, but include phrases such as “Grant me strength!” and “Let blood flow!”
+
+Once it is activated, a warbringer's rod cannot be activated again until an arcane spell of 3rd level or higher has been placed into it (much as the way a ring of spell storing functions, though the precise spell doesn't matter).
+
+Effect: A warbringer's rod functions as a +1 heavy mace. If the wielder has any feats that apply only to a specific weapon (such as Weapon Focus), he can apply the feats' benefit to this weapon as well.
+
+In addition, when it is activated, the rod casts both bear's endurance and bull's strength on the wielder simultaneously.
+
+These spells remain active as long as the wielder holds the rod (up to the normal duration of each spell).
+
+Aura/Caster Level: Faint transmutation. CL 5th.
+
+Construction: Craft Rod, Craft Magic Arms and Armor,
+
+Weapon Focus (any), bear's endurance, bull's strength, greater magic weapon, 4,312 gp, 320 XP, 8 days.
+Weight: 8 lb.
+Price: 8,312 gp.

@@ -1,0 +1,6 @@
+This broad-brimmed black hat obscures the wearer from being detected, allowing him to blend into a crowd with ease. The wearer is under a continuous nondetection effect and has a +10 bonus on Hide checks while the hat is worn.
+
+Caster Level: 11th; 
+Prerequisites: Craft Wondrous Item, nondetection; 
+Market Price: 34,050 gp; 
+Weight: —.

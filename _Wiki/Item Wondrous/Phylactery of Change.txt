@@ -1,0 +1,6 @@
+The wearer of this item can invoke a polymorph self ability with an indefinite duration (or until the phylactery is removed, destroyed, or dispelled). A new form can be adopted once per day. The wearer can assume his natural form without limitation, however.
+
+Caster Level: 7th; 
+Prerequisites: Craft Wondrous Item, polymorph self; 
+Market Price: 11,200 gp; 
+Weight: —

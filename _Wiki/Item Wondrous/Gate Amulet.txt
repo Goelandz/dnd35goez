@@ -1,0 +1,6 @@
+This amulet allows the bearer to return to her home plane. The bearer has no control over where she returns, and the amulet has no function if she's already on her home plane.
+
+Caster Level: 9th; 
+Prerequisites: Craft Wondrous Item, plane shift; 
+Market Price: 64,000 gp; 
+Weight: —.

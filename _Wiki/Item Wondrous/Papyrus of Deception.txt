@@ -1,0 +1,6 @@
+This enchanted sheet of paper usually looks thick and yellowed with age. However, when used as the basis for a forged document, the papyrus is extremely useful, since it changes its size, consistency, and appearance to match the mental description of the forger. When used as part of a forgery, papyrus of deception adds a +5 enhancement bonus to the Forgery check. The papyrus can never duplicate a sheet of paper larger than 12 inches on a side or smaller than 3 inches on a side. Papyrus of deception can be reused.
+
+ Faint divination; 
+CL 5th; 
+Craft Wondrous Item, read magic; 
+Price 2,000 gp.

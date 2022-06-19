@@ -1,0 +1,6 @@
+A potent weapon in nearly any situation, this +2 rapier is doubly effective when facing a single opponent in melee combat. When threatened by only one foe in melee, the wielder gains a +2 insight bonus to AC effective only against melee attacks from that opponent, and a +2 bonus on all disarm checks made with the blade of the duelist. If at any time during the round the wielder is threatened by more than one opponent, she loses these benefits until the beginning of her next turn. Attacks and spells made from a distance do not remove the benefits.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, minor image, shield; 
+Market Price: 16,320 gp; 
+Cost to Create: 8,320 gp + 640 XP.

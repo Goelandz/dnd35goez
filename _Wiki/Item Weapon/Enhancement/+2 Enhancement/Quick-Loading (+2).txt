@@ -1,0 +1,5 @@
+Only crossbows can have this ability. A quick-loading crossbow accesses an extradimensional space that can hold up to 100 bolts, allowing the wielder to reload the crossbow more rapidly than normal. Reloading a hand or light crossbow is a free action (allowing a character with multiple attacks to make a full attack), and reloading a heavy crossbow is a move-equivalent action. Adding a bolt to or removing one from the extradimensional space by hand requires a move-equivalent action. The extradimensional space can hold different types of bolts, and the wielder may select freely from these when reloading the crossbow.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, Leomund’s secret chest, shrink item; 
+Market Price: +2 bonus.

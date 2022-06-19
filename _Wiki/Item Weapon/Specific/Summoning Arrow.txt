@@ -1,0 +1,6 @@
+The head of a summoning arrow is sculpted to look like a bird of prey, and the fletching is always made of feathers from the same bird. When launched from a bow, a summoning arrow transforms into an eagle (see the Animals section of the Monster Manual) and attacks the foe that the arrow was fired at. If not launched at a specific target, a summoning arrow turns into an eagle when it’s 30 feet away from the wielder, then attacks the nearest creature. The eagle remains for 5 rounds or until slain, whichever comes first. After 5 rounds, the eagle flies away. It does not return to arrow form.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, summon monster I; 
+Market Price: 257 gp; 
+Cost to Create: 132 gp + 10 XP.

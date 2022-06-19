@@ -1,0 +1,7 @@
+One of the few plants native to the Wind­swept Depths of Pandemonium, jabberweed is an ugly, tenacious root that looks something like a pocked, many-fingered, skeletal hand. The countless holes that riddle jabberweed constantly gasp and wheeze, creating a low susurrus of background noise that is unnoticeable on the wind-scoured landscape of the plant’s home plane.
+
+Sprouts of jabberweed are sold wrapped in moist cloth. While wrapped, the plant creates no noise. Once unwrapped and exposed to air, it begins whispering, creating a low hissing audible out to 100 feet. Creatures that succeed on a DC 15 Listen check notice the sound of the abberweed as well as the direction of its source. Regardless of whether any creatures notice the sound, all creatures within 100 feet of the plant take a –4 penalty on other Listen checks, since the noise disguises and muffles many minor sounds.
+
+If retrieved and repacked in moist cloth, jabberweed can be used multiple times while it lives. Jabberweed can survive for 1 week after being removed from its home plane. You can attempt a DC 18 Knowledge (nature) check once per week to keep a sprout of jabberweed alive for that week. The plant dies 1 week after a failed check.
+
+Cost, 60 gp

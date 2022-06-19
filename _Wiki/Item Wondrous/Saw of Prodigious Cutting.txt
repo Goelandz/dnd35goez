@@ -1,0 +1,6 @@
+This one-person, steel-and-brass band saw is etched with leaf patterns. Its razor-sharp blade easily cuts through most  normal wood and trees. The saw ignores the hardness of any wooden object that it cuts into and deals 4d6 damage to it. The saw can be used in melee against plant creatures with a similar effect, although the wielder takes a –4 penalty on attacks for using such an unwieldy weapon. The saw automatically avoids other living creatures and twists out of a person’s hand if used as a weapon against them.
+
+Caster Level: 3rd; 
+Prerequisites: Craft Wondrous Item, magic weapon; 
+Market Price: 2,000 gp; 
+Weight: 3 lb.

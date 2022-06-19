@@ -1,0 +1,6 @@
+This +4 defending dagger has a long, thin blade and a broad guard, and is an excellent parrying weapon. As long as the wielder holds the dagger of defense in his off hand, he cannot be flanked. Rogues of 16th level or higher can flank the character normally.
+
+Caster Level: 12th; 
+Prerequisites: Craft Magic Arms and Armor, shield; 
+Market Price: 58,302 gp; 
+Cost to Create: 29,302 gp + 2,320 XP

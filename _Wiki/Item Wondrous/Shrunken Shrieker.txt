@@ -1,0 +1,20 @@
+This shrunken head can be attached to any weapon, shield, or piece of armor. It lets out a scream if anyone but the true owner attempts to use the item.
+
+Lore: Ensorceled by savage adepts, the heads of fallen enemies now guard the armaments of those who killed them.
+
+Description: This item is a disgusting severed head, shrunken to the size of a baby’s fist, with its eyes and mouth loosely stitched shut. A clasp in its long, straggly black hair allows the head to be clamped or tied onto other objects.
+
+Activation: A shrunken shrieker can be attached to any weapon, shield, or piece of armor. Once it is so affixed, it considers the attacher to be the item’s true owner.
+
+Effect: A shrunken shrieker dangles quietly from the weapon, shield, or armor it is attached to, as long as it considers the user to be the item’s true owner. If any other creature attempts to use the item to which the head is attached, the shrunken shrieker’s mouth distends around the stitches, letting out a horrible, inhuman screaming. The sound of a shrunken shrieker is just as loud as an audible alarm created by the alarm spell, and it continues for as long as a creature other than the item’s true owner uses the item.
+
+The head stops screaming as soon as the item it is attached to is put down or removed.A shrunken shrieker can be ripped off an item as a full-round action. If the head has started screaming and is torn off an item, it continues shrieking wherever it falls until either the true owner of the item it was attached to touches it or it is destroyed. A shrunken shrieker has hardness 2 and 5 hit points.
+
+Variants: Some shrunken shriekers are said to be crafted from the heads of fiends.These variations scream so terribly that they also hinder those who make use of the items they guard; a creature other than the item’s true owner must make a DC 13 Will save or be shaken for as long as the head continues screaming. This is a mind-affecting fear ability. Creatures that fail this save are vulnerable to this shrunken fiendshrieker’s screaming for the next 24 hours, they do not receive a new save if they put down the affected item and pick it back up later.
+
+Aura/Caster Level: Faint abjuration; CL 3rd.
+Construction: Craft Wondrous Item, alarm, 250 gp, 20 
+XP, 1 day.
+Weight: 1/2 lb.
+Price: 500 gp. A shrunken fiendshrieker variant costs an 
+extra 1,500 gp, and its XP cost and crafting time increase accordingly.

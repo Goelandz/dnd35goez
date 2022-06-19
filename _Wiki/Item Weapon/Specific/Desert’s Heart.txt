@@ -1,0 +1,6 @@
+The dark metal of this +2 flaming falchion is imbued with a deep red tint. Any creature holding desert’s heart is immune to fire damage and takes double damage from cold effects. Creatures with the cold subtype do not gain this benefit. Instead, desert’s heart bestows a negative level on them, which persists as long as they hold the blade. This negative level never results in actual level loss, but it cannot be overcome in any way (including restoration spells) while the weapon is wielded.
+
+Caster Level: 8th; 
+Prerequisites: Craft Magic Arms and Armor, fireball, protection from elements; 
+Market Price: 71,175 gp; 
+Cost to Create: 35,775 gp + 2,832 XP.

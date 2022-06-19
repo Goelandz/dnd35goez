@@ -1,0 +1,6 @@
+In communities where gnomes are the primary race, elite soldiers ride dire badgers. These gnome “cavalry” units are especially well coordinated, since the riders can talk to their mounts using their innate speak with animals ability. Conversations are never long or deep, but rider and mount learn how to communicate economically in the 1-minute time they have each day, talking about the day’s agenda, war efforts, and each other’s physical and emotional states.
+
+Carrying Capacity: Light 87 lb., medium 174 lb., heavy 263 lb.; 
+DC Young/Adult: 16/23; 
+Young Price: 100 gp; 
+Training Cost: 15 gp.

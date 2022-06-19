@@ -1,0 +1,5 @@
+You can seem to be where you aren’t.
+
+Prerequisite: Hide 8 ranks, Perform (dance) 5 ranks.
+
+Benefit: As a move action, you can attempt a DC 20 Hide check. If you succeed, you have concealment until the start of your next turn.

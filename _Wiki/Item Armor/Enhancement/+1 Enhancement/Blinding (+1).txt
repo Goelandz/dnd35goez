@@ -1,0 +1,5 @@
+Armor and shields with this enchantment flash with a brilliant light up to twice per day on command of the wearer or wielder. All within 20 feet except the wearer or wielder must make a Reflex saving throw (DC 14) or be blinded for ld4 rounds.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, blindness/deafness, searing light; 
+Market Price: +1 bonus.

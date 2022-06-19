@@ -1,0 +1,8 @@
+This tiny iron box contains a small bit of ash and cinders. When dumped into a flame at least as big as an average campfire, the cinders cause the fire to flare and sputter dramatically. 
+
+In 1d4+1 rounds, an equal number of Small fire elementals leap from the fire. The elementals are not under any control, although they can be controlled later through charm monster or other magic. They attack the nearest creature or creatures, continuing their rampage until destroyed or banished.
+
+Caster Level: 17th; 
+Prerequisites: Craft Wondrous Item, elemental swarm; 
+Market Price: 7,650 gp; 
+Weight: —.

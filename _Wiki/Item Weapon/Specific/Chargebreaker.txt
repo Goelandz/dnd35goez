@@ -1,0 +1,6 @@
+This +1 keen longspear has a barbed shaft that deals even more damage when set against a charging opponent. When a character uses a ready action to set chargebreaker against a charge, it deals triple damage on a successful hit.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, keen edge; 
+Market Price: 18,305 gp; 
+Cost to Create: 9,305 gp + 720 XP

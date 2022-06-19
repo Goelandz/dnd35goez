@@ -1,0 +1,15 @@
+Price (Item Level): 24, 302 gp (15th) 
+Body Slot: —(held) 
+Caster Level: 12th 
+Aura: Strong (DC 21); transmutation 
+Activation: — 
+Weight: 6 lb.
+
+This spear has a head of gleaming iron and a shaft of dark, heavy wood. Ivy vines carved into the shaft provide a textured grip. 
+
+In the hands of most wielders, this weapon is a simple +1 spear that also grants its wielder a +2 competence bonus on Knowledge (nature) and Survival checks. 
+
+If you are a druid, a ranger, or a cleric with the Animal domain, the spear of the wild automatically casts baleful polymorph on any creature upon which it scores a critical hit. A successful Fortitude save (DC 15 + your Wis modifier) negates this effect. This effect functions three times per day. 
+
+Cost to Create: 12, 000 gp (plus 302 gp for masterwork spear), 960 XP, 24 days. 
+Prerequisites: Craft Magic Arms and Armor, baleful polymorph, Knowledge (nature) 10 ranks, Survival 10 ranks. 

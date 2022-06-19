@@ -1,0 +1,8 @@
+This black candle is 1 foot tall, 12 inches thick, and icy to the touch. When lit, the flame burns a pale blue, gives off no smoke or heat, and doesn’t melt down. If examined with detect magic, the candle radiates a necromantic aura. Every minute that the candle burns reduces the temperature by 1º in a 20-foot-diameter area until 0º Fahrenheit is reached.
+
+In addition, the candle prevents any healing, natural or magical, from occurring in its range. A wounded creature inside the area does not regain any lost hit points, and cure spells targeting a creature inside the area automatically fail (but are considered cast). Once lit, the candle can be snuffed only by a bless spell. The temperature of the area returns to the regular temperature at a normal rate.
+
+Caster Level: 9th; 
+Prerequisites: Craft Wondrous Item, enervation, fire shield; 
+Market Price: 34,800 gp;
+Weight: 1 lb.

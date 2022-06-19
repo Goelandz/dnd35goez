@@ -1,0 +1,6 @@
+This massive +2 warhammer glows on command with a fierce red light. The hammer sheds light as the light spell. On a critical hit, the bonebreaker hammer deals 1d6 points of temporary Dexterity damage in addition to its normal damage.
+
+Caster Level: 13th; 
+Prerequisites: Craft Magic Arms and Armor, harm; 
+Market Price: 18,312 gp; 
+Cost to Create: 9,312 gp + 720 XP.

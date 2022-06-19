@@ -1,0 +1,6 @@
+This +1 dagger can hold any one ioun stone in a special socket in its pommel. As long as the wielder holds the ioun blade, any stone held in the pommel affects her as if it were spinning around her head normally. Placing or removing an ioun stone from the socket is a move-equivalent action that provokes an attack of opportunity.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, fabricate; 
+Market Price: 6,302 gp; 
+Cost to Create: 3,302 gp + 240 XP.

@@ -1,0 +1,6 @@
+The magical properties of this +2 longspear make it suited for use on foot or on horseback. When used by a character on foot, the equestrian’s spear functions exactly like a longspear. When used by a mounted character proficient with the heavy lance, the equestrian’s spear is treated in all respects as a heavy lance. Mounted characters not proficient in the heavy lance may still use the weapon as a longspear.
+
+Caster Level: 10th; 
+Prerequisites: Craft Magic Arms and Armor, phantom steed, polymorph any object; 
+Market Price: 26,615 gp; 
+Cost to Create: 13,615 gp + 1,040 XP.

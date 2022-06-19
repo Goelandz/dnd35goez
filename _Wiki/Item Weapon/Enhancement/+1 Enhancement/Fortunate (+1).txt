@@ -1,0 +1,5 @@
+A fortunate weapon gives its wielder incredible luck—a +1 luck bonus on all saving throws.
+
+Caster Level: 7th; 
+Prerequisites: Craft Magic Arms and Armor, bless; 
+Market Price: +1 bonus.

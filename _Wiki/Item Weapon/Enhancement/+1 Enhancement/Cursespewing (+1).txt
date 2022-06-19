@@ -1,0 +1,5 @@
+Every time this weapon deals damage, the target must succeed at a Will saving throw (DC 15) or be affected by a curse that confers a –4 morale penalty on attack rolls, saving throws, skill checks, and ability checks.
+
+Caster Level: 5th; 
+Prerequisites: Craft Magic Arms and Armor, bestow curse; 
+Market Price: +1 bonus.

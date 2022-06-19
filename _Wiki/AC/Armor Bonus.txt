@@ -1,0 +1,2 @@
+Armor Bonus
+An armor bonus applies to Armor Class and is granted by armor or by a spell or magical effect that mimics armor. Armor bonuses stack with all other bonuses to Armor Class (even with natural armor bonuses) except other armor bonuses. An armor bonus doesn't apply against touch attacks, except for armor bonuses granted by force effects (such as the mage armor spell) which apply against incorporeal touch attacks, such as that of a shadow.

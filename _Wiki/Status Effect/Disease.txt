@@ -1,0 +1,17 @@
+Disease 	Infection 	DC 	Incubation 	Damage
+Coral scratch 	Injury 		12 	1d4 hours 	1d3 Dex
+Sea rot 	Contact 	20 	1 day 		1d6 Con + 1d6 Str
+Sea sores 	Ingested 	14 	1d4 days 	1d4 Str + 1d2 Cha
+Suntouch 	Exposure 	18 	1 day 		1d6 Wis + 1d2 Con
+
+Disease Descriptions
+The following diseases are often encountered in seafaring environments.
+
+Coral Scratch: Characters who take damage from contact with coral must make Fortitude saves or contract coral scratch. If a character contracts coral scratch, the hit point damage dealt by the exposure to coral does not heal naturally until the character recovers or is cured of coral scratch.
+
+Sea Rot: Usually found in the worst sort of sargasso, sea rot is caused by contact with infected creatures. When a character takes damage from sea rot, he or she must succeed on another save, or 1 point of the ability damage becomes permanent ability drain instead. 
+
+Sea Sores: Contracted from eating or drinking food or water of poor quality, such as that found in the stores of 
+poorly provisioned ships.
+
+Suntouch: Caused by heat damage in dead calm (see page 13). Characters reduced to 0 Wisdom by suntouch are rendered insane instead of comatose, acquiring an overpowering compulsion to immerse themselves in the sea and/or drink seawater

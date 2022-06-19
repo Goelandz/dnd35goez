@@ -1,0 +1,21 @@
+Favored by necromancers and martial casters, a staff of lifeless touch grants you many of the attack forms of the undead.
+
+Description: A staff of lifeless touch is constructed entirely of bone. Some versions appear to be made of a single long bone, such as the femur of a giant, while others are clearly constructed from multiple interconnected bones. The staff is topped with a skeletal hand, its fingers bent into a shallow claw.
+
+When you cast a spell through the staff, the hand clenches of its own accord, as though attempting to grasp the target.
+
+Activation: A staff of lifeless touch is a spell triggeritem, requiring a standard action to activate.
+
+Effect: A staff of lifeless touch allows the wielderto produce the following spell effects:
+• ghoul touch, 1 charge
+• spectral hand, 1 charge
+• vampiric touch, 2 charges
+• cryptwarden's grasp (page 100), 3 charges
+• touch of Vecna (page 120), 3 charges
+
+Aura/Caster Level: Strong necromancy.
+CL 13th.
+Construction: Craft Staff, cryptwarden's grasp,
+ghoul touch, spectral hand, touch of Vecna, vampiric touch, 19,125 gp, 1,530 XP, 39 days.
+Weight: 5 lb.
+Price: 38,250 gp.

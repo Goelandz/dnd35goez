@@ -1,0 +1,6 @@
+This well-made +2 net seems to writhe of its own accord. The wielder of the living net can attack targets up to 20 feet away. Any time a foe is entangled by the living net, the wielder may make a trip attack as a free action. If the wielder is tripped during his own trip attempt, he may drop the living net’s trailing cord to avoid being tripped. Folding the living net is a move-equivalent action that provokes an attack of opportunity.
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, animate objects; 
+Market Price: 18,320 gp; 
+Cost to Create: 9,320 gp + 720 XP

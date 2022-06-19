@@ -1,0 +1,7 @@
+Also known as “bagh nakh,” this is a strap or glove fitted with spikes in the palm and wielded like brass knuckles. Your opponent cannot use a disarm action to disarm you of tiger claws. An
+attack with tiger claws is considered an armed attack.
+
+A monk using tiger claws can strike with her unarmed base attack bonus, including her more favorable number of attacks per round, along with other applicable modifiers. The cost and weight are
+for a single tiger claw.
+
+A slightly different version, the nekode, is both a weapon and a climbing tool. Using a pair of nekodes while climbing grants a +1 circumstance bonus on Climb checks. This bonus does not stack with the +2 bonus from using a climber’s kit, because they’re essentially the same circumstance.

@@ -1,0 +1,3 @@
+ This symbol is almost always made to look like a worn, weathered piece of wood bearing a crude carving of a sunset. In actuality, a Fharlanghn's badge is almost always made from materials that have traveled a long way, such as driftwood, or the planks of a settler's wagon. 
+
+When brandished during the casting of any spell that increases a creature's speed (or even one that imparts a new mode of movement, such as fly), Fharlanghn's badge increases the target's speed by an additional 5 feet. This item has no effect on spells that magically transport a character from one place to another (such as teleport or dimension door).

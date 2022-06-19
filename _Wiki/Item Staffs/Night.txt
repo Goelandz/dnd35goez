@@ -1,0 +1,11 @@
+This staff of black wood is carved with runes of darkness, stars, and night (including one rune resembling an umber hulk). The staff grants its wielder immunity to an umber hulk’s confusing gaze in addition to allowing the use of the following spells:
+• Darkvision (1 charge)
+• Low-light vision* (1 charge)
+• Darkness (can counter or dispel any light spell regardless of level) (1 charge)
+• Summon monster VI (summons one fi endish umber hulk only, usable once per week) (2 charges)
+ If the summoned fiendish umber hulk is slain, the staff crumbles to dust.
+
+Moderate varied; 
+CL 11th; 
+Craft Staff, darkness, darkvision, dispel magic, low-light vision*, summon monster VI; 
+Price 30,000 gp.

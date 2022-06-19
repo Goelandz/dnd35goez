@@ -1,0 +1,10 @@
+This three-stringed masterwork lute grants a +2 circumstance bonus on Perform (string instruments) checks and a +1 competence bonus on bardic music checks for countersong, fascinate, and suggestion. The instrument can be played by anyone to produce light once per day. 
+
+Any character with 2 ranks in Perform (string instruments) can also use the bandore to cast fl are, mending, and message each once per day.
+
+ Faint transmutation, 
+faint evocation; 
+CL 3rd; 
+Craft Wondrous Item, flare, light, mending, message, creator must be a bard; 
+Price 1,900 gp; 
+Weight 3 lb.

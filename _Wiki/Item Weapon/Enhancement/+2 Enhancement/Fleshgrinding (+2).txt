@@ -1,0 +1,7 @@
+When this piercing or slashing melee weapon deals damage to a living creature, the wielder may command the weapon to “grind” as a free action. At that time, the wielder lets go of the weapon and it continues, magically animated, to grind itself into the foe’s flesh. Each round, it deals damage as if the character who had been wielding it had dealt a successful hit with it. The wielder need not concentrate or devote any time or attention to the weapon. The original wielder can grab it at any time as a standard action.
+
+The foe (or someone else) can attempt to rid herself of the grinding weapon by making a Strength check (DC 20). If the foe succeeds at the Strength check and has a free hand, she is now holding the fleshgrinding weapon. In any event, the fleshgrinding weapon stops grinding after 5 rounds. 
+
+Caster Level: 11th; 
+Prerequisites: Craft Magic Arms and Armor, animate objects; 
+Market Price: +2 bonus.

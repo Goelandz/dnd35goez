@@ -1,0 +1,3 @@
+This mineral grows in the icy mountain caves of Eronia, the second layer of the Blessed Fields of Elysium. Its resilient, pale-gold crystals contain divine energy that emanates from a god that sleeps beneath the mountains. Any weapon made of frystalline is treated as good-aligned for the purpose of overcoming damage reduction. The market price modifier for such a weapon is +2,000 gp.
+
+Frystalline has 15 hp per inch of thickness and hardness 10

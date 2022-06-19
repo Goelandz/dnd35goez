@@ -1,0 +1,5 @@
+These +2 sling bullets provide a ready cover for those needing a quick escape and are often carried by rogues in case such situations arise. These gray sling bullets seem filled with swirls of thick, black fog, and their surface roils with constant motion. On a successful hit, the bullet releases a billowing cloud of fog that fills a 30-foot radius with a fog cloud (as the spell from a 6th-level caster). The fog lasts for 1 hour, although it can be dispersed by strong wind. The cloud blocks all sight, including darkvision, beyond 5 feet. A creature within 5 feet has one-half concealment (20% miss chance). Creatures farther away have total concealment (50% miss chance and the attacker can’t use sight to locate the target). Each halfling’s exit creates fog only once; bullets recovered intact are thereafter +2 sling bullets.
+
+Caster Level: 6th; 
+Prerequisites: Craft Magic Arms and Armor, creator must be a halfling, fog cloud; 
+Market Price: 247 gp; Cost to Create: 127 gp + 10 XP

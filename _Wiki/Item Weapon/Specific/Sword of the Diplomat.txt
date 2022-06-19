@@ -1,0 +1,6 @@
+The gold hilt of this +3 defending short sword is elaborately carved to resemble the folded wings of a bird. The possessor of this ornate blade is shielded by a constant aura of magical force. This force effect functions exactly like a permanent version of the mage armor spell, providing a +4 armor bonus to the possessor’s AC. Like the mage armor spell, this bonus applies to incorporeal attacks.
+
+Caster Level: 15th; 
+Prerequisites: Craft Magic Arms and Armor, mage armor, shield; 
+Market Price: 64,310 gp; 
+Cost to Create: 32,310 gp + 2,560 XP.

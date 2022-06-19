@@ -1,0 +1,6 @@
+The curved blade of this +2 kukri has been imbued with magic capable of laming a foe. Anytime the wielder of the kukri of crippling scores a critical hit, the target’s move rate is halved. This reduction lasts for one day, until the creature is successfully treated with the Heal skill (DC 15), or until it receives at least 1 point of magical healing. Creatures with multiple movement rates have only one of their movement rates reduced by each critical hit. Roll randomly to determine which movement rate is affected.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, slow; 
+Market Price: 18,308 gp; 
+Cost to Create: 9,308 gp + 720 XP. 

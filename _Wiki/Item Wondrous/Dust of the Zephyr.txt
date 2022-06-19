@@ -1,0 +1,6 @@
+This clear vial and stopper contains a small amount of dust. When released into a breeze, the dust creates sudden bursts of wind. In 1d4+1 rounds, an equal number of Small air elementals are created from the wind. The elementals are not under any control, although they can be controlled later through charm monster or other magic. They attack the nearest creature or creatures, continuing their rampage until destroyed or banished.
+
+Caster Level: 17th; 
+Prerequisites: Craft Wondrous Item, elemental swarm; 
+Market Price: 7,650 gp; 
+Weight: —.

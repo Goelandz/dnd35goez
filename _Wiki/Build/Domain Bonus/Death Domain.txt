@@ -1,0 +1,51 @@
+Criterion 						Affiliation Score Modifier 
+One-Time 
+Character level 						+1/2 levels 
+Knowledge (religion) 5 or more ranks 				+1 
+Maintains a CR 1-10 undead minion for at least 1 month		+1 
+Maintains a CR 11+ undead minion for at least 1 month 		+2 
+Can spontaneously cast 3rd-level or higher inflict spells 	+1 
+Can cast 5th-level or higher necromancy spells 			+2 
+Can cast animate dead 						+1 
+Can cast create undead 						+2 
+Can cast create greater undead 					+3 
+Can cast a spell that kills a creature outright, not 
+through damage (such as finger of death or slay living) 	+1 
+Has been undead but is now alive 				+1 
+Is currently undead 						+2 
+Maintains a shrine honoring the dead for 1-51 weeks 
+(if character is non-evil)* 					+1 
+Maintains a shrine honoring the dead for one year 
+(if character is non-evil)'" 					+10 
+* Overlaps for same shrine. 
+
+Multiple Use 
+Kills ten or more living creatures within 1 day 
+(if character is evil) 						+1 
+Aids the uneducated masses in the understanding 
+of death (if character is non-evil) 				+1 
+Converts a new member 						+1 
+Makes a new discovery about the nature 
+of death or dying 						+2 
+Does not bring a dead creature back to life, 
+despite having the power to do so 				+2 
+Associates with followers of a deity of life or healing 
+(such as Ehlonna or Pelor) 					-2 
+Casts raise dead, resurrection, or a similar spell 		-4 
+
+Affiliation 
+Rank 	Score 		Title: Benefits and Duties 
+0 	3 or lower 	None. 
+1 	4-10 		Novitiate: Gain a+2 bonus on Knowledge (religion) checks made regarding undead. 
+2 	11-17 		Adept: Cain a +2 bonus on turn or rebuke undead checks. 
+3 	18-24 		Crave Guardian: Gain a +1 bonus on (non-evil) saves against the spells and abilities 
+			of undead creatures. 
+3 	18-24 (evil) 	Grave Guardian: Once per day, grant an allied undead creature within 30 
+			ft. a +1 bonus on attack and damage rolls for 1 minute. 
+4 	25-29 		Death Warden: Effective caster level for spells that have the death 
+			descriptor increases by 1. 
+5 	30 or higher 	Master Necromancer: Once per day (non-evil) as a full-round action, attempt a turn 
+			or rebuke undead check with a +4 bonus. If the check is successful, the 
+			creature is instantly destroyed. 
+5 	30 or higher 	Master Necromancer: If undead, (evil) gain turn resistance +4, or increase 
+			existing turn resistance by 4. 

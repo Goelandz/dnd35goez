@@ -1,0 +1,6 @@
+The magical properties of this +1 glaive are a great boon to anyone engaging in long marches, protracted battles, or other extended physical exertion. While holding soldier’s rest, the wielder ignores the effects of fatigue. Anytime the wielder becomes fatigued, he does not take the penalties associated with the condition. Although helpful, soldier’s rest does not allow unending exertion. If the character becomes exhausted, he takes the normal penalties associated with that condition.
+
+Caster Level: 9th; 
+Prerequisites: Craft Magic Arms and Armor, endurance; 
+Market Price: 4,808 gp; 
+Cost to Create: 2,558 gp + 180 XP.

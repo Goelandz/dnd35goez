@@ -1,0 +1,2 @@
+Racial bonus
+A bonus granted because of the culture a particular creature was brought up in or because of innate characteristics of that type of creature. If a creature's race changes (for instance, if it dies and is reincarnated), it loses all racial bonuses it had in its previous form.

@@ -1,0 +1,4 @@
+This capsule holds a dose of weak antitoxin. When imbibed, it provides a +1 alchemical bonus on Fortitude saving throws made against poison. This bonus lasts for 1 minute.
+
+DC To Create	20
+Cost		100 gp
