@@ -1,0 +1,34 @@
+This is a 1 man project, its tedious and extremely long. It will be updated constantly until my pinky die from Ctrl + C. That said, if you have a good idea to make thing more clear, or better category please feel free to comment. 
+
+All the image will be changed at some point into "excel" file.
+
+Some source has extremely similar enhancement or item. They have the same name but some point of the description is different. Like some require "fly" as required spell but the other require "air walk". 
+
+Some are completly different with the same name, such as Knockdown. I tryed to split them into 2 different file. I might have do slight error though. Feel free to tell me any that you find. 
+
+My main language is french, not english. So some sentence will be terrible or contain spelling error. If such thing is annoying for you, feel free to correct the mistake and I will update it at some point.
+
+All program that I included was program by me. I am not a programmer and if someone look through the code, their eye probably going to bleed. This is technically mine, but I have absolutly no issue that anyone modify them. Just give me credit somewhere.
+
+Those program has been created only for me. So if the interface or some functionnality seem weird to you, sorry but I don't intend to make major change in them. I won't modify them to make them more cute or user friendly. On that note, if you find a bug, feel free to tell me about it. Its probably that I haven't seen it yet.
+
+The following content aren't there yet. Its normal, they going to be added at some point,
+Artifact
+Class
+Errata
+Spells
+Creature
+Template
+Feat
+Alternative Class feature
+Race
+
+The following content might be added at some point,
+Online only
+Adventure material
+
+The following material will never be added,
+Planes
+God Stats
+General Story/Lore
+Other Pantheon and their domain (Unused in D&D)
