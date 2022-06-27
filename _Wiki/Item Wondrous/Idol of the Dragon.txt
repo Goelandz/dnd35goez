@@ -1,0 +1,23 @@
+Much like a figurine of wondrous power, an idol of the dragon is a miniature statuette (about 2 inches long) resembling a particular variety of dragon. The color and kind of the dragon is very apparent, even at a glance, due to the craftsmanship involved. The idol grants energy resistance (5 or 10) of the appropriate type to its owner while carried (but not while the idol is in dragon form).
+
+Once per week, when the idol is tossed into the air and the proper command word spoken, it becomes a full-size dragon of the appropriate age (see the table below). The dragon is a living creature, not a construct, and has all the abilities and powers of an average dragon of its age. The dragon obeys and serves its owner for up to 1 hour. At the end of this duration, or if it is prematurely dismissed by its owner, the dragon returns to idol form. A targeted dispel magic on the full-size dragon can return it to idol form if successful. If the dragon is slain while at full size, the idol is destroyed.
+
+Type Age Resistance Price
+White wyrmling cold 5 15,000 gp
+Brass wyrmling fire 5 21,000 gp
+Black very young acid 5 24,000 gp
+Copper very young acid 5 32,000 gp
+Green young acid 10 42,000 gp
+Bronze young electricity 10 56,000 gp
+Blue juvenile electricity 10 73,000 gp
+Silver juvenile cold 10 93,000 gp
+Red young adult fire 10 116,000 gp
+Gold young adult fire 10 142,000 gp
+
+Faint to strong conjuration; CL 3rd (white), 5th (black,
+brass), 7th (copper, green), 9th (bronze), 11th (blue), 13th
+(silver), 15th (red), or 17th (gold); Craft Wondrous Item,
+resist energy, and either summon monster II (white), summon
+monster III(black, brass), summon monster IV (copper, green),
+summon monster V (bronze), summon monster VI (blue), 
+summon monster VII (silver), summon monster VIII (red), or summon monster IX (gold); Price as shown on table.

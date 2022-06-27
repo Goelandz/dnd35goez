@@ -1,0 +1,11 @@
+CR 4; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +15 ranged (1d4+4 plus poison, dart); 
+multiple targets (1 dart per target in a 10-ft.-by-10-ft. area); 
+poison (Small monstrous centipede poison, DC 10 Fortitude save resists, 1d2 Dex/1d2 Dex);
+Search DC 21; 
+Disable Device DC 22. 
+
+Market Price: 12,090 gp.

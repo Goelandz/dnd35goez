@@ -1,0 +1,8 @@
+The wielder of this +3 greatsword may, as a free action, choose to deliver a smite attack upon a dragon. For every size category of the dragon larger than Medium, the smite attack deals an extra 1d6 points of damage (+1d6 against a Large creature, +2d6 against Huge, +3d6 against Gargantuan, and +4d6 against Colossal). The smite function may be used three times per day, but no more than once per round. The wielder must declare the use of the smite before the attack is made, and if the attack misses, the smite is wasted.
+
+Moderate transmutation; 
+CL 7th; 
+Craft Magic Arms and Armor, fell the greatest foe; 
+Price 34,350 gp; 
+Cost 17,305 gp + 1,360 XP;
+Weight 15 lb.

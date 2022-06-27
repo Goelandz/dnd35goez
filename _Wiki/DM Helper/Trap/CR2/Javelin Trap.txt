@@ -1,0 +1,9 @@
+CR 2; 
+mechanical; 
+location trigger; 
+manual reset;
+Atk +16 ranged (1d6+4, javelin); 
+Search DC 20; 
+Disable Device DC 18. 
+
+Market Price: 4,800 gp.

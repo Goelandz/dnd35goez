@@ -1,0 +1,16 @@
+When worn as part of a helm, this item grants its wearer keen senses similar to those of a dragon, as well as a menacing aura to keep foes at bay. 
+
+Description: This gold dragon scale is edged in steel and pierced with viewing slits, looking very much like the visor of a helmet. 
+
+Activation: A golden visor must be attached to a helm to function, occupying space on the body as goggles or lenses. While the helm is worm, its darkvision and low-light vision effects function continuously, and the wearer can activate blindsense and the aura of menace each once per day as a standard action. The wearer receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: The wearer of a helm fitted with a golden visor gains darkvision out to 60 feet and a dragon's low-light vision (seeing four times as well as a human in low-light conditions). Once per day, the visor also grants blindsense out to 30 feet. 
+
+In addition, the wearer can generate an aura of menace once per day. An enemy with fewer Hit Dice than the wearer who tries to approach within 20 feet of him must succeed on a DC 20 Will save or be unable to approach for 1 round. If the wearer moves closer to an affected creature, the effect is broken for that creature, and it gains immunity to the aura for 24 hours. 
+
+Aura/Caster Level: Moderate divination and enchantment; 
+CL 11th. 
+Construction: Craft Wondrous Item, clairaudience/clairvoyance, darkvision, invisibility purge, repulsion, 12,000 gp, 960 
+XP, 24 days. 
+Weight: 1 lb. 
+Price: 24,000 gp. 

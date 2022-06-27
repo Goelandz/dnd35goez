@@ -1,0 +1,12 @@
+CR 6; 
+mechanical; 
+timed trigger; 
+automatic reset; 
+hidden lock bypass (Search DC 25, Open Lock DC 30);
+Atk +10 melee (1d4+4/19–20 plus poison, dagger); 
+poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); 
+multiple targets (one target in each of three preselected 5-ft. squares);
+Search DC 20; 
+Disable Device DC 20. 
+
+Market Price: 30,200 gp.

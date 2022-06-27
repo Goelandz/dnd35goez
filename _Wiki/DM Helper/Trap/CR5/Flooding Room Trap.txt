@@ -1,0 +1,10 @@
+CR 5; 
+mechanical; 
+proximity trigger;
+automatic reset; 
+no attack roll necessary (see note below); 
+Search DC 20; 
+Disable Device DC 25. 
+
+Note: Room floods in 4 rounds (see Drowning, page 304). 
+Market Price: 17,500 gp.

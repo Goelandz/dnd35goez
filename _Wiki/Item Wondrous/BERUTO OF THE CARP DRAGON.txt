@@ -1,0 +1,13 @@
+This belt grants its wearer a swim speed and the ability to breathe water. 
+
+Description: Decorated with seashells. this hemp belt has a buckle fashioned from a yu lung dragon scale. 
+
+Activation: A beruto of the carp dragon functions continuously while worn, occupying the same body slot as a belt. When first donned, it telepathically instructs the wearer (simultaneously in the Spirit Tongue and Draconic) on the effects of the item and how to activate it. 
+
+Effect: The wearer gains the ability to breathe water normally but loses the ability to breathe air. He also gains a swim speed equal to his base land speed, along with the other benefits of having a swim speed (see Movement Modes, MM 311). After removing the beruto of the carp dragon, the wearer resumes breathing air. 
+
+Aura/Caster Level: Moderate transmutation; 
+CL 7th. 
+Construction: Craft Wondrous Item, water breathing, 1,100 gp, 88 XP, 3 days. 
+Weight: 1 lb. 
+Price: 2.200 gp. 

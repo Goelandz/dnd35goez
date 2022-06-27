@@ -1,0 +1,9 @@
+CR 8; 
+magic device; 
+touch trigger; 
+no reset; 
+spell effect (power word stun, 13th-level wizard), 
+Search DC 32; 
+Disable Device DC 32. 
+
+Cost: 4,550 gp, 364 XP.

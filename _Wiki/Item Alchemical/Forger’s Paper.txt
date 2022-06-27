@@ -1,0 +1,4 @@
+This normal-looking sheet of paper is infused with an alchemical substance that makes the sheet nearly transparent for 1 hour when exposed to heat. The now-clear sheet can be overlaid on a document to be copied, granting a +2 alchemical bonus on Forgery checks made while using it. Once the alchemical substance within it loses potency, the page becomes indistinguishable from a normal piece of paper (and can’t be activated again by any means).
+
+Craft DC:	20
+Cost:		10	gp

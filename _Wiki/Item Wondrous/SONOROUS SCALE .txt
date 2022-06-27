@@ -1,0 +1,17 @@
+Characters who are tired of having their prize jewelry swiped by thieves will find that this scale to be a shocking deterrent to would-be pickpockets. 
+
+Description: This song dragon scale is decorated with a variety of precious metals and gems with no discernible pattern or form. 
+
+Activation: Speaking a command word causes a sonorous scale to transform into an attractive piece of jewelry of the speaker's choice, such as a brooch, pendant, bracelet, circlet, or amulet. No matter what its shape, this item does not inhibit the function of any other magic item in use by its owner. 
+
+After donning the jewelry, the wearer can touch it safely. but anyone else grabbing it will trigger the damage and keening effects. The wearer can speak a second command word to deactivate the keening, and a third to turn the jewelry back into a dragon scale, which can be touched safely by anyone. 
+
+Anyone who dons a sonorous scale receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: When activated, a sonorous scale acts purely as a theft deterrent. If someone tries to take the piece of jewelry from the wearer, it deals 3d8 points of electricity damage to the thief and emits a high-pitched keening sound that can be heard with a DC -20 Listen check (making it clearly audible up to 300 feet away, assuming no barriers exist). The noise stops only it the item is removed from the wearer, if the wearer is slain, or if the wearer deactivates the keening with a command word. 
+
+Aura/Caster Level: Moderate evocation; 
+CL 6th. 
+Construction: Craft Wondrous Item, alarm, shocking grasp, 1,250gp, 100 XP, 3 days. 
+Weight: —. 
+Price: 2,500 gp. 

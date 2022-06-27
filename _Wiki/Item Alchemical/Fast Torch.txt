@@ -3,3 +3,6 @@ This item consists of a tube of waxed paper set into a short wooden handle. The 
 The lit torch produces a brilliant white light that produces bright illumination in a 30-foot radius and shadowy illumination 30 feet beyond that.
 
 A fast torch burns for 10 minutes, even in high winds or underwater (though it can't be ignited underwater). It's possible to extinguish a fast torch by burying it in sand (or a similar substance) or by grinding it out against a nonflammable surface. Either method requires a full-round action; once extinguished, it can't be relit.
+
+Craft DC:	20
+Cost:		5	gp

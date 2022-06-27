@@ -1,0 +1,9 @@
+CR 3; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+Atk +2 ranged touch; spell effect (Melf ’s acid arrow, 3rd-level wizard, 2d4 acid/round for 2 rounds); 
+Search DC 27; 
+Disable Device DC 27. 
+
+Cost: 3,000 gp, 240 XP.

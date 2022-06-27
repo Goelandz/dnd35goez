@@ -1,0 +1,8 @@
+This necklace of dragon teeth grants all of the wearer’s natural attacks the ability to overcome damage reduction as if they were magic weapons.
+
+(The attacks don’t actually gain an enhancement bonus, only the ability to ignore some creatures’ damage reduction.)
+
+Moderate transmutation; 
+CL 12th; 
+Craft Wondrous Item, greater magic fang; 
+Price 2,500 gp.

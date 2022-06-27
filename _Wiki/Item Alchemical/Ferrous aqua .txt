@@ -1,0 +1,6 @@
+A pellet of ferrous aqua is a halfinch-diameter sphere of glass containing a rusty red liquid with small black flakes floating in suspension. A ferrous aqua pellet can be thrown as a ranged touch attack with a range increment of 5 feet. Alternatively, it can be loaded into a sling and used as a sling bullet.
+
+When it strikes a firm surface, the pellet bursts and sprays out the suspension within. Any creature with damage reduction that is overcome by cold iron takes 1d6 points of damage and is sickened for 1 round if struck by a ferrous aqua pellet (a successful DC 12 Fortitude save negates the sickened condition, but not the damage). Other creatures take no damage from a ferrous aqua pellet.
+
+Craft DC:	20
+Cost:		20	gp

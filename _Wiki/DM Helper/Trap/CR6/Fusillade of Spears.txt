@@ -1,0 +1,10 @@
+CR 6; 
+mechanical; 
+proximity trigger;
+repair reset; 
+Atk +21 ranged (1d8, spear); 
+multiple targets (1d6 spears per target in a 10 ft.-by-10-ft. area); 
+Search DC 26; 
+Disable Device DC 20. 
+
+Market Price: 31,200 gp.

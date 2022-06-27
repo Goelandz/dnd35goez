@@ -1,0 +1,5 @@
+A bow carved from a single bone of a dragon (a thigh bone or similarly large bone) displays superior tensile strength and power. Such a bow is considered a composite bow (short or long) with a strength rating set by the crafter. In addition, the bow’s range increment is 20 feet longer than normal for the bow’s type (90 feet for a composite shortbow or 130 feet for a composite longbow).
+
+Dragoncraft Price: as composite bow +100 gp; 
+Dragon Part: dragon bone; Skill: Craft (bowyer); 
+Weight: 3 lb.

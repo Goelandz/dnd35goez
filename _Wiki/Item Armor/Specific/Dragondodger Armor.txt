@@ -1,0 +1,8 @@
+This suit of +3 studded leather armor grants its wearer the evasion ability, but only against breath weapons. (When a breath weapon would normally allow a Reflex save for half damage, the wearer of the armor takes no damage on a successful save.)
+
+Moderate abjuration; 
+CL 9th; 
+Craft Magic Arms and Armor, aura of evasion; 
+Price 15,675 gp; 
+Cost 7,925 gp + 620 XP; 
+Weight 20 lb.

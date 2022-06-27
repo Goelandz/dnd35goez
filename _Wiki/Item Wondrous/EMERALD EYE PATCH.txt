@@ -1,0 +1,15 @@
+Prized by characters who explore dark forests and jungles, this patch also comes in handy for anyone searching for just the right herb or spice. 
+
+Description: This scintillating green dragon scale is 2 inches in diameter and features a faceted emerald in its center. 
+
+Activation: Activating either effect of the emerald eye patch requires a standard action. The rebuke/command plant creatures effect functions three times per day, while the detect plants effect can be used at will. 
+
+If it is held to the face, the patch magically adheres to cover one eye. Anyone donning an emerald eye patch receives mental instructions in Draconic on the effects of the item and how to activate it. Only the wearer can remove the patch unless she is unconscious or killed, in which case it detaches easily. 
+
+Effect: The wearer of an emerald eye patch can rebuke or command plant creatures, just like the granted power of the Plant domain, as a 10th-level cleric. In addition, the wearer can detect plants at will as if using the detect animals or plants spell (PH 218), but this ability detects only plants. 
+
+Aura/Caster Level: Moderate divination and transmutation; 
+CL 10th. 
+Construction: Craft Wondrous Item, control plants, 6.000 gp, 4S0XP, 12 days. 
+Weight: —. 
+Price: 12,000 gp. 

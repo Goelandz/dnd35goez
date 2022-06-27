@@ -1,1 +1,4 @@
 A quickspark alchemical capsule coats a melee weapon or a thrown weapon with a thin sheet of liquid that crackles and sparks with dangerous electrical energy. This substance allows the weapon to deal extra electricity damage for a short amount of time without damaging the weapon or its wielder. A weapon treated with quickspark deals 1d6 points of electricity damage with each successful strike. The capsule’s effects last for 1 round, ending at the beginning of the wielder’s next turn. This electricity damage doesn’t stack with any other electricity damage the weapon deals.
+
+Craft DC:	25
+Cost:		25	gp

@@ -6,8 +6,3 @@ Market Price: 8,300 gp.
 
 
 
-
-
-
-DC To Create	20
-Cost		20 gp

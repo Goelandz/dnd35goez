@@ -1,0 +1,13 @@
+Many ship captains keep a pearly okimono of the sea dragon in their cabins, although smaller vessels have one mounted on their bows for decoration. It is a mark of prestige to possess one, since these items greatly benefit warships, exploratory vessels, and fishers alike. 
+
+Description: This ornate lung wang dragon scale is 12 inches in diameter and inlaid with mother-of-pearl, coral, and white pearls depicting an ocean scene. 
+
+Activation: An okimono functions continuously as long as it is affixed to a water vessel. When first grasped, it telepathically instructs the owner (simultaneously in the Spirit Tongue and Draconic) on the effects of the item and how to activate it. 
+
+Effect: When carried aboard a waterborne vessel, a pearly okimono of the sea dragon grants a +5 bonus on any Profession (sailor) checks made to control the ship by someone on the vessel. It also increases the vessel's hardness by 5 and halves any chance that the ship will capsize in rough water. 
+
+Aura/Caster Level: Moderate divination and transmutation; 
+CL 11th. 
+Construction: Craft Wondrous Item, commune with nature or commune with greater spirit (see Oriental Adventures), control winds, ironwood, 3,750 gp. 300 XP, 8 days. 
+Weight: 6 lb. 
+Price: 7,500 gp. 

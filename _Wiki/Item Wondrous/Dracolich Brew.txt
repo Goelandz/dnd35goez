@@ -1,0 +1,8 @@
+This ingested poison (Fortitude DC 25; 2d6 Con/2d6 Con) is created specifically for a dragon who wishes to become a dracolich. It automatically slays the dragon for which it is prepared (no save allowed).
+
+See the dracolich entry, page 146, for more information. 
+
+Moderate necromancy; 
+CL 11th; 
+Brew Potion, Knowledge (arcana) 14 ranks; 
+Price 5,000 gp.

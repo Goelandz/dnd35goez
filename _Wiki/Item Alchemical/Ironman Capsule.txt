@@ -4,5 +4,5 @@ This capsule holds a thick pale liquid that allows the user to shake off pain an
 
  An ironman capsule does not prevent a character from losing a hit point if he is already at or below 0 hit points and does not prevent the user from dying if he reaches –10 hit points.
 
-DC To Create	20
-Cost		15 gp
+Craft DC:	20
+Cost:		15	gp

@@ -1,0 +1,12 @@
+A golem manual contains information, incantations, and magical power that help a character to craft a golem (see page 134 of the Monster Manual). The instructions therein grant a +5 competence bonus on skill checks made to craft the golem’s body. Each manual also holds the prerequisite spells needed for a specific golem and effectively grants the builder use of the Craft Construct feat (see page 303 of the Monster Manual) during the construction of the golem, and grants the character an increase to her caster level for the purpose of crafting a golem. Any golem built using a golem manual does not cost the creator any XP, since the requisite XP are “contained” in the book and “expended” by the book during the creation process.
+
+The spells included in a golem manual require a spell trigger activation and can be activated only to assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem’s body. Once the golem is finished, the writing in the manual fades and the book is consumed in flames. When the book’s ashes are sprinkled upon the golem, it becomes fully animated.
+
+Ironwyrm Golem Manual: This book contains animate objects, antimagic field, geas/quest, incendiary cloud, and limited wish. The reader may treat her caster level as four levels higher than normal for the purpose of crafting a ironwyrm golem. The book supplies 8,000 XP for the creation of a ironwyrm golem.
+
+Strong abjuration, enchantment, evocation, and transmutation;
+CL 18th; 
+Craft Construct, creator must be caster level 18th, animate objects, antimagic field, geas/quest, incendiary cloud, limited wish; 
+Price 50,000 gp; 
+Cost 5,000 gp + 8,400 XP; 
+Weight 5 lb.

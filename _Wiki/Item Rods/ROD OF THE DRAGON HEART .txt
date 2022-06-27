@@ -1,0 +1,15 @@
+Dragon lords (see page 38) and other war leaders hold these rods aloft in battle, letting a wave of fear wash over their foes, much as if a dragon were present. 
+
+Description: A rod of the dragon heart is an iron shaft about 1 foot long with a small cage at the top. Within the cage is a purple crystal shaped like a dragon's heart. When its bearer is engaged in battle, fleeting apparitions of tiny dragons appear in the air above the rod of the dragon heart. The apparitions are clearly not real, and each remains for just a second or two before vanishing. But for opponents of the rod's bearer, the brief images have an unsettling, sinister quality. 
+
+Activation: To activate a rod of the dragon heart, the wielder's current hit points must equal or exceed half his full normal hit points. He must hold the rod in one hand and utter the command word (a standard action), which is often an ancient dragon's name, such as "Paelchronithrax" or "Tueranachtrus." The rod is active for a maximum of 10 rounds per day, split up however the wielder likes. He can turn off the rod with a mental command (a free action). 
+
+While the rod is active, if the wielder's current hit points tall below half his full normal hit points, the rod immediately turns off. 
+
+Effect: Enemies within 30 feet of the wielder when he activates the rod (or who come within 30 feet of an already active rod) must attempt DC 16 Will saves. Foes who fail their saves are shaken as long as they remain within 120 feet of the rod. Foes who make their saves are immune to the effects of the rod of the dragon heart for 24 hours. Creatures immune to a dragon's frightful presence are immune to the rod's effect. 
+
+Aura/Caster Level: Moderate necromancy; 
+CL 7th. 
+Construction: Craft Rod, fear, 4,000 gp, 160 XP, S days. 
+Weight: 5 lb. 
+Price: 8,000 gp. 

@@ -1,0 +1,10 @@
+CR 1; 
+mechanical; 
+location trigger; 
+no reset; 
+Atk +10 melee (2d6, wire); 
+multiple targets (first target in each of two adjacent 5-ft. squares); 
+Search DC 22; 
+Disable Device DC 15. 
+
+Market Price: 400 gp.

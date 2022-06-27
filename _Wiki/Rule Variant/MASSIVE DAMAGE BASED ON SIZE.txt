@@ -1,0 +1,4 @@
+If a creature takes 50 points of damage or more from a single attack, she must make a Fortitude save or die. This rule exists primarily as a nod toward realism in the abstract system of hit point loss. As an extra touch of realism, you can vary the massive damage threshold by size, so that each size category larger or smaller than Medium raises or lowers the threshold by 10 hit points. This variant hurts halfling and gnome PCs, familiars, and some animal companions. It generally favors monsters.
+
+Size 	F 	D 	T 	S 	M 	L 	H 	G 	C
+Damage 	10 	20 	30 	40 	50 	60 	70 	80 	90

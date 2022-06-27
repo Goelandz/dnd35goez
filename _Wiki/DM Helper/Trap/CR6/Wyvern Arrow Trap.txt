@@ -1,0 +1,9 @@
+CR 6; 
+mechanical; proximity trigger;
+manual reset; 
+Atk +14 ranged (1d8 plus poison, arrow); 
+poison (wyvern poison, DC 17 Fortitude save resists, 2d6 Con/2d6 Con);
+Search DC 20; 
+Disable Device DC 16. 
+
+Market Price: 17,400 gp.

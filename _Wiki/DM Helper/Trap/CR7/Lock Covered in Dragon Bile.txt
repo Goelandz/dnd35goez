@@ -1,0 +1,9 @@
+CR 7; 
+mechanical; 
+touch trigger (attached); 
+no reset; 
+poison (dragon bile, DC 26 Fortitude save resists, 3d6 Str/0); 
+Search DC 27; 
+Disable Device DC 16. 
+
+Market Price: 11,300 gp.

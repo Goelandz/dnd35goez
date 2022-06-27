@@ -1,0 +1,9 @@
+CR 7; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+spell effect (chain lightning, 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, DC 19 Reflex save half damage); 
+Search DC 31; 
+Disable Device DC 31.
+
+Cost: 33,000 gp, 2,640 XP

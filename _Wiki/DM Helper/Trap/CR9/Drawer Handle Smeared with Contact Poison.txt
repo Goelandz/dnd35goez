@@ -1,0 +1,9 @@
+CR 9;
+mechanical; 
+touch trigger (attached); 
+manual reset; 
+poison (black lotus extract, DC 20 Fortitude save resists, 3d6 Con/3d6 Con);
+Search DC 18; 
+Disable Device DC 26. 
+
+Market Price: 21,600 gp.

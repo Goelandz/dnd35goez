@@ -1,0 +1,10 @@
+CR 7; 
+magic device; 
+proximity trigger (alarm); 
+no reset; 
+spell effect (Evard’s black tentacles, 7th-level wizard, 1d4+7 tentacles, Atk +7 melee [1d6+4, tentacle]); 
+multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares);
+Search DC 29; 
+Disable Device DC 29. 
+
+Cost: 1,400 gp, 112 XP.

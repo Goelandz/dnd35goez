@@ -1,0 +1,9 @@
+CR 3; 
+magic device; 
+touch trigger; 
+automatic reset; 
+spell effect (ghoul touch, 3rd-level wizard, DC 13 Fortitude save negates); 
+Search DC 27; 
+Disable Device DC 27. 
+
+Cost: 3,000 gp, 240 XP.

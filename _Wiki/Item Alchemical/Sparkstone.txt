@@ -1,4 +1,4 @@
 These alchemical devices actually resemble fist-sized lumps of hard, gray clay. You can throw a sparkstone as a grenadelike weapon. When a sparkstone hits a target, it releases a short, violent arc of electricity. A direct hit by a sparkstone deals 1d6 points of electricity damage. If there is another creature within 5 feet of the target, the electricity arcs to that creature, dealing half of the initial damage. The parkstone only creates one secondary arc, so if more than one creature is within 5 feet of the target, roll randomly to see which creature is affected. If no creatures are within 5 feet of the target, the sparkstone causes no secondary effect.
 
-DC To Create	25
-Cost		50 gp
+Craft DC:	25
+Cost:		50	gp

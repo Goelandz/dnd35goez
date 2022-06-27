@@ -1,0 +1,13 @@
+This item is useful to any character who frequently finds herself unarmed, though monks and similar martial artists prize it most highly. 
+
+Description: Protruding 3 inches above its setting, this gray fang dragon scale is set in a heavy gold band. The ring appears cumbersome but does not interfere with any actions. 
+
+Activation: A fanged ring functions continuously while worn. Anyone donning the ring receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: A fanged ring grants its wearer the Improved Unarmed Strike feat and the Improved Natural Attack (unarmed strike) teat. It the wearer deals a critical hit with an unarmed strike, he also deals 1 point of Constitution damage to the creature struck. 
+
+Aura/Caster Level: Strong transmutation; 
+CL 12th. 
+Construction: Forge Ring, divine power, poison. 5.000 gp, 400 XP, 10 days. 
+Weight: —. 
+Price: 10,000 gp. 

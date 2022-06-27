@@ -1,0 +1,13 @@
+CR 1; 
+mechanical; 
+location trigger; 
+manual reset; 
+hidden switch bypass (Search DC 25); 
+DC 15 Reflex save avoids; 
+20 ft. deep (2d6, fall); 
+multiple targets (first target in each of two adjacent 5-ft. squares); 
+Search DC 20; 
+Disable Device DC 23.
+
+
+Market Price: 1,300 gp.

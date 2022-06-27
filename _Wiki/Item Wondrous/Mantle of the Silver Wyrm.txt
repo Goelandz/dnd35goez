@@ -1,0 +1,7 @@
+This impressive cloak is fashioned from the hide of a silver dragon. It grants its wearer a +2 enhancement bonus to Charisma and resistance to cold 10. In addition, its wearer can use fly (as the spell) once per day.
+
+Faint abjuration and transmutation; 
+CL 5th; 
+Craft Wondrous Item, eagle’s splendor, fly, resist energy; 
+Price 27,000 gp;
+Weight 3 lb.

@@ -1,0 +1,10 @@
+CR 1; 
+mechanical; 
+touch trigger; 
+automatic reset; 
+hidden switch bypass (Search DC 25); 
+Atk +10 melee (2d4/×4, scythe); 
+Search DC 22; 
+Disable Device DC 22. 
+
+Market Price: 2,500 gp.

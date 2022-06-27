@@ -1,0 +1,11 @@
+CR 5; 
+mechanical; 
+location trigger;
+manual reset; 
+Atk +16 melee (1d8+4 plus poison, spike); 
+multiple targets (closest target in each of two adjacent 5-ft. squares); 
+poison (Medium monstrous spider venom, DC 12 Fortitude save resists, 1d4 Str/1d4 Str); 
+Search DC 17; 
+Disable Device DC 21. 
+
+Market Price: 12,650 gp.

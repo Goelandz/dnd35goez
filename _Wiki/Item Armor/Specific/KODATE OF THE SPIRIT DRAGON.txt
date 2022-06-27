@@ -1,0 +1,13 @@
+This tiny shield is ideal for spies and other stealthy characters who need to slip in or out of tight spots. 
+
+Description: This buckler is fashioned from silver-plated steel and has a shen lung dragon scale embedded in its center. 
+
+Activation: The enhancement bonus and the ability to speak and understand the Spirit Tongue function while the kodate is held. Twice per day, the owner can become ethereal as a swift action. When first held, the buckler telepathically instructs the owner (simultaneously in the Spirit Tongue and Draconic) on the effects of the item and how to activate it. 
+
+Effect: A kodate of the spirit dragon functions as a +1 buckler, and its owner can speak and understand the Spirit Tongue. When activated, the item renders its owner ethereal for 1 round, similar to the ethereal jaunt spell (PH 227). 
+
+Aura/Caster Level: Moderate abjuration and transmutation; 
+CL 10th. 
+Construction: Craft Magic Arms and Armor, ethereal jaunt, tongues, 3,165 gp, 240 XP, 6 days. 
+Weight: 6 lb. 
+Price: 6,165 gp. 

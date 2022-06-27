@@ -1,0 +1,8 @@
+CR 1; mechanical; 
+proximity trigger;
+manual reset; 
+Atk +10 ranged (1d6/×3, arrow); 
+Search DC 20; 
+Disable Device DC 20. 
+
+Market Price: 2,000 gp.

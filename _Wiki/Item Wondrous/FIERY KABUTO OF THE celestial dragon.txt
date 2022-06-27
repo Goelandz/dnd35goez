@@ -1,0 +1,16 @@
+In addition to being a badge of honor and loyalty, this helm grants immunity to cold and fire and burns would-be attackers. 
+
+Description: This extremely ornate helm is decorated with red and yellow enamel and features a large t'ien lung dragon scale as its central decoration. 
+
+Prerequisite: While this item functions for any character, wearing a kabuto is a right normally reserved for samurai (see Oriental Adventures or Complete Warrior), Other characters who wear this item risk drawing the ire of those who hold to such standards of honor. In campaigns that don't include samurai, the fiery kabuto is most appropriate for paladins, knights (see Player's Handbook II), and similarly honorable characters. 
+
+Activation: Activating or turning off a fiery kabuto requires a standard action; expanding the diameter of the sphere of flame requires a full-round action. It functions once per day. When first donned, it telepathically instructs the wearer (simultaneously in the Spirit Tongue and Draconic) on the effects of the item and how to activate it. 
+
+Effect: A fiery kabuto of the celestial dragon creates a sheath of fire around its wearer that lasts for 10 rounds. The wearer is immune to the helm's flames and also gains immunity to cold and fire. Furthermore, the flames deal 1d6 points of fire damage to any creature that strikes the wearer with a natural weapon or nonreach melee weapon. 
+
+The wearer can attempt a DC 15 Concentration check as a full-round action to expand the size of the flames to a 20-foot-radius sphere. Each creature within the sphere takes 2d6 points of fire damage each round at the end of the wearer's turn, but they no longer take damage from striking him. 
+
+Aura/Caster Level: Strong evocation; CL 13th. 
+Construction: Craft Wondrous Item, fires of purity (Oriental Adventures) or lire shield, 4,500 gp, 460 XP, 9 days. 
+Weight: 3 lb. 
+Price: 9,000 gp. 

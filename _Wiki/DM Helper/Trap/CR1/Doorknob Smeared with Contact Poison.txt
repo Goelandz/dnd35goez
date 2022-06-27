@@ -1,0 +1,8 @@
+CR 1; 
+mechanical;
+touch trigger (attached), manual reset; 
+poison (carrion crawler brain juice, DC 13 Fortitude save resists, paralysis/0); 
+Search DC 19; 
+Disable Device DC 19.
+
+Market Price: 900 gp.

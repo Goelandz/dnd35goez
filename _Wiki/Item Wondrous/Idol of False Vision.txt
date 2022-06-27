@@ -1,6 +1,0 @@
-This large statue automatically detects any attempt to scry (including scrying and similar spells such as arcane eye and clairaudience/clairvoyance) any individuals or locations within 50 feet of it. Any such effect triggers a false vision spell that masks any creature attuned to the idol from being scried. Attunement may be performed during the idol’s creation or at any later time by touching the idol and speaking a command word chosen during creation. The idol can cast false vision three times per day.
-
-Caster Level: 10th; Prerequisites: Craft Wondrous Item, detect scrying, false vision; 
-Market Price: 54,500 gp;
-Cost to Create: 33,500 gp + 1,680 XP; 
-Weight: 400 lb.

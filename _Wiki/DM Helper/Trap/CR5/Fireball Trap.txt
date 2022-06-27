@@ -1,0 +1,9 @@
+CR 5; 
+magic device; 
+touch trigger; 
+automatic reset;
+spell effect (fireball, 8th-level wizard, 8d6 fire, DC 14 Reflex save half damage); 
+Search DC 28; 
+Disable Device DC 28. 
+
+Cost: 12,000 gp, 960 XP.

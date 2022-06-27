@@ -1,0 +1,10 @@
+CR 8; 
+mechanical; 
+touch trigger;
+manual reset; 
+Atk +16 melee (2d4+8 plus poison, scythe); 
+poison (deathblade, DC 20 Fortitude save resists, 1d6 Con/2d6 Con);
+Search DC 24; 
+Disable Device DC 19. 
+
+Market Price: 31,400 gp.

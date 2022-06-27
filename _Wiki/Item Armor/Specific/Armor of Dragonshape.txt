@@ -1,0 +1,10 @@
+This suit of +3 dragoncraft hide armor grants its wearer resistance 5 against a specific type of energy, as appropriate to the dragon from whose scales it was crafted (acid for black, copper, or green; cold for silver or white; electricity for blue or bronze; or fire for brass, gold, or red). This resistance is treated as an extraordinary (and thus nonmagical) feature of the armor.
+
+If the wearer has the wild shape ability, she may change into a Small or Medium dragon of the same color as the armor once per day, and may remain in that form for up to 7 hours. This change doesn’t count against the character’s normal limit of daily wild shape uses.
+
+Moderate transmutation; 
+CL 7th; 
+Craft Magic Arms and Armor, Dragoncrafter, wild shape ability; 
+Price 23,165 gp; 
+Cost 14,665 gp + 680 XP; 
+Weight 25 lb.

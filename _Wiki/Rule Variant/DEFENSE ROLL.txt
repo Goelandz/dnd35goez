@@ -1,0 +1,4 @@
+More randomness can sometimes eliminate the foregone conclusion of a high-level character who always hits, or a low-level one who never has a chance. A good way to introduce this randomness is to allow (or force) characters to make defense rolls. Every time a character is attacked, rather than just using his never-changing, static AC, he makes a d20 roll and adds it to all his AC modifiers. Every attack becomes an opposed roll, with attacker and defender matching their modified rolls against one another. (One way to look at it is that without the defense roll, characters are “taking 10” on the roll each round, and thus are using a base of 10 for Armor Class.)
+
+The defense roll can be expressed like this:
+1d20 + (AC – 10

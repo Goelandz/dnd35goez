@@ -1,0 +1,20 @@
+Characters who face the mightiest of dragons know to fear their tail slap more than their bite. These adamantine bands enhance the already prodigious destructive capability of a tail slap attack. 
+
+Description: Each of these three progressively larger adamantine bands is a stunning piece of jewelry in its own right, studded with gems and inscribed with draconic runes of strength. The three bands slip over the wearer's tail and are magically held in place once donned, spread equidistant up its length. Tailbands of impact occupy the same space on the body as boots. 
+
+Prerequisite: While tailbands of impact are made for dragons, any creature that has a tail slap attack can wear them, and they resize to fit the wearer. A creature that does not have a tail slap attack gains no benefit from wearing the bands. 
+
+Activation: The tailbands of impact function automatically as long as they are worn. 
+
+Effect: An attack with a tail equipped with tailbands of impact is considered adamantine and magic for the purpose of overcoming damage reduction. In addition, tailbands of impact allow the wearer to apply more of his Strength bonus on damage rolls for tail slap attacks. Consult the table below to determine the effect. 
+
+Normal 			Wearing Tailbands of Impact
+Str bonus × 1/2 	Str bonus
+Str bonus 		Str bonus × 1-1/2
+Str bonus × 1-1/2 	Str bonus × 2
+
+Aura/Caster Level: Moderate evocation; 
+CL 11th. 
+Construction: Craft Wondrous Item, bull's strength, 3,000 gp, 240 XP, 6 days. 
+Weight: 10 lb. 
+Price: 6,000 gp. 

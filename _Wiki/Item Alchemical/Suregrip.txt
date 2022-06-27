@@ -2,5 +2,5 @@ This thick white paste, when applied to hands and feet, strengthens and steadies
 
  One dose of suregrip is enough to cover the hands and feet of one Medium creature. Applying suregrip is a standard action that provokes attacks of opportunity. 
 
-DC To Create	20
-Cost		20 gp
+Craft DC:	20
+Cost:		20	gp

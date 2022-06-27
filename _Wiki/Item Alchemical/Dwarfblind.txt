@@ -2,5 +2,5 @@ Dwarfblind stones are small stones treated with alchemical substances, giving th
 
 Creatures within a 10-foot radius of the stone’s impact point must succeed on a Reflex save (DC 15) or lose their darkvision ability for 10 minutes. Dwarfblind has no effect on normal and low-light vision.
 
-DC To Create	25
-Cost		50 gp
+Craft DC:	25
+Cost:		50	gp

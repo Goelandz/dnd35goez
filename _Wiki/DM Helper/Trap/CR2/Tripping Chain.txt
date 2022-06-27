@@ -1,0 +1,11 @@
+CR 2; 
+mechanical; 
+location trigger; 
+automatic reset; 
+multiple traps (tripping and melee attack); 
+Atk +15 melee touch (trip), Atk +15 melee (2d4+2, spiked chain); 
+Search DC 15; Disable Device DC 18. 
+
+Market Price: 3,800 gp.
+
+Note: This trap is really one CR 1 trap that trips and a second CR 1 trap that attacks with a spiked chain. If the tripping attack succeeds, a +4 bonus applies to the spiked chain attack because theopponent is prone.

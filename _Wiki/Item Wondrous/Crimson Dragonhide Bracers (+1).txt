@@ -1,0 +1,6 @@
+These bracers, crafted from the armored hide of a red dragon, grant their wearer an enhancement bonus of +1 to his natural armor. They also grant resistance to fire 5.
+
+Faint to strong abujuration and transmutation; CL 3rd (bracers +1); 
+Forge Ring, barkskin, resist energy, creator’s caster level must be three times that of the bonus placed in the bracers;
+Price 5,000 gp (bracers +1);
+Weight 1 lb.

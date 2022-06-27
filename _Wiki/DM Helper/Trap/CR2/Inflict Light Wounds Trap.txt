@@ -1,0 +1,9 @@
+CR 2; 
+magic device; 
+touch trigger;
+automatic reset; 
+spell effect (inflict light wounds, 1st-level cleric, 1d8+1, DC 11 Will save half damage); 
+Search DC 26; 
+Disable Device DC 26. 
+
+Cost: 500 gp, 40 XP.

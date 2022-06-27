@@ -1,0 +1,11 @@
+CR 1; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +10 melee (3d6); 
+Search DC 20; 
+Disable Device DC 20.
+
+Note: Damage applies only to those underneath the portcullis. Portcullis blocks passageway. 
+
+Market Price: 1,400 gp.

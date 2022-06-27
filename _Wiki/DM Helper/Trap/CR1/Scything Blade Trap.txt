@@ -1,0 +1,9 @@
+CR 1; 
+mechanical; 
+location trigger; 
+automatic reset; 
+Atk +8 melee (1d8/×3); 
+Search DC 21; 
+Disable Device DC 20. 
+
+Market Price: 1,700 gp.

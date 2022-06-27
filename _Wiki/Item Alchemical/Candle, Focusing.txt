@@ -1,4 +1,4 @@
 This large, green taper candle burns quickly, lasting only an hour despite its size. While burning, the focusing candle fills the air with a fresh, crisp odor. The candle is a great boon to those engaged in strenuous mental activity, sharpening most cognitive processes. Characters within 20 feet of a burning candle of focus gain a +1 circumstance bonus on the following skill checks: Alchemy, Appraise, Decipher Script, Forgery, Scry, and Search. When making a skill check that takes more than one action to complete (such as attempting to identify a potion with Alchemy or using the Scry skill with the scrying spell), characters only gain the bonus from a focusing candle if they spend the entire duration of the skill check within range of the burning candle.
 
-DC To Create	25
-Cost		100 gp
+Craft DC:	25
+Cost:		100	gp

@@ -1,4 +1,4 @@
-This thick, acidic gel temporarily sharpens the user’s vision. Once its beneficial effects wear off, however, the gel burns and stings the eyes for a few minutes. After spreading the gel over her eyes, a character gains a +1 bonus on Search and Spot checks for 2 minutes. After the duration expires, she takes a –2 penalty on Search and Spot checks for 10 minutes. Characters who spend a round washing out their eyes with clean water halve the duration of the penalty. Applying hawk’s ointment is a full-round action that provokes an attack of opportunity
+This thick, acidic gel temporarily sharpens the user’s vision. Once its beneficial effects wear off, however, the gel burns and stings the eyes for a few minutes. After spreading the gel over her eyes, a character gains a +1 bonus on Search and Spot checks for 2 minutes. After the duration expires, she takes a –2 penalty on Search and Spot checks for 10 minutes. Characters who spend a round washing out their eyes with clean water halve the duration of the penalty. Applying hawk’s ointment is a full-round action that provokes an attack of opportunity.
 
-DC To Create	25
-Cost		50 gp
+Craft DC:	25
+Cost:		50	gp

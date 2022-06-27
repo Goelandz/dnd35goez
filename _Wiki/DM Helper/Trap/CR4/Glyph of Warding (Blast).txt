@@ -1,0 +1,10 @@
+CR 4; 
+spell; 
+spell trigger; 
+no reset; 
+spell effect (glyph of warding[blast], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); 
+multiple targets (all targets within 5 ft.); 
+Search DC 28; 
+Disable Device DC 28. 
+
+Cost: 350 gp to hire NPC spellcaster.

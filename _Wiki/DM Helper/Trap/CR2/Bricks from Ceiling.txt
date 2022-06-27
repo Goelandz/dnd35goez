@@ -1,0 +1,10 @@
+CR 2; 
+mechanical; 
+touch trigger; 
+repair reset; 
+Atk +12 melee (2d6, bricks); 
+multiple targets (all targets in two adjacent 5-ft. squares); 
+Search DC 20; 
+Disable Device DC 20.
+
+Market Price: 2,400 gp.

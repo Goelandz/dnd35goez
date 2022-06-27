@@ -1,0 +1,13 @@
+CR 8; 
+mechanical; 
+location trigger;
+repair reset; 
+gas; 
+never miss; 
+onset delay (1 round); 
+poison (insanity mist, DC 15 Fortitude save resists, 1d4 Wis/2d6 Wis); 
+multiple targets (all targets in a 10-ft.-by-10-ft. room); 
+Search DC 25; 
+Disable Device DC 20. 
+
+Market Price: 23,900 gp.

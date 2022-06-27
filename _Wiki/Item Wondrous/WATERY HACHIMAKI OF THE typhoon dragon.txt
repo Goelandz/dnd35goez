@@ -1,0 +1,12 @@
+By channeling the mighty power of a tun mi lung dragon, this headband grants control of the wind and the rain. 
+
+Description: This blue silk headband is sewn with black pearls and features a tun mi lung dragon scale as its central ornament. 
+
+Activation: Activating the hachimaki requires a standard action. Each of its effects functions once per day. When first donned, the item telepathically instructs the wearer (simultaneously in the Spirit Tongue and Draconic) on its effects and how to activate it. 
+
+Effect: A hachimaki can be used to produce a control weather effect and a control winds effect, each once per day. 
+
+Aura/Caster Level: Strong transmutation; CL 13th. 
+Construction: Craft Wondrous Item, control weather, control winds, 12,000 gp, 960 XP, 24 days. 
+Weight: —. 
+Price: 24,000 gp. 

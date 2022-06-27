@@ -1,0 +1,13 @@
+CR 10; 
+mechanical; 
+location trigger; 
+manual reset; 
+hidden lock bypass (Search DC 25, Open Lock DC 30); 
+DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); 
+multiple targets (first target in each of two adjacent 5-ft. squares); 
+pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each);
+poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); 
+Search DC 16; 
+Disable Device DC 25. 
+
+Market Price: 19,700 gp.

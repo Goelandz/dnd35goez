@@ -1,0 +1,9 @@
+CR 3; 
+mechanical; 
+location trigger;
+manual reset; 
+Atk +20 ranged (2d4); 
+Search DC 22; 
+Disable Device DC 22.
+
+Market Price: 5,400 gp.

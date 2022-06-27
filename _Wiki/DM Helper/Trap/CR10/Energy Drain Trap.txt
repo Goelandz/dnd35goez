@@ -1,0 +1,10 @@
+CR 10; 
+magic device; 
+visual trigger (true seeing); 
+automatic reset; 
+Atk +8 ranged touch; 
+spell effect (energy drain, 17th-level wizard, 2d4 negative levels for 24 hours, DC 23 Fortitude save negates); 
+Search DC 34; 
+Disable Device DC 34. 
+
+Cost: 124,000 gp, 7,920 XP.

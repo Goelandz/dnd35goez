@@ -1,0 +1,8 @@
+CR 8; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; spell effect (prismatic spray, 13th-level wizard, DC 20 Reflex, Fortitude, or Will save, depending on effect); 
+Search DC 32; 
+Disable Device DC 32. 
+
+Cost: 45,500 gp, 3,640 XP

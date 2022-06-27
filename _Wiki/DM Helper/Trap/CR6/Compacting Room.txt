@@ -1,0 +1,13 @@
+CR 6; 
+mechanical; 
+timed trigger; 
+automatic reset; 
+hidden switch bypass (Search DC 25); 
+walls move together (12d6, crush); 
+multiple targets (all targets in a 10-ft.-by10-ft. room); 
+never miss; 
+onset delay (4 rounds); 
+Search DC 20;
+Disable Device DC 22. 
+
+Market Price: 25,200 gp

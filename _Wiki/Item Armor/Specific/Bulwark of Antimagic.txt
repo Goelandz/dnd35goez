@@ -1,0 +1,7 @@
+Once per day, the wielder of this +1 tower shield can command it to radiate an antimagic field.
+
+Moderate abjuration; 
+CL 11th; 
+Craft Magic Arms and Armor, antimagic field; 
+Price 27,580 gp; 
+Cost 14,380 gp + 575 XP; Weight 65 lb.

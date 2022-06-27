@@ -1,0 +1,9 @@
+CR 8; 
+magic device; 
+proximity trigger (detect law); 
+automatic reset; 
+spell effect (word of chaos, 13th-level cleric); 
+Search DC 32; 
+Disable Device DC 32. 
+
+Cost: 46,000 gp, 3,680 XP

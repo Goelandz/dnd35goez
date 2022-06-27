@@ -1,0 +1,13 @@
+Small enough to be carried in a box, this scale expands into a lull-size rowboat. 
+
+Description: This 6-inch-diameter chiang lung dragon scale is decorated with blue and green enamel, the interior studded with freshwater pearls arranged like benches in a tiny rowboat. It is usually stored in a watertight black lacquer box. 
+
+Activation: To activate a kuribune, the owner must place it in contact with water and speak the command word (a standard action). He can return it to dragon scale form by sprinkling a handful of sand or dirt into the boat (another standard action). When first grasped, a kuribune telepathically instructs the owner (simultaneously in the Spirit Tongue and Draconic) on the effects of the item and how to activate it. 
+
+Effect: When activated, a kuribune of the river dragon enlarges into a normal 12-foot rowboat that can hold up to three Medium creatures. The boat obeys simple one-word commands (such as "start," "stop," "left," "right," and so on) spoken by someone sitting in the prow, and it travels at a constant speed of 10 feet per round (subject to the current and rowing). 
+
+Aura/Caster Level: Strong transmutation; 
+CL 12th. 
+Construction: Craft Wondrous Item, Craft (shipmaking) 5 ranks, contingency, fabricate, find the path, 1,500 gp, 240 XP, 3 days. 
+Weight: 1 lb. 
+Price: 3,000 gp.

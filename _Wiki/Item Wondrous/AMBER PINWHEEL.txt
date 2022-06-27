@@ -1,0 +1,15 @@
+This apparent toy was first crafted by the jann, and later shared with certain tribes of nomads dwelling in the Raurin desert of Faerûn. They use it to protect themselves on long desert treks. 
+
+Description: Resembling an ornate child's toy, this brown dragon scale is gilded with rose gold. It is pierced in the middle and fastened to a short silver rod, allowing it to spin freely. 
+
+Activation: An amber pinwheel has two abilities, both activated by setting it into the ground and speaking a command word (a standard action). The effects last for up to 12 hours, though if the pinwheel is dislodged from its location, its effects end immediately. Each command word can be used only once per day. Anyone who grasps an amber pinwheel receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: One command word causes an amber pinwheel to create an invisible dome of force 10 feet high and 20 feet in diameter. The dome blocks particulate matter (dust, sand, snow, and the like) and nonmagic projectiles of any size. Magic projectiles, spells, water, gas attacks, and wind (but not flying debris) can pass through the dome. This applies within the dome as well; for example, someone inside the dome can't fire nonmagical ranged attacks at a foe on the outside. Any material covering the dome when this effect ends fills the space formerly occupied by the dome. 
+
+A second command word creates the illusion of a sand dune with (he same dimensions as the dome of force. Both abilities can be in effect at once. 
+
+Aura/Caster Level: Moderate abjuration and illusion; 
+CL 10th. 
+Construction: Craft Wondrous Item, hallucinatory terrain, wall of force, 1,950 gp, 156 XP, 4 days. 
+Weight: 3 lb. 
+Price: 3,900 gp. 

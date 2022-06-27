@@ -2,5 +2,5 @@ This dry white powder sharpens a creature’s hearing when applied to the ear. The
 
  One dose of keenear powder is enough to affect the hearing of a creature of any size, but the creature must have ears to gain any benefit from the powder. Applying keenear powder is a standard action that provokes attacks of opportunity
 
-DC To Create	20
-Cost		20 gp
+Craft DC:	20
+Cost:		20	gp

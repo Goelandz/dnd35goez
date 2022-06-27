@@ -2,5 +2,5 @@ This greenish-gray gel can be applied to a creature’s hide, hair, clothing, or a
 
  One dose of freeglide is enough to coat one Medium creature. Applying freeglide is a standard action that provokes attacks of opportunity. If freeglide is applied over clothing or armor, its benefits are lost if the armor or clothing is removed. Likewise, if it is applied to a creature’s skin or hide, its benefit is lost if the creature later dons clothing or armor.
 
-DC To Create	20
-Cost		20 gp
+Craft DC:	20
+Cost:		20	gp

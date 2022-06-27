@@ -1,0 +1,9 @@
+CR 5; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +18 ranged (1d4+1, dart); 
+multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); 
+Search DC 19; Disable Device DC 25. 
+
+Market Price: 18,000 gp.

@@ -1,0 +1,8 @@
+This +2 dragon bane composite longbow (+4 Str bonus) is carved from the thigh bone of a Huge or larger dragon (and is thus considered a dragonbone bow; see Dragoncraft Items, above). If an arrow fired from this bow hits a dragon, the dragon takes 1 point of Strength damage. Furthermore, any critical hit inflicted on a dragon by an arrow fired from this bow deals ×5 damage, not ×3 (this benefit doesn’t stack with any quality that improves the critical multiplier of a weapon). Thus, a critical hit deals normal arrow damage ×5 plus 5 points of Strength damage. (Other effects related to threatening or confirming critical hits, such as the keen edge or bless weapon spells, don’t function if applied to this bow or the arrows it fires.)
+
+Moderate transmutation and necromancy;
+CL 9th; 
+Craft Magic Arms and Armor, Dragoncrafter, keen edge, ray of enfeeblement; 
+Price 36,900 gp; 
+Cost 18,900 gp + 1,440 XP; 
+Weight 3 lb.

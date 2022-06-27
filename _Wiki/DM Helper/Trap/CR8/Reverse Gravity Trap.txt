@@ -1,0 +1,9 @@
+CR 8; 
+magic device; 
+proximity trigger (alarm, 10-ft. area); 
+automatic reset; 
+spell effect (reverse gravity, 13th-level wizard, 6d6 fall [upon hitting the ceiling of the 60-ft.-high room], then 6d6 fall [upon falling 60 ft. to the floor when the spell ends], DC 20 Reflex save avoids damage); 
+Search DC 32; 
+Disable Device DC 32. 
+
+Cost: 45,500 gp, 3,640 XP

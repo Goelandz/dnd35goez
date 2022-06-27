@@ -1,0 +1,15 @@
+This innocuous item extends the reach of attacks, surprising enemies who foolishly believe themselves beyond danger. 
+
+Description: This purple-black deep dragon scale comes in two parts, which fit together to form a twining serpent. A dark clasp usually fastens a cloak, but it can secure any type of clothing, occupying space on the body as an amulet. The wearer of a dark clasp gains a slightly ophidian feature, usually vertical pupils. 
+
+Activation: Three limes per day, a dark clasp can be activated with a swift action. Anyone who wears the clasp receives 
+mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: The dark clasp allows its wearer to make a single melee attack with a reach 5 feet longer than normal by elongating the arm (or similar body part) delivering the attack. The attack must be made with one limb, so the wearer can not gain greater reach with a weapon that is wielded in two hands. 
+
+Alternatively, the wearer can perform a single move action or standard action (such as picking up a set of keys outside a cell) with 5 additional feet of reach. Again, this effect applies only to actions that can be performed with one limb. 
+
+Aura/Caster Level: Faint transmutation; CL 3rd. 
+Construction: Craft Wondrous Item, mage hand, 1,200 gp, 96 XP, 3 days. 
+Weight: —. 
+Price: 2,400 gp. 

@@ -1,0 +1,14 @@
+Perhaps the most dangerous foe a dragon can face is another dragon. With that in mind, the great creatures designed these magic claws to help them fight off dragons that try to seize their hoards. More aggressive dragons use these claws to claim the hoards of those they view as weak. 
+
+Description: These heavy, dark metalblades fit smoothly over the wearer's claws like comfortable gloves. Dragonslayer claws occupy the same space on the body as gloves. 
+
+Prerequisite: Although dragonslayer claws are made for dragons, any creature that has a claw attack can wear them, and they resize to fit the wearer. However, dragonslayer claws bestow a negative level when worn by any creature that is not of the dragon type or the dragonblood subtype. The negative level remains as long as the claws are worn and disappear when the creature removes the dragonslayer claws. This negative level never results in actual level loss, but it cannot be overcome by any means (not even restoration or wish) while the dragonslayer claws are worn. A wearer that does not have claw attacks gains no benefit from dragonslayer claws. 
+
+Activation: Activating dragonslayer claws is a free action. The wearer can use the claws once per round, up to a maximum of three times per day. Before making an attack roll, the wearer must declare to which attack the extra damage will be applied. 
+
+Effect: When the wearer makes a claw attack, dragonslayer claws deal an extra 1d6 points of damage. Against a creature of the dragon type or the dragonblood subtype, the claws instead deal an extra 3d6 points of damage and are treated as magic weapons for the purpose of overcoming damage reduction. 
+
+Aura/Caster Level: Moderate transmutation; CL 8th. 
+Construction: Craft Wondrous Item, creator must be of the dragonblood subtype, magic weapon, 1,250 gp, 100 XP, 3 days. 
+Weight: 6 lb. 
+Price: 2,500 gp.

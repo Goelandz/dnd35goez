@@ -1,0 +1,9 @@
+CR 9; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage);
+Search DC 33; 
+Disable Device DC 33. 
+
+Cost: 60,000 gp, 4,800 XP.

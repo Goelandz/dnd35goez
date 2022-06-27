@@ -1,0 +1,8 @@
+This suit of +1 full plate armor is crafted from the cast-off scales of a dragon (rather than those harvested from a slain dragon). It grants resistance 10 to form of energy associated with the dragon from whose scales it is created (acid, cold, electricity, or fire, as appropriate). It also grants its wearer a +5 bonus on Ride checks whenever riding a dragon, and activates a feather fall spell whenever the rider falls more than 5 feet.
+
+Faint abjuration; 
+CL 3rd; 
+Craft Magic Arms and Armor, feather fall; 
+Price 26,150 gp; 
+Cost 13,400 gp + 1,000 XP;
+Weight 50 lb.

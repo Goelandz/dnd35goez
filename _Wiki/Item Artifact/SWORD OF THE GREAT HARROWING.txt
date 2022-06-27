@@ -1,0 +1,34 @@
+When bathed in the blood of dragons, no sword is deadlier against a draconic foe than a sword of the great harrowing. A longsword imbued with sentience and a seething hatred for all dragons, the blade and its bearer seek out dragons to behead—but the sword is ever watchful for a more powerful wielder. 
+
+Lore: These swords, created by the Harrowers (see page 143), are more powerful versions of dragonbane swords (DC 15 Knowledge [arcana]). Seven swords of the great harrowing are known to exist, and all are fully sentient. However, not all are still in the hands of the Harrowers (DC 25 Knowledge [arcana]). 
+
+Description: A sword of the great harrowing is a wide-bladed longsword with a fang-decorated crossguard and a ruby inset in the pommel. 
+
+The sword glows like many magic weapons, but its true power becomes apparent once it activates its dragonblood consumption power (described below). Then the sword turns bright red, and a whirling cascade of crimson energy surrounds the sword, the wielder, and the dragon they are fighting. 
+
+Personality: Originally created by the Harrowers. the swords of the great harrowing are in many ways similar to the dragons they hate: single-minded, ruthless, and endlessly patient. A sword of the great harrowing knows it needs a strong hand to wield it, though, so it acts as friend and confidant to its bearer, offering counsel and support when asked. Only two occurrences can put such a sword at odds with its wielder. First, if the wielder refuses to face a dragon in combat, the sword of the great harrowing immediately attempts to take control of him. Second, if the sword becomes aware of a more powerful potential owner, it silently observes for a time, and then tries to subtly engineer a conflict between its current owner and what it hopes will be its future master. 
+
+These swords speak Common, Elven, Dwarven, and Draconic. 
+
+AL N; 
+Int 10, Wis 17, Cha 17; 
+speech and telepathy; 120 ft. 
+darkvision and hearing; 
+Ego score 17. 
+
+Activation: Because it's an intelligent weapon, a sword of the great harrowing takes actions of its own during its wielder's turn. Its actions are generally limited to activating one of its three powers. 
+
+Effect: A sword of the great harrowing is a +1 dragonbane longsword with two lesser powers that it is eager to use on behalf of its master. Three times per day each, it can use resist energy (20 points, sword's choice of energy type) and remove fear. 
+
+But in battle with a wounded dragon, a sword of the great harrowing becomes something much more. Immediately after the wielder successfully deals damage to a dragon with the sword, it activates its dragonblood consumption power, At the end of each of the wielder's turns, check whether the sword dealt damage to the dragon that round. If it did, its enhancement bonus increases by 1 for future attacks against that dragon. If it did not, its enhancement bonus decreases by 1 for future attacks against that dragon. One hour after the last time the sword deals damage to a dragon, this effect fades, and the sword's enhancement bonus returns to normal. 
+
+A sword of the great harrowing's enhancement bonus can't drop below +1 (or the normal enhancement bonus of the sword, if improved beyond +1), nor can it rise above the dragon's age category (including the benefit of the bane quality). For dragons without an age category, treat the age category as 1/4 the dragon's Hit Dice (maximum age category of 10 for a dragon with 40 or more Hit Dice). 
+
+Variants: As written, a sword of the great harrowing is neutral, an implacable foe of both chromatic and metallic dragons. But the DM can change its alignment and narrow its focus to produce a variant sword that hates only evil dragons (or only good ones). 
+
+It's also possible to change the sword into another type of weapon. Simply subtract 15 gp from the cost, and add the cost of the new weapon. 
+
+Aura/Caster Level: Strong transmutation; CL 15th. 
+Construction: Craft Magic Arms and Armor, locate creature, resist energy, remove fear, 30,315 gp, 2,400 XP, 60 days. 
+Weight: 4 lb. 
+Price: 60,315 gp. 

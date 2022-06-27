@@ -1,0 +1,9 @@
+CR 7; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+spell effect (blade barrier, 11th-level cleric, 11d6 slashing, DC 19 Reflex save half damage); 
+Search DC 31; 
+Disable Device DC 31. 
+
+Cost: 33,000 gp, 2,640 XP

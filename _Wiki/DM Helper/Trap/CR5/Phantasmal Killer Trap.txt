@@ -1,0 +1,10 @@
+CR 5; 
+magic device; 
+proximity trigger (alarm covering the entire room); 
+automatic reset; 
+spell effect (phantasmal killer, 
+7th-level wizard, DC 16 Will save for disbelief and DC 16 Fort save for partial effect); 
+Search DC 29; 
+Disable Device DC 29. 
+
+Cost: 14,000 gp, 1,120 XP

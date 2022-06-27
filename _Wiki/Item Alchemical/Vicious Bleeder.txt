@@ -1,4 +1,4 @@
 This thick blue gel is a powerful anticoagulant. A wound caused by a weapon coated with vicious bleeder continues to bleed for 2 rounds, dealing 1 additional point of damage on each of those rounds. Applying vicious bleeder to a weapon (of any size) is a full-round action that provokes an attack of opportunity. Once applied to a weapon, vicious bleeder lasts for 1 minute before it evaporates. One flask of vicious bleeder contains enough to coat one weapon of size Large or smaller. Vicious bleeder does not affect constructs, elementals, oozes, outsiders, or undead.
 
-DC To Create	25
-Cost		50 gp
+Craft DC:	25
+Cost:		50	gp

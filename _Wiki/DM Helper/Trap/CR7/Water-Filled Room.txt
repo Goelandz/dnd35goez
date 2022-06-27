@@ -1,0 +1,12 @@
+CR 7; 
+mechanical; 
+location trigger;
+manual reset; 
+multiple targets (all targets in a 10-ft.-by-10-ft. room); 
+never miss; 
+onset delay (3 rounds); 
+water; 
+Search DC 20;
+Disable Device DC 25. 
+
+Market Price: 21,000 gp

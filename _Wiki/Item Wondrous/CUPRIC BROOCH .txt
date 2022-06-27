@@ -1,0 +1,12 @@
+Originally created by the dap to allow their most loyal slaves to navigate the Elemental Plane of Earth and earthen barriers on the Material Plane, these handy brooches have slipped out into the world at large. 
+
+Description: This small copper dragon scale is set in a rectangular granite frame affixed to a metal pin. 
+
+Activation: Three times per day, the wearer can activate a cupric brooch as a full-round action. Anyone donning a cupric brooch receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: When activated, a cupric brooch enables its wearer to move and breathe freely when passing through any type of stone or earth (but not magma or lava). This effect does not grant the wearer the ability to see within stone or earth, and his speed is likely halved along with the other effects of blindness. The wearer travels as though walking (or swimming, if that would result in a faster movement rate) and can move in any direction. He can't use the brooch to pass through stone or earthen creatures. The effect lasts for 1 minute. 
+
+Aura/Caster Level: Moderate transmutation; CL 9th. 
+Construction: Craft Wondrous Item, meld into stone, passwall, 11,000 gp, 880 XP, 22 days. 
+Weight: —. 
+Price: 22,000 gp. 

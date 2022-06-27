@@ -1,1 +1,4 @@
 A quickflame alchemical capsule coats a melee weapon or a thrown weapon with a thin sheet of oil that instantly bursts into flame. This substance allows the weapon to deal extra fire damage for a short amount of time without damaging the weapon or its wielder. A weapon treated with quickflame deals 1d6 points of fire damage with each successful strike. The capsule’s effects last for 1 round, ending at the beginning of the wielder’s next turn. This fire damage doesn’t stack with any other fire damage the weapon deals. 
+
+Craft DC:	25
+Cost:		25	gp

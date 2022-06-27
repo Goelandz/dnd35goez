@@ -1,0 +1,15 @@
+This mask provides minor defensive properties and also lets its wearer avoid the dangers of drowning—useful when exploring the marshy lairs of black dragons. 
+
+Description: This dull black dragon scale is edged in iron. It is roughly triangular in shape and slightly larger than a human fist when not worn. 
+
+Activation: An ebon mask functions continuously while worn, occupying space on the body as goggles or lenses. If held to the face, it magically adheres to cover the nose and mouth. Anyone donning an ebon mask receives mental instructions in Draconic on its effects. Only the wearer can remove an ebon mask unless he is unconscious or killed, in which case it detaches easily. 
+
+Effect: An ebon mask grants the ability to breathe water but does not prevent the wearer from breathing air. It also grants resistance to acid 5 and a +1 enhancement bonus to natural armor. 
+
+While highly prized for its benefits, an ebon mask has a drawback: It muffles speech, imposing a 20"o chance of spell failure when the wearer attempts to cast spells with verbal components. 
+
+Aura/Caster Level: Moderate abjuration and transmutation; 
+CL 6th. 
+Construction: Craft Wondrous Item, barkskin, resist energy, water breathing, 4,500 gp, 360 XP, 9 days. 
+Weight: 1 lb. 
+Price: 9,000 gp. 

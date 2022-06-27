@@ -1,0 +1,9 @@
+CR 6; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+spell effect (lightning bolt, 10th-level wizard, 10d6 electricity, DC 14 Reflex save half damage);
+Search DC 28; 
+Disable Device DC 28. 
+
+Cost: 15,000 gp, 1,200 XP

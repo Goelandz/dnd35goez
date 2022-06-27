@@ -1,0 +1,5 @@
+Ultimately, damage doesn’t matter until a character is unconscious or dead. It has no effect while she’s up and fighting. It’s easy to imagine, however, that she could be hit so hard that she’s clobbered, but not knocked unconscious or dead.
+
+Using this variant, if a character takes half her current hit points in damage from a single blow, she is clobbered. On her next turn, she can take only a standard action, and after that turn she is no longer clobbered.
+
+This variant will often lead to slightly faster fights, since taking damage would somewhat reduce the ability to deal damage. It would also increase randomness by increasing the significance of dealing substantial but less than lethal damage. It would also make hit points more important; clerics would want to cure fighters long before fighters are at risk of dying, because they might be at risk of being clobbered. Finally, it may be easier for a superior combatant to get unlucky. That fact could hurt PCs more than NPCs in the long run.

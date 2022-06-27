@@ -1,0 +1,9 @@
+CR 2; 
+mechanical; 
+touch trigger (opening the box); 
+automatic reset; 
+5-ft. cold aura (3d6, cold nonlethal);
+Search DC 22; 
+Disable Device DC 16. 
+
+Market Price: 3,000 gp.

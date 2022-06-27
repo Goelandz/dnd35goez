@@ -1,0 +1,6 @@
+These scaled boots grant their wearer a +5 enhancement bonus on Climb and Jump checks. Once per day, the wearer can cast jump on himself.
+
+Moderate transmutation; 
+CL 9th; 
+Craft Wondrous Item, jump, spider climb; 
+Price 10,000 gp.

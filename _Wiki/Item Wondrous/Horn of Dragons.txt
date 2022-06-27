@@ -1,0 +1,12 @@
+This horn bears intricate carvings of dragons in flight. When blown (a full-round action), the horn summons an adult dragon 1 round later, to a location up to 100 feet away. The dragon remains for 1 hour and serves the user of the horn to the best of its ability. At the end of the duration, or if the dragon is slain or dispelled, the dragon disappears. The type of dragon depends on the user’s alignment (see the table below). The horn may be blown once per month.
+
+User’s Alignment 	Dragon Summoned
+LG, NG, or LN 		Bronze
+CG, N, or CN 		Copper
+LE or NE 		Green
+CE 			Black
+
+Strong conjuration; 
+CL: 17th; 
+Craft Wondrous Item, summon monster IX; 
+Price 75,000 gp.

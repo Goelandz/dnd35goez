@@ -1,0 +1,9 @@
+CR 4; 
+mechanical; 
+touch trigger (attached); 
+no reset; 
+Atk +15 melee (6d6, stone blocks); 
+Search DC 20; 
+Disable Device DC 24. 
+
+Market Price: 8,800 gp.

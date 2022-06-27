@@ -1,0 +1,12 @@
+CR 3; 
+mechanical; 
+location trigger; 
+manual reset; 
+DC 20 Reflex save avoids; 
+20 ft. deep (2d6, fall); 
+multiple targets (first target in each of two adjacent 5-ft. squares); 
+pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); 
+Search DC 21; 
+Disable Device DC 20. 
+
+Market Price: 3,600 gp.

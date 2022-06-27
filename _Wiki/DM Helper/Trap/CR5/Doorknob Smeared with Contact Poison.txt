@@ -1,0 +1,8 @@
+CR 5; 
+mechanical;
+touch trigger (attached); 
+manual reset; poison (nitharit, DC 13 Fortitude save resists, 0/3d6 Con); 
+Search DC 25; 
+Disable Device DC 19. 
+
+Market Price: 9,650 gp.

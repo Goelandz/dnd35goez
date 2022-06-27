@@ -1,0 +1,11 @@
+CR 3; 
+mechanical; 
+touch trigger;
+manual reset; 
+lock bypass (Open Lock DC 30); 
+Atk +12 ranged (1d8 plus poison, arrow); 
+poison (Large monstrous scorpion venom, DC 14 Fortitude save resists, 1d4 Con/1d4 Con); 
+Search DC 19; 
+Disable Device DC 15. 
+
+Market Price: 2,900 gp.

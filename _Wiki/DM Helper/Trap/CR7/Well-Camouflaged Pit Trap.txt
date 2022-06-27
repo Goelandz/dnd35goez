@@ -1,0 +1,10 @@
+CR 7; 
+mechanical; 
+location trigger; 
+repair reset; 
+DC 25 Reflex save avoids; 70 ft. deep (7d6, fall);
+multiple targets (first target in each of two adjacent 5-ft. squares);
+Search DC 27; 
+Disable Device DC 18. 
+
+Market Price: 24,500 gp.

@@ -1,0 +1,9 @@
+CR 3; 
+mechanical; 
+timed trigger; 
+automatic reset; 
+Atk +15 melee (1d12+8/×3, greataxe); 
+Search DC 15;
+Disable Device DC 27. 
+
+Market Price: 14,100 gp.

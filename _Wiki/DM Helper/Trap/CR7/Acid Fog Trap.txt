@@ -1,0 +1,9 @@
+CR 7; 
+magic device; 
+proximity trigger (alarm);
+automatic reset; 
+spell effect (acid fog, 11th-level wizard, 2d6/round acid for 11 rounds); 
+Search DC 31; 
+Disable Device DC 31. 
+
+Cost: 33,000 gp, 2,640 XP

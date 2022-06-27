@@ -1,0 +1,5 @@
+The Player’s Handbook says that an attack roll of natural 1 (the d20 comes up 1) is always a miss. A natural 20 (the d20 comes up 20) is always a hit.
+
+This rule means that the lowliest kobold can strike the most magically protected, armored, dexterous character on a roll of 20. It also means that regardless of a warrior’s training, experience, and magical assistance, he still misses a given foe at least 5% of the time.
+
+A different way to handle this is to say that a natural 1 is treated as a roll of –10. Someone with an attack bonus of +6 nets a –4 result, which can’t hit anything. Someone with a +23 attack bonus rolling a 1 would hit AC 13 or lower. At the other extreme, a natural 20 is treated as a roll of 30. Even someone with a –2 attack penalty would hit AC 28 with such a roll.

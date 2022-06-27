@@ -1,0 +1,11 @@
+CR 5; 
+mechanical; 
+location trigger; 
+automatic reset; 
+hidden switch bypass (Search DC 25); 
+Atk +16 melee (1d12+8/×3, greataxe); 
+multiple targets (both arms attack);
+Search DC 25; 
+Disable Device DC 18. 
+
+Market Price: 22,500 gp

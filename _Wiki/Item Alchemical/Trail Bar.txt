@@ -1,0 +1,6 @@
+This tough, 4-inch-long bar of vegetable matter provides the equivalent of one day’s worth of food. A creature that has consumed a bar (which takes about 10 minutes) receives all the nutritional and stomach-filling value of a full day’s food—if none of the flavor. However, consuming a second trail bar before 24 hours have passed sickens the creature for 1 hour.
+
+Rangers and bounty hunters carry trail bars only if going into the wilds for long periods of time, and even then only reluctantly.
+
+Craft DC:	25
+Cost:		1	gp

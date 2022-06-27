@@ -1,0 +1,5 @@
+This ring is shaped like a hollowed dragon’s claw. It is slipped over the length of the wearer’s finger, but doesn’t restrict manual dexterity in any way. Once per day, the wearer can activate the ring (as a standard action) to polymorph into a young red dragon (if the wearer is evil) or a young gold dragon (if the wearer is good). This effect functions as the polymorph spell, except that the duration is 1 hour. The effect can be dismissed by the wearer as a standard action.
+
+Moderate transmutation; 
+CL 7th; Forge Ring, polymorph;
+Price 23,000 gp.

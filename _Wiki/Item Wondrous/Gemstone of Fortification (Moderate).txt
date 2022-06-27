@@ -1,0 +1,8 @@
+This large, faceted stone must be embedded in a creature’s hide to function. True dragons can accomplish this with ease, since they routinely embed gems in among the scales of their bellies. Other creatures have a more difficult time of it, requiring at least a limited wish, at the DM’s discretion.
+
+When properly embedded, a gemstone of fortification protects the wearer’s vital areas from lethal damage. When a critical hit or sneak attack is scored on the wearer, there is a chance that the critical hit or sneak attack is negated and damage is instead rolled normally. A gemstone of moderate fortification has a 75% chance.
+
+Strong universal or evocation; 
+CL 13th; 
+Craft Magic Arms and Armor, Craft Wondrous Item, limited wish or miracle; 
+Price 15,000 gp (moderate).

@@ -1,0 +1,9 @@
+CR 1; 
+mechanical; 
+touch trigger; 
+manual reset; 
+Atk +8 ranged (1 plus greenblood oil poison); 
+Search DC 22;
+Disable Device DC 20. 
+
+Market Price: 1,300 gp

@@ -2,5 +2,5 @@ When applied to the eyes, this clear oil sharpens the user’s vision for a short 
 
  One dose of fareye oil is enough to affect the eyes of a creature of any size, but the creature must have eyes to gain any benefit from the oil. Applying fareye oil is a standard action that provokes attacks of opportunity.
 
-DC To Create	20
-Cost		25 gp
+Craft DC:	15
+Cost:		2	gp

@@ -1,0 +1,9 @@
+CR 4; 
+spell; 
+spell trigger; 
+no reset; 
+spell effect (sepia snake sigil, 5th-level wizard, DC 14 Reflex save negates); 
+Search DC 28; 
+Disable Device DC 28. 
+
+Cost: 650 gp to hire NPC spellcaster.

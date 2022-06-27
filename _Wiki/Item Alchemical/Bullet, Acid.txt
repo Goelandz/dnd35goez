@@ -1,4 +1,4 @@
 These hollow glass sling bullets are filled with acid. When they strike a target, they immediately shatter, dealing 1d4 points of acid damage in addition to the normal damage from the sling bullet. To hold sufficient acid, these bullets must be larger than normal. The increased size makes the bullets awkward and unwieldy to launch, imposing a –2 penalty on the attack roll.
 
-DC To Create	15
-Cost		10 gp
+Craft DC:	15
+Cost:		10	gp

@@ -1,4 +1,4 @@
-This small capsule holds a dose of a thin red liquid. When swallowed, the liquid provides a temporary boost of physical power at the cost of leaving the user fatigued. When used, a strongarm capsule provides the user with a +1 alchemical bonus on Strength checks and melee weapon damage. This benefi t lasts for 2 rounds, at the end of which time the user becomes fatigued. If a character who uses a strongarm capsule is already fatigued when the benefi t of the capsule ends, she becomes exhausted
+This small capsule holds a dose of a thin red liquid. When swallowed, the liquid provides a temporary boost of physical power at the cost of leaving the user fatigued. When used, a strongarm capsule provides the user with a +1 alchemical bonus on Strength checks and melee weapon damage. This benefi t lasts for 2 rounds, at the end of which time the user becomes fatigued. If a character who uses a strongarm capsule is already fatigued when the benefi t of the capsule ends, she becomes exhausted.
 
-DC To Create	35
-Cost		125 gp
+Craft DC:	35
+Cost:		125	gp

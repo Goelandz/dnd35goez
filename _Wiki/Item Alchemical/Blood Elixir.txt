@@ -1,0 +1,21 @@
+A blood elixir is a concoction brewed from the concentrated blood of a true dragon. A blood elixir grants the drinker a +2 enhancement bonus to Strength (if brewed from a chromatic dragon) or Charisma (if brewed from a metallic dragon), as well as an additional effect as noted on the table below, based on the dragon’s variety. You can consume a blood elixir as a full-round action (which provokes attacks of opportunity), and its effects last for 10 minutes.
+
+These effects are extraordinary, not magical.
+Dragon Variety 	Effect 			Price
+Black 		darkvision 120 ft. 	700 gp
+Blue 		sound imitation 	900 gp
+Brass 		speak with animals 	400 gp
+Bronze 		water breathing 	1,000 gp
+Copper 		spider climb 		700 gp
+Gold 		polymorph 		1,700 gp
+Green 		suggestion 		1,200 gp
+Red 		dragon breath (fire) 	1,400 gp
+Silver 		cloudwalking 		1,400 gp
+White 		icewalking 		600 gp
+
+Its effect lasts until the end of the elixir’s duration.
+
+Dragoncraft Price: see above; 
+Dragon Part: dragon blood (1 gallon); 
+Skill: Craft (alchemy); 
+Weight: 1/2 lb.

@@ -1,0 +1,6 @@
+Imbibing this chalky-tasting green liquid instantly acclimates a creature to its surroundings.
+
+For the next 12 hours, the drinker gains a +4 alchemical bonus on all ability checks, skill checks, and saving throws made to resist natural environmental extremes, such as hot or cold weather (DMG 302).
+
+Craft DC:	20
+Cost:		25	gp

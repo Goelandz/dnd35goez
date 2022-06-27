@@ -1,0 +1,12 @@
+CR 10; 
+magic device;
+proximity trigger (alarm); 
+automatic reset; 
+multiple traps (one forcecage trap and one summon monster VII trap that summons a hamatula); 
+spell effect (forcecage, 13th-level wizard), spell effect (summon monster VII, 13th-level wizard, hamatula); 
+Search DC 32;
+Disable Device DC 32. 
+
+Cost: 241,000 gp, 7,280 XP.
+
+Note: This trap is really one CR 8 trap that creates a forcecage and a second CR 8 trap that summons a hamatula in the same area. If both succeed, the hamatula appears inside the forcecage. These effects are independent of each other

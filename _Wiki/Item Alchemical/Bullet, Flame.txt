@@ -1,4 +1,4 @@
 These hollow glass sling bullets are filled with alchemist’s fire. When they strike a target, they immediately shatter and the alchemist’s fire ignites, dealing 1d4 points of fire damage in addition to the normal damage from the sling bullet. To hold sufficient alchemist’s fire, these bullets must be larger than normal, imposing a –2 penalty on the attack roll. See Catching on Fire in Chapter 3 of the DUNGEON MASTER’S Guide for information on targets wearing or carrying flammable material catching fire.
 
-DC To Create	20
-Cost		20 gp
+Craft DC:	20
+Cost:		20	gp

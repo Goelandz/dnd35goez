@@ -1,0 +1,18 @@
+The enemies of the Shadow's Fang cabal (see page 144) sometimes see a ghostly dragon maw appear in their peripheral vision. A heartbeat later, they see a black-cloaked figure step out of the open mouth. That's usually the last thing they see. 
+
+Description: A cloak of mysterious emergence is fashioned from multiple layers of fine silk. Along the hem is a row of glittering red scales, molted away by Vaeratrux, the secret dragon master of the Shadows Fangs. 
+
+When the cloak is activated, a ghostly apparition of a dragon's head appears next to the wearer, and its jaws open. When the wearer steps into the jaws, he teleports to the desired location and emerges from a second insubstantial dragon maw a fraction of a second later. 
+
+Members of the Shadow's Fangs created dozens of cloaks of mysterious emergence for their top agents. Many have spread beyond the reach of the cabal, however, taken from agents who failed to complete their assigned missions. 
+
+Activation: It takes a standard action to call forth the power of a cloak of mysterious emergence and step into its maw. Once the wearer arrives in his new location, he can't take any other actions until his next turn. 
+
+Effect: Stepping through the dragon maw created by a cloak of mysterious emergence functions like a dimension door spell with a range of 120 feet. 
+
+A cloak of mysterious emergence has three charges per day. However, the wearer can choose to expend all three charges to have the cloak teleport him and up to 50 pounds of items up to 120 miles away. 
+
+Aura/Caster Level: Moderate conjuration; CL 9th. 
+Construction: Craft Wondrous Item, teleport, dimension door, 6,500 gp, 520 XP, 13 days. 
+Weight: 1 lb. 
+Price: 13,000 gp. 

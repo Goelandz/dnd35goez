@@ -1,1 +1,3 @@
  A quasi-magical item, this simple knife must be carved from a very rare stone procured from the gallbladder of an intelligent creature slain during a special harvesting ritual. Karras stone is made only into knives because it has only one special use—otherwise, it is normal stone. When a karras stone knife is used to sacrifice a living creature, the character using the knife gains a +1 profane bonus on the Knowledge (religion) check for the sacrifice (see Sacrifices in Chapter 2)
+
+Craft DC:	N/A

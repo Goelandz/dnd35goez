@@ -1,0 +1,13 @@
+Easy to conceal from a casual search, a crimson claw is another handy hidden weapon for any character.
+
+Description: This small red dragon scale resembles a false fingernail for a linger or claw. It is decorated With a flame pattern in delicate gold leaf and magically adheres to cover the wearer's existing nail. A DC 15 Search check reveals that the Crimson daw isn't simply a painted part of the wearer's body. 
+
+Activation: The resistance and bonus to natural armor function continuously while worn (occupying space on the body as a glove or gauntlet). Once per day, the wearer can produce a burning bonds effect with a purely mental standard action. Anyone donning a crimson claw receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: A crimson claw grants its wearer resistance to fire 5 and a +1 enhancement bonus to natural armor. In addition, the wearer can use it to produce a burning hands effect. 
+
+Aura/Caster Level: Faint abjuration and evocation; CL 5th. 
+Construction: Craft Wondrous Item, barkskin, burning 
+hands, resist energy, 5,000 gp, 400 XP, 10 days. 
+Weight: —. 
+Price: 10,000 gp.

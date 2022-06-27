@@ -1,0 +1,15 @@
+This amulet enhances your ability to inspire terror in your enemies, making you even more frightening than you normally are. 
+
+Description: This bronze necklace is formed in the shape of a roaring draconic head embedded with sparkling ruby eyes. Whenever the wearer's frightful presence becomes active (or when the wearer casts a fear spell), the eyes of the amulet flash with a burning red light. 
+
+Activation: An amulet of fearsome might functions automatically as long as it is worn. 
+
+Effect: When worn, an amulet of fearsome might doubles the radius of the wearer's innate frightful presence (to a 60-foot radius per age category, in the case of dragons) and increases its save DC by 2. If the wearer does not have a frightful presence, the amulet does not bestow that ability.
+ 
+In addition, if the wearer casts any spells or spell-like abilities with the fear descriptor, the amulet increases their save DC by 2. This bonus does not stack with that from the Spell Focus or Greater Spell Focus feats. This ability functions whether or not the wearer has an innate frightful presence. 
+
+Aura/Caster Level: Moderate necromancy; CL 7th. 
+Construction: Craft Wondrous Item, crafter must possess the frightful presence special ability, fear, 5,500 gp, 440 XP, 
+11 days. 
+Weight: 1 lb. 
+Price: 11,000 gp. 

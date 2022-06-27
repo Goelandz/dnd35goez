@@ -1,0 +1,9 @@
+CR 10; 
+mechanical; 
+location trigger; 
+automatic reset; 
+no attack roll required (18d6, crush); 
+Search DC 20;
+Disable Device DC 25. 
+
+Market Price: 25,000 gp.

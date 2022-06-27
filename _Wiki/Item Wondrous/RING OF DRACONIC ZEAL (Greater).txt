@@ -1,0 +1,14 @@
+A dragon can lash out at more than one enemy with its claws, teeth, wings, and tail. A lesser ring of draconic zeal grants its wearer a similar ability to attack multiple foes. 
+
+Description: A greater ring of draconic zeal is made of ivory carved to resemble hundreds of interlocking dragon scales. When the ring's power is activated, it emits a roar like that of a fearsome dragon. 
+
+Activation: Once per day, the wearer can invoke the power of the ring (a swift action). 
+
+Effect: Immediately after activating the ring, the wearer can make one melee attack using his highest base attack bonus against each of six different enemies within reach (a full-round action). 
+
+This effect applies only during the round in which the ring is activated. If the wearer activates the ring but can't take a full-round action during that round, the effect is wasted. 
+
+Aura/Caster Level: Faint transmutation; CL 10th. 
+Construction: Forge Ring, haste, 3,000 gp, 240 XP, 6 days for greater ring. 
+Weight: —. 
+Price: 6,000 gp (greater).

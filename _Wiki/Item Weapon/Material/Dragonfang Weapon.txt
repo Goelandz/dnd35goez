@@ -1,0 +1,11 @@
+Dragonfang weapons are masterwork weapons crafted from the claws and teeth of a dragon.
+
+In addition to the +1 nonmagical enhancement bonus on attack rolls granted by its masterwork quality, a dragonfang weapon deals 1 point of energy damage on each successful hit. The type of energy is the same as that of the dragon’s breath weapon. If a dragon doesn’t have a breath weapon that deals acid, cold, electricity, fire, or sonic damage, dragonfang weapons made from its remains do not deal any extra damage. This damage is treated as an extraordinary (and thus nonmagical) feature of the weapon. It doesn’t stack with any other energy damage (of the same type) dealt by the weapon.
+
+A single tooth or claw from a dragon can be crafted into a light weapon of the same size category as the dragon, a onehanded weapon of one size category smaller, or a two-handed weapon of two size categories smaller. A single dragon’s body can provide enough material for up to twelve weapons.
+
+Only piercing and slashing weapons may be created as dragonfang weapons.
+
+Dragoncraft Price: 300 gp; Dragon Part: dragon tooth or claw;
+Skill: Craft (weaponsmithing); 
+Weight: 2 lb

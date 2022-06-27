@@ -1,0 +1,13 @@
+As dragon hunters become more talented at stalking their prey, dragons have been forced to keep up by creating new items that help them keep their edge. The elixir of blindsight, which grants its drinker perfect vision within a limited range, is a particularly significant advance of this nature. 
+
+Description: This liquid is blood-red and slightly viscous, like a watery syrup. When a creature drinks the elixir, the liquid races through its blood in a flash, and it feels each of its senses come alive. Prerequisite: Only a creature with blindsense gains any benefit from this item. 
+
+Activation: Drinking an elixir of blindsight requires a standard action that provokes attacks of opportunity. 
+
+Effect: After consuming this elixir, the user gains blindsight with a range equal to its normal blindsense range for a period of 10 minutes. 
+
+Aura/Caster Level: Faint divination; CL 5th. 
+Construction: Craft Wondrous Item, clairaudience/clairvoyance, 500 gp, 40 XP, 1 
+day. 
+Weight: —. 
+Price: 1,000 gp. 

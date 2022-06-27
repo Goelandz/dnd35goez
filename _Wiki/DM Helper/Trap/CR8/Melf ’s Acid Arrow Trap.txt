@@ -1,0 +1,13 @@
+CR 8; 
+magic device; 
+visual trigger (true seeing); 
+automatic reset; 
+multiple traps (two simultaneous Melf ’s acid arrow traps); 
+Atk +9 ranged touch and +9 ranged touch; 
+spell effect (Melf ’s acid arrow, 18th-level wizard, 2d4 acid damage for 7 rounds); 
+Search DC 27; 
+Disable Device DC 27. 
+
+Cost: 83,500 gp, 4,680 XP.
+
+Note: This trap is really two CR 6 Melf ’s acid arrow traps that fire simultaneously, using the same trigger and reset.

@@ -1,0 +1,11 @@
+This ring is carved to look like a dragon coiled around the wearer’s finger. The wearer gains a +5 enhancement bonus on Diplomacy checks made to influence the attitude of dragons. No dragon will voluntarily attack or otherwise attempt to harm the wearer.
+
+Once per month, the wearer can use a suggestion effect on a dragon (heightened to 9th level; Will DC 23 negates).
+
+If the wearer attacks a dragon in any way (including by the use of the ring’s suggestion power), this ring loses its powers for 24 hours.
+
+(The suggestion effect can continue after the ring stops working.)
+
+Strong enchantment; 
+CL 17th; Forge Ring, Heighten Spell, dominate monster, suggestion; 
+Price 28,750 gp.

@@ -1,0 +1,13 @@
+This headband can cloak its wearer in a sudden shroud of darkness and protect him from the life-draining attacks of undead. 
+
+Description: This black iron headband is studded with onyx and black sapphires, with a triangular shadow dragon scale affixed to its center. 
+
+Activation: A shadowy diadem can be activated three times per day as a swift action. Its effects last for 10 rounds, or until the wearer enters the area of a spell of 3rd level or higher that has the light descriptor. Anyone donning the headband receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: A shadowy diadem cloaks its wearer in a swirling mass of darkness that provides concealment and grants immunity to energy drain effects. 
+
+Aura/Caster Level: Moderate abjuration and illusion; 
+CL 7th. 
+Construction: Craft Wondrous Item, blur, death ward, 2.200 gp, 176 XP, 5 days. 
+Weight: 1 lb. 
+Price: 4,400 gp. 

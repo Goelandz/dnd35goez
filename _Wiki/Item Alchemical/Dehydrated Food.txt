@@ -1,4 +1,4 @@
 Explorers and adventurers of all sorts benefit from alchemically dried food. Although expensive, dehydrated food weighs only half as much as an equivalent supply of trail rations, making it ideal for long journeys where water is plentiful and food is scarce. Characters eating dehydrated food must consume twice as much water per day as they normally require or suffer the effects of going without water (see Starvation and Thirst Dangers in Chapter 3 of the DUNGEON MASTER’S Guide)
 
-DC To Create	15
-Cost		2 gp
+Craft DC:	15
+Cost:		2	gp

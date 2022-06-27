@@ -1,0 +1,9 @@
+CR 5; 
+spell; 
+spell trigger; 
+no reset; 
+spell effect (fire trap, 7th-level wizard, 1d4+7 fire, DC 16 Reflex save half damage);
+Search DC 29; 
+Disable Device DC 29. 
+
+Cost: 305 gp to hire NPC spellcaster.

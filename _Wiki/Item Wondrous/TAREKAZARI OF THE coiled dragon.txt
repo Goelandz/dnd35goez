@@ -1,0 +1,16 @@
+This jeweled amulet allows its owner to speak with a dead creature or to prevent a fallen comrade from being reanimated. 
+
+Description: This amulet is fashioned from a pan lung dragon scale decorated with silver and amethysts. It hangs from a silver chain and bears an inscription that reads "Honor thine ancestors" in Draconic. 
+
+Activation: To activate a tarekazari, its owner must place the amulet on the remains of a creature and speak the command word (a standard action). It functions once per day. When first grasped, the amulet telepathically instructs the wearer (simultaneously in the Spirit Tongue and Draconic) on its effects and how to activate it. 
+
+Effect: When activated, a tarekazari of the coiled dragon first recites the names of five generations of the dead creature's ancestors. It then allows three questions to be asked of the creature's spirit, subject to all the restrictions of a speak with dead spell (PH 2S1) cast by a 7th-level caster. 
+
+Alternatively, the creature's remains can be rendered immune to reanimation as an undead creature by any effect. This immunity is permanent. 
+
+The tarekazari does not permit questioning a creature's spirit and then rendering the same creature immune to reanimation—one effect must be chosen. 
+
+Aura/Caster Level: Moderate divination and transmutation; CL 7th. 
+Construction: Craft Wondrous Item, hallow or dispeltaint (see Oriental Adventures), legend lore, speak with dead, 1,800 gp, 144 XP, 4 days. 
+Weight: —. 
+Price: 3,600 gp.

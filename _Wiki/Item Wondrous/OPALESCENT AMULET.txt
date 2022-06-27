@@ -1,0 +1,13 @@
+Treasured by those who hunt in the frostfell. this item protects its owner from the common dangers of that deadly realm. 
+
+Description: This milky white dragon scale is framed by a silver setting and hangs from a filigree chain. Tiny opals stud the surface of the scale in a snowflake pattern.
+
+Activation: An opalescent amulet functions continuously while worn. Anyone donning it receives mental instructions in Draconic on its effects. 
+
+Effect: An opalescent amulet grants the icewalking ability of a white dragon, which functions as the spider climb spell (PH 283) but only in icy areas. The wearer also gains resistance to cold 5 and a +1 enhancement bonus to natural armor. 
+
+Aura/Caster Level: Moderate abjuration and transmutation; 
+CL 6th. 
+Construction: Craft Wondrous Item, barkskin, resist energy, spider climb, 4,500 gp, 360 XP, 9 days. 
+Weight: —. 
+Price: 9,000 gp.

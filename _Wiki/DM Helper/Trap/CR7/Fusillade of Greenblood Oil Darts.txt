@@ -1,0 +1,11 @@
+CR 7; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +18 ranged (1d4+1 plus poison, dart); 
+poison (greenblood oil, DC 13 Fortitude save resists, 1 Con/1d2 Con); 
+multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); 
+Search DC 25; 
+Disable Device DC 25. 
+
+Market Price: 33,000 gp

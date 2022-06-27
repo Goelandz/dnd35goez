@@ -1,0 +1,6 @@
+Since the invention of alchemical capsules (Complete Adventurer 119), researchers have continued to develop ever smaller delivery devices. The current peak of achievement comes in the form of the toxic tooth. Made to look identical to its wearer’s actual teeth (including the addition of plaque, random filth, and gaping cavities if necessary), a toxic tooth can hold a single dose of a contact or inhaled poison.
+
+To activate a toxic tooth, the wearer must bite down hard enough to crack it, then spit or exhale the poison at an adjacent creature. Doing so requires a standard action to make a ranged touch attack, but does not provoke attacks of opportunity. If the attack hits, the target is exposed to the poison and must save normally. Activating a toxic tooth also exposes its wearer to the poison.
+
+Craft DC:	25
+Cost:		30	gp

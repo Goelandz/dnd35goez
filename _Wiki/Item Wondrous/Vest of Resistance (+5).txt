@@ -1,0 +1,7 @@
+These garments offer magic protection in the form of a +5 resistance bonus on all saving throws.
+
+Faint abjuration; 
+CL 5th; 
+Craft Wondrous Item, resistance, creator’s caster level must be at least three times the vest’s bonus; 
+Price 25,000 gp (+5); 
+Weight 1 lb.

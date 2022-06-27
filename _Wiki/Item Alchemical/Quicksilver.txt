@@ -1,1 +1,4 @@
 A quicksilver alchemical capsule coats a melee weapon or a thrown weapon with a thick silvery liquid. This substance allows the weapon to deal damage as if it were coated with silver (including the normal –1 penalty on damage rolls for silvered weapons). The capsule’s effects last for 3 rounds and override any other special material effects of the weapon.
+
+Craft DC:	30
+Cost:		50	gp

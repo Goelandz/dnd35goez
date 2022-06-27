@@ -1,0 +1,15 @@
+These bracers sear enemies with boiling heat while diverting their attacks.
+ 
+Description: This pair of brass dragon scales, each about the size and shape of a man's fist, are edged in mithral and set with moonstones in a spiral pattern. Affixed to the back of each is a buckle and leather strap so they can be worn on the forearms. 
+
+Activation: Once per day, the wearer can create a shield of superheated air with a purely mental swift action. Anyone donning the brassy bracers receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: Activating the brassy bracers surrounds the wearer in a swirling shield of superheated air for up to 10 rounds. The shimmering heat waves provide concealment for him, imposing a 20% miss chance on attacks made against him. The wearer can deactivate the effect as a standard action. 
+
+In addition, the heat deals 2d6 points of fire damage to any creatures striking the wearer with a natural attack or nonreach melee weapon. The wearer is immune to the heat damage of his own bracers. 
+
+Aura/Caster Level: Moderate abjuration and illusion; 
+CL 10th.
+Construction: Craft Wondrous Item, blur, fire shield, 2,550 gp, 204 XP, 6 days. 
+Weight: 1 lb. 
+Price: 5,100 gp. 

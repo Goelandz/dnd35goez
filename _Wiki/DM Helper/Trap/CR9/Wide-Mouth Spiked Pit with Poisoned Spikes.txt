@@ -1,0 +1,14 @@
+CR 9;
+mechanical; 
+location trigger; 
+manual reset; 
+hidden lock bypass (Search DC 25, Open Lock DC 30); 
+DC 20 Reflex save avoids; 
+70 ft. deep (7d6, fall); 
+multiple targets (all targets within a 10-ft.-by-10-ft. area); 
+pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); 
+poison (giant wasp poison, DC 14 Fortitude save resists, 1d6 Dex/1d6 Dex); 
+Search DC 20; 
+Disable Device DC 20.
+
+Market Price: 11,910 gp.

@@ -1,0 +1,9 @@
+CR 4; 
+magic device; 
+touch trigger (detect chaos); 
+automatic reset; 
+spell effect (bestow curse, 5th-level cleric, DC 14 Will save negates); 
+Search DC 28; 
+Disable Device DC 28.
+
+Cost: 8,000 gp, 640 XP.

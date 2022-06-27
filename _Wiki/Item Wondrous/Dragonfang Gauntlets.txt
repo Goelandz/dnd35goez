@@ -1,0 +1,9 @@
+These leather gauntlets are studded with dragon teeth and deal damage as spiked gauntlets. They grant a +4 enhancement bonus to the wearer’s Strength. Three times per day, the character may use the gauntlets to attack a weapon or shield as if she had the Improved Sunder feat (even if she doesn’t have the prerequisites).
+
+When worn by a character with the Improved Unarmed Strike feat, dragonfang gauntletsallow the wearer to overcome damage reduction with unarmed strikes as if she were wielding a magic weapon. In this case, the wielder deals her normal unarmed strike damage, rather than the damage for spiked gauntlets. 
+
+Moderate evocation and transmutation; 
+CL 12th; 
+Craft Wondrous Item, bull’s strength, greater magic fang, shatter; 
+Price 28,500 gp; 
+Weight 1 lb.

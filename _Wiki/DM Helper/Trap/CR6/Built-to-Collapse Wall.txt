@@ -1,0 +1,10 @@
+CR 6; 
+mechanical; 
+proximity trigger;
+no reset; 
+Atk +20 melee (8d6, stone blocks); 
+multiple targets (all targets in a 10-ft.-by-10-ft. area); 
+Search DC 14; 
+Disable Device DC 16. 
+
+Market Price: 15,000 gp.

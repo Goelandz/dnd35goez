@@ -1,0 +1,4 @@
+Made of rusty iron, rust cubes are sometimes disguised as dice. A rust cube can be thrown as a ranged attack with a range increment of 5 feet. Alternatively, it can be loaded into a sling and used as a sling stone. When it strikes a hard surface, the cube shatters into a fine powder of rusted iron. An object or creature made of metal that is hit by the rust cube immediately takes 1d6 points of damage (ignoring hardness), plus an additional 1d6 points of damage each round for the next 2 rounds. A creature can wipe the dust off with a move action.
+
+Craft DC:	30
+Cost:		100	gp

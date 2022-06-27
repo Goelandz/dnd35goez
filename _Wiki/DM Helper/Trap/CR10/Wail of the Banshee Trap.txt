@@ -1,0 +1,10 @@
+CR 10; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+spell effect (wail of the banshee, 17th-level wizard, DC 23 Fortitude save negates); 
+multiple targets (up to 17 creatures); 
+Search DC 34; 
+Disable Device DC 34. 
+
+Cost: 76,500 gp, 6,120 XP.

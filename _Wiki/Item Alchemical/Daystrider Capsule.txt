@@ -1,0 +1,4 @@
+This bright blue gelatinous ovoid, when swallowed, allows a humanoid creature to walk for 10 hours in a day (instead of the normal 8 hours) before making a Constitution check to resist damage and fatigue. Walking longer than that entails making a forced march as normal (PH 164). Consuming a second  daystrider capsule before 24 hours have passed has no further effect.
+
+Craft DC:	15
+Cost:		10	gp

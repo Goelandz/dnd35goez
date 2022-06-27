@@ -1,0 +1,9 @@
+CR 2; 
+magic device; 
+proximity trigger (alarm); 
+automatic reset; 
+spell effect (burning hands, 1st-level wizard, 1d4 fire, DC 11 Reflex save half damage); 
+Search DC 26;
+Disable Device DC 26. 
+
+Cost: 500 gp, 40 XP.

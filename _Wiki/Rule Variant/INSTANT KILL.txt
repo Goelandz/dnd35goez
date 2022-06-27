@@ -1,0 +1,5 @@
+When you or a player rolls a natural 20 on an attack roll, a critical roll is made to see if a critical hit is scored. If that critical roll is also a 20, that’s considered a threat for an instant kill. Now a third roll, an instant kill roll, is made. If that roll scores a hit on the target in question (just like a normal critical roll after a threat), the target is instantly slain. Creatures immune to critical hits are also immune to instant kills.
+
+The instant kill variant only applies to natural 20s, regardless of the threat range for a combatant or weapon. (Otherwise weapons, feats, and magical powers that improve threat ranges would be much more powerful than they are intended to be.)
+
+The instant kill variant makes a game more lethal and combat more random. In any contest, an increase in randomness improves the odds for the underdog. Since the PCs win most fights, a rule that makes combat more random hurts the PCs more than it hurts their enemies.

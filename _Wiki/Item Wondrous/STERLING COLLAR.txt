@@ -1,0 +1,13 @@
+Anyone who wears this collar can walk gracefully through the clouds like a silver dragon and also gains some of the creature's natural defenses. 
+
+Description: This silver dragon scale is expertly shaped to fit around the throat and is studded with chrysoberyls and white pearls. 
+
+Activation: The resistance to cold and natural armor bonus granted by the sterling collar function continuously while the item is worn. Once per day. the wearer can activate the ability to walk on clouds (an immediate action) for up to 10 minutes. 
+
+Effect: A sterling collar grants resistance to cold 5 and a +1 enhancement bonus to natural armor. In addition, the wearer can walk on clouds just as a silver dragon does; treat this as an air walk spell (PH 196) that works only in log or clouds. 
+
+Aura/Caster Level: Moderate abjuration and transmutation; 
+CL 9th. 
+Construction: Craft Wondrous Item, air walk, barkskin, resist energy, 6,000 gp, 480 XP, 12 days. 
+Weight: 1 lb. 
+Price: 12,000 gp. 

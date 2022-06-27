@@ -1,0 +1,9 @@
+CR 3; 
+mechanical; 
+location trigger; 
+repair reset; 
+Atk +10 melee (4d6, stone blocks); 
+Search DC 25;
+Disable Device DC 20. 
+
+Market Price: 5,400 gp

@@ -1,0 +1,12 @@
+Dragoncraft armor and shields are masterwork versions of armor and shields crafted from a dragon’s hide that also grant energy resistance. A suit of dragoncraft armor or a dragoncraft shield grants the wearer resistance 5 against a specific type of energy, as appropriate to the dragon (acid for black, copper, or green; cold for silver or white; electricity for blue or bronze; fire for brass, gold, or red). This resistance is treated as an extraordinary (and thus nonmagical) feature of the armor. It doesn’t stack with any other energy resistance (of the same type) possessed by the character.
+
+In addition, dragoncraft armor is treated as one category lighter for purposes of movement and other determinations.
+
+Heavy dragoncraft armors are treated as medium, and medium and light armors are treated as light. Armor check penalties are reduced by 2 (including the 1-point reduction for masterwork armor or shield). Dragoncraft armor has the normal maximum Dexterity bonus.
+
+Dragoncraft armor can be hide armor, scale mail, halfplate, or full plate armor. Dragoncraft shields can be light or heavy.
+
+Dragoncraft Price: 3,000 gp (light armor); 
+6,000 gp (medium armor), 11,000 gp (heavy armor); 
+Dragon Part: dragon hide; Skill: Craft (armorsmithing); 
+Weight:same as ordinary armor or shield.

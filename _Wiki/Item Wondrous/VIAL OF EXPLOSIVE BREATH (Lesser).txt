@@ -1,0 +1,14 @@
+A lesser vial of explosive breath holds a tightly controlled quantity of energy not unlike a dragon's breath weapon. Prized by dragons and their allies alike, this item offers a surprise for those who think they know what to expect from a foe. 
+
+Description: This smoky crystal vial is closed with a golden stopper, capped by a faintly glowing piece of clear quartz. When it shatters, destructive magical energy explodes outward, looking very much like a dragon unfolding its wings before dissipating into thin air. 
+
+Activation: A creature can throw a lesser vial of explosive breath as an attack, either as a standard action or as part of a full attack action. Hurling the vial as a ranged attack provokes attacks of opportunity. 
+
+Effect: A lesser vial of explosive breath is hurled as a splash weapon and must be aimed at a grid intersection. Upon impact, the vial shatters, releasing the energy of its breath weapon in a 20-foot-radius spread centered upon the point of impact. This deals 6d6 points of acid, cold, electricity, or fire damage, depending on the breath weapon of the dragon that created the vial (Reflex DC 18 half). 
+
+Aura/Caster Level: Moderate transmutation; 
+CL 6th. 
+Construction: Craft Wondrous Item, creator must be a true dragon of adult age or greater with a breath weapon that 
+deals acid, cold, electricity, or fire damage, 500 gp, 40 XP, 1 day. 
+Weight: —. 
+Price: 1.000 gp (lesser).

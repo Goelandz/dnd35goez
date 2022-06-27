@@ -1,0 +1,15 @@
+Anyone who wears this scale can summon a powerful whip of pure energy. 
+
+Description: Shaped to fit easily on a creature's wrist, this bronze dragon scale is set with a pair of tiger's eye topazes and rimmed with bronze studs. 
+
+Activation: Twice per day, the wearer can summon the whip with a swift action. It can be dismissed with a free action. Anyone donning a bronzed cuff receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+A bronzed cuff can be worn with magic bracers on the same arm without affecting the ability of either magic item, but it does not work when a magic ring is worn on the hand of the same arm. 
+
+Effect: When a bronzed cuff is activated, a +1 brilliant energy shock whip appears in the hand of the arm wearing the cuff. (If that hand already holds an object, the cuff fails to activate.) The whip remains for 5 rounds or until dismissed; otherwise, it cannot leave the hand of the wielder for any reason. 
+
+Aura/Caster Level: Strong conjuration; CL 16th. 
+Construction: Craft Wondrous Item, full lightning or 
+lightning boll, continual flame, gaseous form, 9,000 gp, 720 XP, 18 days. 
+Weight: —. 
+Price: 18,000 gp. 

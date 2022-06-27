@@ -1,0 +1,9 @@
+CR 6; 
+magic device; 
+proximity trigger (detect magic); 
+automatic reset; 
+spell effect (flame strike, 9th-level cleric, 9d6 fire, DC 17 Reflex save half damage); 
+Search DC 30; 
+Disable Device DC 30. 
+
+Cost: 22,750 gp, 1,820 XP

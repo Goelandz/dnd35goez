@@ -1,0 +1,11 @@
+CR 2; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +5 melee (see note); 
+Search DC 20; 
+Disable Device DC 25. 
+
+Note: Characters in 10-ft. square are grappled by net (Str 18) if they fail a DC 14 Reflex save. 
+
+Market Price: 3,000 gp.

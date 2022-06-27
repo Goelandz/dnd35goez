@@ -1,0 +1,10 @@
+CR 6; 
+mechanical; 
+location trigger; 
+repair reset; 
+Atk +20 melee (6d6, spikes); 
+multiple targets (all targets in a 10-ft.-by-10-ft. area); 
+Search DC 24; 
+Disable Device DC 20. 
+
+Market Price: 21,600 gp.

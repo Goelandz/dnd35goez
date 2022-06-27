@@ -1,0 +1,15 @@
+In addition to their obvious protective qualities, these items are popular among spellcasters for use as hidden weapons for when all else fails. 
+
+Description: This large, brilliant blue dragon scale is edged in mithral and set with blue sapphires and tourmalines in a decorative pattern. It fits snugly over the head, occupying space on the body as a magic helm or hat. 
+
+Activation: The resistance and bonus to natural armor function continuously while worn. Once per day, the wearer can use lightning bolt with a purely mental standard action. Anyone donning an azure skullcap receives mental instructions in Draconic on the effects of the item and how to activate it. 
+
+Effect: An azure skullcap grants its wearer resistance to electricity 5 and a +1 enhancement bonus to natural armor. 
+
+In addition, the wearer can use it to produce a lightning bolt effect. 
+
+Aura/Caster Level: Moderate abjuration and evocation; 
+CL8th. 
+Construction: Craft Wondrous Item, barkskin, lightning boll, resist energy, 7,500 gp, 600 XP, 15 days. 
+Weight: 1 lb. 
+Price: 15,000 gp.

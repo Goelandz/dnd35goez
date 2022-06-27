@@ -1,0 +1,9 @@
+This fireblackened staff is studded with dragon’s teeth. It allows use of the following spells:
+• Dragon breath (30-ft. cone of fire, 5d6 damage; 1 charge)
+• Dragonskin (1 charge)
+• Draconic might (2 charges)
+
+Moderate transmutation; 
+CL 9th; 
+Craft Staff, draconic might, dragon breath, dragonskin; 
+Price 42,000 gp.

@@ -1,0 +1,8 @@
+CR 3; 
+magic device; 
+proximity trigger (detect good); 
+automatic reset; spell effect (extended bane, 3rd-level cleric, DC 13 Will save negates); 
+Search DC 27; 
+Disable Device DC 27. 
+
+Cost: 3,500 gp, 280 XP

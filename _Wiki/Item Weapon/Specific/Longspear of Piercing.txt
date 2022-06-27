@@ -1,0 +1,7 @@
+Three times per day, the wielder of this +3 longspear may ignore the natural armor (including any enhancement bonuses) of a target he attacks with the weapon. The wielder decides to use this ability as a free action before the attack roll is made. Armor bonuses and all other bonuses to AC still apply normally.
+
+Moderate divination; 
+CL 9th; Craft Magic Arms and Armor, find the gap; 
+Price 28,305 gp;
+Cost 14,305 gp + 1,120 XP; 
+Weight 9 lb.

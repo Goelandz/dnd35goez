@@ -1,0 +1,11 @@
+CR 10; 
+mechanical; 
+location trigger; 
+automatic reset; 
+walls move together (16d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); 
+never miss; 
+onset delay (2 rounds); 
+Search DC 22; 
+Disable Device DC 20. 
+
+Market Price: 29,000 gp

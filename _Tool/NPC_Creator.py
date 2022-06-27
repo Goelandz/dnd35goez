@@ -1,15 +1,40 @@
+#This script/apps is horrible. Its the first I ever did and... well there is an enormous amount of wasted data. Could use template or better loop. But it work, so whatever.
+
 #Import everything from tkinter
 from tkinter import *
 from tkinter import ttk
 import secrets
 import random
 import math
+import ctypes
 
 window=Tk()
 #window.geometry("550x820")
 window.title('NPC Creator')
 
+#Menu with information
+menubar = Menu(window)
+window.config(menu=menubar)
 
+# create a menu
+file_menu = Menu(menubar, tearoff=False)
+
+# add a menu item to the menu
+file_menu.add_command(label='How it work?', command=lambda: Help())
+file_menu.add_separator()
+file_menu.add_command(label='Exit', command=window.destroy)
+
+# add the File menu to the menubar
+menubar.add_cascade(label="File", menu=file_menu)
+
+#Help menu
+def Help():
+    ctypes.windll.user32.MessageBoxW(0, "Generate (Bottom right) will generate a NPC that has random everything."+"\n"+"\n"+
+                                     "You can personally choose multiple option on the top, that will override all setting."+"\n"+"\n"+
+                                     "All weapon, armor, gold, skill etc are based around the class according to the manual. The only thing that is different is the level, the possible level is between level 1 and 9."+"\n"+"\n"+
+                                     "This isn't a character creator or builder. Its simply to create a base and possibly background of idea to instant NPC. Don't expect feat, combat tactic or even spell."+"\n"+"\n"+
+                                     "Future fonction of save/load, change background color will be added. It will be a separate program that work with that 'NPC Creator'"
+                                     , "How does it work?", 0)
 
 #Define empty label
 l1=Label(window, text="Race")
@@ -434,6 +459,7 @@ def ResetToNA(x):
     x.set("N/A")
 
 def GetSaveValue(x):
+    #Get save according to level
     iLevel = vLvl.get()
     y = 0
     #print("Level is:" + str(iLevel))
@@ -684,7 +710,6 @@ def generate():
         vSex.set("Male")   
       
     #Race
-
     sSpecRace = c1.get();
     iRnd = 0
     if sSpecRace == "N/A":
@@ -773,7 +798,7 @@ def generate():
     elif sSpecLvl  == "20":
         iRnd = 112
         
-    #Level, should be between 1 and 9
+    #Level, should be between 1 and 9, any other level are only given by custom setting
     if iRnd < 10:
         vLvl.set("1")
     elif iRnd < 30:
@@ -1681,25 +1706,31 @@ def generate():
     iABTotalStr = iABTotal + math.floor((int(vStr.get())-10)/2)
     sABDex = ""
     sABStr = ""
+    sABDex = "/+"
+    sABStr = "/+"
+    if math.floor((int(vDex.get())-10)/2) < 0:
+        sABDex = "/-"
+  
+    if math.floor((int(vStr.get())-10)/2) < 0:
+        sABStr = "/-"
     
-    
-    if iABTotalDex > 15:
-        sABDex = "+"+str(iABTotalDex)+"/+"+str(iABTotalDex - 6)+"/+"+str(iABTotalDex - 11)+"/+"+str(iABTotalDex - 16)
-    elif iABTotalDex > 10:
-        sABDex = "+"+str(iABTotalDex)+"/+"+str(iABTotalDex - 6)+"/+"+str(iABTotalDex - 11)
-    elif iABTotalDex > 5:
-        sABDex = "+"+str(iABTotalDex)+"/+"+str(iABTotalDex - 6)
+    if iABTotal > 15:
+        sABDex = "+"+str(iABTotalDex)+"/+"+str(iABTotalDex - 6)+"/+"+str(iABTotalDex - 11)+sABDex+str(iABTotalDex - 16)
+    elif iABTotal > 10:
+        sABDex = "+"+str(iABTotalDex)+"/+"+str(iABTotalDex - 6)+sABDex+str(iABTotalDex - 11)
+    elif iABTotal > 5:
+        sABDex = "+"+str(iABTotalDex)+sABDex+str(iABTotalDex - 6)
     else:
-        sABDex = "+"+str(iABTotalDex)
+        sABDex = str(iABTotalDex)
  
-    if iABTotalStr > 15:
-        sABStr = "+"+str(iABTotalStr)+"/+"+str(iABTotalStr - 6)+"/+"+str(iABTotalStr - 11)+"/+"+str(iABTotalStr - 16)
-    elif iABTotalStr > 10:
-        sABStr = "+"+str(iABTotalStr)+"/+"+str(iABTotalStr - 6)+"/+"+str(iABTotalStr - 11)
-    elif iABTotalStr > 5:
-        sABStr = "+"+str(iABTotalStr)+"/+"+str(iABTotalStr - 6)
+    if iABTotal > 15:
+        sABStr = "+"+str(iABTotalStr)+"/+"+str(iABTotalStr - 6)+"/+"+str(iABTotalStr - 11)+sABStr+str(iABTotalStr - 16)
+    elif iABTotal > 10:
+        sABStr = "+"+str(iABTotalStr)+"/+"+str(iABTotalStr - 6)+sABStr+str(iABTotalStr - 11)
+    elif iABTotal > 5:
+        sABStr = "+"+str(iABTotalStr)+sABStr+str(iABTotalStr - 6)
     else:
-        sABStr = "+"+str(iABTotalStr)
+        sABStr = str(iABTotalStr)
 
     vAPRDex.set(sABDex)
     vAPRStr.set(sABStr)
@@ -2326,7 +2357,7 @@ b2=Button(window, text="Reset", width=9, command=lambda: ResetToNA(c2))
 b2.grid(row=3,column=3) 
 b3=Button(window, text="Reset", width=9, command=lambda: ResetToNA(c3))
 b3.grid(row=2,column=6,sticky=W) 
-b6=Button(window, text="Generate", width=9, command=lambda: generate())
+b6=Button(window, text="Generate", width=9, command=lambda: generate(), bg="#00ffff")
 b6.grid(row=38,column=6) 
 
 #Define Menu

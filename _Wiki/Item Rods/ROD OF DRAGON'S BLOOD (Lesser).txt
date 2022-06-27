@@ -1,0 +1,21 @@
+This potent rod feeds off the wielder's draconic bloodline to enhance his magical abilities. 
+
+While a sorcerer can access the rod's power, true dragons gain even greater benefit. 
+
+Description: This 5-foot-long, russetstained rod is carved from the bone of a dragon and covered in draconic runes. When the rod is activated, dark red blood runs down the rod, soaking the hand of the wielder. 
+
+Prerequisite: A lesser rod of dragon's blood functions only for characters of the dragon type or the dragonblood subtype, as well as for any character with at least 1 level of sorcerer. 
+
+Activation: Activating a lesser rod of dragon's blood requires the same action normally required to cast the chosen spell (see Effect, below). The rod can be activated three times per day. 
+
+Effect: When activated, a lesser rod of dragon's blood allows the wielder to recast any spell of up to 2nd level that he cast in the previous round. Doing this doesn't use another spell slot. Only spells with a casting time of 1 standard action or less can be recast using the lesser rod of dragon's blood. 
+
+Wielders of the dragon type instead can reuse any spell-like ability of up to 2nd level that they used in the previous round. This doesn't count against their normal daily limit for that spell-like ability. 
+
+The rod also functions as a quarterstaff.  
+
+Aura/Caster Level: Strong transmutation; 
+CL 17th. 
+Construction: Craft Rod, creator must be able to cast spells without preparation, 5,000 gp, 400 XP, 10 days). 
+Weight: 4 lb. 
+Price: 10,000 gp (lesser). 

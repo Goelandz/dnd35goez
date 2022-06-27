@@ -1,0 +1,11 @@
+A dracolich’s phylactery is crafted from a solid, inanimate object of at least 2,000 gp value. Gemstones, particularly ruby, pearl, carbuncle, and jet, are commonly used for the phylactery, since they must be able to resist decay. 
+
+When a dracolich first dies, and any time its physical form is destroyed thereafter, its spirit instantly retreats to its phylactery regardless of the distance between that and its body. A dim light within the phylactery indicates the presence of the spirit. While so contained, the spirit cannot take any actions except to possess a suitable corpse; it cannot be contacted or attacked by magic. The spirit can remain in the phylactery indefinitely.
+
+See the dracolich entry, page 146, for more information.
+
+Strong necromancy; 
+CL 13th; 
+Craft Wondrous Item, control undead, gem or similar item of minimum value 2,000 gp; 
+Price 50,000 gp plus value of gem; 
+Cost 25,000 gp plus value of gem + 2,000 XP.

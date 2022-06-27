@@ -1,0 +1,11 @@
+CR 2; 
+mechanical; 
+touch trigger; 
+repair reset; 
+lock bypass (Open Lock DC 30); 
+Atk +17 melee (1 plus poison, needle); 
+poison (blue whinnis, DC 14 Fortitude save resists (poison only), 1 Con/unconsciousness); 
+Search DC 22; 
+Disable Device DC 17. 
+
+Market Price: 4,720 gp

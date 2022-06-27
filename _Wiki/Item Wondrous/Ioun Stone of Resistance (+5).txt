@@ -1,0 +1,6 @@
+These ioun stones (usually burnt orange in color) possess all the features of a standard ioun stone. Ioun stones of resistance offer magic protection in the form of a +5 resistance bonus on all saving throws.
+
+Caster Level: 5th; 
+Prerequisites: Craft Wondrous Item, resistance, caster level must be three times that of the ioun stone’s bonus; 
+Market Price: 50,000 gp (+5); 
+Weight: —.

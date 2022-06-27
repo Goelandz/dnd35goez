@@ -1,0 +1,12 @@
+Devised by notable members of the swift wing prestige class (see page 50), a shield of the winged crusade provides protection in melee combat and against area attacks such as a dragon's breath weapon. 
+
+Description: Shields of the winged crusade are heavy shields of dull red metal. Their design has a scaly appearance. A split second before a shield's translocation effect activates, it emits a harsh buzzing sound, which fades a second or two after the translocation is complete. 
+
+Activation: The shield's +1 enhancement bonus to Armor Class is always active. Once per day. the wearer can use its translocation effect as an immediate action. 
+
+Effect: A shield of the winged crusade is a +1 heavy steel shield that can save its wearer from an area attack. A wearer who is within the area of an instantaneous-duration effect that allows a Reflex save to reduce its effect (such as a fireball spell or a breath weapon) can activate the shield's translocation effect. By doing so, he instantaneously moves 10 feet in any direction of his chosing. If the movement takes him beyond the boundary of the area attack, he doesn't need to attempt the Reflex save. 
+
+Aura/Caster Level: Moderate abjuration; CL 8th. 
+Construction: Craft Magic Arms and Armor, dimension door, 1,670 gp, 120 XP, 3 days. 
+Weight: 15 lb. 
+Price: 3,170 gp. 

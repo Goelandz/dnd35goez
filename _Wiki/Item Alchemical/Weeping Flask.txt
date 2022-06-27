@@ -1,1 +1,4 @@
 This item looks like an empty halfgallon waterskin with an airtight seal. When it is opened and exposed to air, an alchemical substance within the flask slowly produces drinkable water. The flask produces water at a rate of 8 ounces per hour (becoming completely full after 8 hours). The water can be poured out as it appears or simply kept in the container.
+
+Craft DC:	15
+Cost:		50	gp

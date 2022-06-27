@@ -1,0 +1,8 @@
+The wearer of these goggles gains a +10 bonus on Spot checks and enjoys low-light vision and 60-foot darkvision. Once per day, the wearer can command the goggles to grant him blindsense for 1 minute.
+
+The goggles also protect the wearer from being blinded by the cloud created by a hovering dragon (though the cloud still provides concealment for all within it).
+
+Moderate transmutation; 
+CL 9th; 
+Craft Wondrous Item, dragonsight; 
+Price 46, 000 gp.

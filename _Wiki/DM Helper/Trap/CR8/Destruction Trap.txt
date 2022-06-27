@@ -1,0 +1,9 @@
+CR 8; 
+magic device; 
+touch trigger (alarm);
+automatic reset; 
+spell effect (destruction, 13th-level cleric, DC 20 Fortitude save for 10d6 damage); 
+Search DC 32; 
+Disable Device DC 32. 
+
+Cost: 45,500 gp, 3,640 XP. 

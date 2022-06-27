@@ -1,0 +1,9 @@
+CR 7; 
+magic device; 
+proximity trigger (alarm); 
+no reset; 
+spell effect (summon monster VI, 11th-level wizard), 
+Search DC 31; 
+Disable Device DC 31. 
+
+Cost: 3,300 gp, 264 XP

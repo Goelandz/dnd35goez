@@ -1,0 +1,10 @@
+CR 5; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +15 melee (6d6); 
+multiple targets (can strike all characters in two adjacent specified squares); 
+Search DC 20; 
+Disable Device DC 25. 
+
+Market Price: 15,000 gp.

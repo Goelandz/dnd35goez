@@ -1,4 +1,4 @@
 This thick blue candle burns slowly, filling the air with a sweet, relaxing scent for 8 hours. These candles, although slow to function, have tremendous restorative abilities. Characters that spend a night of rest sleeping within 20 feet of a lit candle heal at twice the rate they normally would. After a day of light activity, characters who rest under the influence of the candle heal double their level in hit points and 2 points of ability damage. After a day of complete rest, characters who sleep under the influence of the candle heal three times their level in hit points and 2 points of ability damage. The benefits of a restful candle stack with those provided by someone providing long-term care with the Heal skill.
 
-DC To Create	25
-Cost		100 gp
+Craft DC:	25
+Cost:		100	gp
