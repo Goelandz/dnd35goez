@@ -1,0 +1,14 @@
+Description This 40-foot square chamber has a single entrance and exit. The trap is activated by a pressure plate in the floor in front of the exit door, causing both doors to close immediately. They open again when the trap is disarmed or its duration has expired. The ceiling is covered in spikes that randomly descend each round to attack every square in the chamber. Four chain pulley mechanisms, one set into each wall, control the spikes. Disabling or destroying a mechanism reduces the number of spikes that attack each round.
+
+Search DC 21; 
+Type Mechanical
+Trigger Location; 
+Init +3
+Effect Spikes (Atk +8 melee, 1d6 spikes per target for 1d8+1 piercing damage); reduce the number of spikes by 1 for each chain mechanism disabled or destroyed (minimum 0)
+Duration 9 rounds
+Destruction AC 16; hp 15 (all spikes in one square)
+Destruction AC 19; hp 27 (each chain mechanism)
+Disarm Disable Device DC 21 (all spikes in one square)
+Disarm Disable Device DC 27 (each chain mechanism)
+
+

@@ -1,0 +1,11 @@
+This trap is actually a natural geological phenomenon. A steamy underground cavern has a natural stone floor that feels warm to the touch. Due to geothermal heat, hot water is held beneath the fl oor under great pressure. Near the center of the room, the stone crust is so thin that the slightest disturbance (such as an adventurer stepping on it) will cause the entire floor to erupt with scalding hot jets of water. The trap cannot be destroyed, but it can be stopped by cooling the water. Any spell that deals cold damage “disarms” any geyser vents in the spell area. Each geyser can be disabled by plugging its vent with an object. 
+
+Once the geysers have run their course, it takes approximately 300 years for them to become crusted over again. A dwarf entering the cavern is entitled to a Search check to notice the weakened stone crust, even if he is not actively searching for it.
+
+Search DC 22; 
+Type Mechanical
+Trigger Location; 
+Init +3
+Effect Scalding hot jets of water (automatically hit, 4d6 points of bludgeoning damage + 5d6 points of fi re damage, DC 17 Refl exhalf); trap attacks 10 random squares per round
+Duration 10 rounds
+Disarm Disable Device DC 22 (each geyser vent)

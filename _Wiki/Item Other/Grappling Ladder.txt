@@ -1,1 +1,6 @@
 This is a premade rope ladder with two small grappling hooks on one end. The given price and weight is per 10 feet of ladder. Once the grappling ladder is in place, it reduces the DC for any Climb check above 10 to 10.
+
+Dungeonscape:
+This premade hemp rope ladder has two small steel grappling hooks on either end. Throwing a grappling ladder is like throwing a grappling hook, only more difficult. The Use Rope check to seat the ladder is made at a DC equal to 15 + 3 per 10 feet thrown. A DC 10 Climb check is required to scale a grappling ladder.
+
+ The price and weight in Table 2–1 is for a 10-foot ladder, but longer ladders are commonly available. For each additional 10 feet of the ladder, add 35 gp to the cost and 6 pounds to the weight

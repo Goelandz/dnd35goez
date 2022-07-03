@@ -4,9 +4,9 @@ You can pick padlocks, finesse combination locks, and solve puzzle locks. The ef
 Check: The DC for opening a lock varies from 20 to 40, depending on the quality of the lock, as given on the table below. 
 
 Lock DC Lock 		DC 
-Very simple lock 	20 
-Good lock 		30 
+Very simple lock 	20  
 Average lock 		25 
+Good lock 		30
 Amazing lock 		40
 
 Action: Opening a lock is a full-round action. 

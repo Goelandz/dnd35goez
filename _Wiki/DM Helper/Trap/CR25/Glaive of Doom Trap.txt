@@ -1,0 +1,8 @@
+CR 25
+mechanical, 
+location trigger
+automatic reset
+Atk +45/+40/+35/+30 melee (3d8+17 plus poison, Huge cold iron +1 glaive); poison (megapede poison, Fort DC 44 resists, 2d6 Con + 1d4 Dex/2d6 Con + 1d4 Dex; one dose per triggering)
+Search DC 55
+Disable Device DC 50. 
+Market Price: 1,102,808 gp.

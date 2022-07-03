@@ -1,11 +1,7 @@
-Keyword, Swim
-Drowing
-
 SWIM (STR; ARMOR CHECK PENALTY)
 Using this skill, a land-based creature can swim, dive, navigate underwater obstacles, and so on. 
 
-Check: Make a Swim check once per round while you are in the water. Success means you may swim at up to one-half your speed (as 
-a full-round action) or at one-quarter your speed (as a move action). 
+Check: Make a Swim check once per round while you are in the water. Success means you may swim at up to one-half your speed (as a full-round action) or at one-quarter your speed (as a move action). 
 
 If you fail by 4 or less, you make no progress through the water. 
 

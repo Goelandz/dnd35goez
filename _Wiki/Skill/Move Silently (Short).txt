@@ -1,0 +1,10 @@
+Dex ACP
+
+50% speed.
+50% to 99% Speed  	+5 DC
+100%+			+20 DC
+
+Noisy surface		+2 DC
+Very nosy		+5 DC
+
+Action: Part of a movement.

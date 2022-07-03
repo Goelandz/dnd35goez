@@ -11,7 +11,6 @@ Like the Craft and Profession skills, Knowledge actually encompasses a number o
  Local (legends, personalities, inhabitants, laws, customs, traditions, humanoids) 
  Nature (animals, fey, giants, monstrous humanoids, plants, seasons and cycles, weather, vermin) 
  Most skilled mariners are students of the weather and the natural patterns of the ocean. Recognizing a dangerous squall line or determining the proximity of land from the types of fish and seabirds in the area are useful applications of this skill. 
-
  Nobility and royalty (lineages, heraldry, family trees, mottoes, personalities) 
  Religion (gods and goddesses, mythic history, ecclesiastic tradition, holy symbols, undead) 
  The planes (the Inner Planes, the Outer Planes, the Astral Plane, the Ethereal Plane, outsiders, elementals, magic related to the planes) 

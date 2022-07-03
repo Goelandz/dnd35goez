@@ -1,0 +1,14 @@
+In case of nocturnal ambush, a set of blankets of security allows you to awaken five people with a single uttered phrase.
+
+Description: Blankets of security are fi ve matching wool blankets, each embroidered with sigils in orange thread along the edges. When activated, the sigils glow brightly and vibrate, emitting a low subsonic hum.
+
+Activation: You fall asleep under a blanket of securityas you would under any normal blanket. Activating the blanket’s magic requires a command word, which can be spoken as a free action. The same command word or phrase activates all blankets in a set, allowing whoever is on night watch to wake the rest of the party quickly. Typical command words might be “Rise and shine,” “Danger lurks,” or the simple but effective “Wake up!”
+
+Effect: When a creature within 100 feet speaks the command word, a blanket of security automatically wakes any creature sleeping under it, even if the dozing creature is under a magical sleep effect.
+
+ Aura/Caster Level: Faint abjuration; CL 3rd.
+Construction: Craft Wondrous Item, alarm, 1,100 gp, 88 XP, 2 days.
+
+Variants: Sets of more than fi ve blankets have been crafted for larger adventuring parties.
+Weight: 15 lb. (set of 5) + 3 lb. per each additional blanket.
+Price: 2,200 gp (set of 5) + 440 gp per each additional blanket.

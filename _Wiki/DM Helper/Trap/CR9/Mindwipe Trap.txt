@@ -1,0 +1,8 @@
+CR 9; 
+psionic; 
+visual trigger (true seeing); 
+automatic reset; 
+psionic effect (mindwipe, 13th-level psion, augmented by 6 power points, bestows three negative levels, Fortitude DC 18 negates); 
+Search DC 33; 
+Disable Device DC 33. 
+Cost: 73,500 gp, 5,880 XP.

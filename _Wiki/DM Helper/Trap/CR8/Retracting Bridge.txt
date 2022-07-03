@@ -1,0 +1,8 @@
+CR 8; 
+mechanical; 
+location trigger; 
+automatic reset; 
+multiple targets (all creatures in a 20-ft.-by-5-ft. area), retracting bridge (dumps into water, Reflex DC 29 to cling to bridge as it retracts, Climb DC 15 to return to edge of pit); 
+Search DC 29; 
+Disable Device DC 24. 
+Market Price: 50,400 gp (with water).

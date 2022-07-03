@@ -1,0 +1,9 @@
+CR 12; 
+psionic; 
+visual trigger (true seeing); 
+automatic reset; 
+psionic effect (energy burst, 20th-level psion, augmented by 15 power points, 20d6+20 points of cold damage, Fortitude DC 20 half); 
+multiple targets (40-ft.-radius burst); 
+Search DC 36; 
+Disable Device DC 36. 
+Cost: 134,750 gp, 10,780 XP.

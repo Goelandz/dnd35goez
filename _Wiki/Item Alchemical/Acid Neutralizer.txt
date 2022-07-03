@@ -1,0 +1,18 @@
+Acid neutralizer reduces the strength of nonmagical acid, such as the type found in a variety of common dungeon traps.
+
+ Description: Acid neutralizer is a slippery white substance similar in appearance to soap. It is made and sold in fi st-sized lumps wrapped in brown waxed paper. When dropped in acid, the neutralizer foams and fi zzes, turbulently churning the acid for 5 seconds. Neutralized acid takes on the appearance of weakly colored water, retaining only a slight tint and no odor whatsoever.
+
+ Activation: To use a lump of acid neutralizer, just drop it into a vessel containing acid (a free action). Unwrapping the lump is not necessary, because any acid strong enough to warrant neutralization will eat through the paper wrapping easily. Neutralization requires a full round, and the acid will remain at full strength until the start of your next turn.
+
+ If you are immersed in acid while carrying lumps of acid neutralizer, they immediately activate unless stored in a stronger container, such as a metal tin. Being splashed with acid might activate the neutralizer if you keep it exposed, rather than stored in a jar.
+
+ Effect: If you drop one lump of acid neutralizer into a container holding up to 10 cubic feet of 
+nonmagical acid, the acid is permanently weakened such that contact with the acid deals no damage. Complete immersion in neutralized acid deals only 5d6 points of damage per round (instead of the usual 10d6 points). Acid that has been neutralized in this manner no longer gives off toxic fumes (DMG 302). Larger volumes of acid require additional doses; two lumps are needed to neutralize a 20-cubic-foot vat of acid.
+
+ Neutralizer is far less effective against magic acids, which regain their full acidity after 3d6 rounds.
+
+ If you wear a lump of acid neutralizer in a necklace or carry it otherwise exposed on your body, the lump prevents continuing damage from acid attacks for 1 minute after initial exposure. It has no effect against the initial damage dealt by an acid attack.
+
+ Construction: DC 20 Craft (alchemy) check, 17 gp.
+ Weight: 1 lb.
+ Price: 50 gp.

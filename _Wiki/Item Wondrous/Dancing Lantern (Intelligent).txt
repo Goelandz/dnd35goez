@@ -1,0 +1,17 @@
+This bullseye lantern levitates on command, allowing you to direct it verbally while keeping your hands free.
+
+Description: A dancing lantern resembles a standard bulls eye lantern, except that it is crafted of mithral and its interior mirrors are made of polished silver rather than glass. When activated, the lantern floats in the air, darting back and forth as commanded by its owner. As it flies, it leaves a trail of golden sparks that quickly fade.
+
+Activation: A dancing lantern is operated by two command words. The first (“illuminion”) causes the lantern to light, and repeating the word extinguishes the glow. The second command word (“aviallow”) causes the lamp to float, and repeating the word causes it to land gently. While it floats, a dancing lamp can be directed verbally as a free action as long as it is within 1,000 feet of its owner.
+
+Effect: Some dancing lanterns have been crafted as intelligent items. An intelligent dancing lantern can fly on its own and decide where to shine its light. It can also travel more than 1,000 feet from its owner. Like any intelligent magic item, it does not automatically obey directions, though its owner can deactivate its ability to fly with a command word, if desired.
+
+ A typical intelligent dancing lantern has Int 14, Wis 10, Cha 14, and Ego 7; has vision and hearing to 120 feet; can speak Common and two other languages; and can communicate telepathically with its owner if within 1,000 feet. It has 10 ranks in Search and can use faerie fi re (PH 229) three times per day as a spell-like ability. It can be of any alignment, though most intelligent dancing 
+lanterns are chaotic.
+
+ Intelligent dancing lanternsare insatiable explorers, curious to see what lurks around the next turn of the dungeon corridor. If forced to stop moving, they occasionally make Search checks on their surroundings to stave off boredom. Many adventurers have been saved from death traps because their dancing lantern was randomly searching the area.
+
+ Aura/Caster Level: Strong transmutation and evocation, CL 15th (intelligent lantern).
+Construction: Craft Wondrous Item, continual flame, levitate, 1,000 gp, 40 XP, 1 day.
+Weight: 3 lb.
+Price: 10,300 gp (intelligent).

@@ -1,0 +1,15 @@
+Description: This chamber is 50 feet long and 30 feet wide. Above both entrances are heavy stone doors that slide out of the ceiling and seal the exits. Three metal cranks are located in the room on separate walls. The ceiling is perforated with hundreds of tiny holes. When the PCs step on a pressure plate in the middle of the room, the stone doors slide over the exits and can be opened only by turning the cranks (DC 15 Strength check per crank). 
+
+All three cranks must be turned in the same round to lift the door 1 foot. Small PCs can squeeze under the door once it has risen 2 feet, but Medium PCs need 3 feet of space. Meanwhile, tiny darts shoot out of the ceiling holes and attack each square in the room. The trap does not reset.
+
+Search DC 17; 
+Type Mechanical
+Trigger Location; 
+Init +1
+Effect: 1d4 darts (Atk +2 ranged, 1d4 points of piercing damage) per target per round
+Duration 9 rounds
+Destruction AC 12; 
+hp 5 (each ceiling square)
+Disarm Disable Device DC 17 (each ceiling square)
+
+

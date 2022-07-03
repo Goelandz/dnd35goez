@@ -1,0 +1,8 @@
+CR 9
+mechanical
+location trigger
+automatic reset
+Reflex DC 24 avoids; 2,000 ft. thrown (20d6 points of falling damage); multiple targets (all within a 10-ft.-by-10 ft. area)
+Search DC 24
+Disable Device DC 15. 
+Market Price: 23,080 gp.

@@ -1,4 +1,5 @@
-CR 1; mechanical; 
+CR 1; 
+mechanical; 
 proximity trigger;
 manual reset; 
 Atk +10 ranged (1d6/×3, arrow); 

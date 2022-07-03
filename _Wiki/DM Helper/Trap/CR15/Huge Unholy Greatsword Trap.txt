@@ -1,0 +1,8 @@
+CR 15; 
+mechanical; 
+location trigger; 
+automatic reset; 
+Atk +39 melee (4d6+19 plus 2d6 unholy, Huge +3 unholy greatsword); 
+Search DC 36; 
+Disable Device DC 36. 
+Market Price: 258,850 gp.

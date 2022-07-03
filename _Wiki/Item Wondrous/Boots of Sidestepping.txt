@@ -1,0 +1,12 @@
+When worn, these boots increase your ability to dodge certain incoming attacks, such as the effect of an activated trap.
+
+Description: Boots of sidestepping are comfortable boots of soft leather that have good traction. They are fashioned from the tanned hide of displacer beasts and tooled with mystic symbols. When the boots activate, you move in a blur of speed as you dodge an incoming attack.
+
+Activation: Boots of sidestepping activate automatically when you are exposed to an attack that allows a Reflex save. No action on your part is necessary.
+
+Effect: While wearing boots of sidestepping, you can move 5 feet as an immediate action whenever you are allowed to make a Reflex save against a spell, spell-like ability, or supernatural effect. You move before making the Reflex save. If, after moving, you stand outside the attack’s area, you avoid it completely and no longer need to attempt the save. This movement does not provoke attacks of opportunity.
+
+ Aura/Caster Level: Strong transmutation; CL 12th.
+Construction: Craft Wondrous Item, haste, 1,500 gp, 60 XP, 2 days.
+Weight: 1 lb.
+Price: 3,000 gp.

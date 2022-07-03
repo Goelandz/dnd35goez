@@ -1,0 +1,24 @@
+STR ACPx2
+-------------------------------------------
+Swim, swim 25% speed
+	Swim DC
+	10	Calm Water
+	15	Rough water
+	20	Stormy water
+
+Fail <5, no progress
+Fail >4, go underwater. 
+
+-------------------------------------------
+Diving: DC 15 + 5/50ft, need at least 10ft deep/30ft fallen.
+
+Fail,
+Ignore the first 20ft fallen.
+30ft and 40ft are 2d3 nonlethal dmg.
+The rest, 1D6 dmg/10ft
+
+-------------------------------------------
+Long swim: Each hour DC 20 Swim or 1d6 nonlethal dmg.
+
+-------------------------------------------
+Accelerated Swimming: +10DC, goes 50% speed instead of 25%.

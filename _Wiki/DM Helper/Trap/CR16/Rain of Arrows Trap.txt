@@ -1,0 +1,10 @@
+CR 16; 
+mechanical; 
+location trigger; 
+manual reset;
+Atk +34 ranged (1d8+4 plus poison, arrow); poison (Colossal scorpion venom, Fort DC 33 resists, 1d10 Con/1d10 Con); multiple targets (1d8 arrows per target in 10-ft.-by-10-ft. area); 
+Search DC 38; 
+Disable Device DC 24. 
+Market Price: 367,600 gp.
+
+

@@ -1,0 +1,8 @@
+CR 11; 
+psionic; 
+visual trigger (true seeing); 
+automatic reset; 
+psionic effect (mind thrust, 19th-level psion, augmented by 18 power points, 19d10 points of mind-affecting damage, Will DC 20 negates); 
+Search DC 35; 
+Disable Device DC 35. 
+Cost: 124,500 gp, 9,960 XP.

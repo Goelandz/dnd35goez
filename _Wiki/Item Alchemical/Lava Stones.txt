@@ -1,0 +1,20 @@
+Lava stones cool small areas of molten rock, allowing you to create a series of temporary steps across a body of magma.
+
+Description: A lava stone is a tiny pebble that is cool to the touch. When dropped in lava, the pebble sinks quickly, cooling the lava as it descends. The result is a 2-foot-diameter column of hardened black stone that crests just above the surface of the lava.
+
+Activation: Lava stones activate only when completely immersed in lava. As a move action, you can drop one lava stone into a square adjacent to you. The hardened platform, commonly referred to as a lava step, forms immediately, and you can step onto it with a second move action during the same turn.
+
+ You can also create a lava step at a distance by throwing the stone as an attack action. Use the rules for throwing splash weapons (PH 158).
+
+ Once formed, a lava step lasts for 3d8 minutes before the surrounding heat turns it back into molten rock. One round before the step melts, it glows orange and deals 1d6 points of fi re damage to anyone standing on it. In the following round, the step melts, dumping anyone still standing on it into fiery lava.
+
+Effect: You can safely move into an adjacent square containing a lava step as a move action. You can also move at half your normal speed across a path of lava steps that have already been sown within 5 feet of one another. To do so, you must make a successful DC 10 Balance check as you move onto each step. If you fail a check by 4 or less, you nearly lose your balance and cannot continue moving forward this turn. If you fail a check by 5 or more, you fall into the lava.
+
+ Only Medium or smaller creatures can stand on a lava step.
+
+Construction: DC 20 Craft (alchemy) check, 16 gp.
+
+Variants: A greater lava stone is the size of a potato and forms a step that has a diameter of 6 feet. Large creatures can walk across a trail of greater lava steps with a series of successful DC 10 Balance checks. For Medium or smaller creatures, the DC of each check drops to 5.
+
+Weight: — (standard) or 1 lb. (greater).
+Price: 24 gp (standard) or 114 gp (greater).

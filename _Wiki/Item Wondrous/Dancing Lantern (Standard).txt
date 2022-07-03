@@ -1,0 +1,16 @@
+This bullseye lantern levitates on command, allowing you to direct it verbally while keeping your hands free.
+
+Description: A dancing lantern resembles a standard bulls eye lantern, except that it is crafted of mithral and its interior mirrors are made of polished silver rather than glass. When activated, the lantern floats in the air, darting back and forth as commanded by its owner. As it flies, it leaves a trail of golden sparks that quickly fade.
+
+Activation: A dancing lantern is operated by two command words. The first (“illuminion”) causes the lantern to light, and repeating the word extinguishes the glow. The second command word (“aviallow”) causes the lamp to float, and repeating the word causes it to land gently. While it floats, a dancing lamp can be directed verbally as a free action as long as it is within 1,000 feet of its owner.
+
+Effect: A dancing lantern provides magical light as a standard bullseye lantern, though it consumes no oil. However, it is more prized for its ability to remain aloft. When in the air, the lantern hovers within your reach, allowing you to benefi t from its illumination while keeping your hands free.
+
+ If desired, you can verbally direct a dancing lantern to move away from you. On any of your turns, it can fly up to 90 feet per round with perfect maneuverability and can rotate to shine its cone of light in any direction. A dancing lantern will not stray farther than 1,000 feet from you. If you move farther away, it will attempt to move to within 1,000 feet on its next turn.
+
+ A lantern can be attacked while it is flying. It is Tiny and has AC 12, 30 hit points, and hardness 10.
+
+ Aura/Caster Level: Faint evocation and transmutation, CL 5th (standard lantern)
+Construction: Craft Wondrous Item, continual flame, levitate, 1,000 gp, 40 XP, 1 day.
+Weight: 3 lb.
+Price: 2,000 gp (standard) .

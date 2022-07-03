@@ -1,0 +1,23 @@
+Cha, Trained
+
+Task 						DC 				Action/Note
+Decipher a written spell 			25 + spell level 		1 Minute
+Use a scroll (Decipher first)			20 + caster level 		if enough WIS/CHA/INT = Good, if not Emu Ability
+Use a wand 					20 
+Emulate a class feature 			20 				ECL = UMD -20
+Emulate an ability score 			 				If enough WIS/CHA/INT = Good. If not UMD -15.
+Emulate a race 					25 
+Emulate an alignment 				30				One align at the time
+
+-------------------------------------------
+Activate blindly: DC 25 
+
+Fail, 
+<10, can't active device
+>9, Wild Magic +2D6 Damage to caster
+
+
+-------------------------------------------
+Retry? Yes after 24 hours
+
+Special: No Take 10

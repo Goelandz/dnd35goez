@@ -1,0 +1,12 @@
+CR 4
+mechanical
+location trigger
+automatic reset
+DC 30 Reflex save avoids
+20 ft. deep (2d6 points of falling damage)
+multiple targets (all within a 10-ft.-by-15 ft. area)
+Search DC 29
+Disable Device DC 24. 
+Market Price: 28,400 gp.
+
+

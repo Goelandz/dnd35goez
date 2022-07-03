@@ -1,0 +1,30 @@
+Wis 
+
+DC
++1	/10ft distance
++5 	Spotter distracted
+
+-------------------------------------------
+Detect: Spot vs Hide
+
+-------------------------------------------
+Detect invisible: DC 20, aware, you don't see them and you don't know its position..
+
+-------------------------------------------
+Detect disguise: Complicated, check Disguise.
+
+-------------------------------------------
+Read Lips: Within 30ft, Understand language.
+
+DC 15, know general content.
+
+Fail,
+<5 can't read lips
+>4 incorrect conclusion, and you don't know.
+
+Once per minute.
+-------------------------------------------
+Retry? Move action
+
+Action: Reactive, no action.
+	Concentration, no more than half speed move.

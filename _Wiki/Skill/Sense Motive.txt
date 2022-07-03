@@ -1,5 +1,3 @@
-Keyword: Combat prediction, decipher strategy
-
 SENSE MOTIVE (WIS)
 Use this skill to tell when someone is bluffing you, to discern hidden messages in conversations, or to sense when someone is being magically influenced. This skill represents sensitivity to the body language, speech habits, and mannerisms of others. 
 
@@ -16,9 +14,7 @@ Sense Enchantment: You can tell that someone’s behavior is being influenced by a
 
 Discern Secret Message: You may use Sense Motive to detect that a hidden message is being transmitted via the Bluff skill. In this case, your Sense Motive check is opposed by the Bluff check of the character transmitting the message. For each piece of information relating to the message that you are missing, you take a –2 penalty on your Sense Motive check. For example, if you eavesdrop on people planning to assassinate a visiting diplomat, you take a –2 penalty on your check if you don’t know about the diplomat. If you succeed by 4 or less, you know that something hidden is being communicated, but you can’t learn anything specific about its content. If you beat the DC by 5 or more, you intercept and understand the message. If you fail by 4 or less, you don’t detect any hidden communication. If you fail by 5 or more, you infer some false information. 
 
-Combat prediction: You get a good though general idea of an opponent's combat skill. This use of the skill requires you to spend a mini-mum of 3 rounds 
-observing an opponent who is engaged in combat. You can take no other actions in that time other than moving your normal movement rate. You must keep 
-your subject in view at all times. The DC is 20 +1 for every experience level your opponent has attained. If successful, you gain a +4 bonus on your first attack roll against the observed opponent. This attack must come within 24 hours of the observation or the bonus is lost. You cannot gain this bonus against the same opponent twice unless the character's level has changed since you last observed him.
+Combat prediction: You get a good though general idea of an opponent's combat skill. This use of the skill requires you to spend a mini-mum of 3 rounds observing an opponent who is engaged in combat. You can take no other actions in that time other than moving your normal movement rate. You must keep your subject in view at all times. The DC is 20 +1 for every experience level your opponent has attained. If successful, you gain a +4 bonus on your first attack roll against the observed opponent. This attack must come within 24 hours of the observation or the bonus is lost. You cannot gain this bonus against the same opponent twice unless the character's level has changed since you last observed him.
 
 Decipher strategy: You assess a combat situation and determine its true purpose. You must observe the combat for a minimum of 3 rounds before making the skill check. The DC is 15 +1 for every opponent's true motive (cut you to pieces, lure you away from or drive you toward a particular spot, rescue a captive, and so on)
 

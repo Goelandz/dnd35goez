@@ -1,0 +1,8 @@
+CR 11; 
+mechanical, 
+location trigger; 
+automatic reset; 
+Atk +36 ranged (1d8+5 plus 1d6 electricity plus poison, +1 shocking arrow); poison (shrieking terror saliva, Fort DC 19 resists, unable to heal wound caused by trap magically or naturally); 
+Search DC 32; 
+Disable Device DC 30. 
+Market Price: 230,450 gp.

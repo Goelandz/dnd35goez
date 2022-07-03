@@ -1,0 +1,9 @@
+CR 7 
+magic
+intelligent trigger (60-ft. vision and hearing)
+automatic reset
+magic effect (greater dispel magic, 15th-level wizard, counterspells, dispel
+check +15); Int 13, Wis 13, Cha 10, Ego 4; Spellcraft +11, Spot +11
+Search DC 31
+Disable Device DC 31
+Cost: 57,000 gp, 4,080 XP

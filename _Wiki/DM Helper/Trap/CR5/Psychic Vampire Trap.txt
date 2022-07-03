@@ -1,0 +1,8 @@
+CR 5; 
+psionic; 
+touch and psionic trigger (detect psionics); 
+automatic reset; 
+psionic effect (psychic vampire, 7th-level psion, drains 14 power points or deals 2 points of Wis damage to creatures that have no power points, Fortitude DC 16 negates); 
+Search DC 29; 
+Disable Device DC 29. 
+Cost: 16,500 gp, 1,320 XP.

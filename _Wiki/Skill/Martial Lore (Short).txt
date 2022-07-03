@@ -1,0 +1,11 @@
+Int trained
+
+Mmaneuver level: ML
+target’s initiator level : TIL
+
+DC 	Task 
+10+ML	Identify a maneuver. No action required. No retry.
+10+ML 	Identify a maneuver in martial script. 1 try/day. Requires a full-round action.
+20+TCL 	Determine all disciplines maneuver. No action required. Retry only.
+
+Special: A swordsage gains a +2 bonus on a Martial Lore check involving a maneuver in a discipline in which he has discipline focus

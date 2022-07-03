@@ -1,0 +1,8 @@
+CR 5; 
+psionic; 
+visual trigger (synesthete); 
+automatic reset; 
+psionic effect (ego whip, 7th-level psion, augmented by 4 power points, 2d4 points of Cha damage [Will DC 15 half], dazed for 1 round [Will DC 15 negates]); 
+Search DC 29; 
+Disable Device DC 29. 
+Cost: 15,750 gp, 1,260 XP.

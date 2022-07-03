@@ -1,0 +1,34 @@
+Str ACP
+
+>50ft/rnd	+8 Jump
+>30ft/rnd	+4 Jump
+30ft/rnd	No modifier
+<30ft/rnd	-6 Jump /10ft
+
+Must do 20ft distance before jump, if not DC is doubled
+
+Jump untrain, +5 DC or fall prone.
+
+-------------------------------------------
+Long Jump: DC = Distance
+
+Fail <5, You fail but can DC 15 reflex to grab edge. Then DC 15 Climb.
+
+-------------------------------------------
+High Jump: DC = 4x Height
+
+Fail = Doesn't reach
+
+-------------------------------------------
+A swimming high jump: DC = 4x Height + 10
+
+-------------------------------------------
+Hop Up: DC 10, No running start
+
+-------------------------------------------
+Jumping Down: DC 15, reduce jump by 10ft, No running start.
+
+-------------------------------------------
+Launch into Air: Can fly if reach 5ft
+
+Action: Part of a movement.

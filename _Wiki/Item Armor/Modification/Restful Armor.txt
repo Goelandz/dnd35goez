@@ -1,0 +1,11 @@
+Armor with the restful special ability allows a warrior to sleep peacefully, knowing that he will be prepared if trouble fi nds him during the night.
+
+Description: Armor of any type can be constructed to have this special ability, though medium and heavy armors are the most common choices. Restful armor always seems designed for maximum comfort, with additional padding and softened fastenings. When you sleep in restful armor, a dimly glowing circle of blue runes encircles your head, emitting peaceful thoughts.
+
+Activation: The restful ability activities when you fall asleep wearing the armor. No other action on your part is required.
+
+Effect: Sleeping in restful armor does not cause you to become fatigued, even if the armor is medium or heavy. Further, you can make Listen checks with a penalty of only –5 while sleeping in the armor. If you make a successful Listen check while sleeping, you can choose to wake up or to remain asleep, depending on the noise you hear.
+
+ Aura/Caster Level: Faint abjuration; CL 5th.
+Construction: Craft Magic Arms and Armor, sleep,lullaby.
+Price: 500 gp.

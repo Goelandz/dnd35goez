@@ -1,0 +1,9 @@
+CR 17; 
+magic; 
+intelligent trigger (120 ft. darkvision, blindsense, and hearing), 
+automatic reset; 
+Atk +11/+11/+11 ranged touch; spell effect (three empowered polar rays, 21st-level wizard, 21d6 points of cold damage (×1-1/2) each); lesser powers (3/day: hold person [DC 14], zone of truth [DC 13]; 1/day: major image [DC 14]); greater power (at will: detect thoughts [DC 13]); Int 17, Wis 17, Cha 10, Ego 13; 
+Search DC 36; 
+Disable Device DC 36. 
+Cost: 417,900 gp, 33,432 XP.
+

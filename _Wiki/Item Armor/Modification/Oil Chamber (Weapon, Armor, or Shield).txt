@@ -1,0 +1,7 @@
+An oil chamber is a tiny vessel attached to the hilt of a weapon, the inside of a shield, or either forearm of a suit of armor. You can fill the chamber with any magic or alchemical oil as a full-round action. 
+
+Sealing the oil inside the chamber creates pressure, such that opening the chamber again (a swift action) causes the oil to spray out over the armor or weapon. In this way, you can apply the oil to your equipment quickly and efficiently. You cannot open a full chamber without having the oil spray, however, so filling the chamber is a commitment to applying the oil to that armor or weapon at some point in the future.
+
+ Filling an oil chamber with poison is a bad idea. Whoever is wielding or wearing the equipment is automatically exposed to the poison as it sprays out. However, it is safe to fill a chamber with trollbane (see page 37)—assuming that you are not a troll.
+
+ Unlike most modifi cations, an oil chamber can be added to an existing weapon, shield, or armor fairly easily. Weapons and shields can support one oil chamber, but a suit of armor can hold two (one on each forearm). You can build an oil chamber into a missile weapon, such as a crossbow, in such a way that the oil sprayed affects the loaded missile, rather than the weapon.

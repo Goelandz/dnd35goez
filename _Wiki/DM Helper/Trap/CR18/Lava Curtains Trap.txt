@@ -1,0 +1,14 @@
+Description This dangerous trap is set in a 30-foot square room. Spaced every 5 feet along the ceiling are six long slots that run wall to wall in each direction, forming a grid. 
+
+Drains in the floor are positioned directly beneath the slots. When the trap is activated, two slots in each direction (chosen randomly) issue a torrent of molten rock, forming four burning curtains that remain for the entire round. On the trap’s next action, these curtains and four new curtains form, two in each direction. Aside from the entrance, the room has three locked doors (Open Lock DC 35 for each). Behind one of the doors is a mechanism that, if disarmed, shuts down the entire trap. Behind the second locked door is a passage out of the room. The third locked door conceals a dead end; if this door is opened, all 12 lava curtains (six in each direction) turn on until the door is closed.
+
+Search DC 33; 
+Type Mechanical
+Trigger Location; 
+Init +18
+Effect Lava curtain (18d6 points of fi re damage, DC 28 Reflex half); no save for anyone who crosses through a lava curtain willingly
+Duration 21 rounds
+Destruction AC 28; hp 45; hardness 10 (each slot)
+Disarm Disable Device DC 33 (each slot)
+Disarm Disable Device DC 51 (whole trap)
+

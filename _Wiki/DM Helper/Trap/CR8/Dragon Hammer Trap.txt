@@ -1,0 +1,13 @@
+Description: This 35-foot-long hall is flanked on each side by three alcoves. Opposite the only entrance is a towering statue of a dragon on a raised platform. A stone block with a sealed lid sits in the center of the room, just in front of the dragon. The block covers a treasure or a passageway out of the chamber. The block moves when the trap is disarmed or with a successful DC 30 Strength check. The trap is activated when the PCs approach to within 5 feet of the stone block. The trap has two possible effects. Either stone columns descend from the ceiling and pound four of the six alcoves (determined randomly), or the room fills with fire that issues from the dragon’s gaping maw. Only one effect is active each round (determined randomly).
+
+Search DC 23; 
+Type Mechanical
+Trigger Detection (alarm)
+Init +4
+Effect: One stone column (Atk +8, 6d6 points of damage) in each of four alcoves, or
+Effect: jet of alchemical fl ame (6d6 fire damage, DC 18 Reflex half) in whole room except alcoves
+Duration 11 rounds
+Destruction AC 18; hp 20; hardness 8 (each column)
+Destruction AC 18; hp 28; hardness 8 (dragon statue)
+Disarm Disable Device DC 23 (each column or the dragon)
+

@@ -1,0 +1,13 @@
+This animated grappling hook seeks out the best place to secure a rope.
+
+Description: When dormant, a grasping hook appears to be a mithral grappling hook delicately sculpted to resemble the claw of a dragon, with three main claws jutting out and a fourth opposable claw curled in at the palm. When the command word is spoken, the hook springs to life. All four claws begin moving, and it can move by using the claws as tiny legs.
+
+Activation: A single command word activates a grasping hook. Speaking the word once causes the hook to animate and immediately seek the nearest secure object that it can grasp. Speaking the word a second time causes the hook to release its grasp immediately and resume its 
+dormant position.
+
+Effect: When a grasping hook is tied to silk rope, you can throw it as a standard mithral grappling hook (see page 32). However, you can also speak the command word (a free action) as you throw the hook to cause it to animate. The hook then tries to grab onto the nearest secure object, granting a +6 competence bonus on your Use Rope check to seat it properly. A grasping hook has a Strength of 25 and can hold 1,600 pounds when grasping a secure object or terrain feature. You can cause a hook to release its grasp by speaking the command word again
+
+Aura/Caster Level: Weak transmutation; CL 3rd.
+Construction: Craft Wondrous Item, bull’s strength, 250 gp, 4 XP, 1 day.
+Weight: 2 lb.
+Price: 500 gp.

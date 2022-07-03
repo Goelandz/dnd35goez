@@ -1,0 +1,8 @@
+CR 7; 
+psionic; 
+hostility trigger (detect hostile intent); 
+automatic reset; 
+psionic effect (death urge, 11th-level psion, augmented by 4 power points, target seeks to end its own life for 2 rounds, Will DC 18 negates); 
+Search DC 31; 
+Disable Device DC 31. 
+Cost: 39,500 gp, 3,160 XP.

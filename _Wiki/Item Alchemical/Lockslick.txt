@@ -1,0 +1,11 @@
+Many locks rely on friction to keep their mechanical parts in place. A few squirts of lockslick will loosen those parts, making them easier to open with thieves’ tools.
+
+ Description: Lockslick is a slippery brown substance that resembles ordinary grease in appearance and texture. It is stored in a small tin can with a long, tapered spout. Unlike grease, however, it does not easily rub off a surface to which it is applied, making it ideal for oiling locks without getting your hands or equipment messy. Further, lockslick is not flammable, which accounts for its popularity among adventuring thieves who might face flamespewing monsters or traps.
+
+ Activation: To apply lockslick to a lock, insert the spout of the can into the keyhole or other crevice, and squirt (a standard action). Lockslick can also help you disarm mechanical traps or devices. If the mechanism has metal parts and you can touch them with the spout of the container, you can apply lockslick to the parts. A can of lockslick holds 10 doses.
+
+Effect: When lockslick is applied to a lock, the substance provides a +2 alchemical bonus on an associated Open Lock check. When applied to a trap or mechanism, lockslick provides a +2 alchemical bonus on a Disable Device check to disarm it. The effect lasts on the lock or trap until it is thoroughly scrubbed clean (a full-round action).
+
+Construction: DC 25 Craft (alchemy) check, 60 gp.
+Weight: 1/2 lb.
+Price: 180 gp.

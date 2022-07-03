@@ -5,7 +5,7 @@ Check: Your Listen check is either made against a DC that reflects how quiet the
 
 Listen DC 	Sound 
 –10 		A battle 
- 0 		People talking1
+ 0 		People talking
  5 		A person in medium armor walking at a slow pace (10 ft./round) trying not to make any noise. 
  10 		An unarmored person walking at a slow pace (15 ft./round) trying not to make any noise 
  15 		A 1st-level rogue using Move Silently to sneak past the listener 
@@ -16,8 +16,8 @@ Listen DC 	Sound
 Listen DC Modifier 	Condition 
  +5 			Through a door 
  +15 			Through a stone wall 
-–+1 			Per 10 feet of distance
-–+5 			Listener distracted
+ +1 			Per 10 feet of distance
+ +5 			Listener distracted
 
 In the case of people trying to be quiet, the DCs given on the table could be replaced by Move Silently checks, in which case the indicated DC would be their average check result (or close to it). For instance, the DC 19 noted on the table for a cat stalking means that an average cat has a +9 bonus on Move Silently checks. Assuming an average roll of 10 on 1d20, its Move Silently check result would be 19. 
 

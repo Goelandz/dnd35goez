@@ -1,0 +1,17 @@
+This rectangular chamber is 60 feet wide and 30 feet long. In the center of the room, an altar holds a valuable treasure wrapped in three stone serpents. Each serpent has a lock (DC 25 Open Lock check) but can also be destroyed. The treasure cannot be removed from the altar until all three stone serpents are unlocked or destroyed. 
+
+Two stone snake statues, each 10 feet tall, stand on opposite ends of the room facing each other. When the PCs touch the altar, the statues begin to spit venom at random targets in the room. The trap shuts down if the treasure is removed from the altar.
+
+Search DC 23; 
+Type Magical
+Trigger Touch (alarm on the altar); 
+Init +4
+Effect Poison (Atk +8 ranged touch, 1d10 points of Con damage, DC 16 Fortitude negates, save again after 1 minute, CL 7th); two random targets per round
+
+Duration 11 rounds
+Destruction AC 18; hp 20; hardness 8 (each spitting statue)
+Destruction AC 22; hp 12; hardness 8 (each serpent holding the treasure)
+Disarm Disable Device DC 29 (each spitting statue)
+Dispel DC 18 (each spitting statue)
+
+

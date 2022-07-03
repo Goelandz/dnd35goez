@@ -1,0 +1,17 @@
+Dex Trained ACP
+
+Sleight of Hand vs Spot.
+
+Try Again: Yes, but opp gain +10 bonus.
+
+-------------------------------------------
+Hide light weapon:  SoH vs Spot +4
+
+Dagger: Gain +2 Bonus SoH
+Mini Object (Coin): Gain +4 Bonus SoH
+
+-------------------------------------------
+Pickpocket: DC 20 (light object only)
+
+-------------------------------------------
+Entertain: Sleight of hand is used instead of Perform.

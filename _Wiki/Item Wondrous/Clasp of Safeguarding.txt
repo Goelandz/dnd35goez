@@ -1,0 +1,14 @@
+This tiny, decorative clasp protects your valuable magic items by drawing a harmful effect to itself instead.
+
+Description: A clasp of safeguarding looks like a delicate gold pin that can be affi xed to clothing or armor. The pin is sculpted to resemble a tortoise, with two minuscule green gemstones for eyes. When the clasp is activated, the tortoise’s head and feet animate and draw inside its shell. The clasp glows brilliant green and briefl y surrounds you with a translucent ward of energy. After the light fades, the clasp does not return to its former appearance and is no longer magical.
+
+Activation: To be effective, a clasp of safeguarding must be clipped on one of your exposed magic items. The clasp is automatically activated whenever you roll a natural 1 on a saving throw against a spell, trap, or other effect that could affect any of your items. For example, the clasp would activate in the case of a fi reball spell or a dragon’s lightning breath, but not in the case of a charm person spell, which cannot affect objects.
+
+Effect: None of your exposed items (magical or otherwise) is harmed by the effect for which you rolled a natural 1 on your save. A clasp of safeguarding works only once. After it protects your equipment from harm, it loses its magic and becomes a mundane piece of jewelry.
+
+ Aura/Caster Level: Faint abjuration; 
+CL 5th.
+Construction: Craft Wondrous Item, protection from energy, 750 gp, 
+60 XP, 2 days.
+Weight: 1/3 lb.
+Price: 1,500 gp.

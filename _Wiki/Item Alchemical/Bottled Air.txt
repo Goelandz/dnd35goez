@@ -1,0 +1,13 @@
+This strong vapor clears away fog, mist, and clouds in seconds, allowing you to see more clearly.
+
+Description: Bottled air is stored as blue-tinted liquid in glass vials. It gives off a strong acrid smell. When a vial is opened, the liquid turns to mist and expands outward, creating a small area of fresh, clean air.
+
+Activation: To activate bottled air, the vial in which it is stored must be opened (a standard action). Bottled air can also be thrown as a splash weapon; the vial breaks on contact and releases the mist into the air.
+
+Effect: Bottled air clears fog, smoke, and other gases from the square it occupies. If you are carrying a vial when it is opened, you can apply the effect to a single square adjacent to you. That square, and only that square, will be cleared. A creature that stands in a clear square still gains the benefi t of concealment from obscured squares around it, but it loses those benefits against foes adjacent to the clear space.
+
+ Once released from its vial, bottled air lasts for 2d4 rounds before it sputters out.
+
+Construction: DC 25 Craft (alchemy) check, 17 gp.
+Weight: —.
+Price: 50 gp.

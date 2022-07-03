@@ -1,0 +1,11 @@
+CR 1
+mechanical
+location trigger
+automatic reset
+Reflex DC 22 avoids
+10 ft. deep (1d6 points of falling damage)
+Search DC 22
+Disable Device DC 22 
+Market Price: 2,900 gp.
+
+

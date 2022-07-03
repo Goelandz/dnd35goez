@@ -1,0 +1,28 @@
+Dex ACP
+
+DC	Task
+15	Reduce fall by 10ft
+15 +2	Half speed move, ignore AoO. +2/Add Enemy
+25 +2	Half speed move THROUGH square, ignore AoO. +2/Add Enemy	
+
+Modifier (Surface)
++2	Lightly obstructed
++5	Severely obstructed
++2	Lightly splippery
++5	Severely splippery
++2	Sloped/angled
+
+-------------------------------------------
+Fast Tumbling: Full speed for +10 DC
+
+-------------------------------------------
+Fastest Tumbling: Run speed for +20 DC 
+
+-------------------------------------------
+Stand Prone: No AoO DC 35
+
+-------------------------------------------
+No Fall damage: Each 15 Tumble/-10ft fall.
+
+Action: Movement
+Retry? No

@@ -1,0 +1,8 @@
+CR 2; 
+psionic; 
+visual trigger (synesthete); 
+automatic reset; 
+psionic effect (mind thrust, 1st-level psion, 1d10 points of mind-affecting damage, Will DC 11 negates); 
+Search DC 26; 
+Disable Device DC 26. 
+Cost: 750 gp, 60 XP.

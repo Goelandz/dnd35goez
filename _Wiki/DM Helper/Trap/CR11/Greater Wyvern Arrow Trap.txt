@@ -1,0 +1,8 @@
+CR 11; 
+mechanical; 
+location trigger; 
+manual reset; 
+Atk +24 ranged (1d8+4 plus poison, arrow); poison (Gargantuan wyvern poison, Fort DC 21 resists, 2d6 Con/2d6 Con); 
+Search DC 28; 
+Disable Device DC 24. 
+Market Price: 77,600 gp.

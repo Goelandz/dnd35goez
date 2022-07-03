@@ -1,0 +1,14 @@
+This cold, 50-foot-square chamber is covered in a thin sheet of ice. On the opposite side of the room is a 5-foot-square block of ice that contains a treasure or blocks the exit. The trap is activated when anyone approaches to within 10 feet of the block of ice. A jet of freezing water sprays down from the ceiling of the chamber, hitting anyone ithin 10 feet of the block of ice. 
+
+Some of this water freezes in the chamber, but much of it flows down a series of drains. The block of ice regains 20 hit points each round if the nozzle above it continues to function.
+
+Search DC 34; 
+Type Mechanical
+Trigger Detection (true seeing); 
+Init +7
+Effect Jet of freezing water (8d6 points of cold damage + 4d6 points of nonlethal damage, Refl ex DC 22 half); targets who fail their save are also knocked prone by the force of the water
+Duration 17 rounds
+Destruction hp 180 (+20 hp per round while jet sprays), hardness 5 (fire damage ignores hardness and deals 1-1/2 × damage) (block of ice)
+Destruction AC 24; hp 35 (each nozzle)
+Disarm Disable Device DC 29 (each nozzle)
+

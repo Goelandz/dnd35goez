@@ -1,0 +1,8 @@
+CR 8; 
+psionic; 
+visual trigger (true seeing); 
+automatic reset; 
+psionic effect (decerebrate, 13thlevel psion, target loses all mental unctions and dies in 1d4 days, Fortitude DC 20 negates); 
+Search DC 32; 
+Disable Device DC 32. 
+Cost: 73,500 gp, 5,880 XP.

@@ -1,0 +1,11 @@
+This violet crystal gem has been treated with an alchemical substance that reacts to the position of either the sun or the moon. Even while indoors or below ground, you know the time of day (or night).
+
+Description: Firmament stones are violet iolite gems that have a clear crystalline appearance. While the heavenly body to which the stone is attuned is in the sky, a small yellow light glows within the stone, crossing from one side (when the body first appears in the sky) to the other (when the body sets). By examining the position of the glow, you can approximate the time of day or night.
+
+Activation: Once created, firmament stones are always active. They need only be observed by someone who understands their significance.
+
+Effect: Each stone is attuned to either the sun or the moon, glowing when the associated heavenly body is in the sky, and remaining dark otherwise. The stones are most useful to divine spellcasters who must prepare spells at a specifi c time of day. Firmament stones attuned to the moon also show the phase of the moon by altering the shape of the glow that travels through the stone each night.
+
+ Construction: DC 25 Craft (alchemy) check, 20 gp, one 50-gp iolite gemstone.
+ Weight: 1/2 lb.
+ Price: 110 gp.

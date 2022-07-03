@@ -1,0 +1,51 @@
+Dex
+
++5 DC if ill suited mount.
+-------------------------------------------
+Guide with Knees: DC 5
+
+Use both hand, ride check each turn.
+Fail, use one hand.
+
+-------------------------------------------
+Stay in Saddle: DC 5
+
+When take damage, must roll.
+
+-------------------------------------------
+Fight with Warhorse: DC 10
+
+May attack normally. Free Action.
+
+-------------------------------------------
+Cover: DC 15
+
+Use horse as cover
+Fail, No cover.
+
+-------------------------------------------
+Soft Fall: DC 15
+
+When falling, no damage.
+Fail, 1D6 dmg
+
+-------------------------------------------
+Leap: DC 15
+
+Leap obstacle.
+Fail, fall down horse.
+
+-------------------------------------------
+Spur Mount: DC 15
+
+Increase mount speed by 10 for 1 rnd. Deal 1 dmg to mount, each rnd double damage.
+
+-------------------------------------------
+Control Mount in Battle: DC 20 each round, Move action.
+
+Mount not trained for fighting.
+
+-------------------------------------------
+Fast Mount or Dismount: DC 20, Free Action
+
+Fail, Move action.

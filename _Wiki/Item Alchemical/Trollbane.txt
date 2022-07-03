@@ -1,0 +1,9 @@
+Discovered by gnome alchemists as a safe alternative to flaming weapons, trollbane interferes with the natural ability of certain creatures to regenerate their flesh. Dubbed trollbane because it is frequently used against those particular monsters, this poison is effective against any creature that rapidly heals its wounds.
+
+Description: Trollbane is a sticky blue substance that resembles tar. It is usually stored in metal jars.Activation: Trollbane functions as injury poison (DMG 296) and can be applied directly to weapons prior to combat. A successful hit with a slashing or piercing weapon that has been coated in trollbane will expose the target to the poison. Trollbane has no effect unless used in conjunction with a forceful blow from a weapon, so adventurers can carry it with little risk of exposure.
+
+Effect: Any creature struck by a weapon that has been coated in trollbane loses the benefit of its regeneration ability (if any) against that attack. A dose of trollbane applies only to the next successful attack with the coated weapon. Additional attacks do not interfere with the target’s regeneration ability (unless more trollbane is applied to the weapon).
+
+Construction: DC 25 Craft (alchemy) check, 30 gp.
+Weight: —.
+Price: 90 gp

@@ -1,0 +1,19 @@
+WIS
+
+DC Mod 	Condition 
++5 	Through a door 
++15 	Through a stone wall 
++1 	Per 10 feet of distance
++5 	Listener distracted
+
+Listen DC 	Sound 
+–10 	A battle 
+ 0 	People talking
+ 5 	Medium armor walk 10 ft/rnd trying not to make any noise. 
+ 10 	Unarmed person walkslow (15 ft/rnd) trying not to make any noise 
+ 15 	A 1st-level rogue using Move Silently to sneak past the listener 
+ 15 	People whispering
+ 19 	A cat stalking 
+ 30 	An owl gliding in for a kill 
+
+Try Again: Yes.

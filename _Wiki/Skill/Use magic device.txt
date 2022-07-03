@@ -1,5 +1,3 @@
-Keyword UMD, Use magic device
-
 USE MAGIC DEVICE (CHA; TRAINED ONLY)
 
 Use this skill to activate magic devices, including scrolls and wands, that you could not otherwise activate. 

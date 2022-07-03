@@ -1,0 +1,40 @@
+WIS
+
+-------------------------------------------
+Detect Bluff: SM vs Bluff
+
+-------------------------------------------
+Discern secret message: SM vs Bluff,
+	If succ <5, You know something hidden
+	If succ >4, You understand the message
+	If fail <5, No detection
+	If fail >4, Wrong conclusion
+
+-2 SM by missing information.
+
+-------------------------------------------
+Sense enchantment: DC 15 or 25,
+
+If someone is influenced by enchantment effect.
+
+-------------------------------------------
+Hunch: DC20,
+
+Gut feeling if someone is trustworthy.
+
+-------------------------------------------
+Combat prediction: Req 3 rnd observation. DC 20 + 1 Diff Level.
+	If succ, +4 AB first attack
+
+Once on same opponent, until it level.
+
+-------------------------------------------
+Decipher strategy: Observe combat 3 rnd. DC 15 + 1/Motive (Information)
+
+-------------------------------------------
+Assess Opponent: Standard action, detect CR. SM vs Bluff.
+	+2 bonus if seen in combat
+
+Try Again: No. 
+
+-----------------------------------------------------------

@@ -1,0 +1,12 @@
+This 50-foot-square chamber is coated in shimmering silver foil that reflects the light emitted from large silver mirrors in each corner. A 10-foot section of floor in the center of the room contains a trapdoor with four locks (Open Lock DC 35 for each). Beyond the door is a passageway or hidden treasure. The trap is activated when anyone approaches to within 10 feet of the trapdoor. At that point, one of the four mirrors (determined randomly) releases a heightened prismatic spray each round, affecting the entire room except for a few squares in the opposite corner. Until only one mirror remains, no square in the room is safe from the effect.
+
+Search DC 31; 
+Type Magical
+Trigger Detection (true seeing); 
+Init +8
+Effect Heightened prismatic spray (Fortitude DC 22, Reflex DC 22, Will DC 22, CL 16th; see PH 264)
+Duration 19 rounds
+Destruction AC 26; hp 40; hardness 10 (each mirror)
+Disarm Disable Device DC 33 (each mirror)
+Dispel DC 27 (each mirror)
+

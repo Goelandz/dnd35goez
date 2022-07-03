@@ -1,1 +1,4 @@
 This device is made for listening through doors and other solid surfaces. It grants a +2 circumstance bonus on Listen checks made through a door or other relatively thin, solid obstacle.
+
+Dungeonscape:
+This iron cone can be placed against a surface, such as a door, to aid in Listen checks made through the surface. The DC for listening through a door when using a cone increases by 2 (rather than 5), and the DC for listening through stone walls increases by 5 (rather than 15). Listening cones have no effect if not used against a surface.

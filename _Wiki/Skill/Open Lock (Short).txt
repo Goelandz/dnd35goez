@@ -1,0 +1,15 @@
+Dex trained
+
+No thieves tool? +2 DC
+
+-------------------------------------------
+Picklock: Full-Round
+
+DC
+Very simple	20
+Average		25
+Good lock	30
+Amazing lock	40
+
+-------------------------------------------
+Quick Lockpick:  Move Action, +20 DC

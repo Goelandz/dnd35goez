@@ -3,8 +3,7 @@ Use this skill to leap over pits, vault low fences, or reach a tree’s lowest bra
 
 Check: The DC and the distance you can cover vary according to the type of jump you are attempting (see below). 
 
-Your Jump check is modified by your speed. If your speed is 30 feet (the speed of an unarmored human), then no modifier based on speed applies to the check. If your speed is less than 30 feet, you take a –6 penalty for every 10 feet of speed less than 30 feet. If your speed is greater than 30 feet, you gain a +4 bonus for every 10 feet beyond 30 feet. For instance, if you have a speed of 20 feet, you take a –6 penalty on your Jump checks. If, on the other hand, your speed is 50 
-feet, you gain a +8 bonus. 
+Your Jump check is modified by your speed. If your speed is 30 feet (the speed of an unarmored human), then no modifier based on speed applies to the check. If your speed is less than 30 feet, you take a –6 penalty for every 10 feet of speed less than 30 feet. If your speed is greater than 30 feet, you gain a +4 bonus for every 10 feet beyond 30 feet. For instance, if you have a speed of 20 feet, you take a –6 penalty on your Jump checks. If, on the other hand, your speed is 50 feet, you gain a +8 bonus. 
 
 All Jump DCs given here assume that you get a running start, which requires that you move at least 20 feet in a straight line before attempting the jump. If you do not get a running start, the DC for the jump is doubled. 
 
@@ -24,8 +23,7 @@ Long Jump Distance 	Jump DC
 
 High Jump: A high jump is a vertical leap made to reach a ledge high above or to grasp something overhead, such as a tree limb. The DC is equal to 4 times the distance to be cleared. For example, the DC for a high jump to land atop a 3-foot-high ledge is 12 (3 × 4). If you jumped up to grab something, a successful check indicates that you reached the desired height. If you wish to pull yourself up, you can do so with a move action and a DC 15 Climb check. If you fail the Jump check, you do not reach the height, and you land on your feet in the same spot from which you jumped. As with a long jump, the DC is doubled if you do not get a running start of at least 20 feet. 
 
-A swimming high jump works much like the high jump described in the Jump skill description, except that there is a –10 penalty for executing this jump in water. The height you reach measures the distance you get between the water and your feet (or tail, as the case may be). If you achieve a negative result, you don’t actually get completely out of the water. For example, if your result is 
-a –4, your jump distance is –1 foot—which means that all your body except for the last foot of your body length gets out of the water, at least for a moment.
+A swimming high jump works much like the high jump described in the Jump skill description, except that there is a –10 penalty for executing this jump in water. The height you reach measures the distance you get between the water and your feet (or tail, as the case may be). If you achieve a negative result, you don’t actually get completely out of the water. For example, if your result is a –4, your jump distance is –1 foot—which means that all your body except for the last foot of your body length gets out of the water, at least for a moment.
 
 High Jump Distance  	Jump DC2
 1 foot 			4 

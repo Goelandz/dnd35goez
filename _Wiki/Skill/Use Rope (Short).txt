@@ -1,0 +1,25 @@
+Dex
+
+DC 	Task 
+10 	Tie knot 
+15 	Tie a special knot 
+15 	Tie a rope around yourself one-handed 
+15 	Splice two ropes together 
+
+-------------------------------------------
+Secure a grappling hook: 10 + 2/10ft throw. Max DC 20.
+
+Faillure,
+<5 = Hook fail to catch
+>5 = Hook loose after 1D4 rnds
+
+-------------------------------------------
+Bind a Character: Escape Artist vs Use Rope + 10
+
+Action: 
+Full-round action that AoO. 
+Splicing two ropes  takes 5 minutes. 
+Binding  takes 1 minute. 
+
+-------------------------------------------
+Quick Knot-Tying: -10 Use Rope, Move Action instead

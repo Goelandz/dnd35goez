@@ -1,0 +1,5 @@
+Marks made by this red chalk fade from casual view after 1 minute, allowing you to mark dungeon surfaces secretly. The chalk lets you keep track of what areas you have and have not visited without alerting wandering creatures to your presence. To detect a 
+
+simple mark, such as a line or an X, make a successful DC 25 Search check. To detect more complex marks, make a successful DC 40 Search check. A fi nder’s glass (see below) improves your ability to detect the chalk marks. True seeing (PH 296) lets you detect the marks without making a Search check.
+
+ One piece of fi nder’s chalk covers a 10-foot-square wall with marks.

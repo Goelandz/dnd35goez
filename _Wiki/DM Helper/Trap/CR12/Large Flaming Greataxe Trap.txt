@@ -1,0 +1,8 @@
+CR 12; 
+mechanical; 
+location trigger; 
+automatic reset; 
+Atk +30 melee (3d6+13 plus 1d6 fire, Large +1 flaming greataxe); 
+Search DC 34; 
+Disable Device DC 30. 
+Market Price: 367,600 gp.

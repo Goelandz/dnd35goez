@@ -1,0 +1,12 @@
+Description: This chamber is 60 feet long and 20 feet wide. Along each long wall, twelve large slots run from fl oor to ceiling, one every 5 feet. The trap is activated when the PCs reach the center of the room. Razor-sharp blades attached to 12 pendulums in the ceiling swing across the room, attacking every square in the room. Anyone in the room can attempt a DC 20 Spot check to notice the pendulums emerging from the wall slots and act in the surprise round. 
+
+If an individual pendulum is destroyed, an entire row of squares (20 feet wide) is made safe. The door on the opposite side of the chamber is securely locked (Open Lock DC 40). Attached to one of the pendulums is a key that opens the door. Noticing the key requires a successful DC 25 Spot check, and grabbing the key requires a successful DC 25 Dexterity check or Sleight of Hand check. Anyone who fails a check to grab the key takes damage from the pendulum (only once per round). If the pendulum with the key is destroyed, the key is easily recovered.
+
+Search DC 25; 
+Type Mechanical
+Trigger Detection (true seeing); 
+Init +5
+Effect: 12 pendulum blades (Atk +10 melee, 7d6 points of slashing damage); each blade attacks all creatures in one 5-footby-20-foot row
+Duration 13 rounds
+Destruction AC 20; hp 20 (each pendulum)
+Disarm Disable Device DC 25 (each pendulum, but only at the ceiling, 20 feet above the floor)

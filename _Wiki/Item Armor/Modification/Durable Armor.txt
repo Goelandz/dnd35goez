@@ -1,0 +1,14 @@
+To protect their valuable magic armor, many fighters add this special ability to guard against familiar 
+dungeon hazards.
+
+Description: Durable armor is coated with special substances that repel caustic attacks. The surface of the armor is slick to the touch, indicating the special magical and alchemical treatments applied during its manufacture.
+
+Prerequisite: Only metal armors can have this special ability.
+
+Activation: The effects of durable armor automatically come into effect when needed. No action on the wearer’s part is required.
+
+Effect: Durable armor has immunity to special attacks that would cause it to dissolve or rust, including the effects of rusting grasp (PH 273) and the touch of black puddings, gray oozes, and rust monsters. Durable armor takes no damage from green slime or from acid, though it does not extend this protection to the wearer.
+
+ Aura/Caster Level: Moderate abjuration; CL 7th.
+Construction: Craft Magic Arms and Armor, protection from energy.
+Price: 500 gp.

@@ -1,0 +1,41 @@
+Int trained
+
+Available knowledge,
+	Arcane
+	Architecture and engineering
+	Dungeoneering
+	Geography
+	History
+	Local
+	Nature
+	Nobility
+	Religion
+	The planes
+	Hearth wisdom
+	Literature
+	Mathematics
+	Politics
+	Streetwise
+	War
+	Knowledge (the planes)
+	Knowledge (religion)
+	Knowledge (undead)
+	Knowledge (war)
+
+-------------------------------------------
+General knowledge:
+
+DC 10		Easy question
+DC 15		Basic
+DC 20/30 	Hard question
+
+
+-------------------------------------------
+Detect vulnerability:
+
+10 + Monster HD = 1 piece of info, 
+For each 5 over the DC = +1 Piece of info.
+
+Action: Usually none. 
+
+Try Again: No. 

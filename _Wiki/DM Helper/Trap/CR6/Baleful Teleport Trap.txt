@@ -1,0 +1,8 @@
+CR 6; 
+psionic; 
+proximity trigger (touchsight); 
+automatic reset; 
+psionic effect (baleful teleport, 9th-level psion, 9d6 points of damage, Fortitude DC 17 half); 
+Search DC 30; 
+Disable Device DC 30. 
+Cost: 33,500 gp, 2,680 XP.

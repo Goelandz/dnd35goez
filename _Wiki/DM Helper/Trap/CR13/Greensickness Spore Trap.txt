@@ -1,0 +1,11 @@
+CR 13; 
+mechanical; 
+location trigger; 
+repair reset; 
+gas; 
+never miss; 
+onset delay (1 round); 
+poison (greensickness, Fort DC 33 resists, 2d6 Str + 1d4 Con/2d6 Str + 1d4 Con); multiple targets (all in 10-ft.-by-10-ft. room); 
+Search DC 28; 
+Disable Device DC 28. 
+Market Price: 69,000 gp.

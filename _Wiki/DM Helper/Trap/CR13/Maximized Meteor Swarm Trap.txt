@@ -1,0 +1,10 @@
+CR 13; 
+magic; 
+visual trigger (true seeing); 
+automatic reset; 
+Atk +12/+12/+12/+12 ranged touch; spell effect (maximized meteor swarm, 24th-level wizard, 12 points of bludgeoning damage and 36 points of fire damage per hit, 36 points of fire damage to all creatures within 40 ft. of each hit [Reflex DC 28 half]); 
+Search DC 37; 
+Disable Device DC 37. 
+Cost: 166,500 gp, 13,320 XP.
+
+

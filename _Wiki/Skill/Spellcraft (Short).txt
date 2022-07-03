@@ -1,0 +1,15 @@
+Int trained
+
+DC	Task 
+13 	Read magic, identify glyph. No action. 
+15+SL  	Identify a spell cast. No  action required. No retry. 
+15+SL 	Learn spell from spellbook/scroll (wiz only). No retry until level. Req 8 hrs. 
+15+SL 	Prep spell from borrow spellbook (wiz only). 1 try/day. 
+15+SL 	Detect Magic: School, aura single item or creature. No action req. 
+19 	Read magic, identify symbol. No action req. 
+20+SL 	Identify spell in effect. No action req. No retry. 
+20+SL 	Know if material result from spell. No action req. No retry. 
+20+SL	Decipher written spell without using read magic. 1 try/day. Req full-round action. 
+25+SL 	After save, know what spell target you. No action req. No retry. 
+25 	Identify potion. Req 1min. No retry. 
+20 	Draw diagram for dimensional anchor on magic circle. Req 10min. No retry. 

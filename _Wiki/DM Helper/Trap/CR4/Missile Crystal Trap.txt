@@ -1,0 +1,16 @@
+Description This triangular chamber has only one entrance. In each corner of the room sits a faintly glowing blue crystal. The center of the room contains a crystal chest (attached to the floor) that holds a great treasure. When the PCs enter the room, the trap activates, and the three corner crystals begin to fire magic missiles at all creatures in the room (one missile per crystal per target). Until all three crystals are destroyed, each creature is targeted each round. After the trap’s duration expires, it takes 1 minute to recharge. If the crystal chest is destroyed, the trap stops functioning. The chest is secured with two locks and can be opened with two successful DC 25 Open Lock checks.
+
+Search DC 19; 
+Type Magical
+Trigger Detection (alarm); 
+Init +2
+Effect One magic missile (automatically hits, 1d4+1 points of damage, CL 5th) per crystal per creature
+Duration 7 rounds
+Destruction AC 14; 
+hp 10; hardness 5 (each corner crystal)
+Destruction AC 16; 
+hp 18; hardness 5 (crystal chest)
+Disarm Disable Device DC 26 (each corner crystal)
+Dispel DC 16 (each corner crystal)
+
+

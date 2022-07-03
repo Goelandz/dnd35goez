@@ -1,0 +1,3 @@
+The finest grappling ladders are made of silk rope and fashioned with two tiny mithral hooks. They function as standard grappling ladders but are easier to seat; the Use Rope check is made at a DC equal to 13 + 2 per 10 feet thrown. The standard +2 circumstance bonus on Use Rope checks for silk rope does not apply.
+
+ The price and weight in Table 2–1 is for a 10-foot ladder, but longer ladders are commonly available. For each additional 10 feet of the ladder, add 150 gp to the cost and 3 pounds to the listed weight.

@@ -1,0 +1,11 @@
+Any armor with this special ability protects its wearer from the hundreds of bites or stings that result from being overrun by a swarm of creatures.
+
+Description: Swarmguard armor is precisely crafted with a bare minimum of gaps between pieces. Delicate script is engraved around each seam that is absolutely necessary, warding it against intrusion by the tiniest of vermin. When exposed to a swarm attack, the script glows bright red, blocking creatures that try to penetrate the armor’s defenses.
+
+Activation: The swarmguard ability activates automatically when a creature of the swarm subtype enters your space. No action on your part is required.
+
+Effect: You gain damage reduction 5/— to the swarm attack ability of any creature of the swarm subtype. You gain a bonus on Fortitude saving throws and on Concentration checks to resist a swarm’s distraction ability (MM316). This bonus is equal to the armor bonus of the armor you are wearing.
+
+ Aura/Caster Level: Moderate abjuration; CL 7th.
+Construction: Craft Magic Arms and Armor, repel vermin.
+Price: +1 bonus.

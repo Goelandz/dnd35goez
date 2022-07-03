@@ -1,0 +1,13 @@
+This deadly trap combines two powerful spell effects to destroy intruders. In the center of a 30-foot-square chamber of polished black stone is a skull made of pure diamond. The trap activates when anyone approaches to within 5 feet of the skull. When that occurs, the skull glows with an unholy light, and anyone who makes contact with the skull (including with a melee weapon) begins to caper and dance. Green rays shoot from the skull’s eye sockets, draining the life from random targets. A door on the opposite side of the room can be opened only after the trap is disarmed or destroyed.
+
+Search DC 35; 
+Type Magical
+Trigger Detection (true seeing); 
+Init +10
+Effect Otto’s irresistible dance (subject does nothing but dance for 1d4+1 rounds, no save, CL 17th; see PH 259); this spell affects anyone who contacts the skull in any way; the dancing does not begin until the action is resolved, but additional attacks made from a full attack action are lost
+Effect Energy drain (+20 ranged touch, 2d4 negative levels, DC Fortitude 23 removes one level after 24 hours, CL 17th); two rays per round at random targets
+Duration 23 rounds
+Destruction AC 40; hp 90; hardness 10 (skull)
+Disarm Disable Device DC 34 (skull)
+Dispel DC 28 (whole trap); if successful, the trap shuts down for 1d4 rounds
+

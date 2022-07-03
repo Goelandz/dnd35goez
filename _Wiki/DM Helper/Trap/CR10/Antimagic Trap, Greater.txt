@@ -1,0 +1,8 @@
+CR 10; 
+magic; 
+visual trigger (true seeing); 
+automatic reset; 
+spell effect (widened antimagic field, 17th-level wizard, 20-ft.-radius antimagic emanation for 170 minutes); 
+Search DC 34; 
+Disable Device DC 34. 
+Cost: 127,500 gp, 5,100 XP

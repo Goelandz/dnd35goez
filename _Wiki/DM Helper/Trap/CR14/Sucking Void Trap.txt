@@ -1,0 +1,11 @@
+CR 14; 
+magic; 
+visual trigger (true seeing); 
+ethereal (ethereal jaunt); 
+automatic reset; 
+spell effect (greater dispel magic, 17th-level cleric, targeted dispel, dispel check +17), spell effect (energy drain, 17th-level cleric, bestows 2d4 negative levels); spell effect (implosion, 17th-level cleric, death, Fort DC 23 negates); 
+Search DC 34; 
+Disable Device DC 34. 
+Cost: 272,000 gp, 21,760 XP
+
+

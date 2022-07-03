@@ -1,0 +1,13 @@
+Int
+
+-------------------------------------------
+Detect secret: within 10ft 
+
+Search DC
+10	Find specific item in chest
+20	Typical secret door/trap
+21+	Difficult nonmagical trap (Rogue)
+25+SL	Magical trap (Rogue)
+30	Well-hidden door 
+
+Action: Full-round by 5ft square

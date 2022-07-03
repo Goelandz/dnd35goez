@@ -1,0 +1,8 @@
+CR 6; 
+psionic; 
+thought trigger (read thoughts, DC 13); 
+automatic reset; 
+psionic effect (psychic crush, 9th-level psion, target drops to –1 hit points, Will DC 16 (made at +4) partial (target takes 3d6 points of mind-affecting damage); 
+Search DC 30; 
+Disable Device DC 30. 
+Cost: 28,500 gp, 2,280 XP.

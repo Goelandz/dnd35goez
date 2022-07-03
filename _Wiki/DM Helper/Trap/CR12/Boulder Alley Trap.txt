@@ -1,0 +1,14 @@
+In this 60-foot-by-30-foot chamber, six deep grooves in the floor stretch from wall to wall, filling the entire room. Alcoves on both sides of the room hold large boulders. A pressure plate just inside the door activates the trap, causing each boulder to tumble out of its alcove and roll along its groove until it comes to rest in the alcove in the opposite wall. A boulder travels the full 60-foot length of the room in a single round. Roll 1d6 each round to determine which groove releases its boulder. Creatures in the path of that boulder are subject to bludgeoning damage if they fail a save. In addition, all creatures in the room are targeted by hold monster spells each round.
+
+Search DC 27; 
+Type Magical and mechanical
+Trigger Location; 
+Init +6
+Effect: Rolling boulder (10d6 points of bludgeoning damage, DC 22 Refl ex negates), and Effect Hold monster (duration 9 rounds, DC 17 Will save each 
+round negates) on targets not already held; the effect emanates from glyphs in the center of each groove; dispelling or destroying a glyph eliminates this effect in its groove
+Duration 15 rounds
+Destruction AC 22; hp 30; hardness 8 (each boulder)
+Destruction AC 22; hp 30 (each glyph)
+Disarm Disable Device DC 27 (each boulder)
+Disarm Disable Device DC 30 (each glyph)
+Dispel DC 20 (each glyph)

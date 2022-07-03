@@ -1,0 +1,12 @@
+This simple trap is often built by goblins and kobolds to protect their tunnels. A series of camoufl aged holes in the ceiling of a 40-foot stretch of a 5-foot-wide corridor conceal spears attached to unevenly weighted wheels. The corridor ends in a locked door with a poorly maintained lock (Open Lock DC 20). When the trap is triggered by a trip cord near the door, the wheels roll, and the spears begin thrusting downward into the corridor. After a few rounds, the wheels come to a stop on their own, and the trap stops working. Kobolds usually wait until this trap is sprung to emerge from hiding places and shoot arrows into the trap area. The trap needs to be reset manually by its owners.
+
+Search DC 16; 
+Type Mechanical
+Trigger Location; 
+Init +0
+Effect: One Small shortspear (Atk +3, 1d4 points of piercing damage) per square per round
+Duration 4 rounds
+Destruction AC 11; 
+hp 5; 
+hardness 5 (each shortspear)
+Disarm Disable Device DC 16 (each shortspear)

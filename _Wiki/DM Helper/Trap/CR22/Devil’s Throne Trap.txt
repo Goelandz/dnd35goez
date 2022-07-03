@@ -1,0 +1,16 @@
+Description This powerful trap is built into a large and elaborately carved throne room with a diabolic motif. Relief sculptures of stone wings, six extended claws, and a coiled tail reach out from a throne centered on the far wall. When the trap is triggered, each stone limb ignites with magical fire and attacks. Meanwhile, the throne uses magic to hold foes in place so that the fiendish limbs can crush them. 
+
+Destroying the throne deactivates the entire trap. This trap is usually found as part of the seat of power of a pit fiend or other mighty devil (encountering the trap and a pit fiend together raises the CR to 23).
+
+Search DC 37; 
+Type Magical
+Trigger Detection (true seeing); 
+Init +11
+Effect Crushing limbs (Atk +20 melee, 10d6 points of bludgeoning damage + 6d6 points of fi re damage; half of the fire damage is profane and not reduced by resistance to fi rebased attacks); nine random targets per round; if fewer than nine targets are available, the trap attacks some targets with multiple limbs
+Effect Mass hold monster (paralysis, DC 25 Will negates, CL 17th), targets all creatures in the room that are not devils
+Duration 25 rounds
+Destruction AC 32; hp 55; hardness 11 (each stone limb)
+Destruction AC 43; hp 99; hardness 11 (throne)
+Disarm Disable Device DC 37 (each stone limb)
+Disarm Disable Device DC 34 (throne)
+Dispel DC 28 (throne); if successful, the trap shuts down for 1d4 rounds

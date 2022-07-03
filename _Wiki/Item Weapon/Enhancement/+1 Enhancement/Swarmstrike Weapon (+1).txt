@@ -1,0 +1,12 @@
+Standard weapons are not terribly effective at dealing with insect swarms, but a weapon that has the swarmstrike special ability is much more capable of killing 
+the pests.
+
+Description: A swarmstrike weapon is slightly flexible so that you can swing it quickly enough to swat the insects that make up most swarms. Arrows or bolts that have this special ability are crafted with a wide, flat head that resembles a shovel. The ammunition splatters bugs on its leading edge as it passes through the swarm’s space.
+
+Activation: The swarmstrike ability activates automatically when you attack a creature of the swarm subtype. No other action on your part is required.
+
+Effect: When used to attack creatures of the swarm subtype, the weapon’s enhancement bonus increases by 2. Further, a swarmstrike weapon deals lethal damage against a creature of the swarm subtype, regardless of the size of the component creatures or the type of damage dealt by the weapon.
+
+ Aura/Caster Level: Moderate abjuration; CL 7th.
+Construction: Craft Magic Arms and Armor, repel vermin.
+Price: +1 bonus.

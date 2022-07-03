@@ -1,0 +1,11 @@
+This trap combines a deep pit full of spikes with a greater dispel magic effect. The room is 40 feet wide and 60 feet across. A 40-foot-square pit sits in the center of the room, leaving a 10-foot wide ledge on either side. The pit is 60 feet deep, and its walls are very smooth (successful DC 25 Climb check to scale). The exit door sits on the opposite side of the room, across the pit. Mounted in the ceiling is a large brooding stone face. Anyone who enters the space of the pit, whether fl ying, climbing, or jumping, triggers the trap and is subjected to a greater dispel magic cast from the stone face. If the stone face is targeted by a spell, it uses the same greater dispel magic to attempt to counter the spell (CL 13th).
+
+Search DC 27; 
+Type Magical
+Trigger Detection (true seeing); 
+Init +6
+Effect Greater dispel magic (cast at each target in the area of the pit, CL 13th); anyone falling in the pit takes 6d6 points of falling damage
+Duration 15 rounds
+Destruction AC 28; hp 54; hardness 8 (stone face)
+Disarm Disable Device DC 31 (stone face)
+Dispel DC 24 (stone face)

@@ -1,0 +1,1 @@
+A mithral grappling hook is lighter than a standard hook but just as strong, and it can be thrown farther. If the hook is attached to a silk rope (not a hempen one), any Use Rope check to seat the hook is made at a DC equal to 10 + 1 per 20 feet thrown, to a maximum DC of 20 for a hook thrown 200 feet.

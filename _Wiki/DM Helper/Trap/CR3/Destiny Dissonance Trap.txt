@@ -1,0 +1,8 @@
+CR 3; 
+psionic; 
+touch trigger (synesthete); 
+automatic reset; 
+psionic effect (extended destiny dissonance, 3rd-level psion, sickened for 6 rounds, no save); 
+Search DC 27; 
+Disable Device DC 27. 
+Cost: 3,750 gp, 180 XP.

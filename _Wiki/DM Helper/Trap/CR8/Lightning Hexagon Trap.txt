@@ -1,0 +1,10 @@
+Search DC 23; 
+Type Magic
+Trigger Detection (alarm); 
+Init +4
+Effect Lightning bolt (8d6 points of damage, Reflex DC 14 half) shoots between three pillars
+Duration 11 rounds
+Destruction AC 18; hp 20; hardness 8 (each pillar)
+Disarm Disable Device DC 28 (each pillar)
+Dispel DC 19 (each pillar)
+

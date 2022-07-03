@@ -1,0 +1,8 @@
+CR 17; 
+mechanical; 
+touch trigger; 
+manual reset; 
+Atk +48 melee (1 plus poison, needle); poison (pit fiend venom, Fort DC 27 resists, 1d6 Con/death); 
+Search DC 39; 
+Disable Device DC 32. 
+Market Price: 278,200 gp.

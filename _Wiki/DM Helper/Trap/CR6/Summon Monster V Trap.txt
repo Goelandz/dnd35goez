@@ -1,0 +1,9 @@
+CR 6; 
+magic; 
+proximity trigger (alarm); 
+automatic reset; 
+magic effect (summon monster V, 9th-level wizard, fiendish dire wolverine)
+magic effect (arcane mark, 1st-level wizard, inscribes rune on summoned monster); 
+Search DC 30; 
+Disable Device DC 30. 
+Cost: 4,700 gp, 1,820 XP

@@ -1,0 +1,13 @@
+It can be difficult to ward off creatures that have the ability to float through dungeon walls. A quick coat of ghostwall shellac will keep pesky spirits from drifting in and out of your campsite all night.
+
+ Description: Concentrated ghostwall shellac is a thick green sludge that is always warm to the touch. It is usually stored in metal vials and mixed with water when needed. Prepared shellac is lime green and runny, and it smells like dead flesh.
+
+ Activation: Ghostwall shellac must be mixed with 1 gallon of water to become active. The mixture is then spread over any nonliving surface, most commonly the walls of a room. Coating a 10-foot square with prepared shellac takes 1 minute, and 1 gallon of the green liquid covers 10 such squares. Whether it is applied to a surface or left in a container, the shellac dries and hardens 1 hour after being mixed with water.
+
+ Effect: When ghostwall shellac dries, it changes the composition of the surface upon which it has been spread. Incorporeal creatures can no longer pass through a coated wall any more than normal creatures can. The shellac also causes the wall to simultaneously exist on the Ethereal Plane for a limited time, so creatures on that plane cannot see through or pass through the space it occupies. When applying ghostwall shellac to the walls of a room, remember to coat the fl oor and ceiling as well, lest unwanted spirits merely enter through those surfaces instead.
+
+ Ghostwall shellac lasts for 4d6 hours once applied.
+
+ Construction: DC 30 Craft (alchemy) check, 50 gp.
+ Weight: 1 lb.
+ Price: 150 gp

@@ -1,0 +1,12 @@
+At the center of this 35-foot-square room is a tall pillar. Six thin slots in the fl oor (spaced 5 feet apart) run the length of the room, and six more run the width, forming a grid. Entering the room triggers the trap, causing the doors to slam shut. Each round, three greatswords rise up out of one set of slots, and three more rise up out of the other set of slots (determined randomly). All six greatswords rush across the room, retracting when they reach the opposite wall. It is possible for a target to be attacked by two blades in a single round. The entire trap can be disarmed at the central pillar.
+
+Search DC 19; 
+Type Mechanical
+Trigger Detection (alarm); 
+Init +2
+Effect: One or two greatswords (Atk +4, 2d6 points of damage) per target per round
+Duration 7 rounds
+Destruction AC 14; hp 10; 
+hardness 10 (each greatsword)
+Disarm Disable Device DC 19 (each greatsword)
+Disarm Disable Device DC 23 (entire trap)

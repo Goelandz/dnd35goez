@@ -1,0 +1,17 @@
+Wis
+
+DC 	Task 
+10 	Get Food/Water, for each +2, an extra person.
+15 	+2 Fort vs Weather while move, +4 if not move. Share bonus 1p/person > 15 survival.
+15 	Prevent lost/hazard
+15 	Predict weather 24h. Each 5 surv > 15 +1 Day.
+Varies 	Follow tracks (see the Track feat).
+
+Action: Full-rounds
+
+Try Again: Varies. 
+
+-------------------------------------------
+Trailblazing: If diff terrain or bad condition, >14 reduce penalty by 25% to move speed.
+
+Limit, 4 people. +2 DC / 3 people >4.

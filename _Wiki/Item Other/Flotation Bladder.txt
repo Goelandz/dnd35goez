@@ -1,0 +1,3 @@
+This item, used to aid in swimming, consists of two sealed, oiled leather sacks attached with a piece of rope. Each sack can be infl ated by blowing air into it through a small metal valve as a full-round action. 
+
+Once inflated and placed under the arms, a flotation bladder grants a +4 bonus on Swim checks to rise to the surface or remain at the surface. The bladder also imposes a –4 penalty on Swim checks to descend deeper into the water. Additional bladders do not grant further bonuses on Swim checks, but the penalties stack.

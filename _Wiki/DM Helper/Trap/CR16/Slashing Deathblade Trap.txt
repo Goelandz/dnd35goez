@@ -1,0 +1,8 @@
+CR 16; 
+mechanical; 
+location trigger; 
+automatic reset; 
+Atk +35/+30/+25/+20 melee (2d4+9 plus poison, +1 adamantine scythe); poison (deathblade, Fort DC 20 resists, 1d6 Con/2d6 Con, one dose per triggering);
+Search DC 38; 
+Disable Device DC 29. 
+Market Price: 245,600 gp.

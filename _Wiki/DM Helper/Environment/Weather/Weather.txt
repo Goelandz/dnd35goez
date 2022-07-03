@@ -1,0 +1,6 @@
+d% 	Weather 		Cold Climate 					Temperate Climate1 				Desert
+01–70 	Normal weather 		Cold, calm 					Normal for season2 				Hot, calm
+71–80 	Abnormal weather 	Heat wave (01–30) or cold snap (31–100) 	Heat wave (01–50) or cold snap (51–100) 	Hot, windy
+81–90 	Inclement weather 	Precipitation (snow) 				Precipitation (normal for season) 		Hot, windy
+91–99 	Storm 			Snowstorm 					Thunderstorm, 					snowstorm Duststorm
+100 	Powerful storm 		Blizzard 					Windstorm, blizzard, hurricane, tornado 	Downpour

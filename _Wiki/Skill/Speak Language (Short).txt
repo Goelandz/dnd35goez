@@ -1,0 +1,13 @@
+None Trained
+
+List of available language:
+	Infernal
+	Elven
+	Draconic
+	Celestical
+	Common
+	Draconic
+	Druidic
+	Dwarven
+
+You don’t make Speak Language checks. You either know a language or you don’t. 

@@ -1,0 +1,25 @@
+Cha
+
+Masterwork instrument +2 Perform
+
+Perform,
+	Act
+	Comedy
+	Dance
+	Keyboard Instrument
+	Oratory
+	Percussion instrument
+	String instrument
+	Wind instrument
+	Sing
+
+DC 	Perform 		
+10 	1D10 cp/day.
+15 	1d10 sp/day. 
+20 	3d10 sp/day. 
+25 	1d6 gp/day.
+30 	3d6 gp/day. 
+
+Action: Varies. Long.
+
+Try Again: Yes. But +2 DC each faillure
